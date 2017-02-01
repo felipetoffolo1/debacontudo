@@ -42,7 +42,7 @@ p a {
 }
 h1 {
 	font-family: 'Libre Baskerville', serif;
-	font-weight: 700; 
+	font-weight: 700;
 }
 .center {
 	text-align: center;
@@ -81,11 +81,11 @@ h1.brand-title {
 	font-family: 'Libre Baskerville', serif;
 	font-weight: 400;
 	padding-top: 1rem;
-	font-size: 3rem;
+	font-size: 2.3rem;
 	margin-bottom: 0.25rem;
 }
 h2.brand-tagline {
-	font-size: 1.4rem;
+	font-size: 1.3rem;
 	margin-top: 0.25rem;
 }
 .sidebar h1.brand-title {
@@ -460,8 +460,8 @@ hr.thin {
 	}
 
 	.header>.sidebarphoto{
-	    width:160px;
-	    height:160px;
+	    width:140px;
+	    height:140px;
 	    border-radius: 50%;
 	    -moz-border-radius: 50%;
 	    -webkit-border-radius: 50%;

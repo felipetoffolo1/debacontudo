@@ -6,8 +6,8 @@ DefaultContentLanguage = "pt"
   category = "categories"
   tag = "tags"
 [params]
-	sidebartitle = "Eh a vida"
-	sidebartagline = "É bonita e é bonita"
+	sidebartitle = "De Bacon Tudo"
+	sidebartagline = "Porque tudo é bom, especialmente com Bacon"
 	sidebarphoto = "/img/logo.png"
 [[menu.main]]
     name = "Viagens"
