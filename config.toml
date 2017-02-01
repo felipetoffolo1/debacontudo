@@ -1,0 +1,17 @@
+title = "De Bacon Tudo"
+baseurl = "http://example.org/"
+languageCode = "pt"
+DefaultContentLanguage = "pt"
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+[params]
+	sidebartitle = "Eh a vida"
+	sidebartagline = "É bonita e é bonita"
+	sidebarphoto = "/img/logo.png"
+[[menu.main]]
+    name = "Viagens"
+    url = "/viagem"
+[[menu.main]]
+    name = "Cozinhando"
+    url = "/cozinhando"
