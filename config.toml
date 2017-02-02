@@ -1,5 +1,5 @@
 title = "De Bacon Tudo"
-baseurl = "debacontudo.com"
+baseurl = "http://debacontudo.com"
 languageCode = "pt"
 DefaultContentLanguage = "pt"
 [taxonomies]
