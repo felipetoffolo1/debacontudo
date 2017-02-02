@@ -8,7 +8,7 @@
 
 	<div id="layout" class="pure-g">
     {{ partial "sidebar.html" . }}
-	
+
 	{{ if .Params.banner }}
 	<div class="content-banner-image pure-u-1 pure-u-md-3-4" style="{{ if .Params.bannerheight }}height: {{ .Params.bannerheight }}px;{{ end }}">
 		<img src="{{ .Params.banner }}" class="pure-img" style="{{ if .Params.bannerfill }}width: 100%;{{ end }}" />
@@ -41,7 +41,7 @@
             	{{ end }}
             {{ if not .Params.noauthor }}
             	{{ if .Params.author }}
-            		<span class="post-author-single">By <a class="post-author" {{ if .Params.authorlink }}href="{{ .Params.authorlink }}"{{ end }} target="{{ .Params.authorlinktarget }}">{{ .Params.author }}</a></span>
+            		<span class="post-author-single">Por <a class="post-author" {{ if .Params.authorlink }}href="{{ .Params.authorlink }}"{{ end }} target="{{ .Params.authorlinktarget }}">{{ .Params.author }}</a></span>
             		{{ partial "authorsocial.html" . }}
             	{{ end }}
             {{ end }}
@@ -66,7 +66,7 @@
 			{{ end }}
 
             {{ .Content }}
-	
+
 			{{ if .Params.socialsharing }}
 		    	{{ partial "socialsharing.html" . }}
 		    {{ end }}
@@ -102,7 +102,7 @@
           {{ if not .Params.nocomment }}
           	{{ template "_internal/disqus.html" . }}
           {{ end }}
-        
+
       {{ partial "footer.html" . }}
     </div>
   </div>

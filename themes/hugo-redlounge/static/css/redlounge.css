@@ -68,6 +68,18 @@ h1 {
     max-width: 100%;
     height: auto;
 }
+.pure-img-around-right img{
+    max-width: 50%;
+    height: auto;
+    float: right;
+    margin: 0 0 10px 10px;
+}
+.pure-img-around-left img{
+    max-width: 50%;
+    height: auto;
+    float: left;
+    margin: 10px 10px 0 0;
+}
 #layout {
     padding: 0;
 }
