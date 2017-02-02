@@ -5,7 +5,6 @@ draft = false
 tags = ["viagens","california","usa"]
 author = "Felipe Toffolo"
 banner = "/img/los-angeles/banner.jpg"
-bannerheight = "500"
 +++
 <!-- bannerinline = "/img/los-angeles/ok8.jpg" -->
 
