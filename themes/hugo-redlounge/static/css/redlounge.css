@@ -64,6 +64,10 @@ h1 {
     max-width: 100%;
     height: auto;
 }
+.pure-img-responsive img{
+    max-width: 100%;
+    height: auto;
+}
 #layout {
     padding: 0;
 }
