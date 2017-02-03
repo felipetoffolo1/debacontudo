@@ -1,12 +1,10 @@
 +++
-date = "2017-01-31T22:03:57-02:00"
 title = "Los Angeles"
 draft = false
 tags = ["viagens","california","usa"]
 author = "Felipe Toffolo"
 banner = "/img/los-angeles/banner.jpg"
 +++
-<!-- bannerinline = "/img/los-angeles/ok8.jpg" -->
 
 ## A cidade onde os sonhos são feitos
 Lorem ipsum dolor sit amet, et iusto deseruisse pri. Assum omnium ex usu, ei alii ferri sonet sed, dicat constituam his in. Facete fastidii copiosae sed ea, ut mucius labore putant duo. An vis quas laoreet.

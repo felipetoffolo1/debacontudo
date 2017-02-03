@@ -10,15 +10,32 @@ tag = "tags"
 [params]
 sidebartitle = "De Bacon Tudo"
 sidebartagline = "Porque tudo é bom, especialmente com Bacon"
-sidebarphoto = "/img/logo.png"
+sidebarphoto = "/img/logo2.png"
 gaid = "UA-91331327-1"
 [[menu.main]]
 name = "Viagens"
 url = "/viagem"
 [[menu.main]]
-name = "Cozinhando"
-url = "/cozinhando"
+name = "Comidas"
+url = "/comida"
+[[menu.main]]
+name = "Estilo de Vida"
+url = "/estilo-de-vida"
+[[menu.main]]
+name = "Pop Culture"
+url = "/pop-culture"
+[[menu.main]]
+name = "Quem Somos"
+url = "/quem-somos/quem-somos/"
 [[menu.social]]
 pre = "<i class='fa fa-twitter'></i>"
 url = "http://www.twitter.com/shift8creative"
 identifier = "twitter"
+[[menu.social]]
+pre = "<i class='fa fa-instagram'></i>"
+url = "http://www.instagram.com/blogdebacontudo"
+identifier = "instagram"
+[[menu.social]]
+pre = "<i class='fa fa-facebook'></i>"
+url = "http://www.facebook.com/debacontudo"
+identifier = "facebook"
