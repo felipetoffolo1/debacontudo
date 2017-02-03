@@ -8,7 +8,6 @@ tags = []
 categories = []
 draft = true
 +++
-# Quem somos
 ## Felipe Toffolo
 {{% figure src="/img/quem-somos/felipe-toffolo.png" alt="Felipe Toffolo" class="pure-img-around-right" %}}
 

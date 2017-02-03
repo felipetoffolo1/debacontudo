@@ -14,16 +14,16 @@ sidebarphoto = "/img/logo2.png"
 gaid = "UA-91331327-1"
 [[menu.main]]
 name = "Viagens"
-url = "/viagem"
+url = "/categories/viagem"
 [[menu.main]]
 name = "Comidas"
-url = "/comida"
+url = "/categories/comida"
 [[menu.main]]
 name = "Estilo de Vida"
-url = "/estilo-de-vida"
+url = "/categories/estilo-de-vida"
 [[menu.main]]
 name = "Pop Culture"
-url = "/pop-culture"
+url = "/categories/pop-culture"
 [[menu.main]]
 name = "Quem Somos"
 url = "/quem-somos/quem-somos/"
