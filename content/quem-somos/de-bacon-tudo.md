@@ -1,11 +1,13 @@
 +++
-tags = ["outros"]
-categories = ["Quem Somos"]
-banner = ""
 date = "2017-02-02T13:47:53-02:00"
 title = "De Bacon Tudo"
 author = "Felipe Toffolo"
+description = "Saiba mais sobre o que será o blog De Bacon Tudo"
 draft = true
+banner = ""
+tags = ["outros"]
+categories = ["Quem Somos"]
+keywords = ["blog","variedades","viagens","seriados","receitas","gourmet"]
 
 +++
 ## A blog about nothing
