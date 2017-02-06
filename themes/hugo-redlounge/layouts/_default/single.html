@@ -28,9 +28,11 @@
 		    {{ end }}
 	    {{ end }}
   		<section class="post">
+        {{ if not .Params.notitle }}
             <h1 class="post-title">
               <a href="{{ .RelPermalink }}">{{ .Title }}</a>
             </h1>
+            {{ end }}
             <h3 class="post-subtitle">
             	{{ .Params.subtitle }}
             </h3>
