@@ -60,6 +60,9 @@ h1 {
 }
 
 /* Layout */
+.pure-img {
+  margin: auto;
+}
 .pure-img-responsive {
     max-width: 100%;
     height: auto;
