@@ -8,7 +8,7 @@ draft = true
 banner = "/img/2017/02/De Bacon Tudo.png"
 tags = ["outros"]
 categories = ["Quem Somos"]
-keywords = ["blog","variedades","viagens","seriados","receitas","gourmet"]
+keywords = ["blog","variedades","viagens","seriados","receitas","gourmet","pop-culture","cultura pop"]
 
 +++
 ## A blog about nothing

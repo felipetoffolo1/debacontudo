@@ -15,18 +15,23 @@ gaid = "UA-91331327-1"
 [[menu.main]]
 name = "Viagens"
 url = "/categories/viagem"
+weight = 1
 [[menu.main]]
 name = "Comidas"
 url = "/categories/comida"
+weight = 2
 [[menu.main]]
 name = "Estilo de Vida"
 url = "/categories/estilo-de-vida"
+weight = 3
 [[menu.main]]
 name = "Pop Culture"
 url = "/categories/pop-culture"
+weight = 4
 [[menu.main]]
 name = "Quem Somos"
 url = "/quem-somos/quem-somos/"
+weight = 5
 [[menu.social]]
 pre = "<i class='fa fa-twitter'></i>"
 url = "http://www.twitter.com/shift8creative"
