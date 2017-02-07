@@ -6,6 +6,7 @@ author = "Felipe Toffolo"
 description = "Saiba mais sobre o que será o blog De Bacon Tudo"
 banner = "/img/2017/02/De Bacon Tudo.png"
 tags = ["outros"]
+images = ["/img/2017/02/De Bacon Tudo.png"]
 categories = ["Quem Somos"]
 keywords = ["blog","variedades","viagens","seriados","receitas","gourmet","pop-culture","cultura pop"]
 

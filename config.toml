@@ -1,6 +1,7 @@
 title = "De Bacon Tudo"
 baseurl = "http://debacontudo.com.br"
 languageCode = "pt"
+local = "pt_BR"
 DefaultContentLanguage = "pt"
 preserveTaxonomyNames = true
 disqusShortname = "debacontudo-com-br"
