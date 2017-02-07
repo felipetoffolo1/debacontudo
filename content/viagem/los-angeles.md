@@ -1,6 +1,6 @@
 +++
 title = "Los Angeles"
-draft = false
+draft = true
 tags = ["viagens","california","usa"]
 author = "Felipe Toffolo"
 banner = "/img/los-angeles/banner.jpg"

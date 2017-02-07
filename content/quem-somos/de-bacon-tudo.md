@@ -1,5 +1,5 @@
 +++
-date = "2017-02-02T13:47:53-02:00"
+date = "2017-02-07T13:47:53-02:00"
 title = "De Bacon Tudo"
 notitle = true
 author = "Felipe Toffolo"

@@ -20,8 +20,8 @@ Bem, talvez o problema é que a gente gosta das coisas erradas. Pelo menos isso 
 
 O Whole 30 é um programa, ou dieta, ou filosofia (eu ainda não sei do que chamar), que te propõe um ~desafio~ de 30 dias onde você deve seguir as regras do programa. Essa regras trazem uma série de limitações alimentares (veja o infográfico) que você deve seguir durante 30 dias. A ideia é que, cortando esses alimentos durante 30 dias, você consiga reiniciar o seu corpo e a sua alimentação.
 Ou seja, não é somente emagrecer, mas ensinar o seu corpo e mente a gostarem das coisas certas e ao menos tentar esquecer as erradas. A partir dessa mudança de hábitos, o Whole 30 promete resolver vários problemas da sua saúde que podem estar sendo causados pela sua alimentação e você nem sabe. Ou seja, teoricamente você diviria sua vida entre 'antes do Whole30' e 'depois do Whole30'.
+{{% figure src="/img/2017/02/Whole30-info.png" alt="Infográfico regras do whole30" class="pure-img-responsive pure-img-infographic" %}}
 [Conheça mais do Whole30 aqui][eea85add]
-
 
 ## A nossa experiência
 
@@ -42,7 +42,7 @@ A gente gosta muito de se encontrar com os amigos, tomar um vinhozinho, comer um
 
 O que a gente percebeu:
 
-- Olhando no espelho já dava para ver que o nosso corpo deu uma boa secada e as nossas calças ficaram folgadas. 
+- Olhando no espelho já dava para ver que o nosso corpo deu uma boa secada e as nossas calças ficaram folgadas.
 
 - A nossa disposição melhorou muito. Eu tenho mais energia para usar durante o dia, não fico mais de bode depois do almoço e a noite durmo super bem.
 
