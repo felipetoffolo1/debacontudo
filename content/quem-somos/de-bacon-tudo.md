@@ -4,7 +4,6 @@ title = "De Bacon Tudo"
 notitle = true
 author = "Felipe Toffolo"
 description = "Saiba mais sobre o que será o blog De Bacon Tudo"
-draft = true
 banner = "/img/2017/02/De Bacon Tudo.png"
 tags = ["outros"]
 categories = ["Quem Somos"]

@@ -1,12 +1,11 @@
 +++
 title = "Quem Somos"
 slug= ""
-date = "2017-02-02T22:47:29"
+date = "2017-02-07T22:47:29"
 nodate="true"
 banner = ""
 tags = []
 categories = []
-draft = true
 +++
 ## Felipe Toffolo
 {{% figure src="/img/quem-somos/felipe-toffolo.png" alt="Felipe Toffolo" class="pure-img-around-right" %}}
