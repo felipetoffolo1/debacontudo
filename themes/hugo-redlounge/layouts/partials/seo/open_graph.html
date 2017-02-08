@@ -28,7 +28,8 @@
 {{ range $page := first 6 $series.Pages }}
 {{ if ne $page.Permalink $permalink }}<meta property="og:see_also" content="{{ $page.Permalink }}" />{{ end }}
 {{ end }}
-{{ end }}{{ end }}
+{{ end }}
+{{ end }}
 
 {{ if and  (isset .Site.Params "authors") (isset .Params "author") }}
 <!-- Article Specific Open Graph Markup -->
