@@ -18,14 +18,14 @@ Bem, talvez o problema é que a gente gosta das coisas erradas. Pelo menos isso 
 
 ## Whole who?
 
-O Whole 30 é um programa, ou dieta, ou filosofia (eu ainda não sei do que chamar), que te propõe um ~desafio~ de 30 dias onde você deve seguir as regras do programa. Essa regras trazem uma série de limitações alimentares (veja o infográfico) que você deve seguir durante 30 dias. A ideia é que, cortando esses alimentos durante 30 dias, você consiga reiniciar o seu corpo e a sua alimentação.
-Ou seja, não é somente emagrecer, mas ensinar o seu corpo e mente a gostarem das coisas certas e ao menos tentar esquecer as erradas. A partir dessa mudança de hábitos, o Whole 30 promete resolver vários problemas da sua saúde que podem estar sendo causados pela sua alimentação e você nem sabe. Ou seja, teoricamente você dividiria sua vida entre 'antes do Whole30' e 'depois do Whole30'.
+O Whole 30 é um programa, ou dieta, ou filosofia (eu ainda não sei do que chamar), que te propõe um ~desafio~ de 30 dias onde você deve seguir as regras do programa. Essa regras trazem uma série de limitações alimentares (veja o infográfico) que você deve seguir durante 30 dias. A ideia é que, cortando esses alimentos durante 30 dias, você consiga reiniciar o seu corpo e a sua alimentação. {{% quote-her "Comentário da Larissa bem relevante ao assunto que estamos discutindo nesse momento. Será mesmo? - Larissa" %}} Ou seja, não é somente emagrecer, mas ensinar o seu corpo e mente a gostarem das coisas certas e ao menos tentar esquecer as erradas. A partir dessa mudança de hábitos, o Whole 30 promete resolver vários problemas da sua saúde que podem estar sendo causados pela sua alimentação e você nem sabe.
 {{% figure src="/img/2017/02/Whole30-info.png" alt="Infográfico regras do whole30" class="pure-img-responsive pure-img-infographic" %}}
 [Conheça mais do Whole30 aqui][eea85add]
 
 ## A nossa experiência
 
 A Larissa surgiu com essa história de Whole30. De início eu falei que topava. Mas aí ela me disse que eu ia ter que ficar sem beber, aí eu desisti. Só que ela insistiu e não teve jeito. Resolvemos fazer o Whole30.
+{{% quote-him "Comentário da Felipe bem relevante ao assunto que estamos discutindo nesse momento. Será mesmo?" %}}
 Antes de começar, eu sugiro que você compre o livro ou leia o site **oficial** o máximo que conseguir. Eu já vi vários sites dando informação errada por aí. No site também tem vários PDF's que você pode baixar, bem [aqui][767ac2c2], e ter no seu celular para consultar quando necessário (eu usei MUITO).
 Como está em ingles fiz uma versão da lista de comprar em português, baixe aqui.
 

@@ -522,3 +522,49 @@ hr.thin {
     bottom: 0;
   }
 }
+
+/*quotes*/
+blockquote {
+  margin: -28px 0px 0px 0px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+
+}
+blockquote:before {
+  content: open-quote;
+  font-size: 4em;
+  font-family: serif;
+  line-height: 0.1em;
+  vertical-align: -0.4em;
+}
+blockquote:after {
+  content: close-quote;
+  font-size: 4em;
+  font-family: serif;
+  line-height: 0.1em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+
+}
+/*her*/
+blockquote.her{
+  color: #FF9A96;
+
+}
+blockquote.her p {
+  display: inline;
+  color: #7F4D4B;
+
+}
+/*him*/
+blockquote.him{
+  color: #649DCC;
+
+}
+blockquote.him p {
+  display: inline;
+  color: #608DB2;
+
+}
