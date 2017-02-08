@@ -7,6 +7,9 @@
 {{ with .Params.images }}{{ range first 6 . }}
 <meta property="og:image" content="{{ $BaseURL }}{{ . }}" />
 {{ end }}{{ end }}
+{{ if .IsHome }}
+<meta property="og:image" content="{{ $BaseURL }}{{ .Site.Params.Image }}" />
+{{ end }}
 
 <!-- Optional Open Graph Markup -->
 <meta property="og:updated_time" content="{{ .Date }}"/>

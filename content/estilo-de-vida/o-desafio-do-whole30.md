@@ -31,7 +31,7 @@ Antes de começar, eu sugiro que você compre o livro ou leia o site **oficial**
 
 ### Os Primeiros Dias
 
-Eu poderia dizer que os primeiros dias foram fáceis. A gente tava bem empolgado. Começamos numa segunda-feira, então no domingo saímos para fazer a feira para poder preparar as nossas refeições da semana. Algumas pessoas têm reações durante os primeiros dias como cansaço, dores de barriga, mau humor e dor de cabeça. Eu tive muita dor de cabeça durante três dias, mas depois passou. A justificativa disso é que seu corpo está passando por um processo de desintoxicação e isso impactará em algumas reações.
+Eu poderia dizer que os primeiros dias foram fáceis. A gente estava bem empolgado. Começamos numa segunda-feira, então no domingo saímos para fazer a feira para poder preparar as nossas refeições da semana. Algumas pessoas têm reações durante os primeiros dias como cansaço, dores de barriga, mau humor e dor de cabeça. Eu tive muita dor de cabeça durante três dias, mas depois passou. A justificativa disso é que seu corpo está passando por um processo de desintoxicação e isso impactará em algumas reações.
 Tudo ia muito bem até o primeiro dia que eu passei fome. Tinhamos combinado de ir ao cinema em um shopping pequeno de Brasília e, para a minha supresa, não tinha um lugar que servia algo decente para que eu pudesse comer. Acabei tendo que conversar com o atendente e pedir para fazer algumas substituições no prato.
 
 ### No meio do caminho tinha uma festa
