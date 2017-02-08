@@ -54,7 +54,7 @@ O que a gente percebeu foi:
 - Acho que eu tenho algum tipo de intolerância a alguma coisa, pois minhas funçoes intestinais melhoraram muito.
 
 Então no final ficamos muito felizes com o resultado da dieta, e já estamos mantendo esse padrão de vida.
-Lógico que agora seramos mais maleaveis. Estamos estudando mais sobre a dieta Paleo com o objetivo de adaptar essas ideias encaixando da melhor forma na nossa vida .
+Lógico que agora seramos mais maleaveis (quero meu vinho de volta). Estamos estudando mais sobre a dieta Paleo com o objetivo de adaptar essas ideias encaixando da melhor forma na nossa vida .
 
 ## Dicas Importantes para o Whole30
 
