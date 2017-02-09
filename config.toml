@@ -47,3 +47,7 @@ identifier = "instagram"
 pre = "<i class='fa fa-facebook'></i>"
 url = "http://www.facebook.com/debacontudo"
 identifier = "facebook"
+[[menu.social]]
+pre = "<i class='fa fa-rss'></i>"
+url = "http://debacontudo.com.br/index.xml"
+identifier = "rss"

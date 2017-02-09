@@ -6,7 +6,7 @@
     <image>
       <title>{{ .Site.Title }}</title>
       <link>{{ .Site.BaseURL }}</link>
-      <url>{{ .Site.BaseURL }} {{ .Site.Params.Image }}</url>
+      <url>{{ .Site.BaseURL }}{{ .Site.Params.Image }}</url>
     </image>
     <generator>Hugo -- gohugo.io</generator>{{ with .Site.LanguageCode }}
     <language>{{.}}</language>{{end}}{{ with .Site.Author.email }}
