@@ -42,7 +42,10 @@
   {{ if .Site.Params.categoriescss }}
   <link rel="stylesheet" type="text/css" href="{{ .Site.Params.categoriescss }}">
   {{ end }}
-
+  {{ if .RSSLink }}
+  <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+  <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+  {{ end }}
   {{ template "_internal/google_analytics.html" . }}
 
   {{ partial "headend.html" . }}
