@@ -3,10 +3,10 @@
     {{ partial "sidebarheader.html" . }}
 
 	{{ if .Site.Params.sidebarphoto}}
-	  <img src="{{.Site.Params.sidebarphoto}}" class="sidebarphoto">
+	  <img src="{{.Site.Params.sidebarphoto}}" class="pure-img-responsive" alt="{{ .Site.Params.sidebartitle }}">
 	{{ end }}
 
-    {{ if .Site.Params.sidebartitle }}<h1 class="brand-title">{{ .Site.Params.sidebartitle }}</h1>{{ end }}
+    <!-- {{ if .Site.Params.sidebartitle }}<h1 class="brand-title">{{ .Site.Params.sidebartitle }}</h1>{{ end }} -->
     {{ if .Site.Params.sidebartagline }}<h2 class="brand-tagline">{{ .Site.Params.sidebartagline }}</h2>{{ end }}
 
     <nav class="nav">
