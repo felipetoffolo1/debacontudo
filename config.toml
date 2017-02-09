@@ -37,7 +37,7 @@ url = "/quem-somos/quem-somos/"
 weight = 5
 [[menu.social]]
 pre = "<i class='fa fa-twitter'></i>"
-url = "http://www.twitter.com/shift8creative"
+url = "http://www.twitter.com/debacontudo"
 identifier = "twitter"
 [[menu.social]]
 pre = "<i class='fa fa-instagram'></i>"
