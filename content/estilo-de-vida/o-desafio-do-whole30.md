@@ -1,6 +1,6 @@
 +++
 title = "O Desafio do Whole30 - Onde vive? O que come?"
-date = "2017-02-02T20:46:59"
+date = "2017-02-10T12:46:59"
 author = "Felipe Toffolo"
 banner = "/img/2017/02/Whole30.png"
 tags = ["Dieta","Malhação","Saudável"]
