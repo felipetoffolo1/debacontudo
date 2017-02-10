@@ -399,6 +399,15 @@ a.post-category:hover {
   margin-right: 0.4rem;
   margin-lefT: 0.1rem;
 }
+/*IMDB*/
+.imdb {
+  max-width: 50%;
+  height: auto;
+  float: left;
+  padding: 10px;
+  margin: 10px;
+  border-right: 1px solid #000
+}
 
 /* Paging */
 .paging {
@@ -567,4 +576,7 @@ blockquote.him p {
   display: inline;
   color: #608DB2;
 
+}
+li::before{
+  font-size: 18px;
 }
