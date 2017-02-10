@@ -12,14 +12,14 @@ draft = true
 
 Hoje todos nós (ou quase todos) buscamos ter uma vida mais saudável, sem que tudo pareça sem graça.
 Essa busca normalmente parece meio antagônica, já que perseguindo as duas coisas muitas vezes a gente acaba não encontrando nenhuma.
-Com isso, acabamos vendo pessoas que buscam dietas malucas ou ficam malucas fazendo dietas, contando pontos, ficando três dias tomando somente sopa e por aí vai.
+Vemos pessoas que buscam dietas malucas ou ficam malucas fazendo dietas, contando pontos, ficando três dias tomando somente sopa e por aí vai.
 Nessas horas a gente acaba pensando: por que é tão dificil ser saudável e comer as coisas que eu gosto?
 Bem, talvez o problema é que gostamos das coisas erradas. Pelo menos isso é o que propõe o Whole30.
 
 ## Whole who?
 
-O Whole30 é um programa, ou dieta, ou filosofia (eu ainda não sei do que chamar), que propõe uma mundança de hábitos de 30 dias onde você deve seguir uma série de restrições alimentares (veja o infográfico). A ideia é que, cortando esses alimentos durante esse período, você consiga reiniciar o seu corpo e reprogramar os seus hábitos alimentares de uma forma drástica.
-Ou seja, não é somente emagrecer, mas ensinar o seu corpo e a sua mente a gostarem das coisas certas e ao menos tentar esquecer as erradas. Fazendo com que seu corpo pare de usar o açucar como combustível principal e passe a usar a gordura. A partir dessa mudança de hábitos, o Whole30 promete resolver vários problemas da sua saúde que podem estar sendo causados pela sua alimentação (e que você nem sabe), além de trazer vários benefícios para o seu corpo.
+O Whole30 é um programa, ou dieta, ou filosofia (eu ainda não sei do que chamar), que propõe uma mundança de hábitos durante 30 dias onde você deve seguir uma série de restrições alimentares (veja o infográfico). A ideia é que, cortando esses alimentos, você consiga reiniciar o seu corpo e reprogramar os seus hábitos alimentares de uma forma drástica.
+Ou seja, não é somente emagrecer, mas ensinar o seu corpo e a sua mente a gostarem das coisas certas e ao menos tentar esquecer as erradas, fazendo com que seu corpo pare de usar o açúcar como combustível principal e passe a usar a gordura. A partir dessa mudança de hábitos, o Whole30 promete resolver vários problemas da sua saúde que podem estar sendo causados pela sua alimentação (e que você nem sabe), além de trazer vários benefícios para o seu corpo.
 {{% quote-her "Ver todos os seus shorts e calças folgados é um deles. :P - Larissa" %}}
 
 {{% figure src="/img/2017/02/Whole30-info.png" alt="Infográfico regras do Whole30" class="pure-img-responsive pure-img-infographic" %}}
