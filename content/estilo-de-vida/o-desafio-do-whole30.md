@@ -8,7 +8,7 @@ keywords = ["whole30", "dieta", "paleo","nutricao","saudavel","alimentacao" ]
 categories = ["Comida","Estilo de Vida"]
 draft = true
 +++
-## Em busca da saúde perdida
+## Em busca da saúde perfeita
 
 Hoje todos nós (ou quase todos) buscamos ter uma vida mais saudável, sem que tudo pareça sem graça.
 Essa busca normalmente parece meio antagônica, já que perseguindo as duas coisas muitas vezes a gente acaba não encontrando nenhuma.
@@ -31,17 +31,17 @@ Antes de começar, eu sugiro que você compre o livro ou leia o site **oficial**
 
 ### Os Primeiros Dias
 
-Já tinhamos uma alimentação bem saudável antes. E os primeiros dias foram fáceis. A gente estava bem empolgado e isso facilitou bastante. No início acontece de algumas pessoas terem reações como cansaço, dores de barriga, mau humor e dor de cabeça (no livro existe uma timeline explicando cada efeito desse). Eu tive muita dor de cabeça durante três dias, mas depois passou. A justificativa disso é que seu corpo está passando por um processo de desintoxicação e isso causa essas reações.
+Já tínhamos uma alimentação bem saudável antes. E os primeiros dias foram fáceis. A gente estava bem empolgado e isso facilitou bastante. No início acontece de algumas pessoas terem reações como cansaço, dores de barriga, mau humor e dor de cabeça (no livro existe uma timeline explicando cada efeito desse). Eu tive muita dor de cabeça durante três dias, mas depois passou. A justificativa disso é que seu corpo está passando por um processo de desintoxicação.
 
 ### Fazendo comida de verdade
 
 Eu adoro cozinhar, e cozinhar as receitas do Whole30 foi uma experiência diferente para mim. Para início de conversa eu não podia usar quase nada que eu estava habituado para dar aquele toque na comida. Ia fazer uma saladinha, não podia colocar queijo. Ia fazer um molho, o vinho tava proibido. Confesso que de início eu estranhei. Só que aí veio a parte legal. Eu tive que começar a utilizar vários ingredientes que eu deixava de lado, ou usava como coadjuvantes, e que agora são essenciais no meu dia a dia. Maionese caseira, leite de coco, abacate e uma variedade de verduras que eu nem dava ideia no supermercado (agora mal vamos ao supermercado, a feira é o destino mais comum).
-{{% quote-her "A parte boa para mim é que o meu papel era experimentar tudo isso. Delícia.  - Larissa" %}}
-Depois que eu peguei a prática, tudo ficou tranquilo de fazer e mesmo assim muito gostoso (em breve receitas).
+{{% quote-her "A parte boa para mim é que o meu papel era experimentar tudo isso..  - Larissa" %}}
+Depois que eu peguei a prática, tudo ficou tranquilo de fazer e mesmo assim muito gostoso (em breve postaremos algumas receitas).
 
 ### No meio do caminho tinha uma festa
 
-A gente gosta muito de encontrar os amigos, tomar um vinhozinho, comer um tira-gosto e deixar a conversa rolar. E essa era uma preocupação que eu tinha. Será que vou ficar anti-social? Será que vou achar tudo chato? Felizmente não foi isso que aconteceu. Saímos várias vezes com nossos amigos e todas as vezes foi bem divertido. (Pra gente né, não sei pra eles que ficavam escutando eu falar de Whole30) A mesma coisa? Lógico que não né, mas foi bem bom mesmo assim.
+A gente gosta muito de encontrar os amigos, tomar um vinhozinho, comer um tira-gosto e deixar a conversa rolar. E essa era uma preocupação que eu tinha. Será que vou ficar anti-social? Será que vou achar tudo chato? Felizmente não foi isso que aconteceu. Saímos várias vezes com nossos amigos e todas as vezes foi bem divertido. (Pra gente né, não sei pra eles que ficavam escutando eu falar de Whole30) A mesma coisa? Lógico que não, mas foi bem bom mesmo assim.
 
 ### E no final, a recompensa
 
@@ -59,7 +59,7 @@ Lógico que agora seremos mais maleáveis (quero meu vinho de volta). Estamos es
 
 ## Dicas Importantes para o Whole30
 
-1. **Tenha sempre a informação na mão.** Você vai precisar disso por perto para tirar as suas dúvidas. Na dúvida, não coma.
+1. **Tenha sempre a informação à mão.** Você vai precisar disso por perto para tirar as suas dúvidas. Na dúvida, não coma.
 2. **Prepare-se para cozinhar!** Você vai ter que fazer comida em casa, é muito difícil fazer o Whole30 só comendo fora. Tire algumas horas do seu fim de semana para adiantar o máximo que for possível para a semana.
 3. **Pesquise o cardápio dos restaurantes antes de ir.** Alguns lugares não vão ter NADA para você comer.
 4. **Fique tranquilo!** Com o tempo você vai se acostumar com o Whole30 e suas restrições.
