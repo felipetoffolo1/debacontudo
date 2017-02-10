@@ -1,12 +1,13 @@
 +++
 title = "O Desafio do Whole30 - Onde vive? O que come?"
+description = "Conheça a dieta Whole30. Como fazer, seus beneficios, dicas e a nossa experiência."
 date = "2017-02-10T12:46:59"
 author = "Felipe Toffolo"
 banner = "/img/2017/02/Whole30.png"
+images = ["/img/2017/02/whole30-card.png"]
 tags = ["Dieta","Malhação","Saudável"]
-keywords = ["whole30", "dieta", "paleo","nutricao","saudavel","alimentacao" ]
+keywords = ["whole30", "dieta", "paleo","nutricao","saudavel","alimentacao","vida saudavel", "dicas whole30"," dieta whole30", "whole como fazer" ]
 categories = ["Comida","Estilo de Vida"]
-draft = true
 +++
 ## Em busca da saúde perfeita
 
