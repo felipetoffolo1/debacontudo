@@ -60,6 +60,9 @@ h1 {
 }
 
 /* Layout */
+.post-category{
+
+}
 .pure-img {
   margin: auto;
 }
@@ -326,9 +329,10 @@ p.post-meta {
   margin: 0 0.1rem;
   padding: 0.2rem 0.5rem;
   color: #fff;
-  background: #999;
+  background: #E54028;
   font-size: 0.75rem;
 }
+
 a.post-category {
   text-decoration: none;
 }
@@ -577,6 +581,18 @@ blockquote.him p {
   color: #608DB2;
 
 }
-li::before{
-  font-size: 18px;
+
+/*Cores das categorisa*/
+
+.post-category-comida {
+  background: #E54028;
+}
+.post-category-estilo-de-vida {
+  background: #0D4DB2;
+}
+.post-category-pop-culture{
+  background: #BEE940;
+}
+.post-category-viagem{
+  background: #981D0B;
 }
