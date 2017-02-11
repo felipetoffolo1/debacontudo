@@ -5,6 +5,7 @@ local = "pt_BR"
 DefaultContentLanguage = "pt"
 preserveTaxonomyNames = true
 disqusShortname = "debacontudo-com-br"
+enableRobotsTXT = true
 [taxonomies]
 category = "categories"
 tag = "tags"
