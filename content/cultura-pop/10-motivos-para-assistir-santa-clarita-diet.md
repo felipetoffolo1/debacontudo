@@ -26,7 +26,7 @@ Santa Clarita Diet não se leva muito a sério e usa disso para fazer a gente ri
 ## 5 - Zumbis
 Eu sei que para todo lado hoje em dia aparece alguma série ou filme de zumbi. Mas como não dar uma chance para uma comédia sobre a criatura sobrenatural preferida da cultura pop?
 ## 6 - Do tamanho certo
-Os episódios duram cerca de 30 minutos. Ótimo para quem quer ver algo rapidinho. Quem estiver com mais tempo pode ver dois seguidos.
+Os episódios duram cerca de 30 minutos, ótimo para quem quer ver algo rapidinho. Quem estiver com mais tempo pode ver dois seguidos.
 ## 7 - Momento reflexão
 Apesar de engraçadinho e despretensioso, o seriado te faz imaginar até onde você iria pela sua família.
 {{% figure src="/img/2017/02/santa-clarita-3.jpg" alt="Dre Barrymore Santa Clarita Diet Sangue" class="pure-img-around-right" %}}
