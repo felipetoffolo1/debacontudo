@@ -43,7 +43,11 @@
             </p>
             {{ if .Truncated  }}
               <article class="post-summary">
+                {{ if .Params.summary }}
+                  {{ .Params.summary | markdownify }}
+                {{ else }}
                   {{ .Summary }}
+                {{ end}}
               </article>
               <div class="read-more-link">
                   <a href="{{ .RelPermalink }}"><span class="read-more-slashes">//</span>Leia Mais...</a>
