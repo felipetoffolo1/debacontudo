@@ -31,8 +31,8 @@ Os episódios duram cerca de 30 minutos. Ótimo para quem quer ver algo rapidinh
 Apesar de engraçadinho e despretensioso, o seriado te faz imaginar até onde você iria pela sua família.
 {{% figure src="/img/2017/02/santa-clarita-3.jpg" alt="Dre Barrymore Santa Clarita Diet Sangue" class="pure-img-around-right" %}}
 ## 8 - Está na Netflix
-Eu não sei quanto a vocês, mas só a facilidade e praticidade de estar na Netflix já anima de assistir a série.
+Eu não sei quanto a vocês, mas só a facilidade e praticidade de estar na Netflix já nos anima de assistir a série.
 ## 9 - Muito Ketchup
-As cenas com sangue são imperdíveis. É muito sangue e tripas para todo lado, mas não chega a dar repulsa, é um nojinho diet digamos.
+As cenas com sangue são imperdíveis. É muito sangue e tripas para todo lado, mas não chega a dar repulsa. Digamos que é um nojinho diet.
 ## 10 - Casal é tudo igual
 Ver os protagonistas terem as mesmas pequenas discussões de casal do dia a dia (mas cobertos de sangue e metidos em enrascadas) é hilário.
