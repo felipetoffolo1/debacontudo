@@ -68,4 +68,37 @@ O Teatro Chinês é aquele lugar que o artistas colocam a mão no cimento fresco
 ### Amoeba - 30 minutos
 Bem na rua de baixo fica a legendaria loja de discos Amoeba. O lugar é bem legal, cheio de discos para todo lado, uma banda tocando ao vivo. Parece que você entrou em um daqueles filmes tipo "Quase Famosos" ou "Alta Fidelidade". Acho que para um grande fã de música e disco de vinil, esse lugar é a Meca.
 
+Depois disso voltamos para o hotel e fomos descansar do voo e se prepara para acordar cedinho no outro dia
+
+## Dia 2
+Nosso segundo dia de viagem era aniversário da Larissa e fomos passar na Disney.
+A Disney na California fica em uma cidade chamada Anaheim a Xkg de Los Angeles.
+#### Houston we have a problem
+Contratamos um serviço de transporte que marcou com a gente em um ponto de encontro para nos buscar e levar até o parque. O horário estava marcado para as 07:00 AM e as 09:00 AM nada. Eu estava sem internet no celular (grande erro, sempre tenho ao menos um telefone com internet, dá pra comprar chips internacionais de internet), e tive que procurar um Starbucks para tentar entrar em contato. Quando conectei vi que tinha um e-mails deles avisando que houve um problema no onibus e deveriamos pegar um taxi até lá que eles pagariam. O taxista tentou ganhar a gorjeta de mim, mas eu fiz de bobo e dei linha.
+### Disney California Adventure
+Existem 2 parques da Disney na California, o Disney World e o Disney California Adventure. Optamos pelo Disney California Adventure, ele é o parque mais novo da Disney e o que tem mais brinquedos para o público jovem/adulto.
+Como eu já disse era aniversário da Larissa, então fomos lá na recepção tentar ganhar alguma coisa (vai que né). Ela ganhou um broche de aniversário e a partir dai **TODOS** os funcionários da Disney que cruzaram com a gente disseram "Happy Birthday Larissa", todos mesmo parecia que tinham sofrido lavagem cerebral tipo Black Mirror.
+##### O que fazer
+Não vou ficar falando aqui quanto a Disney é linda e mágica que todo mundo já tá sabendo disso (e naõ cabe nesse post, se for o caso fazemos um só da Disney depois). Na verdade tudo lá é bom, até os brinquedos bobinhos. Então sejamos práticos e vamos listar o que é imperdível.
+- California Screamer: É a montanha-russa mais radical dos parques da Disney,com direito a looping e tudo mais. Foi o primeiro brinquedo que fomos e minha primeira montanha-russa. É o melhor brinquedo do park.
+- Tower of Terror: Esse brinquedo é um hotel fantasmagorico onde você entra em um elevador que vai cair com você. Imperdível. Ele foi fechado agora, mas vai reabrir mudando o tema do brinquedo.
+- Luigi's Rollickin' Roadsters: Esse era o brinquedo mais concorrido de todos. Então já **fica a dica**, quando chegar no park já vai direto pegar o fast-pass (não sabe o que é isso? clique aqui) dele porque senão você não vai conseguir ir.
+- Turkey Leg:
+- World of Color:
+- Um sorvete sentado no Paradise Pier:
+##### O que não fazer
+Não vá embora, arrume um emprego lá e viva na Disney para sempre.
+
+No final do dia, apesar do problema na ida, eu achei que valeu muito a pena contratar o transporte. Eu estava morto e dirigir até Los Angeles seria puxado.
+
+## Dia 3
+Depois de uma noite de sono profundo, acordamos animados para o nosso segundo dia de parque. Agora na Universal Studios.
+Para lá a gente foi de metrô, a estação ficava a 3 quadras do hotel você desce numa estação logo abaixo da Universal. Lá tem um carrinho que busca as pessoas próximo a estação de tempo em tempo. Só ver onde tem uma fila e ficar lá esperando.
+### CityWalk
+O carrinho te deixa no CityWalk, que é tipo um shopping aberto da Universal Studios. Ai você tem que passar por ele para chegar até o parque. O que é um problema porque é cheio de lojas lindas que você quer entrar e fiar olhando e gastar o dinheiro que não deve. Então nesse momento a gente passou correndo direto e fomos pro parque, deixando para conhecer o CityWalk melhor quando o parque fechasse.
+O parque fecha as 19:00, o CityWalk fica aberto até umas 23:00.
+### Universal Studios
+Já sabiamos quais os brinquedos mais disputados do parque então fomos direto pra lá, bem quando abriu.
+Isso foi maravilhoso, porque conseguimos ir em vários sem fila.
+
   [a25f888d]: http://www.lawa.org/FlyAway/Default.aspx "Lax FlyAway"
