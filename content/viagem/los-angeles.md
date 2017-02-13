@@ -8,7 +8,12 @@ author = "Felipe Toffolo"
 banner = "/img/los-angeles/banner.jpg"
 +++
 
-#### Introdução dizendo que será uma série de posts falando da california
+#### Califórnia
+
+Conhecer a Califórnia sempre foi um dos meus sonhos. Ver de pertinho alguns lugares tão conhecidos nas telas do cinema era um dos meus maiores desejos. No final de 2014, consegui convencer o Felipe a programar a nossa viagem e, em abril de 2015, passamos 20 dias curtindo várias cidades legais. A gente adora compartilhar as experiências dessa viagem com nossos amigos e familiares e pensamos que seria uma boa dividir com mais gente também. Afinal, dicas de viagem é sempre uma boa pedida, não é mesmo?! E nós adoramos planejar uma viagem! Em breve, faremos um post apenas com dicas de planejamento.
+
+Voltando ao assunto, como temos muitas dicas para compartilhar, decidimos fazer uma série de posts. Vamos falar sobre Los Angeles, San Francisco, a rota 66, as cidades no meio da estrada, restaurantes, hotéis, passeios e etc. O nosso primeiro post será sobre Los Angeles, que foi a primeira cidade que a gente conheceu.
+
 
 ## O nosso roteiro - Vai ser um infografico
 ### Dia 1
@@ -33,74 +38,68 @@ banner = "/img/los-angeles/banner.jpg"
 - Venice Beach
 - Santa Monica
 
-## Em fim na terra dos sonhos
-Chegamos em Los Angeles no final da tarde, em um voo da Azul/Delta, que por acaso foi ótimo. Eu estava consideralmente nervoso, essa era minha primeira viagem internacional. Minha primeira vez conhecendo outro país. Nosso primeiro desafio era sair do aeroporto e ir para o centro de Los Angeles onde ficava o nosso hotel.
+## Enfim,  na terra dos sonhos
+Chegamos em Los Angeles no final da tarde, em um voo da Azul/Delta, que por acaso foi ótimo. Eu estava consideravelmente nervoso, já que essa era minha primeira viagem internacional. Minha primeira vez conhecendo outro país. Nosso primeiro desafio era sair do aeroporto e ir para o centro de Los Angeles onde ficava o nosso hotel.
 
 ## Como se locomover
-Los Angeles **não é uma cidade com transporte público excelente, você vai precisar de carro**, pois os locais que você ai visitar são distantes. Porém por questões de orçamento resolvemos não pegar carro nos primeiros dias, já que o Dia 1 seria um final de dia e o dia 2 e 3 estariamos em parques tématicos.
-Sendo assim pegamos um ónibus (link [aqui][a25f888d]) que sai do aeroporto ae a Union Station, que é uma estação gigante no centro de Los Angeles.
-De lá o nosso Hotel estava perto e pegamos um taxi até lá (Eu não gosto de pegar taxi, por que não gosto de dar tip).
+Los Angeles **não é uma cidade com transporte público excelente, você vai precisar de carro**! Os locais são bem distantes um do outro, o que facilita muito a vida alugar um carro. Como já chegamos no meio da tarde do primeiro dia e nos outros dois dias seguintes iríamos passar o dia inteiro nos parques, optamos por só pegar o carro a partir do quarto dia de viagem. Ainda conseguimos economizar um pouco também. Para ir para o hotel, optamos por pegar um ônibus (link [aqui][a25f888d]) que sai do aeroporto até a Union Station, uma estação gigante no centro de Los Angeles. De lá, pegamos um táxi até o hotel que era razoavelmente perto da estação.
 
 ## O Hotel
-Como já disse, pegamos um Hotel no Centro de Los Angeles, por 2 motivos. Preço e praticidade. De lá tinhamos acesso próximo ao metrô e ónibus que usariamos nos primeiros dias. E o preço era bem em conta. Ficamos hospedados no XXXXX, que na verdade é um mix de Hotel e Hostel, no nosso caso pegamos um quarto de hotel mesmo. No saguão do hotel tem areas de interação, sala de cinema e coisas do gênero. Fomos então ver o nosso quarto e **a decepção foi total**, o quarto não tinha nada a ver com o das fotos no Booking, o banheiro tinha só uma cortininha no chuveiro :( . Já olhei para a Larissa e vi a carinha de frustração dela e resolvemos conversar, com todo o jeitinho explicamos no saguão do hotel que esse não era o quarto que vimos. Ela explicou que a foto do Booking era dos andares reformados e que iria tentar mover a gente de quarto. Felizmente apareceu um disponível e fomos para o quarto no andar novo. Ufa que alívio.
+Reservamos o hotel xxx, que fica no Centro de Los Angeles, por dois motivos: preço e praticidade. As estações de metrô e ônibus eram perto e isso nos ajudou nos primeiros dias. Além disso, o custo benefício foi bom. Tirando o café da manhã, claro, que era waffle, café, suco de laranja e cereal TODOS OS DIAS. O hotel é, na verdade, um mix de hotel e hostel. No nosso caso, optamos por um quarto de hotel mesmo. No saguão do hotel tem areas de interação, sala de cinema e coisas do gênero. Quando chegamos ao nosso quarto, **a decepção foi total**. O quarto não tinha nada a ver com o das fotos no Booking. O banheiro tinha  apenas uma cortininha no chuveiro :( . Já olhei para a Larissa e vi a carinha de frustração dela e resolvemos conversar na recepção. Explicamos que esse não era o quarto que reservamos no Booking. A recepcionista explicou que a foto do Booking era dos andares reformados e que iria tentar mover a gente de quarto. Felizmente apareceu um disponível e fomos para o quarto no andar novo. Ufa! Um alívio!
 
-Depois de chegados e instalados era hora de finalmente começar o Passeio
+Já instalados, era hora de finalmente começar a viagem!
 
 ## Dia 1
 ### Calçada da Fama - 3 horas
-Estavamos em Los Angeles, a terra do cinema, e óbvio que a primeira coisa que fizemos foi ir visitar a calçada da fama.
-Pegamos um metrô pertinho do hotel e depois de alguns minutos estavamos na Hollywood Boulevard (tudo guiado pelo Google Maps).
-A Hollywod Boulevard é onde ficam vários atrações a serem visitas sendo a mais famosa a Calçada da Fama.
-Apesar de não ser algo impressionante, você acaba ficando meio impressionado pois **você está andando naquelas estrelinhas que você já viu tantas vezes na tv e cinema**. Alias, essa sensação é algo que sentimos várias vezes em LA.
-De lá tivemos a nossa primeira visão do famigerado letreiro de Hollywood, a primeira tentativa de muitas de tirar uma foto decente com ele.
+Estávamos em Los Angeles, a terra do cinema, e óbvio que a primeira coisa que fizemos foi ir visitar a calçada da fama. Pegamos um metrô pertinho do hotel e depois de alguns minutos estavamos na Hollywood Boulevard (tudo guiado pelo Google Maps).
+A Hollywod Boulevard é onde ficam vários atrações, sendo a Calçada da Fama a mais famosa delas.
+Apesar de não ser nada demais, você acaba ficando meio impressionado pois **você está andando naquelas estrelinhas que você já viu tantas vezes na tv e no cinema**. Aliás, essa sensação é algo que sentimos várias vezes em Los Angeles. De lá tivemos a nossa primeira visão do famigerado letreiro de Hollywood e a primeira tentativa de muitas de tirar uma foto decente com ele.
 
 #### O que fazer
-Andar olhando as estrelas no chão e dizendo olha o fulano, olha o beltrano é a principal atração aqui. Ai você tenta tirar uma foto com uma estrela de alguém que você é fã, mas a foto vai ficar provavelmente meio ruim. Mas você faz isso enquanto sentido ali um clima da magia do cinema.
-Entre na lojinhas de lembrancinha e leve um souvenir de Hollywood. Tem coisas bem legais.
+Andar olhando as estrelas no chão e dizendo "olha o fulano" e "olha o beltrano" é a principal atração. Aí você tenta tirar uma foto com uma estrela de alguém que você é fã, mas a foto vai ficar provavelmente meio ruim. já que além de você tem mais um monte de gente querendo a mesma foto. Vale também entrar nas lojinhas de lembrancinha e levar um souvenir de Hollywood. Tem coisas bem legais. 
 
 #### O que não fazer
-Além das estrelas a calçada da fama é cheio de gente maluca fantasiada querendo tirar foto com você, é bem legal de ver. Mas fique espertos que eles vão querer te fazer de bobo pra você tirar uma foto com eles. Com a gente aconteceu com uma mulher que eu nem sei qq ela era exatamente, estava tirando uma foto da Larissa ela meio que foi entrando na foto e depois ela queria 15 dolares por isso. Dei 7 e aprendi essa lição.
+Além das estrelas, a calçada da fama é cheia de gente maluca fantasiada querendo tirar foto com você. É bem legal de ver. Mas fique esperto pois eles vão querer te fazer de bobo pra você tirar uma foto com eles. Com a gente aconteceu com uma mulher que eu nem sei o que ela era exatamente. Estava tirando uma foto da Larissa e ela meio que foi entrando na foto. Depois ela veio cobrar 15 dólares por isso. Dei 7 e aprendi essa lição.
 
 ### Dolby Theater - 30 minutos
-O Dolby Theater é onde acontece o Oscar. E ele fica ali na Hollywood Boulevard também. Não tem muito assim o que ver, você chega tem as plaquinhas dos vencedores de todos os Oscars de melhor filme. No mesmo complexo dele, tem um shopping legal, que a noite tem uma vista linda.
-### Teatro Chinês - 20 minutos
-O Teatro Chinês é aquele lugar que o artistas colocam a mão no cimento fresco e deixam a sua marca lá. O teatro que também funciona como cinema é bem bonito, ao menos por fora, e é bem legal ver as marcas no cimento.
-### Amoeba - 30 minutos
-Bem na rua de baixo fica a legendaria loja de discos Amoeba. O lugar é bem legal, cheio de discos para todo lado, uma banda tocando ao vivo. Parece que você entrou em um daqueles filmes tipo "Quase Famosos" ou "Alta Fidelidade". Acho que para um grande fã de música e disco de vinil, esse lugar é a Meca.
+O Dolby Theater é o local onde acontece o Oscar. E ele fica ali na Hollywood Boulevard também. Não tem muito assim o que ver além das plaquinhas dos vencedores de todos os Oscars de melhor filme. No mesmo complexo dele, tem um shopping bem legal, que a noite tem uma vista linda.
 
-Depois disso voltamos para o hotel e fomos descansar do voo e se prepara para acordar cedinho no outro dia
+### Teatro Chinês - 20 minutos
+O Teatro Chinês é aquele lugar que os artistas colocam a mão no cimento fresco e deixam a sua marca lá. O teatro, que também funciona como cinema, é bem bonito (ao menos por fora), e é bem legal ver as marcas no cimento.
+
+### Amoeba - 30 minutos
+Bem na rua de baixo fica a legendária loja de discos Amoeba. O lugar é bem legal, cheio de discos para todo lado, uma banda tocando ao vivo. Parece que você entrou em um daqueles filmes tipo "Quase Famosos" ou "Alta Fidelidade". Acho que para um grande fã de música e disco de vinil, esse lugar é a Meca.
+
+Depois disso, fomos para o hotel descansar e se preparar para acordar bem cedo no outro dia.
 
 ## Dia 2
-Nosso segundo dia de viagem era aniversário da Larissa e fomos passar na Disney.
-A Disney na California fica em uma cidade chamada Anaheim a Xkg de Los Angeles.
-#### Houston we have a problem
-Contratamos um serviço de transporte que marcou com a gente em um ponto de encontro para nos buscar e levar até o parque. O horário estava marcado para as 07:00 AM e as 09:00 AM nada. Eu estava sem internet no celular (grande erro, sempre tenho ao menos um telefone com internet, dá pra comprar chips internacionais de internet), e tive que procurar um Starbucks para tentar entrar em contato. Quando conectei vi que tinha um e-mails deles avisando que houve um problema no onibus e deveriamos pegar um taxi até lá que eles pagariam. O taxista tentou ganhar a gorjeta de mim, mas eu fiz de bobo e dei linha.
-### Disney California Adventure
-Existem 2 parques da Disney na California, o Disney World e o Disney California Adventure. Optamos pelo Disney California Adventure, ele é o parque mais novo da Disney e o que tem mais brinquedos para o público jovem/adulto.
-Como eu já disse era aniversário da Larissa, então fomos lá na recepção tentar ganhar alguma coisa (vai que né). Ela ganhou um broche de aniversário e a partir dai **TODOS** os funcionários da Disney que cruzaram com a gente disseram "Happy Birthday Larissa", todos mesmo parecia que tinham sofrido lavagem cerebral tipo Black Mirror.
-#### O que fazer
-Não vou ficar falando aqui quanto a Disney é linda e mágica que todo mundo já tá sabendo disso (e naõ cabe nesse post, se for o caso fazemos um só da Disney depois). Na verdade tudo lá é bom, até os brinquedos bobinhos. Então sejamos práticos e vamos listar o que é imperdível.
+Nosso segundo dia de viagem foi bem no aniversário da Larissa. Ela escolheu passar o dia na na Disney.
+A Disney da California fica em uma cidade chamada Anaheim, a Xkg de Los Angeles.
 
-- California Screamer: É a montanha-russa mais radical dos parques da Disney,com direito a looping e tudo mais. Foi o primeiro brinquedo que fomos e minha primeira montanha-russa. É o melhor brinquedo do park.
-- Tower of Terror: Esse brinquedo é um hotel fantasmagorico onde você entra em um elevador que vai cair com você. Imperdível. Ele foi fechado agora, mas vai reabrir mudando o tema do brinquedo.
-- Luigi's Rollickin' Roadsters: Esse era o brinquedo mais concorrido de todos. Então já **fica a dica**, quando chegar no park já vai direto pegar o fast-pass (não sabe o que é isso? clique aqui) dele porque senão você não vai conseguir ir.
-- Turkey Leg:
-- World of Color:
-- Um sorvete sentado no Paradise Pier:
+#### Houston, we have a problem
+Contratamos um serviço de transporte que marcou com a gente em um ponto de encontro para nos buscar e levar até o parque. O horário estava marcado para às 7h. Deu 9h e nada. Eu estava sem internet no celular (grande erro, sempre tenha ao menos um telefone com internet) e tive que procurar um Starbucks para tentar entrar em contato. Quando conectei, vi que tinha um e-mail deles avisando que houve um problema no ônibus e deveríamos pegar um taxi até lá que eles pagariam.
+
+### Disney California Adventure
+Existem dois parques da Disney na California: o Disney World e o Disney California Adventure. Optamos pelo Disney California Adventure, já que é o parque mais novo da Disney e o que tem mais brinquedos para o público jovem/adulto.
+Como eu já disse, era aniversário da Larissa, então fomos lá na recepção tentar ganhar alguma coisa (vai que né). Ela ganhou um broche de aniversário e a partir daí **TODOS** os funcionários da Disney que cruzaram com a gente disseram "Happy Birthday Larissa". Todos mesmo! Parecia que tinham sofrido uma lavagem cerebral no estilo Black Mirror.
+
+#### O que fazer
+Não vou ficar falando aqui o quanto a Disney é linda e mágica que todo mundo já sabe disso (e não cabe nesse post, se for o caso fazemos um só da Disney depois). Na verdade tudo lá é bom, até os brinquedos bobinhos. Então sejamos práticos e vamos listar o que é imperdível.
 
 #### O que não fazer
-Não vá embora, arrume um emprego lá e viva na Disney para sempre.
+Não vá embora! Arrume um emprego por lá e viva na Disney para sempre.
 
-No final do dia, apesar do problema na ida, eu achei que valeu muito a pena contratar o transporte. Eu estava morto e dirigir até Los Angeles seria puxado.
+No final do dia, apesar do problema da ida, eu achei que valeu muito a pena contratar o transporte. Eu estava morto e dirigir até Los Angeles seria puxado.
 
 ## Dia 3
-Depois de uma noite de sono profundo, acordamos animados para o nosso segundo dia de parque. Agora na Universal Studios.
-Para lá a gente foi de metrô, a estação ficava a 3 quadras do hotel você desce numa estação logo abaixo da Universal. Lá tem um carrinho que busca as pessoas próximo a estação de tempo em tempo. Só ver onde tem uma fila e ficar lá esperando.
+Depois de uma noite de sono profundo, acordamos animados para o nosso segundo dia de parque. Agora na Universal Studios. Fomos de metrô para o parque. A estação fica bem perto da Universal. Lá tem um carrinho que busca as pessoas próximo à estação de tempo em tempo. Basta procurar uma fila e ficar por lá esperando.
+
 ### CityWalk
-O carrinho te deixa no CityWalk, que é tipo um shopping aberto da Universal Studios. Ai você tem que passar por ele para chegar até o parque. O que é um problema porque é cheio de lojas lindas que você quer entrar e fiar olhando e gastar o dinheiro que não deve. Então nesse momento a gente passou correndo direto e fomos pro parque, deixando para conhecer o CityWalk melhor quando o parque fechasse.
-O parque fecha as 19:00, o CityWalk fica aberto até umas 23:00.
+O carrinho te deixa no CityWalk, que é tipo um shopping aberto da Universal Studios. Aí você tem que passar por ele até chegar ao parque. O que é um problema porque é cheio de lojas lindas que você quer entrar e gastar o dinheiro que não deve. Deixamos para conhecê-lo melhor no final do dia.  O parque fecha às 19h, já o CityWalk fica aberto até umas 23h..
+
 ### Universal Studios
-Já sabiamos quais os brinquedos mais disputados do parque então fomos direto pra lá, bem quando abriu.
-Isso foi maravilhoso, porque conseguimos ir em vários sem fila.
+Já sabíamos quais eram os brinquedos mais disputados do parque. Então essa é a dica mais óbvia de todas: corra para lá! Conseguimos ir em vários brinquedos sem pegar fila nenhuma.
+
+
 
   [a25f888d]: http://www.lawa.org/FlyAway/Default.aspx "Lax FlyAway"
