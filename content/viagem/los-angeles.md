@@ -78,15 +78,17 @@ Contratamos um serviço de transporte que marcou com a gente em um ponto de enco
 ### Disney California Adventure
 Existem 2 parques da Disney na California, o Disney World e o Disney California Adventure. Optamos pelo Disney California Adventure, ele é o parque mais novo da Disney e o que tem mais brinquedos para o público jovem/adulto.
 Como eu já disse era aniversário da Larissa, então fomos lá na recepção tentar ganhar alguma coisa (vai que né). Ela ganhou um broche de aniversário e a partir dai **TODOS** os funcionários da Disney que cruzaram com a gente disseram "Happy Birthday Larissa", todos mesmo parecia que tinham sofrido lavagem cerebral tipo Black Mirror.
-##### O que fazer
+#### O que fazer
 Não vou ficar falando aqui quanto a Disney é linda e mágica que todo mundo já tá sabendo disso (e naõ cabe nesse post, se for o caso fazemos um só da Disney depois). Na verdade tudo lá é bom, até os brinquedos bobinhos. Então sejamos práticos e vamos listar o que é imperdível.
+
 - California Screamer: É a montanha-russa mais radical dos parques da Disney,com direito a looping e tudo mais. Foi o primeiro brinquedo que fomos e minha primeira montanha-russa. É o melhor brinquedo do park.
 - Tower of Terror: Esse brinquedo é um hotel fantasmagorico onde você entra em um elevador que vai cair com você. Imperdível. Ele foi fechado agora, mas vai reabrir mudando o tema do brinquedo.
 - Luigi's Rollickin' Roadsters: Esse era o brinquedo mais concorrido de todos. Então já **fica a dica**, quando chegar no park já vai direto pegar o fast-pass (não sabe o que é isso? clique aqui) dele porque senão você não vai conseguir ir.
 - Turkey Leg:
 - World of Color:
 - Um sorvete sentado no Paradise Pier:
-##### O que não fazer
+
+#### O que não fazer
 Não vá embora, arrume um emprego lá e viva na Disney para sempre.
 
 No final do dia, apesar do problema na ida, eu achei que valeu muito a pena contratar o transporte. Eu estava morto e dirigir até Los Angeles seria puxado.
