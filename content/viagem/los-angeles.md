@@ -101,6 +101,7 @@ O carrinho te deixa no CityWalk, que é tipo um shopping aberto da Universal Stu
 ### Universal Studios
 Já sabíamos quais eram os brinquedos mais disputados do parque. Então essa é a dica mais óbvia de todas: corra para lá! Conseguimos ir em vários brinquedos sem pegar fila nenhuma.
 
-
+## Dia 4
+Como somos grandes fãs de feirinhas, alimentos diferentes e temperos diversos, não perdemos a oportunidade de visitar o The Original Farmers Market.
 
   [a25f888d]: http://www.lawa.org/FlyAway/Default.aspx "Lax FlyAway"
