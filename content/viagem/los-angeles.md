@@ -1,27 +1,36 @@
 +++
 title = "Los Angeles"
 draft = true
+date = "2017-02-12T20:00:47-02:00"
 tags = ["viagens","california","usa"]
+categories = ["Viagem"]
 author = "Felipe Toffolo"
 banner = "/img/los-angeles/banner.jpg"
 +++
 
-## A cidade onde os sonhos são feitos
-Lorem ipsum dolor sit amet, et iusto deseruisse pri. Assum omnium ex usu, ei alii ferri sonet sed, dicat constituam his in. Facete fastidii copiosae sed ea, ut mucius labore putant duo. An vis quas laoreet.
-{{% figure src="/img/los-angeles/body1.jpg" class="pure-img-around-left" %}}
+#### Introdução dizendo que será uma série de posts falando da california
 
-Habeo equidem an mea, veniam latine contentiones ea sea. Ignota eripuit ut his, ius ludus volutpat ei. Mucius offendit torquatos vim no, et qui audiam commodo omnesque. Congue melius latine has no, tamquam veritus partiendo id eum.
+## O nosso roteiro
+### Dia 1
+- Passeio pela Hollywood Bolevard: Calçada da fama
+- Dolby Theater
+- Chinese Theater
+- Amoeba
+### Dia 2
+- Disney
+### Dia 3
+- Universal Studios
+### Dia 4
+- The Original Farmers Market
+- Sony Studios
+- Beverly Hills
+- Lacma
+### Dia 5
+- Warner Studios
+- Los Angeles City Hall
+- Griffith Park
+### Dia 6
+- Venice Beach
+- Santa Monica
 
-Ei vis brute euismod pertinax. Ad has sumo soleat. Purto deserunt no nec, pri ei detracto constituam dissentiunt. Qui ea nostro docendi vivendum, possim qualisque corrumpit has ad. Quis persius habemus sed et.
-
-Omnium eligendi pri te. Lucilius accusamus instructior mei eu, pro audire latine eu. Vim id mucius interesset mediocritatem, ex mea porro delicatissimi. An libris imperdiet his. Te per quot altera aliquip, an his constituto quaerendum. No wisi choro has, his dicit honestatis te.
-
-Habeo equidem an mea, veniam latine contentiones ea sea. Ignota eripuit ut his, ius ludus volutpat ei. Mucius offendit torquatos vim no, et qui audiam commodo omnesque. Congue melius latine has no, tamquam veritus partiendo id eum.
-
-Ei vis brute euismod pertinax. Ad has sumo soleat. Purto deserunt no nec, pri ei detracto constituam dissentiunt. Qui ea nostro docendi vivendum, possim qualisque corrumpit has ad. Quis persius habemus sed et.
-
-Omnium eligendi pri te. Lucilius accusamus instructior mei eu, pro audire latine eu. Vim id mucius interesset mediocritatem, ex mea porro delicatissimi. An libris imperdiet his. Te per quot altera aliquip, an his constituto quaerendum. No wisi choro has, his dicit honestatis te.
-
-{{% figure src="/img/los-angeles/ok8.jpg" class="pure-img-around-right" %}}
-
-At homero semper dignissim eam. Nam no eius pericula. Ea duo vidit conceptam, id eam alia latine percipit. Elit populo ut qui, deleniti patrioque has no, ne eam mutat lobortis atomorum. Vim magna dicit animal te. Cu vel aeterno dolorum.
+Chegamos em Los Angeles no final da tarde

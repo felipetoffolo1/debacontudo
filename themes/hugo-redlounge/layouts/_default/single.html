@@ -57,9 +57,9 @@
         </div>
         {{ end }}
 
-        {{ if .Params.socialsharing }}
+        <!-- {{ if .Params.socialsharing }} -->
+        <!-- {{ end }} -->
         {{ partial "socialsharing.html" . }}
-        {{ end }}
 
         {{ if .Params.bannerinline }}
         <img src="{{ .Params.bannerinline }}" class="pure-img content-banner-image-inline"
@@ -69,9 +69,11 @@
 
         {{ .Content }}
 
-        {{ if .Params.socialsharing }}
+        <!-- {{ if .Params.socialsharing }} -->
+        <!-- {{ end }} -->
+        <span class="paging-label">Curtiu? Compartilhe</span>
+
         {{ partial "socialsharing.html" . }}
-        {{ end }}
 
         {{ if .Params.tags }}
         <div class="tags-list">
@@ -126,14 +128,14 @@
   </script>
   {{ end }}
 
-  {{ if .Params.socialsharing }}
+  <!-- {{ if .Params.socialsharing }} -->
+  <!-- {{ end }} -->
   <script type="text/javascript">
   function popupShare(url) {
     window.open(url, '_blank', 'scrollbars,resizable,height=525,width=600');
     return false;
   }
   </script>
-  {{ end }}
 
   {{ partial "bodyend.html" . }}
 </body>
