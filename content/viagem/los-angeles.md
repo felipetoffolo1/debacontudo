@@ -104,7 +104,26 @@ Já sabíamos quais eram os brinquedos mais disputados do parque. Então essa é
 ## Dia 4
 Esse era o nosso primeiro dia de carro. Corremos até a locadora, pegamos o carro e começamos a rodar.
 De cara já achamos meio confuso os cruzamentos em LA. Você tem que parar numa faixa no meio da pista para fazer o cruzamento. É diferente daqui e no começo levamos umas buzinadas, mas rapidinho já tinhamos acostumado (com as buzinadas, não o cruzamento).
-### The Original Farmers Market
+### The Original Farmers Market - 2 horas
 Como somos grandes fãs de feirinhas, alimentos diferentes e temperos diversos, não perdemos a oportunidade de visitar o The Original Farmers Market.
+Farmers Market não são nada mais que a nossas feiras daqui. No caso desse ele fica dentro de um grande pátio com loja ao redor e dentro.
+É um lugar cheio de cheiros, sabores e coisas diferentes. {{< quote-him "É só falar que é sobre comida e é diferente que já eu tô dentro - Felipe" >}}
+#### O que fazer
+Experimente o máximo que conseguir. Lá tem frutos do mar, sorvetes, padarias, frios e restaurantes de várias nacionalidades.
+Ao invés de comer muito em um lugar, vá comprando pequena porções em várias e dividindo. Assim você pode comer amis coisas deliciosas.
+#### O que não fazer ou sim
+A nossa vontade era sair comprando um monte de coisas para trazer para o Brasil. Não compramos porque tinhamos muita viagem pela frente e carregar comida é sempre meio complicado.
+### Beverly Hills - 1 hora
+
+### Sony Studios - 2 horas
+Los Angeles tem vários estúdios de cinema. E resolvemos fazer alguns passeios nos sets de filmagem. Compramos um GoPass Ticket prara poder visitar a Sony Pictures Studios, Warner Bros. Studio e Universal Studios Hollywood (que é o parque tématico que já falamos acima). Foi mais barato comprar esse pacote e você faz a reserva com a Sony e Warner via telefone (o que pode ser meio chato).
+
+O primeiro que fomos visitar foi o Sony Studios. O TOUR é iniciado com um vídeo explicando a história do studio e mostrando seus maiores sucessos.
+Depois do video um guia inicia o passeio dentro dos estúdios, o passeio é feito **a pé**. A principal atração desse passeio é acompanhar as explicações do guia de como eles usam o estúdio para produzir os programas e filmes, e visitar o sets de alguns deles.
+Quando fomos visitamos os sets de "Ray Donovan", "Jeopardy!" (aquele gameshow que a gente sempre vê em filmes o pessoal assistindo e tentando adivinhar a palavra) e "The Goldbergs". Que nem são tão conhecidos por aqui. Mas para compensar tinha a van de breaking bad.
+
+### Lacma - 1,5 horas
+
+
 
   [a25f888d]: http://www.lawa.org/FlyAway/Default.aspx "Lax FlyAway"
