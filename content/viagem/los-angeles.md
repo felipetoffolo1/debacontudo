@@ -57,7 +57,7 @@ Estávamos em Los Angeles, a terra do cinema, e óbvio que a primeira coisa que 
 Apesar de não ser nada demais, você acaba ficando meio impressionado pois **você está andando naquelas estrelinhas que você já viu tantas vezes na tv e no cinema**. Aliás, essa sensação é algo que sentimos várias vezes em Los Angeles. De lá, tivemos a nossa primeira visão do famigerado letreiro de Hollywood e a primeira tentativa de muitas de tirar uma foto decente com ele.
 
 #### O que fazer
-Andar olhando as estrelas no chão e dizendo "olha o fulano" e "olha o beltrano" é a principal atração. Aí você tenta tirar uma foto com uma estrela de alguém que você é fã, mas a foto vai ficar provavelmente meio ruim. Você tem que tirar a foto rápido,já que além de você tem mais um monte de gente querendo a mesma foto. Vale também entrar nas lojinhas de lembrancinha e levar um souvenir de Hollywood. Tem coisas bem legais. 
+Andar olhando as estrelas no chão e dizendo "olha o fulano" e "olha o beltrano" é a principal atração. Aí você tenta tirar uma foto com uma estrela de alguém que você é fã, mas a foto vai ficar provavelmente meio ruim. Você tem que tirar a foto rápido,já que além de você tem mais um monte de gente querendo a mesma foto. Vale também entrar nas lojinhas de lembrancinha e levar um souvenir de Hollywood. Tem coisas bem legais.
 
 #### O que não fazer
 Além das estrelas, a calçada da fama é cheia de gente maluca fantasiada querendo tirar foto com você. É bem legal de ver. Mas fique esperto pois eles vão querer te fazer de bobo pra você tirar uma foto com eles. Com a gente aconteceu com uma mulher que eu nem sei o que ela era exatamente. Estava tirando uma foto da Larissa e ela meio que foi entrando na foto. Depois ela veio cobrar 15 dólares por isso. Dei 7 e aprendi essa lição.
@@ -85,7 +85,7 @@ Existem dois parques da Disney na Califórnia: o Disney World e o Disney Califor
 Como já disse, era aniversário da Larissa, então fomos lá na recepção tentar ganhar alguma coisa (vai que né). Ela ganhou um broche de aniversário e a partir daí **TODOS** os funcionários da Disney que cruzaram com a gente disseram "Happy Birthday Larissa". Todos mesmo! Parecia que tinham sofrido uma lavagem cerebral no estilo Black Mirror.
 
 #### O que fazer
-Não vou ficar falando aqui o quanto a Disney é linda e mágica que todo mundo já sabe disso (e não cabe nesse post, se for o caso fazemos um só da Disney depois). Na verdade tudo lá é bom, até os brinquedos bobinhos. 
+Não vou ficar falando aqui o quanto a Disney é linda e mágica que todo mundo já sabe disso (e não cabe nesse post, se for o caso fazemos um só da Disney depois). Na verdade tudo lá é bom, até os brinquedos bobinhos.
 
 #### O que não fazer
 Não vá embora! Arrume um emprego por lá e viva na Disney para sempre.
@@ -102,6 +102,9 @@ O carrinho te deixa no CityWalk, que é tipo um shopping aberto da Universal Stu
 Já sabíamos quais eram os brinquedos mais disputados do parque. Então essa é a dica mais óbvia de todas: corra para lá! Conseguimos ir em vários brinquedos sem pegar fila nenhuma.
 
 ## Dia 4
+Esse era o nosso primeiro dia de carro. Corremos até a locadora, pegamos o carro e começamos a rodar.
+De cara já achamos meio confuso os cruzamentos em LA. Você tem que parar numa faixa no meio da pista para fazer o cruzamento. É diferente daqui e no começo levamos umas buzinadas, mas rapidinho já tinhamos acostumado (com as buzinadas, não o cruzamento).
+### The Original Farmers Market
 Como somos grandes fãs de feirinhas, alimentos diferentes e temperos diversos, não perdemos a oportunidade de visitar o The Original Farmers Market.
 
   [a25f888d]: http://www.lawa.org/FlyAway/Default.aspx "Lax FlyAway"
