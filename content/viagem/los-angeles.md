@@ -4,13 +4,11 @@ draft = true
 date = "2017-02-12T20:00:47-02:00"
 tags = ["viagens","california","usa"]
 categories = ["Viagem"]
-author = "Felipe Toffolo"
+author = "Felipe Toffolo e Larissa Alberti"
 banner = "/img/los-angeles/banner.jpg"
 +++
 
-#### Califórnia
-
-"Garota eu vou pra Califórnia..."
+## "Garota eu vou pra Califórnia..."
 
 Conhecer a Califórnia sempre foi um dos meus sonhos. Ver de pertinho alguns lugares tão conhecidos nas telas do cinema era um dos meus maiores desejos. No final de 2014, consegui convencer o Felipe a programar a nossa viagem e, em abril de 2015, passamos 20 dias curtindo várias cidades legais. A gente adora compartilhar as experiências dessa viagem com nossos amigos e familiares e pensamos que seria uma boa dividir com mais gente também. Afinal, dicas de viagem são sempre uma boa pedida, não é mesmo?! E nós adoramos planejar! Em breve, faremos um post apenas com dicas para tirar uma viagem do papel.
 
@@ -103,26 +101,51 @@ Já sabíamos quais eram os brinquedos mais disputados do parque. Então essa é
 
 ## Dia 4
 Esse era o nosso primeiro dia de carro. Corremos até a locadora, pegamos o carro e começamos a rodar.
-De cara já achamos meio confuso os cruzamentos em LA. Você tem que parar numa faixa no meio da pista para fazer o cruzamento. É diferente daqui e no começo levamos umas buzinadas, mas rapidinho já tinhamos acostumado (com as buzinadas, não o cruzamento).
+De cara já achamos meio confuso os cruzamentos em Los Angeles. Você tem que parar numa faixa no meio da pista para fazer o cruzamento. É diferente daqui e no começo levamos umas buzinadas, mas rapidinho já tínhamos acostumado (com as buzinadas, não o cruzamento).
+
 ### The Original Farmers Market - 2 horas
-Como somos grandes fãs de feirinhas, alimentos diferentes e temperos diversos, não perdemos a oportunidade de visitar o The Original Farmers Market.
-Farmers Market não são nada mais que a nossas feiras daqui. No caso desse ele fica dentro de um grande pátio com loja ao redor e dentro.
-É um lugar cheio de cheiros, sabores e coisas diferentes. {{< quote-him "É só falar que é sobre comida e é diferente que já eu tô dentro - Felipe" >}}
+Como somos grandes fãs de feirinhas, alimentos diferentes e temperos diversos, não perdemos a oportunidade de visitar o The Original Farmers Market. Farmers Market não são nada mais que as nossas feiras daqui. Essa de Los Angeles é um lugar cheio de cheiros, sabores e coisas diferentes. {{< quote-him "É só falar que é sobre comida e é diferente que já eu tô dentro - Felipe" >}}
+
 #### O que fazer
 Experimente o máximo que conseguir. Lá tem frutos do mar, sorvetes, padarias, frios e restaurantes de várias nacionalidades.
-Ao invés de comer muito em um lugar, vá comprando pequena porções em várias e dividindo. Assim você pode comer amis coisas deliciosas.
-#### O que não fazer ou sim
-A nossa vontade era sair comprando um monte de coisas para trazer para o Brasil. Não compramos porque tinhamos muita viagem pela frente e carregar comida é sempre meio complicado.
-### Beverly Hills - 1 hora
+Ao invés de comer muito em um lugar, vá comprando pequenas porções em várias barraquinhas. Assim você pode comer mais coisas gostosas.
 
-### Sony Studios - 2 horas
-Los Angeles tem vários estúdios de cinema. E resolvemos fazer alguns passeios nos sets de filmagem. Compramos um GoPass Ticket prara poder visitar a Sony Pictures Studios, Warner Bros. Studio e Universal Studios Hollywood (que é o parque tématico que já falamos acima). Foi mais barato comprar esse pacote e você faz a reserva com a Sony e Warner via telefone (o que pode ser meio chato).
+#### O que não fazer (ou sim)
+A nossa vontade era sair comprando um monte de coisas para trazer para o Brasil. Não compramos porque tínhamos muita viagem pela frente e carregar comida é sempre meio complicado.
 
-O primeiro que fomos visitar foi o Sony Studios. O TOUR é iniciado com um vídeo explicando a história do studio e mostrando seus maiores sucessos.
-Depois do video um guia inicia o passeio dentro dos estúdios, o passeio é feito **a pé**. A principal atração desse passeio é acompanhar as explicações do guia de como eles usam o estúdio para produzir os programas e filmes, e visitar o sets de alguns deles.
-Quando fomos visitamos os sets de "Ray Donovan", "Jeopardy!" (aquele gameshow que a gente sempre vê em filmes o pessoal assistindo e tentando adivinhar a palavra) e "The Goldbergs". Que nem são tão conhecidos por aqui. Mas para compensar tinha a van de breaking bad.
+### Beverly Hills - 1h
+Como visitar Los Angeles e não ir até Beverly Hills? Ainda mais quem já assistiu o famoso filme das patricinhas. A ideia era procurar o letreiro famoso e tirar uma foto. Mas, o bairro acabou merecendo uma parada. Não deixe de caminhar pela Rodeo Drive, a famosa rua cheia de lojas de grifes famosas. É claro que, no nosso caso, foi só uma caminhada mesmo. O Felipe nem quis entrar na loja da Nespresso que tem lá, de tão chique que era. Também vale a pena pegar o carro e passear pelas ruas. Aquelas palmeiras gigantes são realmente lindas e as casinhas são muito charmosas.
 
-### Lacma - 1,5 horas
+### Sony Studios - 2h
+Los Angeles tem vários estúdios de cinema. E resolvemos fazer alguns passeios nos sets de filmagem. Compramos um GoPass Ticket para poder visitar a Sony Pictures Studios, Warner Bros. Studio e Universal Studios Hollywood (que é o parque tématico que já falamos acima). Foi mais barato comprar esse pacote e você faz a reserva com a Sony e Warner via telefone (o que pode ser meio chato).
+
+O primeiro que fomos visitar foi a Sony Studios. O tour é iniciado em um mini cinema onde você assiste a um vídeo que conta a história da Sony e mostra os maiores sucessos do estúdio. Depois do vídeo, um guia inicia o passeio dentro dos estúdios. Atenção: o passeio é feito **a pé**. É bem legal caminhar pelos estúdios e ir acompanhando as explicações do guia sobre como eles usam os estúdios para produzir os programas e filmes. Mas, chega uma hora que você até cansa de andar, ainda mais debaixo de um sol forte. Se no dia que você for estiver sol, não deixe de levar um protetor e um bone ou chapéu! O que a gente mais gostou da visita (pelo menos eu) foi visitar os estúdios de gravação. Fomos até o set de filmagem do seriado "Ray Donovan", "Jeopardy!" (aquele gameshow que a gente sempre vê nos filmes as pessoas tentando adivinhar a palavra) e "The Goldbergs". Claro que quando chegamos de viagem começamos a ver The Goldbergs e foi muito legal ver o estúdio por onde passamos. =P (mas a série nem é tão legal assim).
+
+
+### Lacma - 1h e 30m
+Se você gosta de museus, vale a pena visitar o Los Angeles County Museum of Art. Um museu bem charmosinho com exposições fixas e itinerantes. Agora se você não gosta de museus, vale a pena ir mesmo assim. A parte de fora do museu é um espetáculo a parte, com vários postes legais que rendem uma boa foto. Nós fomos apenas de dia, mas acredito que de noite deve ser ainda mais legal!
+
+
+## Dia 5
+Um dos (vários) dias mais legais da viagem. Dia de conhecer os estúdios da Warner Bros, O Grifith Park (famosinho no filme La La Land), ver o famoso letreiro de Hollywood. Também rolou uma visita ao Los Angeles City Hall, onde fica o governo da cidade de Los Angeles.
+
+### Warner Bros Studios - 3h
+O melhor estúdio que você conhece e respeita. Sim, o nosso passeio na Warner foi apenas maravilhoso. Diferentemente da Sony, a gente vai de carrinho conhecendo os estúdios (o que torna a visita mais agradável). Passamos por vários **sets** famosos, como o de Friends. Até hoje a plaquinha com o **nome** da série está por lá. Também conhecemos o estúdio de gravação do seriado The Big Bang Theory (mas não podemos tirar nenhuma foto lá =/). O legal é que os espaços são separados por temas: tem o set de Nova York, o set do velho oeste e etc. O carrinho para no meio do estúdio e a gente pode visitar as casas que estão no cenário. Também vimos o estúdio de alguns seriados, como Gilmore Girls. É bem legal ver como é por dentro. Cada casa possui uma TV instalada que passa cenas de filmes gravadas exatamente no espaço em que a gente está. Eles mostram como um único lugar se transforma em vários sets de filmagem. Inclusive no filme La La Land (atenção! spoiler), a cafeteria onde a personagem da Emma Stone trabalha é exatamente onde a gente passou.  Outra parte bem legal do tour é um acervo de coisas que são utilizadas no filme. Você vê de perto, por exemplo, a famosa cadeira vermelha do filme Matrix. Para quem é fã de Friends, um dos momentos mais legais é a visita até o Central Perk. Sim! O cenário possui a placa com o cardápio do restaurante, a mesma utilizada no último dia de gravação do seriado. Para manter o escrito, o nosso guia disse que eles aplicam diariamente spray para cabelo.
+Também tivemos a opção de escolher um outro estúdio para conhecer. Nosso guia nos ofereceu o estúdio da Ellen Degeneres (minha expectativa) e o do Connan (a realidade). Mas foi legal ainda assim.
+
+Outra parte bem legal do tour (sim, são muitas) foi conhecer o "museu" do Batman. A gente pode conferir todas as batcavernas já usadas nos filmes, roupas e adereços. Na parte de cima, tem uma área dedicada exclusivamente ao Harry Potter.
+
+Ao final do tour, você pode ir numa lojinha cheia de coisas legais, como garrafinhas, chaveiros e blusas dos seriados.
+
+
+
+
+
+
+
+
+
+
 
 
 
