@@ -133,22 +133,22 @@ Se você gosta de museus, vale a pena visitar o Los Angeles County Museum of Art
 Um dos (vários) dias mais legais da viagem. Dia de conhecer os estúdios da Warner Bros, O Griffith Park (famosinho no filme La La Land), ver o famoso letreiro de Hollywood. Também rolou uma visita ao Los Angeles City Hall, onde fica o governo da cidade de Los Angeles.
 
 ### Warner Bros Studios - 3h
-O melhor estúdio que você conhece e respeita. O nosso passeio na Warner foi apenas maravilhoso. Diferentemente da Sony, a gente vai de carrinho (o que torna a visita mais agradável) conhecendo as instalações da Warner Bros. A passeio começou pos algumas cidades cinematográficas (foto) onde Fazemos algumas paradas e a gente pode visitar as casas que estão no cenário. Por dentro de alguns imóveis possui uma TV instalada que passa cenas de filmes gravadas exatamente no espaço em que a gente está, enquanto o guia explica como um único lugar é utilizado em diferentes produções de formas variadas. É muito interessante. Inclusive no filme La La Land (atenção! spoiler), tem uma cena em que os personagens da Emma Stone e Ryan Gosling passeiam pro esses cenários que a gente passou.  
-Já os estúdios são galpões fechados onde dentro são montados cenãrios para as filmagens. Em frente a cada estúdio existe um placa com os nomes do que foi produzido ali. (foto) Passamos por vários estúdios famosos aonde foram gravados filmes e series famosas.
+O melhor estúdio que você conhece e respeita. O nosso passeio na Warner foi apenas maravilhoso. Diferentemente da Sony, a gente vai de carrinho (o que torna a visita mais agradável) conhecendo as instalações da Warner Bros. O passeio começou por algumas cidades cinematográficas (foto) onde fazemos podemos visitar as casas que estão no cenário. Por dentro de alguns imóveis possui uma TV instalada que passa cenas de filmes gravadas exatamente no espaço em que a gente está, enquanto o guia explica como um único lugar é utilizado em diferentes produções de formas variadas. É muito interessante! Inclusive no filme La La Land (atenção! spoiler) tem uma cena em que os personagens da Emma Stone e do Ryan Gosling passeiam por esses cenários que a gente passou.  
+Já os estúdios são galpões fechados onde dentro são montados cenários para as filmagens. Em frente a cada estúdio existe um placa com os nomes do que foi produzido ali. (foto) Passamos por vários estúdios famosos aonde foram gravados filmes e séries famosas.
 
-Outra parte bem legal do tour foi visitar duas exposições que estavam disponíveis na época. Uma foi um "museu" do **Batman**. A gente pode conferir praticamente  TUDO que já foi utilizado em filmes do Batman, roupas, adereços e o melhor os batmóveis e o famoso batsinal. **foto**
-A outra exposição foi do **Harry Potter** (que também somos fãs), lá tinha bastante elementos usados nos filmes, mas o destaque é o chapeu selecionador **verificar esse nome**, que você coloca e ele seleciona a sua casa (nos dois saimos de Grynfindor. Fuck yeah!!)
+Outra parte bem legal do tour foi visitar duas exposições que estavam disponíveis na época. Uma foi um "museu" do **Batman**. A gente pode conferir praticamente  TUDO que já foi utilizado em filmes do Batman, como roupas, adereços, os batmóveis e o famoso batsinal. **foto**
+A outra exposição foi do **Harry Potter** (que também somos fãs), lá tinha bastante elementos usados nos filmes, mas o destaque é o chapeu selecionador **verificar esse nome**, que você coloca e ele seleciona a sua casa (nós dois  saímos com a Grynfindor. Fuck yeah!!)
 
-Outra parte muito massa (sim, são muitas)  do tour é um acervo de coisas **(lembrar o nome disso)** que são utilizadas no filme.
-Você vê de perto, por exemplo, a famosa cadeira vermelha do filme **Matrix** junto com milhares e milhares de outro itens. Para quem é fã de **Friends**, um dos momentos mais legais é a visita ao Central Perk. Sim! Lá existe uma replica do famoso café onde os Friens se encontravam, inclusive o cenário possui a placa com o cardápio do restaurante, a mesma utilizada no último dia de gravação do seriado. Para manter o escrito (que foi feito de giz), eles aplicam diariamente spray para cabelo.
+Outra parte muito massa (sim, são muitas)  do tour é um acervo de coisas **(lembrar o nome disso)** que são utilizadas nos filmes.
+Você vê de perto, por exemplo, a famosa cadeira vermelha do filme **Matrix** junto com milhares e milhares de outro itens. Para quem é fã de **Friends**, um dos momentos mais legais é a visita ao Central Perk. Sim! Lá existe uma replica do famoso café onde os Friends se encontravam. Inclusive no cenário possui a placa com o cardápio do restaurante, a mesma utilizada no último dia de gravação do seriado. Para manter o escrito (que foi feito de giz), eles aplicam diariamente spray para cabelo. **foto**
 
-Depois disso (parece que não acaba né) visitamos o estúdio de alguns programas de tv. Conhecemos o estúdio de gravação do seriado The Big Bang Theory, que é gravado ao vivo com plateia (mas não podemos tirar nenhuma foto lá =/).    
+Depois disso (parece que não acaba né), visitamos o estúdio de alguns programas de TV. Conhecemos o estúdio de gravação do seriado The Big Bang Theory, que é gravado ao vivo com plateia (mas não podemos tirar nenhuma foto lá =/).    
 Também tivemos a opção de escolher um outro estúdio para conhecer. Nosso guia nos ofereceu o estúdio da Ellen Degeneres (expectativa da Larissa) e o do Connan, que foi o escolhido (felicdiade do Felipe). Foi demais o passeio como um todo.
 
 Ao final do tour, exite uma lojinha cheia de coisas legais, como garrafinhas, chaveiros e blusas dos seriados.
 
 #### Dica
-Essa visitação a Warner é obrigatória, se não der para voce visitar outros estúdio, tudo bem. Mas vá no da Warner.
+Essa visita ao estudo da Warner é obrigatória! Se não der para voce visitar outros estúdios, tudo bem. Mas vá no da Warner!
 
 ### Griffith Park
 O Griffith
