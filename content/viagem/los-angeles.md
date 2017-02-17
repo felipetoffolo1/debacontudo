@@ -151,7 +151,38 @@ Ao final do tour, exite uma lojinha cheia de coisas legais, como garrafinhas, ch
 Essa visita ao estudo da Warner é obrigatória! Se não der para voce visitar outros estúdios, tudo bem. Mas vá no da Warner!
 
 ### Griffith Park
-O Griffith
+O Griffith Park é um grande parque municipal de Los Angeles, conhecido inclusive como o Central Park de Los Angeles.
+{{< quote-her "Mas nem tem nada a ver - Larissa" >}}
+No Griffith Park você tem uma vista bem boa do letreiro de Hollywood, e é o mais perto de uma boa foto com ele que você vai conseguir (na boa, faz um photoshop que é melhor). O Griffith aparece em vários filmes, como no "La La Land" (sim, citamos ele de novo) naquela cena da dança. E é nele que fica o famoso Griffith Observatory, que também aparece em vários filmes como "[Juventude Transviada](https://www.youtube.com/watch?v=eselLQax8us)" e "La La Land" (ok agora a gente fez para provocar).
+#### O que fazer
+Primeiramente, curta a vista de LA. O Griffth Observatory tem a vista mais bonita da cidade.
+Visite o Griffith Observatory, pelo o que a gente pesquisamos é lindo e bem legal. No dia que fomos era fim de semana e estava lotado lá, então acabamos desistindo de entrar. Mas hoje a gente se arrepende muito disso, não cometam o mesmo erro.
+#### O que não fazer
+No Griffith Park fica o Zoologico de LA. Não nos entendam mal, a gente adora zoologico, e esse é um bem legal. Mas não tem nada de excepcional e na falta de tempo, indicamos que priorizem outras visitas.
+
+## Dia 6
+No dia 6 já batendo aquele clima de tristeza porque era o ultimo dia em Los Angeles. Mas a gente não deixou a tristeza dominar e fechamos a nossa estadia com chave de ouro. Esse foi o nosso primeiro dia de praia, onde fomos conhecer as mudialmente conhecidas Venice Beach e Santa Monica.
+
+#### Venice Beach - 3h
+Venice Beach é um **?bairro?** que você com certeza já viu, mas talvez não saiba. Ela recebeu esse nome pois originalmente todas as suas ruas na verdade eram canais. Hoje ela não é mais toda assim, mas ainda existe uma área assim que é linda e que quando você conhecer vai vai pensar seriamente em se mudar pra lá (a gente ainda se pega pensando nisso). Passei com calma e aprecie as casa por lá enquanto tira uma fotos.
+Saindo do canais você tem a praia em si de Venice Beach, ela tem um grande calçadão aonde você vai encontrar as maiores figuras. Tem de tudo, gente arrumadinha, músico de rua, várias lojas de venda de maconha, galera da maromba, artistas (a gente viu o [David Cross][209b977a]) ou seja um lugar muito doido. Tem vários cafés e restaurantes na calçada, vale a pena sentar em um para beber algo enquanto fica vendo o movimento.
+
+#### Pier de Santa Monica - 3h
+Um pouco depois de Venice Beach fica o Pier de Santa Monica. O Pier é onde termina a Rota 66 e nele você encontra vários restaurantes, lojas e um parque de diversão. Ali você vai querer passar horas passeando, comendo e admirando tudo. Aproveitamos para almoçar os famosos Fish and Tips (peixe frito, com batata e molho) no Rusty'S Surf Ranch , que sempre tem um preço em conta. Mas lá também tem Taco Bells (que sempre salva como opção barata sem ser hamburguer). Dependendo do clima você pode descer na areia e curtir um pouco da praia, é meio diferente praia lá, tem muita gente sentada na areia de roupa. Não perca o por do sol no Pier que é maravilhoso e a roda gigante iluminada durante a noite.(fotos, fotos e mais fotos)
+Mas cuidado que venta muito, a gente não foi preparado para isso e tivemos que comprar agasalhos lá com o cair da noite.
+
+#### Third Street Promenade - 1h
+
+Santa Mônica tem uma rua/shopping/centro de entreterimento muito legal chamada Third Street Promenade. Nela a gente visitou várias lojas (procurando um casaquinho, porque estavamos morrendo de frio), e como sempre acabamos comprando na Forever 21.
+Além das lojas a rua tem vários restaurantes legais e músicos tocando em vários pontos da rua. Vale dar um pulinho lá com certeza.
+
+## Acabou, acabou!!
+Gente e assim acaba nossa viagem e nosso roteiro em Los Angeles. A notícia ruim é que acabou, a maravilhosa é que agora começa a nossa Roadtrip pela Highway 1, e vem muita coisa top por ai. Mas antes disso
+
+## Dicas em Los Angeles
+Um resumo das principais dicas sobre LA
+* Los Angeles tem uma cultura mexicana rica e com isso vem a comida mexicana. Aproveite e fuja de sempre comer sanduiche.
+* Você vai precisar de carro em Los Angeles, ao menos em alguns dias. 
 
 
 
@@ -161,5 +192,5 @@ O Griffith
 
 
 
-
+[209b977a]: http://www.imdb.com/name/nm0189144/ "David Cross"
   [a25f888d]: http://www.lawa.org/FlyAway/Default.aspx "Lax FlyAway"
