@@ -133,58 +133,51 @@ Se você gosta de museus, vale a pena visitar o Los Angeles County Museum of Art
 Um dos (vários) dias mais legais da viagem. Dia de conhecer os estúdios da Warner Bros, O Griffith Park (famosinho no filme La La Land), ver o famoso letreiro de Hollywood. Também rolou uma visita ao Los Angeles City Hall, onde fica o governo da cidade de Los Angeles.
 
 ### Warner Bros Studios - 3h
-O melhor estúdio que você conhece e respeita. O nosso passeio na Warner foi apenas maravilhoso. Diferentemente da Sony, a gente vai de carrinho (o que torna a visita mais agradável) conhecendo as instalações da Warner Bros. O passeio começou por algumas cidades cinematográficas (foto) onde fazemos podemos visitar as casas que estão no cenário. Por dentro de alguns imóveis possui uma TV instalada que passa cenas de filmes gravadas exatamente no espaço em que a gente está, enquanto o guia explica como um único lugar é utilizado em diferentes produções de formas variadas. É muito interessante! Inclusive no filme La La Land (atenção! spoiler) tem uma cena em que os personagens da Emma Stone e do Ryan Gosling passeiam por esses cenários que a gente passou.  
-Já os estúdios são galpões fechados onde dentro são montados cenários para as filmagens. Em frente a cada estúdio existe um placa com os nomes do que foi produzido ali. (foto) Passamos por vários estúdios famosos aonde foram gravados filmes e séries famosas.
+O melhor estúdio que você conhece e respeita. O nosso passeio na Warner foi apenas maravilhoso. Diferentemente da Sony, a gente vai de carrinho (o que torna a visita mais agradável) conhecendo as instalações da Warner Bros. O passeio começa por algumas cidades cinematográficas (foto) onde podemos visitar as casas que estão no cenário. Por dentro de alguns imóveis possui uma TV instalada que passa cenas de filmes gravadas exatamente no espaço em que a gente está, enquanto o guia explica como um único lugar é utilizado em diferentes produções de formas variadas. É muito interessante! Inclusive no filme La La Land (atenção! spoiler) tem uma cena em que os personagens da Emma Stone e do Ryan Gosling passeiam por esses cenários que a gente passou.  
+Já os estúdios são galpões fechados onde dentro são montados cenários para as filmagens. Em frente a cada estúdio, existe um placa com os nomes do que foi produzido ali. (foto) Passamos por vários estúdios famosos aonde foram gravados filmes e séries famosas.
 
-Outra parte bem legal do tour foi visitar duas exposições que estavam disponíveis na época. Uma foi um "museu" do **Batman**. A gente pode conferir praticamente  TUDO que já foi utilizado em filmes do Batman, como roupas, adereços, os batmóveis e o famoso batsinal. **foto**
-A outra exposição foi do **Harry Potter** (que também somos fãs), lá tinha bastante elementos usados nos filmes, mas o destaque é o chapeu selecionador **verificar esse nome**, que você coloca e ele seleciona a sua casa (nós dois  saímos com a Grynfindor. Fuck yeah!!)
+Outra parte bem legal do tour foi visitar duas exposições que estavam disponíveis na época. Uma foi um "museu" do **Batman**. A gente pôde conferir praticamente TUDO que já foi utilizado em filmes do Batman, como roupas, adereços, os batmóveis e o famoso batsinal. **foto**
+A outra exposição foi do **Harry Potter** (que também somos fãs). Lá tinha bastante elementos usados nos filmes, mas o destaque foi o **Chapéu Seletor**, que você coloca e ele seleciona a sua casa (nós dois  saímos com a Grynffindor. Fuck yeah!!)
 
-Outra parte muito massa (sim, são muitas)  do tour é um acervo de coisas **(lembrar o nome disso)** que são utilizadas nos filmes.
-Você vê de perto, por exemplo, a famosa cadeira vermelha do filme **Matrix** junto com milhares e milhares de outro itens. Para quem é fã de **Friends**, um dos momentos mais legais é a visita ao Central Perk. Sim! Lá existe uma replica do famoso café onde os Friends se encontravam. Inclusive no cenário possui a placa com o cardápio do restaurante, a mesma utilizada no último dia de gravação do seriado. Para manter o escrito (que foi feito de giz), eles aplicam diariamente spray para cabelo. **foto**
+Outra parte muito legal (sim, são muitas) do tour é um acervo de coisas **(lembrar o nome disso)** que são utilizadas nos filmes. Você vê de perto, por exemplo, a famosa cadeira vermelha do filme **Matrix** junto com milhares e milhares de outro itens. Para quem é fã de **Friends**, um dos momentos mais legais é a visita ao Central Perk. Sim! Lá existe uma réplica do famoso café onde os Friends se encontravam. Inclusive no cenário possui a placa com o cardápio do restaurante, a mesma utilizada no último dia de gravação do seriado. Para manter o escrito (que foi feito de giz), eles aplicam diariamente spray para cabelo. **foto**
 
-Depois disso (parece que não acaba né), visitamos o estúdio de alguns programas de TV. Conhecemos o estúdio de gravação do seriado The Big Bang Theory, que é gravado ao vivo com plateia (mas não podemos tirar nenhuma foto lá =/).    
-Também tivemos a opção de escolher um outro estúdio para conhecer. Nosso guia nos ofereceu o estúdio da Ellen Degeneres (expectativa da Larissa) e o do Connan, que foi o escolhido (felicdiade do Felipe). Foi demais o passeio como um todo.
+Depois disso (parece que não acaba né), visitamos o estúdio de alguns programas de TV. Conhecemos o estúdio de gravação do seriado **The Big Bang Theory**, que é gravado ao vivo com plateia (mas não podemos tirar nenhuma foto lá =/).    
+Também tivemos a opção de escolher um outro estúdio para conhecer. Nosso guia nos ofereceu o estúdio da **Ellen Degeneres** (expectativa da Larissa) e o do **Connan**, que foi o escolhido (felicdiade do Felipe). Foi demais o passeio como um todo.
 
-Ao final do tour, exite uma lojinha cheia de coisas legais, como garrafinhas, chaveiros e blusas dos seriados.
+Ao final do tour, você pode conhecer uma lojinha cheia de coisas legais, como garrafinhas, chaveiros e blusas dos seriados.
 
 #### Dica
-Essa visita ao estudo da Warner é obrigatória! Se não der para voce visitar outros estúdios, tudo bem. Mas vá no da Warner!
+Essa visita ao estúdio da Warner é obrigatória! Se não der para você visitar outros estúdios, tudo bem. Mas vá no da Warner!
 
 ### Griffith Park
-O Griffith Park é um grande parque municipal de Los Angeles, conhecido inclusive como o Central Park de Los Angeles.
+O Griffith Park é um grande parque municipal de Los Angeles, conhecido inclusive como o Central Park da cidade.
 {{< quote-her "Mas nem tem nada a ver - Larissa" >}}
-No Griffith Park você tem uma vista bem boa do letreiro de Hollywood, e é o mais perto de uma boa foto com ele que você vai conseguir (na boa, faz um photoshop que é melhor). O Griffith aparece em vários filmes, como no "La La Land" (sim, citamos ele de novo) naquela cena da dança. E é nele que fica o famoso Griffith Observatory, que também aparece em vários filmes como "[Juventude Transviada](https://www.youtube.com/watch?v=eselLQax8us)" e "La La Land" (ok agora a gente fez para provocar).
+No Griffith Park, você tem uma vista bem boa do letreiro de Hollywood, e é o mais perto de uma boa foto com ele que você vai conseguir (na boa, faz um photoshop que é melhor). O Griffith aparece em vários filmes, como no "La La Land" (sim, citamos ele de novo) naquela cena da dança. E é nele que fica o famoso Griffith Observatory, que também aparece em vários filmes como "[Juventude Transviada](https://www.youtube.com/watch?v=eselLQax8us)" e "La La Land" (ok agora a gente fez para provocar).
+
 #### O que fazer
-Primeiramente, curta a vista de LA. O Griffth Observatory tem a vista mais bonita da cidade.
-Visite o Griffith Observatory, pelo o que a gente pesquisamos é lindo e bem legal. No dia que fomos era fim de semana e estava lotado lá, então acabamos desistindo de entrar. Mas hoje a gente se arrepende muito disso, não cometam o mesmo erro.
+Primeiramente, curta a vista de Los Angeles. O Griffith Observatory tem a vista mais bonita da cidade (de acordo com o que pesquisamos). No dia que fomos era fim de semana e estava lotado lá, então acabamos desistindo de entrar. Mas hoje a gente se arrepende muito disso, não cometam o mesmo erro.
+
 #### O que não fazer
-No Griffith Park fica o Zoologico de LA. Não nos entendam mal, a gente adora zoologico, e esse é um bem legal. Mas não tem nada de excepcional e na falta de tempo, indicamos que priorizem outras visitas.
+O zoológico de Los Angeles fica dentro do Griffith Park. Não nos entendam mal, a gente adora zoologico, e esse é um bem legal. Mas não tem nada de excepcional. Se tiver com o tempo apertado, é melhor procurar outro programa.
 
 ## Dia 6
-No dia 6 já batendo aquele clima de tristeza porque era o ultimo dia em Los Angeles. Mas a gente não deixou a tristeza dominar e fechamos a nossa estadia com chave de ouro. Esse foi o nosso primeiro dia de praia, onde fomos conhecer as mudialmente conhecidas Venice Beach e Santa Monica.
+Para nosso último dia em Los ANgeles, escolhemos explorar um pouco das famosas praias da cidade. FOmos até Venice Beach e Santa Monica.
 
 #### Venice Beach - 3h
-Venice Beach é um **?bairro?** que você com certeza já viu, mas talvez não saiba. Ela recebeu esse nome pois originalmente todas as suas ruas na verdade eram canais. Hoje ela não é mais toda assim, mas ainda existe uma área assim que é linda e que quando você conhecer vai vai pensar seriamente em se mudar pra lá (a gente ainda se pega pensando nisso). Passei com calma e aprecie as casa por lá enquanto tira uma fotos.
-Saindo do canais você tem a praia em si de Venice Beach, ela tem um grande calçadão aonde você vai encontrar as maiores figuras. Tem de tudo, gente arrumadinha, músico de rua, várias lojas de venda de maconha, galera da maromba, artistas (a gente viu o [David Cross][209b977a]) ou seja um lugar muito doido. Tem vários cafés e restaurantes na calçada, vale a pena sentar em um para beber algo enquanto fica vendo o movimento.
+**Venice Beach** é um ?bairro? que você com certeza já viu, mas talvez não saiba dessa curiosidade: ela recebeu esse nome pois originalmente todas as suas ruas na verdade eram canais. Apesar de não ser mais assim, ainda há uma área de canais muito linda e que, quando você conhecer, vai pensar seriamente em comprar uma casa por ali (a gente ainda se pega pensando nisso). Passeie com calma por Venice Beach e aprecie as casas quanto estiver por lá. Aproveite para tirar lindas fotos.
+
+Saindo do canais, você chega até a praia de Venice Beach. Ela tem um grande calçadão aonde você encontra as maiores figuras. Tem de tudo! Gente arrumadinha, músico de rua, várias lojas de venda de maconha, galera da maromba, artistas (a gente viu o [David Cross][209b977a]), ou seja, um lugar muito doido. Também há vários cafés e restaurantes na calçada, vale a pena sentar em um para beber algo enquanto fica vendo o movimento.
 
 #### Pier de Santa Monica - 3h
-Um pouco depois de Venice Beach fica o Pier de Santa Monica. O Pier é onde termina a Rota 66 e nele você encontra vários restaurantes, lojas e um parque de diversão. Ali você vai querer passar horas passeando, comendo e admirando tudo. Aproveitamos para almoçar os famosos Fish and Tips (peixe frito, com batata e molho) no Rusty'S Surf Ranch , que sempre tem um preço em conta. Mas lá também tem Taco Bells (que sempre salva como opção barata sem ser hamburguer). Dependendo do clima você pode descer na areia e curtir um pouco da praia, é meio diferente praia lá, tem muita gente sentada na areia de roupa. Não perca o por do sol no Pier que é maravilhoso e a roda gigante iluminada durante a noite.(fotos, fotos e mais fotos)
-Mas cuidado que venta muito, a gente não foi preparado para isso e tivemos que comprar agasalhos lá com o cair da noite.
+Um pouco depois de Venice Beach fica o pier de **Santa Monica**. O pier é onde termina a Rota 66 e nele você encontra vários restaurantes, lojas e um parque de diversão. Ali você vai querer passar horas passeando, comendo e admirando tudo. Aproveitamos para almoçar os famosos Fish and Tips (peixe frito, com batata frita e molho) no Rusty'S Surf Ranch, que sempre tem um preço em conta. Mas lá também tem Taco Bells (que sempre salva como opção barata sem ser hambúrguer). Dependendo do clima, você pode descer na areia e curtir um pouco da praia. É um pouco diferente do Brasil, pois tem muita gente sentada na areia de roupa. Não perca o pôr do sol no Pier que é apenas **maravilhoso** e a roda gigante iluminada durante a noite.(fotos, fotos e mais fotos)
+Atenção: dependendo da época, venta muito! Nós não fomos preparados para isso e tivemos que comprar casacos para conseguir aguentar o frio. 
 
 #### Third Street Promenade - 1h
 
-Santa Mônica tem uma rua/shopping/centro de entreterimento muito legal chamada Third Street Promenade. Nela a gente visitou várias lojas (procurando um casaquinho, porque estavamos morrendo de frio), e como sempre acabamos comprando na Forever 21.
-Além das lojas a rua tem vários restaurantes legais e músicos tocando em vários pontos da rua. Vale dar um pulinho lá com certeza.
+Santa Mônica tem uma rua/shopping/centro de entreterimento muito legal chamada Third Street Promenade. Nela a gente visitou várias lojas (procurando um casaquinho, porque estávamos morrendo de frio), e como sempre acabamos comprando na Forever 21. Aém das lojas, a rua tem vários restaurantes legais e músicos tocando em vários pontos da rua. Vale dar um pulinho por lá!
 
-## Acabou, acabou!!
-Gente e assim acaba nossa viagem e nosso roteiro em Los Angeles. A notícia ruim é que acabou, a maravilhosa é que agora começa a nossa Roadtrip pela Highway 1, e vem muita coisa top por ai. Mas antes disso
-
-## Dicas em Los Angeles
-Um resumo das principais dicas sobre LA
-* Los Angeles tem uma cultura mexicana rica e com isso vem a comida mexicana. Aproveite e fuja de sempre comer sanduiche.
-* Você vai precisar de carro em Los Angeles, ao menos em alguns dias. 
-
-
+## Rumo a San Francisco!
+E assim acaba nossa viagem por Los Angeles. A notícia ruim é que acabou. A boa é que agora começa a nossa Roadtrip pela Highway 1, e vem muita coisa top por aí. Em breve, novos posts sobre a estrada, cidades pelo caminho e dicas para um roteiro legal em **São Fransico**.
 
 
 
