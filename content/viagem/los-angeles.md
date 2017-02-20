@@ -151,7 +151,7 @@ Para quem é fã de **Friends**, o momento mais foda é a visita ao **Central Pe
 Depois disso (parece que não acaba né), visitamos o estúdio de alguns programas de TV. Conhecemos o estúdio de gravação do seriado **The Big Bang Theory**, que é gravado ao vivo com plateia (mas não podemos tirar nenhuma foto lá =/ ).
 Também tivemos a opção de escolher um outro estúdio para conhecer. Nosso guia nos ofereceu o estúdio da **Ellen Degeneres** (expectativa da Larissa) e o do **Connan**, que foi o escolhido (felicidade do Felipe). Foi demais o passeio como um todo.
 
-Ao final do tour, você pode vai para uma lojinha cheia de coisas legais, como garrafinhas, chaveiros e blusas dos seriados.
+Ao final do tour, você vai para uma lojinha cheia de coisas legais, como garrafinhas, chaveiros e blusas dos seriados.
 
 #### Dica
 Essa visita ao estúdio da Warner é obrigatória! Se não der para você visitar outros estúdios, tudo bem. Mas vá no da Warner!
@@ -163,7 +163,7 @@ No Griffith Park, você tem uma vista bem boa do letreiro de **Hollywood**, e é
 
 {{% figure src="/img/2017/02/DSC09701.JPG" title="Agora a gente desistiu" alt="Letreiro de Hollywood no Griffith Park" class="pure-img-responsive" %}}
 
-O Griffith aparece em vários filmes, como no "La La Land" (sim, citamos ele de novo) naquela cena da dança. E é nele que fica o famoso Griffith Observatory, que também aparece em vários filmes como "[Juventude Transviada](https://www.youtube.com/watch?v=eselLQax8us)" e "La La Land" (ok agora a gente fez para provocar).
+O Griffith aparece em vários filmes, como (sim, citamos ele de novo) naquela cena da dança do filme "La La Land". E é nele que fica o famoso Griffith Observatory, que também aparece em vários filmes como "[Juventude Transviada](https://www.youtube.com/watch?v=eselLQax8us)" e "La La Land" (ok agora a gente fez para provocar).
 
 {{% figure src="/img/2017/02/lalaland.jpg"  alt="La La Land Griffith Park" class="pure-img-responsive" %}}
 
