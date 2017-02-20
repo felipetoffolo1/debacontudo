@@ -489,7 +489,9 @@ nav#TableOfContents ul:first-child {
   font-size: 0.8rem;
   color: #aeaeae;
 }
-
+#toc ul{
+margin:0.3em 0;
+}
 /* Footer */
 .footer {
   text-align: center;

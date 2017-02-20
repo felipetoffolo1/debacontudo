@@ -9,7 +9,7 @@ categories = ["Viagem"]
 author = "Felipe Toffolo e Larissa Alberti"
 banner = "/img/los-angeles/banner.jpg"
 lightbox = true
-notoc = false
+totop = true
 +++
 
 ## "Garota eu vou pra Califórnia..."
