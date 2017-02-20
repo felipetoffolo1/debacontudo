@@ -1,8 +1,9 @@
 +++
-title = "Los Angeles"
+title = "Viagem para Califórnia: O Melhor Roteiro para Los Angeles"
 draft = false
 date = "2017-02-20T14:00:47-02:00"
 tags = ["viagens","california","usa"]
+keywords = ["viagens","california","usa","los angeles","roteiro los angeles", "los angeles o que fazer","turismo", "pontos de interesse","guia los angeles","o que fazer", "são francisco","6 dias"]
 categories = ["Viagem"]
 author = "Felipe Toffolo e Larissa Alberti"
 banner = "/img/los-angeles/banner.jpg"
