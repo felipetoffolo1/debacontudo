@@ -163,12 +163,12 @@ No Griffith Park, você tem uma vista bem boa do letreiro de **Hollywood**, e é
 
 {{% figure src="/img/2017/02/DSC09701.JPG" title="Agora a gente desistiu" alt="Letreiro de Hollywood no Griffith Park" class="pure-img-responsive" %}}
 
-O Griffith aparece em vários filmes, como (sim, citamos ele de novo) naquela cena da dança do filme "La La Land". E é nele que fica o famoso Griffith Observatory, que também aparece em vários filmes como "[Juventude Transviada](https://www.youtube.com/watch?v=eselLQax8us)" e "La La Land" (ok agora a gente fez para provocar).
+O Griffith aparece em vários filmes, como naquela cena da dança do filme "La La Land" (sim, citamos ele de novo). E é nele que fica o famoso Griffith Observatory, que também aparece em vários filmes como [Juventude Transviada](https://www.youtube.com/watch?v=eselLQax8us)" e "La La Land" (ok agora a gente fez para provocar).
 
 {{% figure src="/img/2017/02/lalaland.jpg"  alt="La La Land Griffith Park" class="pure-img-responsive" %}}
 
 #### O que fazer
-Primeiramente, curta a vista de Los Angeles. O Griffith Observatory tem a vista mais bonita da cidade, e por dentro (de acordo com o que pesquisamos) a visita é ótima. No dia que fomos era fim de semana e estava lotado lá, então acabamos desistindo de entrar. Mas hoje a gente se arrepende muito disso. Não cometam o mesmo erro!
+Primeiramente, curta a vista de Los Angeles. O Griffith Observatory tem a vista mais bonita da cidade e a visita é ótima (de acordo com o que pesquisamos). No dia em que fomos era fim de semana e estava lotado lá, então acabamos desistindo de entrar. Mas hoje a gente se arrepende muito disso. Não cometam o mesmo erro!
 
 #### O que não fazer
 O zoológico de Los Angeles fica dentro do Griffith Park. Como estávamos com um certo espaço no dia sobrando, resolvemos conhecê-lo. Apesar de ser bem legal, não tem nada de excepcional. Por isso, se tiver com o tempo apertado, sugerimos aproveitar outro programa.
@@ -177,14 +177,14 @@ O zoológico de Los Angeles fica dentro do Griffith Park. Como estávamos com um
 Para nosso último dia em Los Angeles, escolhemos explorar um pouco das famosas praias da cidade. Fomos até **Venice Beach** e **Santa Monica**.
 
 ### Venice Beach - 3h
-**Venice Beach** é um local que você com certeza você já viu ou ouviu falar, mas talvez não saiba dessa curiosidade: ela recebeu esse nome pois originalmente todas as suas ruas na verdade eram canais. Apesar de não ser mais assim, ainda há uma área de canais muito linda e que, quando você conhecer, vai pensar seriamente em se mudar para lá (a gente ainda se pega pensando nisso). Passeie com calma por Venice Beach e aprecie as casas quanto estiver por lá. Aproveite para tirar lindas fotos.
+**Venice Beach** é um local que você com certeza já viu ou ouviu falar, mas talvez não saiba dessa curiosidade: ela recebeu esse nome pois originalmente todas as suas ruas na verdade eram canais. Apesar de não ser mais assim, ainda há uma área de canais muito linda e que, quando você conhecer, vai pensar seriamente em se mudar para lá (a gente ainda se pega pensando nisso). Passeie com calma por Venice Beach e aprecie as casas quanto estiver por lá. Aproveite para tirar lindas fotos.
 
 {{% figure src="/img/2017/02/venice-montagem.jpg"  alt="Fotos com a Placa de Hollywood na Hollywwod Boulevard" class="pure-img-responsive" %}}
 
 Saindo dos canais, você chega até a praia de Venice Beach. Ela tem um grande calçadão onde você encontra as maiores figuras. Tem de tudo! Gente arrumadinha, músicos de rua, várias lojas de venda de maconha, galera da maromba, artistas (a gente viu o [David Cross][209b977a]), ou seja, um lugar muito doido. Também há vários cafés e restaurantes na calçada. Vale a pena sentar em um para beber algo enquanto fica vendo o movimento.
 
 ### Pier de Santa Monica - 3h
-Um pouco depois de Venice Beach fica o pier de **Santa Monica**. O pier é onde termina a Rota 66 e nele você encontra vários restaurantes, lojas e um parque de diversão. Ali você vai querer ficar horas passeando, comendo e admirando tudo. Aproveitamos para almoçar os famosos Fish and Tips (que nada mais é que isca de peixe frito, com batata frita e molho) no Rusty'S Surf Ranch, que tem um preço em conta. Mas lá também tem Taco Bells (que sempre salva como opção barata sem ser hambúrguer).
+Um pouco depois de Venice Beach fica o pier de **Santa Monica**. O pier é onde termina a **Rota 66** e nele você encontra vários restaurantes, lojas e um parque de diversão. Ali você vai querer ficar por horas passeando, comendo e admirando tudo. Aproveitamos para almoçar os famosos Fish and Tips (que nada mais é que isca de peixe frito, com batata frita e molho) no Rusty'S Surf Ranch, que tem um preço em conta. Mas lá também tem Taco Bells (que sempre salva como opção barata sem ser hambúrguer).
 
 {{% figure src="/img/2017/02/pier-montagem.jpg"  alt="Pier de Santa Monica" class="pure-img-responsive" %}}
 
@@ -198,7 +198,7 @@ Atenção: dependendo da época, venta muito! Nós não fomos preparados para is
 
 ### Third Street Promenade - 1h
 
-Santa Mônica tem uma rua/shopping/centro de entretenimento muito legal chamada Third Street Promenade. Nela a gente visitou várias lojas (procurando um casaquinho, porque estávamos morrendo de frio), e como sempre acabamos comprando na Forever 21. Além das lojas, a rua tem vários restaurantes legais e músicos tocando ao vivo. Vale dar um pulinho por lá!
+Santa Mônica tem uma rua/shopping/centro de entretenimento muito legal chamada Third Street Promenade. Visitamos várias lojas (procurando um casaquinho, porque estávamos morrendo de frio) e, como sempre, acabamos comprando na Forever 21. Além das lojas, a rua tem vários restaurantes legais e músicos tocando ao vivo. Vale dar um pulinho por lá!
 
 ## Rumo a San Francisco!
 E assim acaba nossa viagem por Los Angeles. A notícia ruim é que acabou. A boa é que agora começa a nossa Roadtrip pela Highway 1. Em breve, novos posts sobre a estrada, cidades pelo caminho e dicas para um roteiro legal em **São Francisco**.
