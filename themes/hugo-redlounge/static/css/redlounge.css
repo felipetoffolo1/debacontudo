@@ -73,6 +73,8 @@ h1 {
 .pure-img-responsive img{
   max-width: 100%;
   height: auto;
+  margin: auto;
+  display: block;
 }
 .pure-img-around-right img{
   max-width: 50%;
@@ -91,6 +93,22 @@ h1 {
   margin: auto;
   display: block;
   width: 100%;
+}
+.w500 img{
+  max-width: 500px;
+  margin: auto;
+  display: block;
+}
+.h500 img{
+  max-height: 500px;
+}
+.w300 img{
+  max-width: 300px;
+  margin: auto;
+  display: block;
+}
+.h300 img{
+  max-height: 300px;
 }
 #layout {
   padding: 0;
