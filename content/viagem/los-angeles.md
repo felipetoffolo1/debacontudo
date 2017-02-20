@@ -1,7 +1,7 @@
 +++
 title = "Los Angeles"
-draft = true
-date = "2017-02-12T20:00:47-02:00"
+draft = false
+date = "2017-02-20T14:00:47-02:00"
 tags = ["viagens","california","usa"]
 categories = ["Viagem"]
 author = "Felipe Toffolo e Larissa Alberti"
@@ -57,15 +57,14 @@ Já instalados, era hora de finalmente começar a viagem!
 ### Calçada da Fama - 3 horas
 Estávamos em Los Angeles, a terra do cinema, e óbvio que a primeira coisa que fizemos foi visitar a calçada da fama. Pegamos um metrô pertinho do hotel e depois de alguns minutos estávamos na Hollywood Boulevard (tudo guiado pelo Google Maps). A Hollywod Boulevard é onde ficam várias atrações, sendo a **Calçada da Fama** a mais famosa delas.
 Apesar de não ser nada demais, você acaba ficando meio impressionado pois **você está andando naquelas estrelinhas que você já viu tantas vezes na tv e no cinema**. Aliás, essa sensação é algo que sentimos várias vezes em Los Angeles. De lá, tivemos a nossa primeira visão do famigerado letreiro de Hollywood e a primeira tentativa (de muitas) de tirar uma foto decente com ele.
-{{% figure src="/img/2017/02/hollywood-montagem.jpg"  alt="Fotos com a Placa de Hollywood na Hollywwod Boulevard" class="pure-img-responsive" %}}
-<!-- {{% figure src="/img/2017/02/DSC09333.JPG"  alt="Fotos com a Placa de Hollywood na Hollywwod Boulevard" class="pure-img-around-right" %}} -->
+{{% figure src="/img/2017/02/hollywood-montagem.jpg" title="Não vai ficar bom, mas você vai tirar" alt="Fotos com a Placa de Hollywood na Hollywwod Boulevard" class="pure-img-responsive" %}}
 
 #### O que fazer
 Andar olhando as estrelas no chão e dizendo "olha o fulano" e "olha o beltrano" é a principal atração. Aí você tenta tirar uma foto com uma estrela de alguém que você é fã, mas a foto vai ficar provavelmente meio ruim. Você tem que tirar a foto rápido, já que além de você tem mais um monte de gente querendo a mesma foto. Vale também entrar nas lojinhas de lembrancinha e levar um souvenir de Hollywood. Tem coisas bem legais.
-{{% figure src="/img/2017/02/estrela-montagem.jpg"  alt="Fotos com a Placa de Hollywood na Hollywwod Boulevard" class="pure-img-responsive" %}}
+{{% figure src="/img/2017/02/estrela-montagem.jpg"  alt="Fotos nas Calçada da Fama" class="pure-img-responsive" %}}
 
 #### O que não fazer
-{{% figure src="/img/2017/02/DSC09325.JPG"  alt="Fotos com a Placa de Hollywood na Hollywwod Boulevard" class="pure-img-around-right" %}}
+{{% figure src="/img/2017/02/DSC09325.JPG"  alt="Personagem na Calçada da fama" class="pure-img-around-right" %}}
 Além das estrelas, a calçada da fama é cheia de gente maluca fantasiada querendo tirar foto com você. É bem divertido de ver. Mas fique esperto pois eles vão querer te fazer de bobo pra você tirar uma foto com eles. Com a gente aconteceu com uma mulher que eu nem sabemos o que ela era exatamente. Enquantos tiravamos umas ela meio que foi entrando na foto. Depois ela veio cobrar 15 dólares por isso. Demos 7 e aprendemos essa lição.
 
 ### Dolby Theater - 30 minutos
@@ -89,7 +88,7 @@ Contratamos um serviço de transporte que marcou com a gente em um ponto de enco
 ### Disney California Adventure
 Existem dois parques da Disney na Califórnia: o **Disney World** e o **Disney California Adventure**. Optamos pelo segundo, já que é o parque mais novo da Disney e o que tem mais brinquedos para o público jovem/adulto.
 Como já dissemos, era aniversário da Larissa, então fomos lá na recepção tentar ganhar alguma coisa (vai que né). Ela ganhou um broche de aniversário e a partir daí **TODOS** os funcionários da Disney que cruzaram com a gente disseram "Happy Birthday Larissa". Todos mesmo! Parecia que tinham sofrido uma lavagem cerebral no estilo Black Mirror.
-{{% figure src="/img/2017/02/DSC09346.JPG"  alt="Fotos com a Placa de Hollywood na Hollywwod Boulevard" class="pure-img-responsive" %}}
+{{% figure src="/img/2017/02/DSC09346.JPG"  alt="Disney California Studio" class="pure-img-responsive" %}}
 
 #### O que fazer
 Não vamos ficar falando aqui o quanto a Disney é linda e mágica que todo mundo já sabe disso (e não cabe nesse post, se for o caso fazemos um só da Disney depois). Na verdade tudo lá é bom, até os brinquedos bobinhos.
@@ -147,20 +146,24 @@ Um dos dias mais legais da viagem (de tantos)! Dia de conhecer os estúdios da W
 
 ### Warner Bros Studios - 3h
 O nosso passeio na Warner foi apenas **maravilhoso**. Diferentemente da Sony, a gente vai de carrinho (o que torna a visita mais agradável) conhecendo as instalações da Warner Bros. O passeio começa por algumas cidades cinematográficas (foto) onde podemos visitar as casas que estão no cenário.
-{{% figure src="/img/2017/02/warner-montagem.jpg"  alt="Fotos com a Placa de Hollywood na Hollywwod Boulevard" class="pure-img-responsive" %}}
+{{% figure src="/img/2017/02/warner-montagem.jpg"  alt="La La Land e o Estúdio Warner Bros" class="pure-img-responsive" %}}
+
 Por dentro de alguns imóveis possui uma TV instalada que passa cenas de filmes gravadas exatamente no espaço em que a gente está, enquanto o guia explica como um único lugar é utilizado em diferentes produções de formas variadas. É bem interessante! Inclusive no filme "La La Land" tem uma cena em que os personagens da Emma Stone e do Ryan Gosling passeiam por esses cenários que a gente passou.  
-{{% figure src="/img/2017/02/DSC09691.JPG" alt="Fotos com a Placa de Hollywood na Hollywwod Boulevard" class="pure-img-responsive w500" %}}
+{{% figure src="/img/2017/02/DSC09691.JPG" alt="Placa dos Estúdios Warner" class="pure-img-responsive w500" %}}
 Já os estúdios são galpões fechados onde dentro são montados cenários para as filmagens. Em frente a cada estúdio, existe um placa com os nomes do que já foi produzido por ali.  Passamos por vários estúdios famosos onde foram gravados filmes e séries famosas.
 
 Outra parte bem legal do tour foi visitar duas exposições que estavam disponíveis na época. Uma foi um "museu" do **Batman**, onde a gente pôde conferir praticamente TUDO que já foi utilizado em filmes do Cavaleiro das Trevas, como roupas, adereços, os batmóveis e o famoso batsinal.
 
 A outra exposição foi do **Harry Potter** (que também somos fãs). Lá tinha bastante elementos usados nos filmes, mas o destaque foi o **Chapéu Seletor**, que você coloca e ele seleciona a sua casa (nós dois  saímos com a Grynffindor. Fuck yeah!!)
-{{% figure src="/img/2017/02/warner2-montagem.jpg"  alt="Fotos com a Placa de Hollywood na Hollywwod Boulevard" class="pure-img-responsive" %}}
+{{% figure src="/img/2017/02/warner2-montagem.jpg"  alt="Visitas da warner Bros Studios" class="pure-img-responsive" %}}
 
 Outra parte muito legal (sim, são muitas) do tour é a visita ao **The Prop Department**, um galpão de material cenográfico que contém mais de 450 mil coisas que são utilizadas nos filmes. Você vê de perto, por exemplo, a famosa cadeira vermelha do filme **Matrix** junto com milhares e milhares de outros itens.
-{{% figure src="/img/2017/02/prop-montagem.jpg"  alt="Fotos com a Placa de Hollywood na Hollywwod Boulevard" class="pure-img-responsive" %}}
+
+{{% figure src="/img/2017/02/prop-montagem.jpg"  alt="Galpaõ de material cenográfico da Warner Bros" class="pure-img-responsive" %}}
+
 Para quem é fã de **Friends**, um dos momentos mais legais é a visita ao **Central Perk**. Sim! Lá existe uma réplica do famoso café onde os Friends se encontravam. Inclusive no cenário possui uma placa com o cardápio do restaurante, a mesma utilizada no último dia de gravação do seriado. Para manter o escrito (que foi feito de giz), eles aplicam diariamente spray para cabelo.
-{{% figure src="/img/2017/02/friends-montagem.jpg"  alt="Fotos com a Placa de Hollywood na Hollywwod Boulevard" class="pure-img-responsive" %}}
+
+{{% figure src="/img/2017/02/friends-montagem.jpg"  alt="Central Perk na Warner Bros" class="pure-img-responsive" %}}
 
 Depois disso (parece que não acaba né), visitamos o estúdio de alguns programas de TV. Conhecemos o estúdio de gravação do seriado **The Big Bang Theory**, que é gravado ao vivo com plateia (mas não podemos tirar nenhuma foto lá =/).    
 Também tivemos a opção de escolher um outro estúdio para conhecer. Nosso guia nos ofereceu o estúdio da **Ellen Degeneres** (expectativa da Larissa) e o do **Connan**, que foi o escolhido (felicidade do Felipe). Foi demais o passeio como um todo.
@@ -174,10 +177,11 @@ Essa visita ao estúdio da Warner é obrigatória! Se não der para você visita
 O **Griffith Park** é um grande parque municipal de Los Angeles, conhecido inclusive como o Central Park da cidade.
 {{< quote-her "Mas nem tem nada a ver - Larissa" >}}
 No Griffith Park, você tem uma vista bem boa do letreiro de **Hollywood**, e é o mais perto de uma boa foto com ele que você vai conseguir (na boa, faz um photoshop que é melhor).
-{{% figure src="/img/2017/02/DSC09701.JPG"  alt="Fotos com a Placa de Hollywood na Hollywwod Boulevard" class="pure-img-responsive" %}}
+
+{{% figure src="/img/2017/02/DSC09701.JPG" title="Agora a gente desistiu" alt="Letreiro de Hollywood no Griffith Park" class="pure-img-responsive" %}}
 
 O Griffith aparece em vários filmes, como no "La La Land" (sim, citamos ele de novo) naquela cena da dança. E é nele que fica o famoso Griffith Observatory, que também aparece em vários filmes como "[Juventude Transviada](https://www.youtube.com/watch?v=eselLQax8us)" e "La La Land" (ok agora a gente fez para provocar).
-{{% figure src="/img/2017/02/lalaland.jpg"  alt="Fotos com a Placa de Hollywood na Hollywwod Boulevard" class="pure-img-responsive" %}}
+{{% figure src="/img/2017/02/lalaland.jpg"  alt="La La Land Griffith Park" class="pure-img-responsive" %}}
 
 #### O que fazer
 Primeiramente, curta a vista de Los Angeles. O Griffith Observatory tem a vista mais bonita da cidade, e por dentro (de acordo com o que pesquisamos) a visita é ótima. No dia que fomos era fim de semana e estava lotado lá, então acabamos desistindo de entrar. Mas hoje a gente se arrepende muito disso. Não cometam o mesmo erro!
@@ -190,15 +194,19 @@ Para nosso último dia em Los Angeles, escolhemos explorar um pouco das famosas 
 
 ### Venice Beach - 3h
 **Venice Beach** é um local que você com certeza você já viu ou ouviu falar, mas talvez não saiba dessa curiosidade: ela recebeu esse nome pois originalmente todas as suas ruas na verdade eram canais. Apesar de não ser mais assim, ainda há uma área de canais muito linda e que, quando você conhecer, vai pensar seriamente em comprar uma casa por ali (a gente ainda se pega pensando nisso). Passeie com calma por Venice Beach e aprecie as casas quanto estiver por lá. Aproveite para tirar lindas fotos.
+
 {{% figure src="/img/2017/02/venice-montagem.jpg"  alt="Fotos com a Placa de Hollywood na Hollywwod Boulevard" class="pure-img-responsive" %}}
 
 Saindo dos canais, você chega até a praia de Venice Beach. Ela tem um grande calçadão onde você encontra as maiores figuras. Tem de tudo! Gente arrumadinha, músico de rua, várias lojas de venda de maconha, galera da maromba, artistas (a gente viu o [David Cross][209b977a]), ou seja, um lugar muito doido. Também há vários cafés e restaurantes na calçada. Vale a pena sentar em um para beber algo enquanto fica vendo o movimento.
 
 ### Pier de Santa Monica - 3h
 Um pouco depois de Venice Beach fica o pier de **Santa Monica**. O pier é onde termina a Rota 66 e nele você encontra vários restaurantes, lojas e um parque de diversão. Ali você vai querer ficar horas passeando, comendo e admirando tudo. Aproveitamos para almoçar os famosos Fish and Tips (peixe frito, com batata frita e molho) no Rusty'S Surf Ranch, que sempre tem um preço em conta. Mas lá também tem Taco Bells (que sempre salva como opção barata sem ser hambúrguer).
+
 {{% figure src="/img/2017/02/pier-montagem.jpg"  alt="Fotos com a Placa de Hollywood na Hollywwod Boulevard" class="pure-img-responsive" %}}
+
 Dependendo do clima, você pode descer na areia e curtir um pouco da praia. É um pouco diferente do Brasil, pois tem muita gente sentada na areia de roupa. Não perca o pôr do sol no pier que é apenas **maravilhoso** e a roda gigante iluminada durante a noite.(fotos, fotos e mais fotos)
 Atenção: dependendo da época, venta muito! Nós não fomos preparados para isso e tivemos que comprar casacos para conseguir aguentar o frio.
+
 {{% figure src="/img/2017/02/DSC09827.JPG"  alt="Fotos com a Placa de Hollywood na Hollywwod Boulevard" class="pure-img-responsive" %}}
 
 ### Third Street Promenade - 1h

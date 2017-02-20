@@ -76,11 +76,25 @@ h1 {
   margin: auto;
   display: block;
 }
+.pure-img-responsive figcaption{
+  font-style: italic;
+  font-weight: normal !important;
+  text-align: center;
+}
 .pure-img-around-right img{
   max-width: 50%;
   height: auto;
   float: right;
   margin: 0 0 10px 10px;
+}
+.pure-img-around-right figcaption{
+  /*max-width: 50%;
+  height: auto;*/
+  /*float: right;*/
+  /*display: block;*/
+  /*font-style: italic;*/
+  /*font-weight: normal !important;*/
+  /*margin: 0 0 10px 10px;*/
 }
 .pure-img-around-left img{
   max-width: 50%;
