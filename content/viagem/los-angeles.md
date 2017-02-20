@@ -1,6 +1,7 @@
 +++
 title = "Viagem para Califórnia: O Melhor Roteiro para Los Angeles"
 draft = false
+slug = "O Melhor Roteiro para Los Angeles"
 date = "2017-02-20T14:00:47-02:00"
 tags = ["viagens","california","usa"]
 keywords = ["viagens","california","usa","los angeles","roteiro los angeles", "los angeles o que fazer","turismo", "pontos de interesse","guia los angeles","o que fazer", "são francisco","6 dias"]
@@ -8,6 +9,7 @@ categories = ["Viagem"]
 author = "Felipe Toffolo e Larissa Alberti"
 banner = "/img/los-angeles/banner.jpg"
 lightbox = true
+notoc = false
 +++
 
 ## "Garota eu vou pra Califórnia..."
@@ -16,29 +18,7 @@ Conhecer a **Califórnia** sempre foi um dos nossos sonhos, e em 2015 nos realiz
 
 Voltando ao assunto, como temos muitas dicas para compartilhar, decidimos fazer uma série de posts. Vamos falar sobre Los Angeles, San Francisco, a Pacific Coast Highway, as cidades no meio da estrada, restaurantes, hotéis, passeios e etc. O nosso primeiro post será sobre Los Angeles, que foi onde essa jornada começou.
 
-
-## O nosso roteiro - Vai ser um infografico
-### Dia 1
-- Passeio pela Hollywood Bolevard: Calçada da fama
-- Dolby Theater
-- Chinese Theater
-- Amoeba
-### Dia 2
-- Disney
-### Dia 3
-- Universal Studios
-### Dia 4
-- The Original Farmers Market
-- Sony Studios
-- Beverly Hills
-- Lacma
-### Dia 5
-- Warner Studios
-- Los Angeles City Hall
-- Griffith Park
-### Dia 6
-- Venice Beach
-- Santa Monica
+{{% figure src="/img/2017/02/Los Angeles - Roteiro.png" alt="Roteiro para Los Angeles 6 dias" class="pure-img-infographic" %}}
 
 ## Enfim,  na terra dos sonhos
 Chegamos em **Los Angeles** no final da tarde, em um voo da Azul/Delta, que por acaso foi ótimo. {{<quote-him " Eu estava consideravelmente nervoso, já que essa era minha primeira viagem internacional. - Felipe">}} Nosso primeiro desafio era sair do aeroporto e ir para o centro de Los Angeles onde ficava o nosso hotel.

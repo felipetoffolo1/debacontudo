@@ -103,6 +103,14 @@ h1 {
   margin: 10px 10px 0 0;
 }
 .pure-img-infographic{
+  /*max-width: 500px;*/
+  margin: auto;
+  /*margin-left: auto;*/
+  display: block;
+  float:inherit;
+  width: 100%;
+}
+.pure-img-infographic img{
   max-width: 500px;
   margin: auto;
   display: block;
