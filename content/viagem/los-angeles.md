@@ -135,7 +135,7 @@ Já os estúdios são galpões fechados onde dentro são montados cenários para
 
 Outra parte bem legal do tour foi visitar duas exposições que estavam disponíveis na época. Uma foi um "museu" do **Batman**, onde a gente pôde conferir praticamente TUDO que já foi utilizado em filmes do Cavaleiro das Trevas, como roupas, adereços, os batmóveis e o famoso batsinal.
 
-A outra exposição foi a do **Harry Potter** (que também somos fãs). Lá tinha bastante elementos usados nos filmes, mas o destaque foi o **Chapéu Seletor**, que você coloca e ele seleciona a sua casa (nós dois  saímos com a **Gryffindor**. Fuck yeah!!)
+A outra exposição foi a do **Harry Potter** (que também somos fãs). Lá tinha muitos elementos usados nos filmes, mas o destaque foi o **Chapéu Seletor**, que você coloca e ele seleciona a sua casa (nós dois  saímos com a **Gryffindor**).  Fuck yeah!
 {{% figure src="/img/2017/02/warner2-montagem.jpg"  alt="Visitas da warner Bros Studios" class="pure-img-responsive" %}}
 
 Outra parte muito legal (sim, são muitas) do tour é a visita ao **The Prop Department**, um galpão de material cenográfico que contém mais de 450 mil coisas que são utilizadas nos filmes. Você vê de perto, por exemplo, as famosas cadeiras vermelhas do filme **Matrix** junto com milhares e milhares de outros itens. É tenta coisa que você nem sabe para onde olhar.
