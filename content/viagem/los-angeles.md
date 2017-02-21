@@ -43,7 +43,7 @@ Apesar de não ser nada demais, você acaba ficando meio impressionado pois voc�
 {{% figure src="/img/2017/02/hollywood-montagem.jpg" title="Não vai ficar bom, mas você vai tirar" alt="Fotos com a Placa de Hollywood na Hollywwod Boulevard" class="pure-img-responsive" %}}
 
 #### O que fazer
-Andar olhando as estrelas no chão e dizendo "olha o fulano" e "olha o beltrano" é a principal atração. Aí você tenta tirar uma foto com uma estrela de alguém que você é fã, mas a foto vai ficar provavelmente meio ruim. Você tem que tirar a foto rápido, já que além de você tem mais um monte de gente querendo a mesma foto. Vale também entrar nas lojinhas de lembrancinha e levar um souvenir de Hollywood. Tem coisas bem legais.
+Andar olhando as estrelas no chão e falar "olha o fulano" e "olha o beltrano" é a principal atração. Aí você tenta tirar uma foto com uma estrela de alguém que você é fã, mas a foto vai ficar provavelmente meio ruim. Você tem que tirar a foto rápido, já que além de você tem mais um monte de gente querendo a mesma foto. Vale também entrar nas lojinhas de lembrancinha e levar um souvenir de Hollywood. Tem coisas bem legais.
 {{% figure src="/img/2017/02/estrela-montagem.jpg"  alt="Fotos nas Calçada da Fama" class="pure-img-responsive" %}}
 
 Voltamos outro dia de noite na Hollywood Boulevard  e vale muito a pena conhecê-la também nesse horário. É muito brilho e luz para todos os lados. Aproveite para jantar no famoso Hard Rock Café (as Buffalo's Wings são deliciosas e bem apimentadas) com sua decoração lendária.
