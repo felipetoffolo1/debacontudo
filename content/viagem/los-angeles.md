@@ -53,7 +53,7 @@ Voltamos outro dia de noite na Hollywood Boulevard  e vale muito a pena conhecê
 Além das estrelas, a calçada da fama é cheia de gente maluca fantasiada querendo tirar foto com você. É bem divertido de ver. Mas fique esperto pois eles vão querer te fazer de bobo pra você tirar uma foto com eles. Com a gente aconteceu com uma mulher que nem sabemos o que ela era exatamente. Enquanto tirávamos umas fotos ela meio que foi entrando no meio. Depois ela veio cobrar 15 dólares por isso. Demos 7 e aprendemos essa lição.
 
 ### Dolby Theater - 30 minutos
-Você já deve saber que o **Dolby Theater** é o local onde acontece a cerimônia do Oscar. E ele também fica na Hollywood Boulevard. Não tem muito o que ver além das plaquinhas dos vencedores de todos os Oscars de melhor filme. No mesmo complexo dele, tem um shopping bem legal, que a noite tem uma vista linda. (ouvi falar que agora existem visitas guiadas dentro do teatro)
+Você já deve saber que o **Dolby Theater** é o local onde acontece a cerimônia do Oscar. E ele também fica na Hollywood Boulevard. Não tem muito o que ver além das plaquinhas dos vencedores de todos os Oscars de melhor filme. No mesmo complexo dele, tem um shopping bem legal, que a noite tem uma vista linda. 
 
 ### Teatro Chinês - 20 minutos
 O Teatro Chinês é aquele lugar que os artistas colocam a mão no cimento fresco e deixam a sua marca lá. O teatro, que também funciona como cinema, é bem bonito (ao menos por fora), e é bem legal ver as marcas no cimento.
