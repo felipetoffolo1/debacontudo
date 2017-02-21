@@ -46,7 +46,7 @@ Apesar de não ser nada demais, você acaba ficando meio impressionado pois voc�
 Andar olhando as estrelas no chão e falar "olha o fulano" e "olha o beltrano" é a principal atração. Aí você tenta tirar uma foto com uma estrela de alguém que você é fã, mas a foto vai ficar provavelmente meio ruim. Você tem que tirar a foto rápido, já que além de você tem mais um monte de gente querendo a mesma foto. Vale também entrar nas lojinhas de lembrancinha e levar um souvenir de Hollywood. Tem coisas bem legais.
 {{% figure src="/img/2017/02/estrela-montagem.jpg"  alt="Fotos nas Calçada da Fama" class="pure-img-responsive" %}}
 
-Voltamos outro dia de noite na Hollywood Boulevard  e vale muito a pena conhecê-la também nesse horário. É muito brilho e luz para todos os lados. Aproveite para jantar no famoso Hard Rock Café (as Buffalo's Wings são deliciosas e bem apimentadas). Além da decoração lendária, tem vários intrumentos e roupas de músicos famosos. Vale a pena! 
+Voltamos outro dia de noite na Hollywood Boulevard  e vale muito a pena conhecê-la também nesse horário. É muito brilho e luz para todos os lados. Aproveite para jantar no famoso Hard Rock Café (as Buffalo's Wings são deliciosas e bem apimentadas). Além da decoração lendária, tem vários instrumentos e roupas de músicos famosos. Vale a pena! 
 
 #### O que não fazer
 {{% figure src="/img/2017/02/DSC09325.JPG"  alt="Personagem na Calçada da fama" class="pure-img-around-right" %}}
