@@ -156,9 +156,7 @@ Ao final do tour, você vai para uma lojinha cheia de coisas legais, como garraf
 Essa visita ao estúdio da Warner é obrigatória! Se não der para você visitar outros estúdios, tudo bem. Mas vá no da Warner!
 
 ### Griffith Park
-O **Griffith Park** é um grande parque municipal de Los Angeles, conhecido inclusive como o Central Park da cidade.
-{{< quote-her "Mas nem tem nada a ver" >}}
-No Griffith Park, você tem uma vista bem boa do letreiro de **Hollywood**, e é o mais perto de uma boa foto com ele que você vai conseguir (na boa, faz um photoshop que é melhor).
+O **Griffith Park** é um grande parque municipal de Los Angeles, conhecido inclusive como o Central Park da cidade. No Griffith Park, você tem uma vista bem boa do letreiro de **Hollywood**, e é o mais perto de uma boa foto com ele que você vai conseguir (na boa, faz um photoshop que é melhor).
 
 {{% figure src="/img/2017/02/DSC09701.JPG" title="Agora a gente desistiu" alt="Letreiro de Hollywood no Griffith Park" class="pure-img-responsive" %}}
 
