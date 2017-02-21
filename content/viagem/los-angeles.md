@@ -39,7 +39,7 @@ Já instalados, era hora de finalmente começar a viagem!
 ## Dia 1
 ### Calçada da Fama - 3 horas
 Estávamos em Los Angeles, a terra do cinema, e óbvio que a primeira coisa que fizemos foi visitar a calçada da fama. Pegamos um metrô pertinho do hotel e depois de alguns minutos estávamos na Hollywood Boulevard (tudo guiado pelo Google Maps). A Hollywod Boulevard é onde ficam várias atrações, sendo a **Calçada da Fama** a mais famosa delas.
-Apesar de não ser nada demais, você acaba ficando meio impressionado pois **você está andando naquelas estrelinhas que você já viu tantas vezes na tv e no cinema**. Aliás, essa sensação é algo que sentimos várias vezes em Los Angeles. De lá, tivemos a nossa primeira visão do famigerado letreiro de Hollywood e a primeira tentativa (de muitas) de tirar uma foto decente com ele.
+Apesar de não ser nada demais, você acaba ficando meio impressionado pois você está andando naquelas estrelinhas que você já viu tantas vezes na tv e no cinema. Aliás, essa sensação é algo que sentimos várias vezes em Los Angeles. De lá, tivemos a nossa primeira visão do famigerado letreiro de **Hollywood** e a primeira tentativa (de muitas) de tirar uma foto decente com ele.
 {{% figure src="/img/2017/02/hollywood-montagem.jpg" title="Não vai ficar bom, mas você vai tirar" alt="Fotos com a Placa de Hollywood na Hollywwod Boulevard" class="pure-img-responsive" %}}
 
 #### O que fazer
