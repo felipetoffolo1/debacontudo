@@ -187,7 +187,7 @@ Um pouco depois de Venice Beach fica o pier de **Santa Monica**. O pier é onde 
 
 Dependendo do clima, você pode descer na areia e curtir um pouco da praia. É um pouco diferente do Brasil, pois tem muita gente sentada na areia de roupa.
 {{< quote-him "E eu horrível de regata e chinelo parecendo um farofeiro" >}}
-Não perca o pôr do sol no pier que é apenas **maravilhoso** e a roda gigante iluminada durante a noite.
+Não perca o pôr do sol no pier que é apenas **incrível** e a roda gigante iluminada durante a noite.
 
 {{% figure src="/img/2017/02/DSC09827.JPG"  alt="Pier de Santa Monica" class="pure-img-responsive" %}}
 
