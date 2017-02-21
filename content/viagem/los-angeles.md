@@ -146,6 +146,7 @@ Para quem é fã de **Friends**, o momento mais foda é a visita ao **Central Pe
 
 {{% figure src="/img/2017/02/friends-montagem.jpg"  alt="Central Perk na Warner Bros" class="pure-img-responsive" %}}
 
+
 Depois disso (parece que não acaba né), visitamos o estúdio de alguns programas de TV. Conhecemos o estúdio de gravação do seriado **The Big Bang Theory**, que é gravado ao vivo com plateia (mas não podemos tirar nenhuma foto lá =/ ).
 Também tivemos a opção de escolher um outro estúdio para conhecer. Nosso guia nos ofereceu o estúdio da **Ellen Degeneres** (expectativa da Larissa) e o do **Connan**, que foi o escolhido (felicidade do Felipe). Foi demais o passeio como um todo.
 
