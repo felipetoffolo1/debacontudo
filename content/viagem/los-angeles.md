@@ -16,7 +16,7 @@ totop = true
 
 ## "Garota eu vou pra Califórnia..."
 
-Conhecer a **Califórnia** sempre foi um dos nossos sonhos e, em 2015, nós realizamos esse sonho passando 20 dias mágicos na Califórnia. A gente adora compartilhar as experiências dessa viagem com nossos amigos e familiares e pensamos que seria uma boa dividir com mais gente também. Afinal, dicas de viagem são sempre uma boa pedida, não é mesmo?!
+Conhecer a **Califórnia** sempre foi um dos nossos sonhos e, em abril de 2015, nós decidimos passar 20 dias mágicos no Golden State. A gente adora compartilhar as experiências dessa viagem com nossos amigos e familiares e pensamos que seria uma boa dividir com mais gente também. Afinal, dicas de viagem são sempre uma boa pedida, não é mesmo?!
 
 Como temos muitas dicas para compartilhar, decidimos fazer uma série de posts. Vamos falar sobre Los Angeles, San Francisco, a Pacific Coast Highway, as cidades no meio da estrada, restaurantes, hotéis, passeios e etc. O nosso primeiro post será sobre Los Angeles, que foi onde essa jornada começou.
 
