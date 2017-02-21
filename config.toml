@@ -6,6 +6,8 @@ DefaultContentLanguage = "pt"
 preserveTaxonomyNames = true
 disqusShortname = "debacontudo-com-br"
 enableRobotsTXT = true
+[blackfriday]
+hrefTargetBlank = true
 [taxonomies]
 category = "categories"
 tag = "tags"
