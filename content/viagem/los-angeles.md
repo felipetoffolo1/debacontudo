@@ -108,7 +108,8 @@ Experimente o máximo que conseguir. Lá tem frutos do mar, sorvetes, padarias, 
 A nossa vontade era sair comprando um monte de coisas para trazer para o Brasil. Não compramos porque tínhamos muita viagem ainda pela frente e carregar comida é sempre meio complicado.
 
 ### Beverly Hills - 1h
-Como visitar Los Angeles e não ir até Beverly Hills? {{< quote-him "Ainda mais quem já assistiu o famoso filme das patricinhas" >}}
+Como visitar Los Angeles e não ir até Beverly Hills? (vai dizer que você nunca viu o filme das patricinhas?!)
+
 A ideia era procurar o letreiro famoso e tirar uma foto. Mas, a região acabou merecendo uma parada. Não deixe de caminhar pela **Rodeo Drive**, a famosa rua cheia de lojas de grifes famosas. É claro que, no nosso caso, foi só uma caminhada mesmo. O Felipe nem quis entrar na loja da Nespresso que tem lá, de tão chique que era. Também vale a pena pegar o carro e passear pelas ruas. Aquelas palmeiras gigantes são realmente lindas e as casinhas são muito charmosas. (elas ficam na Beverly Drive e foi um custo achar)
 {{% figure src="/img/2017/02/beverly-montagem.jpg"  alt="Fotos com a Placa de Hollywood na Hollywwod Boulevard" class="pure-img-responsive" %}}
 
