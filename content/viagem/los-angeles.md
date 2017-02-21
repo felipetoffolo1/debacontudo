@@ -2,7 +2,7 @@
 title = "Viagem para Califórnia: O Melhor Roteiro para Los Angeles"
 draft = false
 description = "O guia definitivo para Los Angeles - Califórnia. Conheça o nosso roteiro para Los Angeles. Veja dicas, passeios, praias, lugares para se divertir e aproveite ao máximo cidade dos anjos."
-slug = "O Melhor Roteiro para Los Angeles"
+slug = "O-Melhor-Roteiro-para-Los-Angeles"
 date = "2017-02-20T21:00:47-02:00"
 tags = ["viagens","california","usa"]
 keywords = ["viagens","california","usa","los angeles","roteiro los angeles", "los angeles o que fazer","turismo", "pontos de interesse","guia los angeles","o que fazer", "são francisco","6 dias"]
