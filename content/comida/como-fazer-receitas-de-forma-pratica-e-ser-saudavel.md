@@ -53,6 +53,9 @@ Durante a semana ai você vai aproveitando todo o pré-preparo que você fez e f
 # Faz render né
 Vai fazer comida, já faz mais logo. Fazer quatro, seis porções dá a mesma amolação que fazer duas. Então faz pra sobrar que restos de ontem é amor e facilidade. Ai você vai aprendendo a arte gourmet da sobra de ontem. Pega o resto de frango e cenoura, bate um ovo, mistura e faz um omelete. Pica o pernil que tá na geladeira junta a maionese e faz uma salada (mais sobre isso mais abaixo). Nessa hora use a criatividade que você temenão pode usar no trabalho.
 # Tenha em mãos receitas práticas
-"Nossa falou tanto de comida, mas não me ensinou a fazer nada ainda". Calma que chegou a hora. Aqui tem algumas da minhas receitas favoritas pro dia a dia. Dia a dia gente, não é coisa rebuscada(isso também teremos aqui no blog), é pra facilitar a vida, mas mesmo sim comendo mui bien. Melhor que seu amigo que foi no Mc Donalds (posso falar marca aqui?)
+"Nossa falou tanto de comida, mas não me ensinou a fazer nada ainda". Calma que chegou a hora. Aqui tem algumas da minhas receitas favoritas pro dia a dia. Dia a dia gente, não é coisa rebuscada (mas isso também teremos aqui no blog), é pra facilitar a vida, mas mesmo sim comendo mui bien. Melhor que seu amigo que foi no Mc Donalds (posso falar marca aqui?)
 ## Fritada de batata doce
 ## Salada Proteíca
+### Maionese
+## Comidinha mexicana
+##
