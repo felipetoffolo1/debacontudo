@@ -35,7 +35,7 @@ Em contra partida não esqueça de ter uma folhas em casa, acelga, rucula, couve
 É bom ter alguma erva aromatica pra usar pra dar graça nas coisas né. Seja na omelete, ou na salas, ou no cozido.
 Eu compro sempre, nem sei pra que ainda que vou usar mas compro. Ai toda semana vou dando uma variada na que eu compro.
 ## Gorduras
-Não esquece das gorduras pelo amor de deus. Azeite, azeitona, castanhas, óleo de coco, óleo de girassol, ghee e etcetera e tal (tem umas mais caras, mas não mexe com isso não). Sem isso ninguem faz comida, além do mais elas vão dar muito sabor na comida né.
+Não esquece das gorduras pelo amor de deus. Azeite, azeitona, castanhas, óleo de coco, óleo de girassol, ghee e etcetera e tal (não precisa ser todas de uma vez). Ah e o abacate, não esquece o abacate. Sem isso ninguem faz comida, além do mais elas vão dar muito sabor na comida né.
 # Suit Up
 Você decidiu fazer, escolheu o que vai fazer e já comprou as coisas. Agora você precisa das ferramentas adequadas né. Eu sou meio perigoso para falar disso que eu sou meio geek da cozinha. Mas ter as coisas certas para cozinhar faz TODA a diferença do mundo. Nada mais desanimador que ficar fazendo as coisas pros cocos. Dicas do que ter:
 - Uma boa faca: Uma faca boa vale por 70% das coisinhas que tentam te vender. Com uma faca tipo chef e uma outra pequena, eu faço coisa pra car.. chuchu.
