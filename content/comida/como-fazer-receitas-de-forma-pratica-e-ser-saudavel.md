@@ -24,7 +24,7 @@ Ok, você já tomou a decisão de comer melhor e preparar a sua comida. O próxi
 Se abastecer é essencial! Não adianta você saber preparar algo delicioso em 15 minutos se a sua geladeira está vazia.
 Então depois de definir suas receitas da semana, faça sua lista de compras. Além dos ingredientes das receitas da semana, é sempre importante ter o básico em casa. A minha lista de básicos são:
 ## Ovos
-Eu SEMPRE tenho ovos em casa. A gente consome cerca de 30 por semana. Primeiro porque eu amo ovo, eu comeria em todas as refeições. Segundo, não existe nenhuma proteína mais prática e versátil nesse mundo. Você pega qualquer coisa, joga um ovo no meio, seja mexido, cozido, frito e voilà, eis uma refeição. Nós damos preferência para o caipira. Escolha o mesmo se você também tiver disponibilidade.
+Eu SEMPRE tenho ovos em casa. A gente consome cerca de 30 por semana. Primeiro porque eu amo ovo e comeria em todas as refeições. Segundo, não existe nenhuma proteína mais prática e versátil nesse mundo. Você pega qualquer coisa, joga um ovo no meio, seja mexido, cozido, frito e voilà, eis uma refeição. Nós damos preferência para o caipira. Escolha o mesmo se você também tiver disponibilidade.
 ## Bife
 Outro líder de praticidade é o bife. Do que você preferir! Pode ser de frango, porco, boi, rã, sei lá. O bife tá ali, você pega um tempero que tiver, joga, passa, junta com mais alguma coisa e come.
 ## Vegetais de sustança
