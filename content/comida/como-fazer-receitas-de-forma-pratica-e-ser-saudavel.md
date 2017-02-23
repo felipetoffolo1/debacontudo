@@ -51,12 +51,15 @@ Você vai ter que tirar um tempo para os seus preparativos. Eu, por exemplo, esc
 
 Depois disso, começo a fazer a comida mesmo em si. Sempre procuro receitas que vão me ajudar a ser prático. Ago que eu possa deixar 80% pronto e terminar rapidamente durante a semana. Ou algo que renda e eu já posso ir comendo. Daqui a pouco você vai conferir umas reeitas, a gente já chega lá. Durante a semana você vai aproveitando todo o pré-preparo que você fez e ficando bem feliz consigo mesmo por ter feito isso. O que eu sugiro é que, chegando em casa, antes de se jogar no sofá e não querer levantar por mais nada nesse mundo, você cuide disso. Prepare a jantinha e separe o lanche que você vai levar amanhã. Se der, lave a louça para sua mulher não brigar com você.
 
-Isso é mesmo muito imporante! >)
+{{% quote-her "Isso é mesmo muito imporante! >)- Larissa" %}}
+
 
 # Fazer render
 Vai fazer comida, já faz mais logo. Fazer quatro ou seis porções dá a mesma amolação que fazer duas. Então faça para sobrar que restos de ontem é amor e facilidade. Aí você vai aprendendo a arte gourmet da sobra de ontem. Pega o resto de frango e cenoura, bate um ovo, mistura e faz um omelete. Pica o pernil que tá na geladeira, junta a maionese e faz uma salada (saiba mais sobre isso abaixo). Nessa hora, use a criatividade que você tem e não pode usar no trabalho.
 # Tenha em mãos receitas práticas
-"Nossa falou tanto de comida, mas não me ensinou a fazer nada ainda". Calma que chegou a hora. Aqui tem algumas das minhas receitas favoritas paro dia a dia. Minhas também!
+"Nossa falou tanto de comida, mas não me ensinou a fazer nada ainda". Calma que chegou a hora. Aqui tem algumas das minhas receitas favoritas paro dia a dia. 
+
+{{% quote-her "E minhas também!" %}}
 
 Para o dia a dia, não é preciso coisa muito rebuscada (mas isso também teremos aqui no blog). É para facilitar a vida e comer bem ainda assim.  No final das contas, você vai se sentir melhor do que seu amigo que foi ao Mc'Donalds. (posso falar marca aqui?)
 
