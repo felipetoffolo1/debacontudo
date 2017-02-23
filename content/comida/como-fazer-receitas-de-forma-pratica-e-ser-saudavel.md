@@ -14,7 +14,7 @@ images = []
 author = ""
 
 +++
-Tem um quesito em que o Junk Food é imbatível: praticidade. Realmente nada é mais prático que abrir um saco de batatas chips ou pedir uma pizza. E esse acaba sendo um dos grandes impecílios de quem quer comer de forma saudável. A gente sempre pensa "vai dar muito trabalho", "se tivesse quem faz pra mim eu comeria". Bem, chegou a hora de darmos um jeito nisso. Vou revelar os meus segredos para comer bem, sem me matar na cozinha todos os dias.
+Tem um quesito em que o Junk Food é imbatível: praticidade. Realmente nada é mais prático do que abrir um saco de batatas chips ou pedir uma pizza. E esse acaba sendo um dos grandes impecílios de quem quer comer de forma saudável. A gente sempre pensa "vai dar muito trabalho", "se tivesse alguém para fazer para mim eu comeria". Bem, chegou a hora de darmos um jeito nisso. Vou revelar alguns segredos para comer bem, sem se matar na cozinha todos os dias.
 
 # Tenha calma
 Antes de qualquer coisa, praticidade na cozinha é hábito. Se você não tem, tudo vai parecer complicado. Fazer um ovo frito parece uma missão impossível. Preparar seu café pela manhã é quase uma tortura. O hábito é algo muito forte e é sempre importante que a gente aprenda a criar os melhores e descartar os piores. Tenha um pouco de perseverança que em pouco tempo você vai ser perguntar "Por que eu não fazia isso antes?".
