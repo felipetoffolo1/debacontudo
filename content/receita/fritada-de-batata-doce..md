@@ -1,6 +1,6 @@
 +++
-author = ""
-banner = ""
+author = "FElipe Toffolo"
+banner = "/img/2017/02/fritada-de-batata-doce-banner.png"
 images = []
 description = ""
 date = "2017-02-21T19:48:19-03:00"
@@ -16,7 +16,7 @@ categories = []
 +++
 
 Essa é uma daquelas receitas que você não dá o peixe, mas ensina a pescar.
-Então ou vou ensinar a receita básica e depois dou umas idéias.
+Então ou vou ensinar a receita básica e depois falo um pouco sobre variações e dicas de preparo.
 
 ## Ingredientes
 1. Uma carne já cozida da sua preferência pode ser frango desfiado, carne bovina ou suína, moída ou picadinha. (inclusive pode (e deve) ser os restos de ontem)
@@ -39,6 +39,7 @@ Então ou vou ensinar a receita básica e depois dou umas idéias.
 9. Depois de pronta fatie tipo uma pizza, coma uma na hora e guarde o restante para ir comendo. Dura uma semana (aqui em casa pelo menos dura)
 
 ## Melhorando a coisa
+{{% figure src="/img/2017/02/fritada-1.jpg" alt="Fritada Deliciosa" class="pure-img-around-right" %}}
 Como eu disse, essa é a receita básica e nínguem merece viver do básico. Como eu faço isso praticamente toda a semana, eu tento variar ao máximo. Sempre adicionando 1 ou 2 ou 3 ou quantos ingredientes quiser na receita básica, além de váriar o tempero. Algumas variações legais são:
 - Frango, tomate cereja e manjericão.
 - Pernil suíno, espinafre e cogumelos.
