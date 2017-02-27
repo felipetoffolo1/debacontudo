@@ -1,7 +1,7 @@
 +++
 author = "Larissa Alberti"
 banner = ""
-images = []
+images = ["/img/2017/02/cafe-moccato-card.png"]
 description = "Conheça o clube de café Moccato: café fresco em cápsula na sua casa."
 date = "2017-02-27T13:25:19-03:00"
 totop = true
@@ -13,7 +13,6 @@ title = "Moccato: um clube para verdadeiros amantes do café"
 keywords = ["clube de café","moccato","amantes do café","praticidade","cafe fresco","café em cápsula","café premium","sabores únicos"]
 categories = ["Comida","Estilo de Vida"]
 +++
-
 {{% figure src="/img/2017/02/clube-cafe-moccato.jpeg" alt="Caixinha clube Moccato" class="pure-img-around-right h500" %}}
 Tomar um cafezinho expresso em casa tem o seu valor.  Nada como a praticidade de escolher um cápsula e, em menos de dois minutos, poder saborear uma bebida com a mesma qualidade de uma cafeteria (às vezes até melhor). Desde que ganhamos nossa cafeteira da Nespresso, já experimentamos diversos tipos de cápsulas. Café do ponto, pilão, baggio café e, claro, as cápsulas da própria Nespresso. Mas confesso que sempre dá uma preguicinha de comprá-las.
 
