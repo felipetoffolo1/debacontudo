@@ -43,17 +43,17 @@ Então vou ensinar a receita básica e depois falo um pouco sobre variações e 
 {{% figure src="/img/2017/02/fritada-1.jpg" alt="Fritada Deliciosa" class="pure-img-around-right" %}}
 Como disse, essa é a receita básica e nínguem merece viver do básico. Como faço isso praticamente toda semana, tento variar ao máximo, sempre adicionando um, dois, três ou quantos ingredientes quiser na receita básica, além de variar o tempero. Algumas variações que você pode usar:
 
-- Frango, tomate cereja e manjericão
+- Frango, tomate-cereja e manjericão
 - Pernil suíno, espinafre e cogumelos
 - Frango, beterraba e cenoura
 - Carne, pimentão, pimenta dedo de moça e brócolis
 
 Agora que você entendeu a ideia, procure variar os ingredientes. Assim, você evita de se cansar do mesmo prato. Dá para trocar também a batata-doce. Opte por abóbora moranga ou spaghetti (se você achar).
 
-Essa receita é 100% aprovada para o Whole30 ou para a dieta Paleo.
+Essa receita é 100% aprovada pelo Whole30 e vale também para a dieta Paleo.
 
 Você também pode colocar fontes de gordura, como bacon e azeitona, para que ela seja uma refeição completa.
 Eu não faço isso porque gosto de usar essa fritada como pós-treino, e nessa hora a gordura não é indicada.
-Se não for o seu caso você também pode comê-la com maionese caseira ou um abacate que fica ótimo, ou pode adicionar **BACON** no recheio.
+Se não for o seu caso, você também pode comê-la com maionese caseira ou um abacate que fica ótimo.Também pode adicionar **BACON** no recheio. Afinal, com bacon é sempre melhor! ;)
 
 Gostou? Se tiver dúvidas pode perguntar hein. Bom apetite!
