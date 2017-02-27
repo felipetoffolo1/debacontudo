@@ -20,7 +20,7 @@ Então vou ensinar a receita básica e depois falo um pouco sobre variações e 
 
 ## Ingredientes
 
-1. Escolha uma carne já cozida da sua preferência. Pode ser frango desfiado, carne bovina ou suína moída ou picadinha. (inclusive pod - e deve - ser os restos de ontem)
+1. Escolha uma carne já cozida da sua preferência. Pode ser frango desfiado, carne bovina ou suína moída ou picadinha. (inclusive pode - e deve - ser os restos de ontem)
 2. 1 cebola
 3. 1 alho
 4. 1 batata-doce grande assada ou cozida
@@ -30,13 +30,13 @@ Então vou ensinar a receita básica e depois falo um pouco sobre variações e 
 
 ## Preparo
 1. Preaqueça o forno a 180º.
-2. Numa tigela bata os 9 ovos e tempere-os com pápríca, sal e pimenta do reino. Separe.
+2. Numa tigela, bata os 9 ovos e tempere-os com páprica, sal e pimenta do reino. Separe.
 3. Pegue a batata-doce e pique ou amasse de forma grosseira.
 4. Em uma panela que possa ir ao forno (se você tiver), refogue a cebola, o alho e o que mais você for adicionar (veja abaixo).
 5. Adicione a sua carne e acerte o tempero.
 6. Junte agora a batata-doce.
-7. Desligue o fogo e adicione os ovos misturando bem.
-8. Coloque para assar no forno a 180º por cerca de 20 a 25 minutos.
+7. Desligue o fogo e adicione os ovos misturando tudo muito bem.
+8. Coloque a mistura para assar no forno a 180º por cerca de 20 a 25 minutos.
 9. Depois de pronta, fatie tipo uma pizza, coma uma na hora e guarde o restante para ir comendo durante a semana.
 
 ## Melhorando a coisa
