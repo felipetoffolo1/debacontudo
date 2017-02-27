@@ -37,7 +37,7 @@ Então vou ensinar a receita básica e depois falo um pouco sobre variações e 
 6. Junte agora a batata-doce.
 7. Desligue o fogo e adicione os ovos misturando tudo muito bem.
 8. Coloque a mistura para assar no forno a 180º por cerca de 20 a 25 minutos.
-9. Depois de pronta, fatie tipo uma pizza, coma uma na hora e guarde o restante para ir comendo durante a semana.
+9. Depois de pronta, fatie tipo como uma pizza, experimente um pedaço na hora e guarde o restante para ir comendo durante a semana.
 
 ## Melhorando a coisa
 {{% figure src="/img/2017/02/fritada-1.jpg" alt="Fritada Deliciosa" class="pure-img-around-right" %}}
