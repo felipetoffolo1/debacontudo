@@ -9,7 +9,7 @@ draft = false
 lightbox = false
 tags = ["receitas","comidas","whole30","paleo","receita pratica"]
 slug = "fritada_de_batata_doce_pratica_saudavel_versátil_deliciosa"
-title = "Receita: Fritada de Batata Doce - Prática, saudável, versátil e deliciosa. "
+title = "Receita: Fritada de Batata Doce - Prática, saudável, versátil e deliciosa"
 keywords = ["fritada de batata-doce", "batata doce", "fritada","whole30","paleo","saudavel","natural","prática","fácil","receita fritada whole30","receita café da manhã whole30","receita café da manhã paleo"]
 categories = ["Comida"]
 
