@@ -55,6 +55,7 @@ Vai fazer comida, já faz mais logo. Fazer quatro, seis porções dá a mesma am
 ## Tenha em mãos receitas práticas
 "Nossa falou tanto de comida, mas não me ensinou a fazer nada ainda". Calma que chegou a hora. Aqui tem algumas da minhas receitas favoritas pro dia a dia. Dia a dia gente, não é coisa rebuscada (mas isso também teremos aqui no blog), é pra facilitar a vida, mas mesmo sim comendo mui bien. Melhor que seu amigo que foi no Mc Donalds (posso falar marca aqui?)
 ## Fritada de batata doce
+
 ## Salada Proteíca
 ### Maionese
 ## Comidinha mexicana
