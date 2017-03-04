@@ -7,11 +7,11 @@ description = "Conheça o clube de café Moccato: café fresco em cápsula na su
 date = "2017-03-04T17:25:19-03:00"
 totop = true
 notoc = true
-draft = true
+draft = false
 tags = ["review","cafe"]
 slug = "moccato-um-clube-para-verdadeiros-amantes-do-cafes"
 title = "Moccato: um clube para verdadeiros amantes do café"
-keywords = ["clube de café","moccato","amantes do café","praticidade","cafe fresco","café em cápsula","café premium","sabores únicos"]
+keywords = ["clube de café","moccato","amantes do café","praticidade","cafe fresco","café em cápsula","café premium","sabores únicos","moccato","capsula nespresso","capsula alternativa"]
 categories = ["Comida","Estilo de Vida"]
 type = "article"
 
