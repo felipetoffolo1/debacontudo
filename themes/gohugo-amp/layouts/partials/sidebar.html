@@ -1,0 +1,30 @@
+<div class="site-sidebar">
+
+    {{ partial "about.html" . }} {{ if not .IsHome }}
+    <section class="widget widget_recent_entries">
+        <h2 class="widget-title"><span>Posts Recentes</span></h2>
+        <ul>
+            {{ range first 5 .Data.Pages }}
+            <li>
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                <span class="post-date">{{ .Date.Format "2" }} {{ .Date.Format "Jan" }}, {{ .Date.Format "2006" }}</span>
+            </li>
+            {{ end }}
+        </ul>
+    </section>
+    <!-- .widget_recent_entries -->
+    {{ end }}
+    <section class="widget widget_tag_cloud">
+        <h2 class="widget-title"><span>Tags</span></h2>
+
+        <div class="tagcloud">
+            <ul id="all-tags">
+                {{ range first 10 .Site.Taxonomies.tags.ByCount }}
+                <a href="{{ " /tags/ " | relLangURL }}{{ .Name | urlize }}">{{ .Name }} <span>{{ .Count }}</span></a> {{ end }}
+            </ul>
+
+        </div>
+    </section>
+    <!-- .widget_tag_cloud -->
+</div>
+<!-- .site-sidebar -->

@@ -1,0 +1,14 @@
+display_name = "Larissa Alberti"
+thumbnail = "/img/quem-somos/larissa-alberti.png"
+bio = "Ela é candanga, de pai gaúcho e mãe mineira. Ela é uma mulher moderna e sabe que lugar de mulher é onde ela bem quiser. Ela é ansiosa. Ela tem paciência com ele. Ela quando bebe vira a Lucinha. Ela só quer saber de viajar, séries e redes sociais. Ela ama Ele."
+given_name      = "Larissa"
+family_name     = "Alberti"
+image           = "img link"
+short_bio = "Ela é candanga, de pai gaúcho e mãe mineira. Ela é uma mulher moderna e sabe que lugar de mulher é onde ela bem quiser. Ela é ansiosa. Ela tem paciência com ele. Ela quando bebe vira a Lucinha. Ela só quer saber de viajar, séries e redes sociais. Ela ama Ele."
+email           = "derek@email.com"
+
+[social]
+twitter = ''
+facebook = 'larissa.alberti'
+instagram = 'albertilarissa'
+pinterest = 'albertilarissa'

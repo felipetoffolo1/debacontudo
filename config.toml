@@ -3,7 +3,6 @@ baseurl = "http://debacontudo.com.br"
 languageCode = "pt"
 local = "pt_BR"
 DefaultContentLanguage = "pt"
-preserveTaxonomyNames = true
 disqusShortname = "debacontudo-com-br"
 enableRobotsTXT = true
 [blackfriday]
@@ -18,6 +17,27 @@ sidebartagline = "Porque tudo é bom, especialmente com Bacon"
 description = "Porque tudo é bom, especialmente com Bacon - Viagens, comida, estilo de vida e muito mais"
 sidebarphoto = "/img/De Bacon Tudo - Logo Dark.png"
 gaid = "UA-91331327-1"
+# [params]
+# amp
+amp = true
+ampElements = ["amp-accordion","amp-ad","amp-analytics","amp-app-banner","amp-instagram","amp-carousel","amp-iframe","amp-dynamic-css-classes","amp-form","amp-fx-flying-carpet","amp-image-lightbox","amp-lightbox","amp-sidebar","amp-social-share","amp-sticky-ad","amp-user-notification"]
+themeColor = "#ff1d55"
+# adsensePublisher = "ca-pub-123456789"
+googleAnalytics = "UA-91331327-1"
+# appleItunesApp = "app-id=123456789, app-argument=app-name://link/to/app-content"
+ampManifest = "/amp-manifest.json"
+alternatePageName = "DeBaconTudo"
+organizationLogo = "http://debacontudo.com.br/img/logo-menu.png"
+organizationName = "De Bacon Tudo"
+organizationAddress = ""
+socialProfiles = ["http://www.facebook.com/debacontudo","http://instagram.com/blogdebacontudo"]
+publisherName = "De Bacon Tudo"
+publisherLogo = "http://debacontudo.com.br/img/logo-menu.png" # https://developers.google.com/search/docs/data-types/articles#logo-guidelines
+publisherLogoWidth = 500
+publisherLogoHeight = 107
+stylesheetRegular = ["/base-styling.css"] # these styles are used when amp is disabled for a specific page
+javascriptRegular = ["/script.js"] # these scripts are used when amp is disabled for a specific page
+
 [[menu.main]]
 name = "Viagens"
 url = "/categories/viagem"
@@ -34,23 +54,23 @@ weight = 3
 name = "Pop Culture"
 url = "/categories/pop-culture"
 weight = 4
-[[menu.main]]
-name = "Quem Somos"
-url = "/quem-somos/quem-somos/"
-weight = 5
 [[menu.social]]
 pre = "<i class='fa fa-twitter'></i>"
 url = "http://www.twitter.com/debacontudo"
 identifier = "twitter"
+weight = 3
 [[menu.social]]
 pre = "<i class='fa fa-instagram'></i>"
 url = "http://www.instagram.com/blogdebacontudo"
 identifier = "instagram"
+weight = 2
 [[menu.social]]
 pre = "<i class='fa fa-facebook'></i>"
 url = "http://www.facebook.com/debacontudo"
 identifier = "facebook"
+weight = 1
 [[menu.social]]
 pre = "<i class='fa fa-rss'></i>"
 url = "http://debacontudo.com.br/index.xml"
 identifier = "rss"
+weight = 4

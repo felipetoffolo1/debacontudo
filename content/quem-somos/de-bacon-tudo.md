@@ -2,7 +2,8 @@
 date = "2017-02-07T16:47:53-02:00"
 title = "De Bacon Tudo"
 notitle = true
-author = "Felipe Toffolo"
+author = ["felipe"]
+thumbnail = "/img/2017/02/card-de-bacon-tudo.png"
 description = "Saiba mais sobre o que será o blog De Bacon Tudo"
 banner = "/img/2017/02/De Bacon Tudo.png"
 tags = ["outros"]

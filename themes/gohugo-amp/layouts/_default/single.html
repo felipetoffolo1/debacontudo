@@ -1,0 +1,145 @@
+{{ partial "structure/head" . }}
+
+<main class="single">
+  {{ partial "menu.html" . }}
+
+  <div id="content" class="site-content">
+        <div id="primary" class="content-area">
+          <main id="main" class="site-main" role="main">
+
+            <div class="container">
+              <div class="row">
+                <!-- article -->
+                <div class="col-md-8 col-md-offset-2">
+                  <div class="site-entry">
+
+                    <article class="post format-standard hentry">
+                      <div class="entry-header">
+                        <h1 class="entry-title">{{ .Params.title }}</h1>
+                        <div class="entry-meta">
+                          <span class="posted-on">
+                            <a href="single.html" rel="bookmark"> <time class="entry-date" datetime="2016-09-07">{{ .Date.Format "2" }} {{ .Date.Format "Jan" }}, {{ .Date.Format "2006" }}</time> </a>
+                          </span><!-- .posted-on -->
+                          {{ $Site := .Site }}
+                          {{ if .Params.categories }}
+                            {{ range .Params.categories }}
+                            <span class="entry-cat">
+                              <span class="cat-link"><a class="post-category post-category-{{ . | urlize }}" href="{{ $Site.BaseURL}}/categories/{{ . | urlize }}">{{ . }}</a></span>
+
+                            </span><!-- .entry-cat -->
+                            {{ end }}
+                          {{ end }}
+                          <!-- <span class="entry-like"><a href=""><i class="fa fa-heart-o"></i> 42</a></span> -->
+                        </div><!-- .entry-meta -->
+                      </div><!-- .entry-header -->
+                      {{ if .Params.banner }}
+                      <div class="entry-featured-image">
+                        <img src="{{ .Params.banner }}" style="width: 100%;" alt="{{ .Params.title }}">
+                      </div><!-- .entry-featured-image -->
+                      {{ end }}
+
+
+                      <div class="entry-content">
+                        {{ .Content }}
+
+                      </div><!-- .entry-content -->
+
+                      <footer class="entry-footer">
+                        {{ if .Params.tags }}
+                        <span class="tags-links">
+                          {{ range .Params.tags }}
+                          <a class="post-tag post-tag-{{ . | urlize }}" href="{{ $Site.BaseURL}}/tags/{{ . | urlize }}">{{ . }}</a>,
+                          {{ end }}
+                      </span><!-- .tags-links -->
+                        {{ end }}
+
+                        {{ partial "socialsharing.html" . }}
+
+                      </footer><!-- .entry-footer -->
+                    </article><!-- .post -->
+
+                    <nav class="navigation post-navigation" role="navigation">
+                      <h2 class="screen-reader-text">Post navigation</h2>
+                      <div class="nav-links">
+                        {{ if .Prev }}
+                        <div class="nav-previous">
+                          <a href="#" class="image-link"><img src="{{ .Prev.Params.thumbnail }}"></a>
+                          <span>Post Anterior</span>
+                          <a href="{{ .Prev.RelPermalink }}" class="prev-link" rel="prev">{{ .Prev.Title }}</a>
+                        </div>
+                        {{ end }}
+
+                        {{ if .Next }}
+                        <div class="nav-next">
+                          <a href="#" class="image-link"><img src="{{ .Next.Params.thumbnail }}"></a>
+                          <span>Próximo Post</span>
+                          <a  href="{{ .Next.RelPermalink }}" class="next-link" rel="next">{{ .Next.Title  }}</a>
+                        </div>
+                        {{ end }}
+                      </div>
+                    </nav><!-- .navigation -->
+
+                    <!-- author bio -->
+                    {{ if .Params.author }}
+                    <div class="section-title">
+                      <h3>Escrito por</h3>
+                    </div>
+                    {{ range .Params.author}}
+                    <div class="entry-author-bio">
+                      <div class="author-bio-avatar">
+                        <img alt="author bio" src="{{ index (index $.Site.Data.authors  . ) "thumbnail" }}" class="avatar">
+                      </div><!-- .author-bio-avatar -->
+                      <div class="author-bio-description">
+                        <h4>{{ index (index $.Site.Data.authors . ) "display_name" }}</h4>
+                        <p>{{ index (index $.Site.Data.authors  . ) "short_bio" }}</p>
+
+                        <ul class="social-icon">
+                          <li><a href="#" class="icon-facebook" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                          <li><a href="#" class="icon-twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                          <li><a href="#" class="icon-instagram" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                          <li><a href="#" class="icon-youtube" target="_blank"><i class="fa fa-youtube-play"></i></a></li>
+                          <li><a href="#" class="icon-pinterest" target="_blank"><i class="fa fa-pinterest"></i></a></li>
+                        </ul>
+                      </div><!-- .author-bio-description -->
+                    </div><!-- entry-author-bio -->
+                    {{ end }}
+
+                {{ end }}
+
+
+                    <div id="comments" class="comments-area">
+                      {{ if not .Params.nocomment }}
+                      {{ template "_internal/disqus.html" . }}
+                      {{ end }}
+                    </div>
+                  </div><!-- .site-entry -->
+                </div><!-- .col-md-8 -->
+                <div class=".col-md-2">
+                  {{ if .Params.totop }}
+                  <a href="#top" id="nav-to-top" type="button" class="btn btn-link  sticky-button">Voltar ao Topo</a>
+                  {{ end }}
+                </div>
+              </div><!-- .row -->
+            </div><!-- .container -->
+
+          </main><!-- #main -->
+        </div><!-- #primary -->
+      </div><!-- #content -->
+      <script type="text/javascript">
+      onscroll = function() {
+        var toTopVisible = false;
+        var scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+        if (scrollTop > 1000) {
+          if (!toTopVisible) {
+            document.getElementById('nav-to-top').style.display = 'block';
+          }
+        } else {
+          if (scrollTop < 1000 || toTopVisible) {
+            document.getElementById('nav-to-top').style.display = 'none';
+          }
+        }
+      };
+      </script>
+</main>
+
+{{ partial "structure/foot" . }}

@@ -1,7 +1,8 @@
 +++
-author = "Felipe Toffolo"
+author = ["felipe"]
 banner = "/img/2017/02/fritada-de-batata-doce-banner.png"
-images = ["/img/2017/02/fritada-de-batata-doce-card.png","/img/2017/02/fritada-de-batata-doce-banner.png"]
+thumbnail = "/img/2017/02/fritada-de-batata-doce-thumb.png"
+images = ["/img/2017/02/fritada-de-batata-doce-thumb.png","/img/2017/02/fritada-de-batata-doce-banner.png"]
 description = "Aprenda a fazer uma receita prática, saudável, versátil além de deliciosa de fritada de batata-doce"
 date = "2017-02-25T13:25:19-03:00"
 totop = true
@@ -9,7 +10,7 @@ draft = false
 lightbox = false
 tags = ["receitas","comidas","whole30","paleo","receita pratica"]
 slug = "fritada_de_batata_doce_pratica_saudavel_versátil_deliciosa"
-title = "Receita: Fritada de Batata Doce - Prática, saudável, versátil e deliciosa"
+title = "Fritada de Batata Doce - Prática, saudável, versátil e deliciosa"
 keywords = ["fritada de batata-doce", "batata doce", "fritada","whole30","paleo","saudavel","natural","prática","fácil","receita fritada whole30","receita café da manhã whole30","receita café da manhã paleo"]
 categories = ["Comida"]
 

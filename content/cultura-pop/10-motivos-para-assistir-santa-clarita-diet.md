@@ -1,14 +1,16 @@
 +++
 banner = "/img/2017/02/santa-clarita-banner.png"
 images = ["/img/2017/02/santa-clarita-banner.png"]
+thumbnail = "/img/2017/02/santa-clarita-thumb.png"
 keywords = ["Santa Clarita Diet","serie", "netflix", "Drew Barrymore", "Timothy Olyphant", "series de comedia","comedia netflix","top 10","lista"]
 title = "10 Motivos para assistir Santa Clarita Diet"
 description = "Saiba por que você deve assistir Santa Clarita Diet"
-author = "Felipe Toffolo"
+author = ["felipe"]
 categories = ["Pop Culture"]
 tags = ["Seriados","Listas"]
 date = "2017-02-12T20:00:47-02:00"
-summary = "Santa Clarita Diet é um novo seriado da Netflix, onde Drew Barrymore e Timothy Olyphant fazem um casal de corretores com uma vida bem normal e dentro da linha. À primeira vista o enredo parece meio batido, mas listamos 10 motivos pra te convencer do contrário."
+type = "article"
+
 +++
 {{< imdb tt5580540 >}}
 Santa Clarita Diet é um novo seriado da Netflix, onde Drew Barrymore e Timothy Olyphant fazem um casal de corretores com uma vida bem normal e certinha. Até que a personagem de Drew se transforma em um "zumbi" e ai você já imagina a m*%&# que isso vai dar. À primeira vista o enredo parece meio batido, mas listamos 10 motivos pra te convencer do contrário.

@@ -1,0 +1,14 @@
+display_name = "Felipe Toffolo"
+thumbnail = "/img/quem-somos/felipe-toffolo.png"
+bio = "Ele é mineiro, nascido em Ouro Preto, criado em Pará de Minas e adotado por Brasília. Ele é Nerd e tem orgulho disso. Ele acha que sabe de tudo. Ele é fã do Chico. Ele faz tudo por ela. Ele odeia perder nos jogos. Ele é apaixonado pelo trabalho, séries, cozinhar e lutar. Ele ama Ela."
+given_name      = "Felipe"
+family_name     = "Toffolo"
+image           = "img link"
+short_bio = "Ele é mineiro, nascido em Ouro Preto, criado em Pará de Minas e adotado por Brasília. Ele é Nerd e tem orgulho disso. Ele acha que sabe de tudo. Ele é fã do Chico. Ele faz tudo por ela. Ele odeia perder nos jogos. Ele é apaixonado pelo trabalho, séries, cozinhar e lutar. Ele ama Ela."
+email           = "derek@email.com"
+
+[social]
+twitter = 'ftoffolo'
+facebook = 'felipe.toffolo'
+instagram = 'ftoffolo'
+pinterest = 'felipetoffolo'

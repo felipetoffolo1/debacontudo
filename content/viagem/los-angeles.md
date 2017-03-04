@@ -7,11 +7,15 @@ date = "2017-02-20T21:00:47-02:00"
 tags = ["viagens","california","usa"]
 keywords = ["viagens","california","usa","los angeles","roteiro los angeles", "los angeles o que fazer","turismo", "pontos de interesse","guia los angeles","o que fazer", "são francisco","6 dias"]
 categories = ["Viagem"]
-author = "Felipe Toffolo e Larissa Alberti"
+author = ["felipe","larissa"]
 banner = "/img/2017/02/los-angeles-banner.png"
-images = ["/img/2017/02/los-angeles-card.png","/img/2017/02/los-angeles-banner.png"]
+thumbnail = "/img/2017/02/los-angeles-thumb.png"
+images = ["/img/2017/02/los-angeles-thumb.png","/img/2017/02/los-angeles-banner.png"]
 lightbox = true
 totop = true
+[structured]
+type = "Article"
+
 +++
 
 ## "Garota eu vou pra Califórnia..."

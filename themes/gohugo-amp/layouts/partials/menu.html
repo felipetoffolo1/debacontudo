@@ -1,0 +1,56 @@
+<!-- site branding -->
+<div class="site-branding" id="top">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3">
+        {{ if .Site.Menus.social }}
+          <ul class="social-icon">
+          {{ range .Site.Menus.social }}
+            {{ if .URL }}
+            <li><a href="{{ .URL }}" class="icon">{{ .Pre }}</i></a></li>
+            {{ end }}
+          {{ end }}
+
+      </ul>
+        {{ end }}
+      </div><!-- .col-md-3 -->
+
+      <div class="col-md-6">
+        <!-- <h1 class="site-title"><a href="index.html" rel="home">Astrif.</a></h1> -->
+        {{ if .Site.Params.sidebarphoto}}
+          <h1 class="site-title title-image"><a href="index.html" rel="home"><img src="/img/logo-menu.png" alt="{{ .Site.Params.sidebartitle }}"></a></h1>
+        {{ end }}
+        {{ if .Site.Params.sidebartagline }}
+        <p class="site-description">- {{ .Site.Params.sidebartagline }} -</p>
+        {{ end }}
+
+      </div><!-- .col-md-6 -->
+
+      <div class="col-md-3">
+      </div><!-- .col-md-3 -->
+    </div><!-- .row -->
+  </div><!-- .container -->
+</div><!-- .site-branding -->
+
+<!-- main navigation -->
+<div class="site-navigation-sticky-wrapper">
+  <header id="masthead" class="site-header" role="banner">
+    <nav id="site-navigation" class="main-navigation" role="navigation">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><i class="fa fa-bars"></i><span class="sr-only">Primary Menu</span></button>
+            <div class="menu-container">
+              <ul id="primary-menu" class="menu nav-menu" aria-expanded="false">
+                <li class="menu-item"><a href="{{ .Site.BaseURL }}">Home</a></li>
+                {{ range .Site.Menus.main }}
+                <li class="menu-item"><a href="{{ .URL }}">{{ .Name }}</a></li>
+                {{ end }}
+              </ul>
+            </div><!-- .menu-container -->
+          </div><!-- .col-md-12 -->
+        </div><!-- .row -->
+      </div><!-- .container -->
+    </nav><!-- #site-navigation -->
+  </header><!-- #masthead -->
+</div><!-- .site-header-affix-wrapper -->

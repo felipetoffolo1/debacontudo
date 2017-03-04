@@ -1,14 +1,15 @@
 +++
 date = "2017-02-28T22:05:16-03:00"
 lightbox = false
-images = ["/img/2017/02/salada-proteica-banner.png","/img/2017/02/salada-proteica-card.png"]
+thumbnail = "/img/2017/02/salada-proteica-thumb.png"
+images = ["/img/2017/02/salada-proteica-banner.png","/img/2017/02/salada-proteica-thumb.png"]
 description = "Aprenda a fazer a salada proteica. Uma receita prática e saudável que vai te salvar no dia a dia."
 totop = true
-title ="Receita: Salada Proteica - Uma refeição saudável que você não pode viver sem"
+title ="Salada Proteica - Uma refeição saudável que você não pode viver sem"
 keywords = ["salada proteica","salada whole30", "whole30","whole 30","receita","salada","salada deliciosa","melhor salada","salada fácil", "salada prática","salada no pote"," maionese caseira","paleo"]
 categories = ["Comida"]
 tags = ["receitas","comidas","whole30","paleo","receita pratica"]
-author = "Felipe Toffolo"
+author = ["felipe"]
 draft = false
 banner = "/img/2017/02/salada-proteica-banner.png"
 slug = "salada_proteica_uma_refeicao_saudavel_que_voce_nao_pode_viver_sem"
