@@ -26,7 +26,7 @@ O Whole30 é um programa, ou dieta, ou filosofia (eu ainda não sei do que chama
 Ou seja, não é somente emagrecer, mas ensinar o seu corpo e a sua mente a gostarem das coisas certas e ao menos tentar esquecer as erradas, fazendo com que seu corpo pare de usar o açúcar como combustível principal e passe a usar a gordura. A partir dessa mudança de hábitos, o Whole30 promete resolver vários problemas da sua saúde que podem estar sendo causados pela sua alimentação (e que você nem sabe), além de trazer vários benefícios para o seu corpo.
 {{% quote-her "Ver todos os seus shorts e calças folgados é um deles. :P - Larissa" %}}
 
-{{% figure src="/img/2017/02/Whole30-info.png" alt="Infográfico regras do Whole30" class="pure-img-responsive pure-img-infographic" %}}
+{{% img-info src="/img/2017/02/Whole30-info.png" alt="Infográfico regras do Whole30" height="1848" width="800" %}}
 
 ## A nossa experiência
 

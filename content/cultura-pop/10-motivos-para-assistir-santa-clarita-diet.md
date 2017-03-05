@@ -17,7 +17,7 @@ Santa Clarita Diet é um novo seriado da Netflix, onde Drew Barrymore e Timothy 
 
 ## 1 - Fácil digestão
 A série é ótima para sentar, relaxar e assistir, sem ter que pensar muito. Uma distração fácil e divertida.
-{{% figure src="/img/2017/02/santa-clarita-1.png" alt="Casal Santa Clarita Diet" class="pure-img-around-left" %}}
+{{% img-around-left src="/img/2017/02/santa-clarita-1.png" alt="Casal Santa Clarita Diet" height="372" width="620" %}}
 ## 2 - Timothy Olyphant sendo diferente
 Quem está acostumado a ver o Timothy sendo o badass fodão como em Justify ou Hitman, vai achar bem diferente ele fazendo o papel de um marido comum e frágil.
 ## 3 - Drew Barrymore sendo ela mesma
@@ -30,7 +30,7 @@ Eu sei que para todo lado hoje em dia aparece alguma série ou filme de zumbi. M
 Os episódios duram cerca de 30 minutos, ótimo para quem quer ver algo rapidinho. Quem estiver com mais tempo pode ver dois seguidos.
 ## 7 - Momento reflexão
 Apesar de engraçadinho e despretensioso, o seriado te faz imaginar até onde você iria pela sua família.
-{{% figure src="/img/2017/02/santa-clarita-3.jpg" alt="Dre Barrymore Santa Clarita Diet Sangue" class="pure-img-around-right" %}}
+{{% img-around-right src="/img/2017/02/santa-clarita-3.jpg" alt="Dre Barrymore Santa Clarita Diet Sangue" height="720" width="1492" %}}
 ## 8 - Está na Netflix
 Eu não sei quanto a vocês, mas só a facilidade e praticidade de estar na Netflix já nos anima de assistir.
 ## 9 - Muito Ketchup

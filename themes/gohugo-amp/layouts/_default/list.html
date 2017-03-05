@@ -23,10 +23,7 @@
                           <div class="col-sm-6 col-md-6 col-xl-6">
                           <article class="post post-grid format-standard hentry">
                               <div class="entry-featured-image">
-                                  {{if not .Prev}}
-                                  <img src="{{ .Params.banner }}" alt="{{ .Title }}" /> {{else}} {{ if .Params.thumbnail }}
-                                  <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}"> {{else}}
-                                  <img src="/img/astrif-post-entry-02.jpg" alt="Healthy Breakfast For Cute Girl"> {{ end }} {{end}}
+                                  <amp-img src="{{ .Params.thumbnail }}" layout="responsive" width="337.5" height="337.5" alt="{{ .Title }}"></amp-img>
                               </div>
                               <!-- .entry-featured-image -->
                               <!-- <div class="entry-featured-image">

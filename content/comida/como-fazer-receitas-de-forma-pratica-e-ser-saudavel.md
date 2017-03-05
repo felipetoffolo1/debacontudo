@@ -32,7 +32,7 @@ Eu SEMPRE tenho ovos em casa. A gente consome cerca de 30 por semana. Primeiro p
 Outro líder de praticidade é o bife. Do que você preferir! Pode ser de frango, porco, boi, rã, sei lá. O bife tá ali, você pega um tempero que tiver, joga, passa, junta com mais alguma coisa e come.
 ### Vegetais de sustança
 Eu sempre tenho algum vegetal mais denso (rico em carboidrato), como batata-doce, cenoura, abóbora ou mandioca. É bom para momentos como depois de um treino puxado, ou apenas para quando você quiser mesmo.
-{{% figure src="/img/2017/03/feira-compras.jpg" alt="Compras na feira" class="pure-img-responsive" %}}
+{{% img-full src="/img/2017/03/feira-compras.jpg" alt="Compras na feira" height="943" width="1800" %}}
 ### Mato mais leve
 Em contrapartida, não esqueça de ter algumas folhas em casa, como acelga, rúcula e couve. Você vai precisar para suas saladas e a folha sempre ajuda o prato a ficar com cara de gente grande.
 ### Uma ervinha não faz mal

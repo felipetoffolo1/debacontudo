@@ -41,7 +41,7 @@ Então vou ensinar a receita básica e depois falo um pouco sobre variações e 
 9. Depois de pronta, fatie tipo como uma pizza, experimente um pedaço na hora e guarde o restante para ir comendo durante a semana.
 
 ## Melhorando a coisa
-{{% figure src="/img/2017/02/fritada-1.jpg" alt="Fritada Deliciosa" class="pure-img-around-right" %}}
+{{% img-around-right src="/img/2017/02/fritada-1.jpg" alt="Fritada Deliciosa" height="864" width="940" %}}
 Como disse, essa é a receita básica e nínguem merece viver do básico. Como faço isso praticamente toda semana, tento variar ao máximo, sempre adicionando um, dois, três ou quantos ingredientes quiser na receita básica, além de variar o tempero. Algumas variações que você pode usar:
 
 - Frango, tomate-cereja e manjericão
