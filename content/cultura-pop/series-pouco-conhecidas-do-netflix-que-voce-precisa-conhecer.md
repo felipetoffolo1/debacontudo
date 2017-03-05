@@ -22,12 +22,12 @@ Então para estimular as pessoas a assistir a essas séries vai uma lista de sé
 {{< imdb tt1637727 >}}
 The Killing foi uma dessas séries que eu comecei a ver porque não tinha outra. Mas qual foi minha surpresa ao encontrar uma das minhas séries policiais favoritas até hoje.
 A série mostra as investigações de **Sarah Linden** ([Mireille Enos][a75666c8]) e **Holder** ([Joel Kinnaman][ea4cff9e]). A série não segue aquele modelo batido de um caso por epiśodio, e dedica as duas primeiras temporadas para desvendar o mesmo assassinato. Outra coisa que o programa quebra são clichês. A protagonista da série é uma mulher forte e competente totalmente capaz de exercer sua função, porém em momento algum a série retrata ela como perfeita. Linden, tem vários problemas pessoais e morais que ela precisa enfrentar, e percebemos pelas escolhas de vestuário e maquiagem (ou falta de maquiagem), que a série tenta mostra-lá como alguém de verdade. O outra protagonista não fica atrás, Holder é um meninão de passado obscuro mas com o coração do lugar correto. Acompanha desses dois personagens tão carismaticos você vai passar horas grudado tenta descobrir quem diabos matou a menina.
-### Luthe
+### Luther
 {{< imdb tt1474684 >}}
 Muitas vezes na vida a gente só quer que alguém resolva o problema, não importa como. E o Sargento **Luther**, é esse alguém. Luther é um investigador britânico especializado em caçar (acho que a palavra é essa mesmo) assassinos em série e outros psicopatas. Interpretado pelo grande [Idris Elba](http://www.imdb.com/name/nm0252961/?ref_=tt_cl_t1), **Luther** é um personagem complexo, que as vezes parece invencivel e em outros momentos parece totalmente quebrado. Como normalmente os seus alvos são da pior estirpe Luther não poupa esforços e subterfúgios para pegar os criminosos. Você várias vezes vai se perguntar? "Será que estou de acordo com o que ele fez?" Provavelmente você vai estar (eu estava), mas com certeza você vai se divertir, sofrer um pouco e ficar aliviado ao ver a "justiça" (na medida do possível) ser alcançadas pelas mão do Luther.
 ### Justified
 {{< imdb tt1489428 >}}
-"Essa cidade é pequena demais para nós dois" Raylan Givens (Timothy Olyphant) não chegou a dizer isso, mas bem que poderia.
+"Essa cidade é pequena demais para nós dois" Raylan Givens (Timothy Olyphant) não chegou a dizer isso, mas bem que poderia. Raylan e um US-marshal do Texas. Um daqueles policiais de chapéu americanos. 
 ## Drama / Suspense
 ### Ray Donavan
 ### Orphan Black
