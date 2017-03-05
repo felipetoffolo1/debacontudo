@@ -583,6 +583,11 @@ button,
 				width: 100%;
 				height: auto;
 			}
+      amp-img{
+        display: block;
+        width: 100%;
+        height: auto;
+      }
 			&-caption{
         white-space: normal;
 				display: block;
@@ -1151,6 +1156,10 @@ button,
 			max-width: 100%;
 			height: auto;
 		}
+		apm-img{
+			max-width: 100%;
+			height: auto;
+		}
 	}
 	&-area{
 		float: left;
@@ -1488,6 +1497,9 @@ button,
 					padding-left: 20px;
 					padding-right: 20px;
 				}
+        .reading-time{
+          display: none;
+        }
 			}
 		}
 	}
@@ -1497,9 +1509,16 @@ button,
 			&:not(.first-post):not(.post-grid){
 				.entry-title{
 					max-width: 100%;
-					font-size: 20px;
+					font-size: 14px;
 					line-height: 28px;
 				}
+        .entry-area {
+          padding-top: 10px;
+
+        }
+        .reading-time{
+          display: none;
+        }
 				.entry-meta{
 					text-align: left;
 					.entry-cat{ display: none; }
