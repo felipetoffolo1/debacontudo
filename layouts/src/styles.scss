@@ -571,7 +571,7 @@ button,
 		.item{
 			position: relative;
       margin: 0px;
-			&:hover{
+			&:hover , &:focus{
 				.item-caption{
 					opacity: 1;
 					filter: alpha(opacity=100);
@@ -639,13 +639,13 @@ button,
 						line-height: 24px;
 						letter-spacing: 2px;
 						color: $white;
-						&:hover{ color: darken($white, 5%); }
+						&:hover , &:focus{ color: darken($white, 5%); }
 					}
 				}
 				&-more-link{
 					&.button{
 						border-color: $white !important;
-						&:hover{
+						&:hover , &:focus, &:active{
 							background-color: $white;
 							color: $text-color !important;
 						}
