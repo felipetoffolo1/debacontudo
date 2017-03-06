@@ -1,18 +1,18 @@
 +++
-title = "Séries pouco conhecidas no netflix que voce precisa conhecer"
-lightbox = false
+title = "10 Séries pouco conhecidas no Netflix que você precisa conhecer"
 description = ""
-slug = ""
-author = ""
-keywords = []
+slug = "10-series-pouco-conhecidas-no-netflix-que-voce-precisa-conhecer"
+author = ["felipe"]
+keywords = [""]
 draft = true
-date = "2017-03-01T17:37:26-03:00"
+date = "2017-03-06T17:37:26-03:00"
 tags = []
-banner = "/img/2017/02/santa-clarita-banner.png"
-totop = true
-images = []
-categories = []
-
+thumbnail = "/img/2017/03/series-pouco-conhecidas-thumb.png"
+banner = "/img/2017/03/series-pouco-conhecidas-banner.png"
+images = ["/img/2017/03/series-pouco-conhecidas-thumb.png","/img/2017/03/series-pouco-conhecidas-banner.png"]
+categories = ["pop-culture"]
+[structured]
+type = "Article"
 +++
 Tem várias séries que eu assisto no Netflix e que direto eu quero comentar com alguém e ninguem além da gente conhece (frustração). Então esse é o meu conceito de pouco conhecidas, já que não tive tempo de encomendar a **pesquisa do IBGE**. Então para estimular as pessoas a assistir a essas séries vai uma lista de séries pouco conhecidas do Netflix que você precisa conhecer (para depois a gente conversar sobre elas).
 ## Suspense / Policial

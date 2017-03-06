@@ -10,7 +10,8 @@ tags = ["outros"]
 images = ["/img/2017/02/De Bacon Tudo.png"]
 categories = ["Quem Somos"]
 keywords = ["blog","variedades","viagens","seriados","receitas","gourmet","pop-culture","cultura pop"]
-
+[structured]
+type = "Article"
 +++
 Bem-vindo a esse blog sobre nada. Obviamente você já entendeu que o nosso nada é tudo. Mas por que isso? Vamos começar explicando do começo. Esse blog pertence a nós e nós somos um casal, basicamente um casal como outro qualquer, quer dizer, não um qualquer, digamos que somos um casal legal.
 

@@ -14,7 +14,8 @@ thumbnail = "/img/2017/03/receitas-praticas-thumb.png"
 images = ["/img/2017/03/receitas-praticas-thumb.png","/img/2017/03/receitas-praticas-banner.png"]
 author = ["felipe"]
 type = "article"
-
+[structured]
+type = "Article"
 +++
 Tem um quesito em que o Junk Food é imbatível: praticidade. Realmente nada é mais prático do que abrir um saco de batatas chips ou pedir uma pizza. E esse acaba sendo um dos grandes empecilhos de quem quer comer de forma saudável. É comum pensarmos "vai dar muito trabalho" ou "se tivesse alguém para fazer para mim eu comeria". Bem, chegou a hora de  darmos um jeito nisso. Vou te revelar os meus segredos para comer bem, sem me matar na cozinha todos os dias.
 

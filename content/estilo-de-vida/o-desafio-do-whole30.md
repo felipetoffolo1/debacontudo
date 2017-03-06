@@ -9,8 +9,8 @@ thumbnail = "/img/2017/02/whole30-thumb.png"
 tags = ["Dieta","Malhação","Saudável"]
 keywords = ["whole30", "dieta", "paleo","nutricao","saudavel","alimentacao","vida saudavel", "dicas whole30"," dieta whole30", "whole como fazer" ]
 categories = ["Comida","Estilo de Vida"]
-type = "article"
-
+[structured]
+type = "Article"
 +++
 ## Em busca da saúde perfeita
 
