@@ -19,7 +19,6 @@ Tem várias séries que eu assisto na Netflix e que direto eu quero comentar com
 ## Suspense / Policial
 ### The Killing
 {{< imdb tt1637727 >}}
-{{< >}}
 The Killing foi uma dessas séries que eu comecei a ver porque não tinha outra. Mas qual foi o diferencial da série que é uma das minhas séries policiais favoritas até hoje?
 A série mostra as investigações de **Sarah Linden** ([Mireille Enos][a75666c8]) e **Holder** ([Joel Kinnaman][ea4cff9e]). Ela não segue aquele modelo batido de um caso por epiśodio, e dedica as duas primeiras temporadas para desvendar o mesmo assassinato. Outra coisa que o seriado quebra são clichês. A protagonista da série é uma mulher forte e competente, totalmente capaz de exercer sua função, porém em momento algum a série retrata ela como perfeita. Linden tem vários problemas pessoais e morais que ela precisa enfrentar, e percebemos pelas escolhas de vestuário e maquiagem (ou falta de) que a série tenta mostra-lá como alguém de verdade. O outro protagonista não fica atrás. Holder é um meninão de passado obscuro mas com o coração no lugar correto. Esses dois personagens tão carismáticos vão fazer você vai querer passar horas grudado tentando descobrir quem diabos matou a menina.
 ### Luther
