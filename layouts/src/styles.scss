@@ -55,7 +55,41 @@
 	[0. IMPORT SOURCE]
 	===========================
 */
-@import '../../node_modules/bootstrap-sass/assets/stylesheets/_bootstrap.scss';
+// @import '../../node_modules/bootstrap-sass/assets/stylesheets/_bootstrap.scss';
+
+// Core variables and mixins
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/variables";
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/mixins";
+
+// Reset and dependencies
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/normalize";
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/print";
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/glyphicons";
+
+// Core CSS
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/scaffolding";
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/type";
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/code";
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/grid";
+// @import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/tables";
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/forms";
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/buttons";
+
+// Components
+// @import "bootstrap/component-animations";
+// @import "bootstrap/dropdowns";
+// @import "bootstrap/button-groups";
+// @import "bootstrap/input-groups";
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/navs";
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/navbar";
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/list-group";
+// @import "bootstrap/breadcrumbs";
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/pagination";
+
+// Utility classes
+// @import "bootstrap/utilities";
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/responsive-utilities";
+
 @import "variables.scss";
 @import "custom.scss";
 
@@ -69,6 +103,7 @@ $theme-color: $dark-red;
 // $theme-color: #E54028;
 $bg-color: $white;
 $text-color: $black;
+
 
 body{
 	margin: 0;
@@ -1398,7 +1433,9 @@ button,
 
 			.avatar{
 				max-width: 120px;
-				height: auto;
+				height: 120px;
+        width: 120px;
+
 				@include border-radius(4px);
 			}
 		}
@@ -1901,10 +1938,11 @@ img[class*="wp-image-"] {
 			display: inline-block;
 			width: 48%;
 			.image-link{
-				img{
-					max-width: 90px;
-					height: auto;
-					@include border-radius(50px);
+
+        amp-img,img{
+          max-width: 90px;
+          height: auto;
+          @include border-radius(50px);
 				}
 			}
 			span{

@@ -63,7 +63,8 @@
                       <div class="nav-links">
                         {{ if .Prev }}
                         <div class="nav-previous">
-                          <a href="#" class="image-link"><img src="{{ .Prev.Params.thumbnail }}"></a>
+                          <a href="#" class="image-link">
+                            <amp-img src="{{ .Prev.Params.thumbnail }}" width="90" height="90" layout="fixed"></amp-img></a>
                           <span>Post Anterior</span>
                           <a href="{{ .Prev.RelPermalink }}" class="prev-link" rel="prev">{{ .Prev.Title }}</a>
                         </div>
@@ -71,7 +72,8 @@
 
                         {{ if .Next }}
                         <div class="nav-next">
-                          <a href="#" class="image-link"><img src="{{ .Next.Params.thumbnail }}"></a>
+                          <a href="#" class="image-link">
+                          <amp-img src="{{ .Next.Params.thumbnail }}" width="90" height="90" layout="fixed"></amp-img></a>
                           <span>Próximo Post</span>
                           <a  href="{{ .Next.RelPermalink }}" class="next-link" rel="next">{{ .Next.Title  }}</a>
                         </div>
@@ -87,7 +89,9 @@
                     {{ range .Params.author}}
                     <div class="entry-author-bio">
                       <div class="author-bio-avatar">
-                        <img alt="author bio" src="{{ index (index $.Site.Data.authors  . ) "thumbnail" }}" class="avatar">
+                        <div class="avatar">
+                          <amp-img alt="author bio" src="{{ index (index $.Site.Data.authors  . ) "thumbnail" }}" height="200" width="200" layout="responsive" ></amp-img>
+                        </div>
                       </div><!-- .author-bio-avatar -->
                       <div class="author-bio-description">
                         <h4>{{ index (index $.Site.Data.authors . ) "display_name" }}</h4>

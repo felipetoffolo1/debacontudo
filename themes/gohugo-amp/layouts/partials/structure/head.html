@@ -14,7 +14,7 @@
     <link rel="canonical" href="{{ .Permalink }}">
 
     <link rel="icon" href="/favicon.png" type="image/png" sizes="144x144">
-    
+
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
 
     {{ if .RSSLink }}
@@ -23,12 +23,23 @@
     {{ end }}
 
     <meta name="theme-color" content="{{ $.Site.Params.themeColor }}" />
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Oswald:400,500" rel="stylesheet">
+
 
     {{ partial "seo/main" . }}
 
 </head>
 
 <body>
+  <amp-sidebar id="sidebar" layout="nodisplay">
+      <ul class="list-group">
+        <li class="list-group-item"><a href="{{ .Site.BaseURL }}">Home</a></li>
+        {{ range .Site.Menus.main }}
+        <li class="list-group-item"><a href="{{ .URL }}">{{ .Name }}</a></li>
+        {{ end }}
+      </ul>
+  </amp-sidebar>
 {{ if isset $.Site.Params "ampmanifest" }}
 {{ with $.Site.Data.app.banner }}{{ partial "amp/app-banner" . }}{{ end }}
 {{ end }}
