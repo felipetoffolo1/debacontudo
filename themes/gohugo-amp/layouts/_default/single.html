@@ -113,8 +113,14 @@
 
                     <div id="comments" class="comments-area">
                       {{ if not .Params.nocomment }}
-                      {{ template "_internal/disqus.html" . }}
-                      {{ end }}
+                      <!-- <amp-iframe width="600" height="140"
+                                  layout="responsive"
+                                  sandbox="allow-scripts allow-same-origin allow-modals allow-popups allow-forms"
+                                  resizable
+                                  src="{{ $Site.BaseURL}}disqus2">
+                                  <div overflow tabindex=0 role=button aria-label="Read more">Read more!</div>
+                      </amp-iframe> -->
+                       {{ end }}
                     </div>
                   </div><!-- .site-entry -->
                 </div><!-- .col-md-8 -->
@@ -127,7 +133,7 @@
           </main><!-- #main -->
         </div><!-- #primary -->
       </div><!-- #content -->
-      <script type="text/javascript">
+      <!-- <script type="text/javascript">
       onscroll = function() {
         var toTopVisible = false;
         var scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
@@ -141,7 +147,7 @@
           }
         }
       };
-      </script>
+      </script> -->
 </main>
 
 {{ partial "structure/foot" . }}
