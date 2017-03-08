@@ -129,7 +129,7 @@ a{
 }
 pre,
 .pre-scrollable{
-	&::-webkit-scrollbar{ width: 6px !important; }
+	&::-webkit-scrollbar{ width: 6px; }
 	&::-webkit-scrollbar-track{ background-color: darken($white, 10%); }
 	&::-webkit-scrollbar-thumb{ background-color: lighten($grey, 35%); }
 	&::-webkit-scrollbar-button{ display: none; }
@@ -154,7 +154,7 @@ pre,
 		@include transition(all 0.1s linear);
 	}
 }
-textarea{ height: auto !important; }
+textarea{ height: auto; }
 
 label{
 	font-size: 12px;
@@ -320,7 +320,7 @@ button,
 		text-transform: uppercase;
 		@include border-radius(25px);
 		background-color: transparent;
-		border: 2px solid $text-color !important;
+		border: 2px solid $text-color;
 		color: $text-color;
 		@include transition(all 0.1s linear);
 
@@ -343,8 +343,8 @@ button,
 		@include transition(all 0.1s linear);
 
 		&:not(.more-link):not(.btn):not([class*="icon-"]):not(.icon-social):not(.menu-toggle):not(.search-submit){
-			color: $white !important;
-			border-color: $theme-color !important;
+			color: $white;
+			border-color: $theme-color ;
 			background-color: $theme-color;
 		}
 	}
@@ -539,10 +539,10 @@ button,
 				}
 				&-more-link{
 					&.button{
-						border-color: $white !important;
+						border-color: $white ;
 						&:hover , &:focus, &:active{
 							background-color: $white;
-							color: $text-color !important;
+							color: $text-color ;
 						}
 					}
 					color: $white;
@@ -1321,7 +1321,7 @@ button,
 /* Text meant only for screen readers. */
 .screen-reader-text {
 	clip: rect(1px, 1px, 1px, 1px);
-	position: absolute !important;
+	position: absolute;
 	height: 1px;
 	width: 1px;
 	overflow: hidden;
@@ -1330,7 +1330,7 @@ button,
 		background-color: darken($white, 2%);
 		@include border-radius(3px);
 		@include box-shadow(0 0 2px 2px rgba(0, 0, 0, 0.6));
-		clip: auto !important;
+		clip: auto;
 		color: darken($theme-color, 15%);
 		display: block;
 		font-size: 14px;
@@ -1533,8 +1533,8 @@ button,
 				border: 1px solid $grey;
 				@include border-radius(3px);
 				@include box-sizing;
-				font-size: 12px !important;
-				line-height: 22px !important;
+				font-size: 12px;
+				line-height: 22px;
 				text-transform: capitalize;
 				color: $grey;
 				background-color: darken($white, 5%);
