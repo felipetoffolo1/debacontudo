@@ -60,11 +60,11 @@
 @import "mixins/_vendor-prefixes";
 @import "variables.scss";
 @import "custom.scss";
-@import "pure/base.scss";
+@import "pure/base-min.scss";
 @import "pure/grids-core.scss";
-@import "pure/grids.scss";
-@import "pure/grids-responsive.scss";
-@import "pure/menus.scss";
+@import "pure/grids-min.scss";
+@import "pure/grids-responsive-min.scss";
+@import "pure/menus-min.scss";
 
 /*
 	===========================
@@ -75,9 +75,6 @@ $theme-color: $dark-red;
 // $theme-color: #E54028;
 $bg-color: $white;
 $text-color: $black;
-
-
-
 body{
 	margin: 0;
 	padding:0;
@@ -1626,51 +1623,6 @@ button,
 
 /*
 	===========================
-	[7.1. EMBED]
-	===========================
-*/
-/* Make sure embeds and iframes fit their containers. */
-embed,
-iframe,
-object {
-	max-width: 100%;
-}
-
-/*
-	===========================
-	[7.2. CAPTIONS]
-	===========================
-*/
-img[class*="wp-image-"] {
-	max-width: 100%;
-	height: auto;
-}
-
-.wp-caption {
-	margin-bottom: 1.5em;
-	max-width: 100%;
-
-	img[class*="wp-image-"] {
-		display: block;
-		max-width: 100%;
-		height: auto;
-		margin-left: auto;
-		margin-right: auto;
-	}
-	.wp-caption-text { margin: 0.8075em 0; }
-}
-
-.wp-caption-text {
-	padding-top: 5px;
-	text-align: center;
-	font-size: 12px;
-	line-height: 14px;
-	color: lighten($grey, 15%);
-}
-
-
-/*
-	===========================
 	[8. RELATED POST]
 	===========================
 */
@@ -1729,228 +1681,6 @@ img[class*="wp-image-"] {
 	}
 }
 
-
-/*
-	===========================
-	[9. COMMENT]
-	===========================
-*/
-/*
-	===========================
-	[9.1. COMMENT LIST]
-	===========================
-*/
-.comment-list{
-	margin-bottom: 40px;
-	padding-left: 0;
-	list-style-type: none;
-
-	&:before,
-	&:after{
-		content: "";
-		display: table;
-		clear: both;
-	}
-
-	ol{
-		margin-left: 50px;
-		padding: 0;
-		list-style-type: none;
-
-		@media screen and (max-width: 767px){
-		     margin-left: 0;
-		}
-	}
-
-	.comment{
-		margin-top: 0;
-		padding-bottom: 0;
-		&-meta{
-			.comment-author{
-				.avatar{
-					position: absolute;
-					left: -85px;
-					top: 0;
-					max-width: 65px;
-					height: auto;
-					@include border-radius(100%);
-				}
-				.fn{
-					font-size: 13px;
-					line-height: 20px;
-					font-weight: 700;
-					color: $text-color;
-				}
-			}
-
-			.comment-metadata{
-				margin-top: -3px;
-				time{
-					font-size: 10px;
-					line-height: 20px;
-					text-transform: uppercase;
-					letter-spacing: 1px;
-					color: darken($white, 20%);
-				}
-			}
-		}
-
-		&-content{
-			margin-top: 10px;
-			font-size: 13px;
-			line-height: 22px;
-			color: $text-color;
-		}
-
-		.reply{
-			font-size: 11px;
-			line-height: 20px;
-			letter-spacing: 1px;
-			text-transform: uppercase;
-			a{
-				display: inline-block;
-				color: lighten($grey, 15%);
-				&:hover{
-					color: $theme-color;
-				}
-				&::after{
-					content: '\f175';
-					@include font-family($font-awesome);
-					padding-left: 10px;
-					font-size: 10px;
-				}
-			}
-		}
-
-		&-body{
-		    position: relative;
-		    margin-bottom: 30px;
-		    margin-left: 85px;
-		}
-	}
-}
-
-.comment-navigation{
-	margin-bottom: 20px;
-	margin-top: 20px;
-
-	.nav-links{
-		display: block;
-		width: 100%;
-
-		&::before,
-		&::after{
-			content: '';
-			display: table;
-			clear: both;
-		}
-
-		.nav-previous,
-		.nav-next{
-			display: inline-block;
-			a{
-				font-size: 11px;
-				letter-spacing: 2px;
-				text-transform: uppercase;
-				color: $text-color;
-				&:hover{
-					color: lighten($grey, 15%);
-				}
-			}
-
-			@media screen and (max-width: 37.5em){
-				width: 50%;
-			}
-		}
-
-		.nav-previous{
-			float: left;
-			text-align: left;
-			a{
-				&::before{
-					content: '\f177';
-					@include font-family($font-awesome);
-					font-size: 11px;
-					padding-right: 5px;
-				}
-			}
-		}
-
-		.nav-next{
-			float: right;
-			text-align: right;
-			a{
-				&::after{
-					content: '\f178';
-					@include font-family($font-awesome);
-					font-size: 11px;
-					padding-left: 5px;
-				}
-			}
-		}
-	}
-}
-
-/*
-	===========================
-	[9.2. COMMENT FORM]
-	===========================
-*/
-.comment-respond{
-	padding: 40px;
-	background-color: darken($white, 5%);
-	outline: none;
-}
-.comment-form{
-	label{
-		font-size: 11px;
-		letter-spacing: 1px;
-		text-transform: uppercase;
-		color: $text-color;
-	}
-	.form-control{
-		height: 45px;
-		padding: 10px 20px;
-		margin: 10px 0;
-		border-color: darken($white, 10%);
-		@include border-radius(0);
-		@include box-shadow-none;
-		color: $grey;
-		@include transition(all 0.1s linear);
-
-		&:focus{
-			border-color: $text-color;
-			color: $text-color;
-			@include transition(all 0.1s linear);
-		}
-	}
-
-	textarea.form-control{
-		height: auto;
-		resize: none;
-	}
-
-	input[type="submit"],
-	button,
-	.btn{
-		padding: 12px 24px;
-		text-transform: uppercase;
-		font-size: 11px;
-		@include border-radius(0);
-		border: 2px solid $text-color;
-		background-color: transparent;
-		@include transition(all 0.1s linear);
-		&:hover{
-			border-color: $black;
-			color: $white;
-			background-color: $black;
-			@include transition(all 0.1s linear);
-		}
-		&:focus{
-			outline: none;
-		}
-	}
-}
 
 
 /*
@@ -2085,31 +1815,6 @@ img[class*="wp-image-"] {
 	}
 }
 
-.pagination{
-	.nav-links{
-		a{
-		 	color: $text-color;
-		 	border-bottom: 2px solid transparent;
-		 	&:hover{
-		 		border-bottom: 2px solid $text-color;
-		 		color: lighten($grey, 15%);
-		 	}
-		}
-
-		a,
-	 	span{
-	 		display: inline-block;
-			margin: 0 8px;
-			padding: 0 5px;
-			font-size: 11px;
-			text-transform: uppercase;
-	 	}
-		.current{
-			border-bottom: 2px solid $text-color;
-			color: lighten($grey, 15%);
-		}
-	}
-}
 
 
 /*
