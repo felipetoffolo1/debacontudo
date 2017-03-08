@@ -586,84 +586,6 @@ button,
      border-bottom: 5px solid darken($white, 10%);
    }
 
-	ul {
-		display: none;
-		list-style: none;
-		margin: 0 auto;
-		padding-left: 0;
-
-		ul {
-			float: left;
-			position: absolute;
-			top: 100%;
-			left: -999em;
-			z-index: 99999;
-			background-color: $white;
-			@include box-shadow(0 3px 3px rgba(0, 0, 0, 0.2));
-			border-top: 1px solid fade($black, 15%);
-
-			&:hover > a,
-			.focus > a { color: $theme-color; }
-
-			li {
-				position: relative;
-				&:last-child{ border-bottom: none; }
-
-				&:hover > ul,
-				&.focus > ul { left: 100%; }
-
-				&.current_page_item > a,
-				&.current-menu-item > a,
-				&.current_page_ancestor > a,
-				&.current-menu-ancestor > a{
-					color: $theme-color;
-					background-color: $white;
-				}
-
-				@media screen and (max-width: 37.5em) {
-					background-color: fade($bg-color, 95%);
-					border-bottom: none;
-
-					&.current_page_item > a,
-					&.current-menu-item > a,
-					&.current_page_ancestor > a,
-					&.current-menu-ancestor > a{
-						color: darken($theme-color, 5%);
-						background-color: transparent;
-					}
-				}
-			}
-
-			a {
-				width: 200px;
-				padding: 8px 16px;
-				border-bottom: 1px solid fade($black, 15%);
-				font-size: 11px;
-				font-weight: 400;
-				color: $text-color;
-
-				&:hover,
-				&.focus{
-					text-decoration: none;
-					color: $theme-color;
-
-					@media screen and (max-width: 37.5em) {
-						background-color: transparent;
-					}
-				}
-			}
-
-			ul {
-				left: -999em;
-				top: 0;
-
-				@media screen and (max-width: 37.5em) {
-					background-color: transparent;
-				}
-			}
-		}
-	}
-
 	li {
 		float: left;
 		position: relative;
@@ -871,10 +793,6 @@ button,
 		float: left;
 		width: 45%;
 		margin: 0;
-		img{
-			max-width: 100%;
-			height: auto;
-		}
 		apm-img{
 			max-width: 100%;
 			height: auto;
@@ -1831,32 +1749,11 @@ button,
 		}
 		.instagram-widget{
 			position: relative;
-			ul{
-				padding: 0;
-				margin: 0;
-				text-align: center;
-				font-size: 0;
-
-				li{
-					display: inline-block;
-					width: 16.6666666667%;
-					padding: 0;
-					@media screen and (max-width: 992px){
-						width: 33.333333333333%;
-					}
-					@media screen and (max-width: 768px){
-						width: 33.333333333333%;
-					}
-					@media screen and (max-width: 480px){
-						width: 50%;
-					}
-
-					img{
-						width: 350px;
-						height: 350px;
-					}
-				}
-			}
+      .item{
+        height: 350px;
+        width: 350px;
+        margin: 0px;
+      }
 		}
 
 		.instagram-follow{
