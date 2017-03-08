@@ -696,63 +696,6 @@ button,
 				}
 			}
 		}
-		.owl-buttons{
-			.owl-prev,
-			.owl-next{
-				position: absolute;
-				top: 50%;
-				z-index: 10;
-				width: 30px;
-				height: 30px;
-				font-size: 18px;
-				line-height: 18px;
-				text-align: center;
-				border: 2px solid $white;
-				@include border-radius(30px);
-				color: $white;
-				background-color: transparent;
-				opacity: .7;
-				filter: alpha(opacity=70);
-				&:hover{
-					opacity: 1;
-					filter: alpha(opacity=100);
-				}
-			}
-			.owl-prev{
-				left: 20px;
-				margin-top: -30px;
-			}
-			.owl-next{
-				right: 20px;
-				margin-top: -30px;
-			}
-		}
-		.owl-pagination{
-			margin-top: -50px;
-			padding: 5px;
-			.owl-page{
-				span{
-					border: 1px solid $white;
-					@include border-radius(5px);
-					background-color: transparent;
-					opacity: .7;
-					@include transition(all .2s linear);
-				}
-				&:hover{
-					span{
-						background-color: $white;
-						@include transition(all .2s linear);
-					}
-				}
-				&.active{
-					span{
-						background-color: $white;
-						opacity: .9;
-						@include transition(all .2s linear);
-					}
-				}
-			}
-		}
 	}
 }
 
@@ -1345,32 +1288,6 @@ button,
 			font-weight: 700;
 		}
 
-		blockquote{
-			position: relative;
-			max-width: 70%;
-			margin: 20px auto;
-			padding: 30px 40px 20px;
-			text-align: center;
-			border-left: none;
-			font-size: 24px;
-			line-height: 36px;
-			font-weight: 700;
-			color: $text-color;
-
-			small,
-			cite{
-				display: block;
-				font-size: 11px;
-				font-style: normal;
-				letter-spacing: 2px;
-				text-transform: uppercase;
-				color: lighten($grey, 15%);
-			}
-
-			@media screen and (max-width: 767px){
-				padding: 20px 0;
-			}
-		}
 	}
 
 	&-footer{
@@ -1380,58 +1297,6 @@ button,
 		font-size: 12px;
 		text-transform: uppercase;
 
-		.share-links{
-			display: block;
-			span{
-				display: block;
-				margin-bottom: 10px;
-				font-size: 10px;
-				letter-spacing: 2px;
-				text-transform: uppercase;
-				color: lighten($grey, 20%);
-			}
-			a{
-				display: inline-block;
-				margin-bottom: 3px;
-				padding: 5px 18px;
-				text-align: center;
-				font-size: 11px;
-				text-transform: capitalize;
-				color: $white;
-
-				&.icon-twitter{
-					background-color: $twitter;
-					&:hover{ background-color: darken($twitter, 5%); }
-				}
-				&.icon-facebook{
-					background-color: $facebook;
-					&:hover{ background-color: darken($facebook, 5%); }
-				}
-				&.icon-youtube,
-				&.icon-google-plus{
-					background-color: $google;
-					&:hover{ background-color: darken($google, 5%); }
-				}
-				&.icon-pinterest{
-					background-color: $dark-red;
-					&:hover{ background-color: darken($dark-red, 5%); }
-				}
-				&.icon-linkedin{
-					background-color: darken($skyblue, 5%);
-					&:hover{ background-color: darken($skyblue, 10%); }
-				}
-
-				i,
-				.fa,
-				.glyphicon{
-					position: relative;
-					top: 2px;
-					left: -2px;
-					font-size: 14px;
-					margin-right: 5px;
-				}
-			}
-		}
 
 		.tags-links{
 			display: block;
