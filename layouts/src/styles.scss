@@ -1,19 +1,5 @@
 /*
 	========================================
-	ASTRIF FOOD BLOG THEME
-	========================================
-
-	Theme URI		: http://templateninja.net/themes/astrif
-	Author			: TemplateNinja
-	Author-URI 		: http://templateninja.net
-	Version			: v1.0
-	Date-create		: September 23, 2016
-	Last-update		: September 26, 2016
-
-*/
-
-/*
-	========================================
 	TABLE OF CONTENTS
 	========================================
 
@@ -48,20 +34,16 @@
 	[15. COPYRIGHT]
 
 */
-
-
 /*
 	===========================
 	[0. IMPORT SOURCE]
 	===========================
 */
-// @import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/mixins";
 @import "mixins/_border-radius";
 @import "mixins/_vendor-prefixes";
 @import "variables.scss";
 @import "custom.scss";
 @import "pure/base-min.scss";
-@import "pure/grids-core.scss";
 @import "pure/grids-min.scss";
 @import "pure/grids-responsive-min.scss";
 @import "pure/menus-min.scss";
@@ -472,122 +454,6 @@ button,
 	}
 }
 
-/*
-	===========================
-	[3.4. ALERT]
-	===========================
-*/
-.alert{
-	@include border-radius(0);
-	border-width: 2px;
-
-	&-success{
-		border-color: $alert-success;
-	}
-	&-info{
-		border-color: $alert-info;
-	}
-	&-warning{
-		border-color: $alert-warning;
-	}
-	&-danger{
-		border-color: $alert-danger;
-	}
-}
-
-/*
-	===========================
-	[3.5. PROGRESS BAR]
-	===========================
-*/
-.progress{
-	height: 5px;
-	background-color: darken($white, 10%);
-}
-
-/*
-	===========================
-	[3.6. ACCORDION]
-	===========================
-*/
-.panel-group{
-	.panel{ @include border-radius(0);}
-}
-.panel{
-	@include box-shadow-none;
-	font-size: 13px;
-	line-height: 22px;
-	@include border-radius(0);
-	&-default{
-		border-color: transparent;
-		> .panel-heading{
-			background-color: darken($white, 5%);
-
-			+ .panel-collapse{
-				> .panel-body{
-					border-top-color: transparent;
-				}
-			}
-		}
-	}
-	&-heading{ padding: 6px 20px; }
-	&-title{
-		font-size: 12px;
-		font-weight: 700;
-		text-transform: uppercase;
-		a{ display: block; }
-	}
-	&-body{
-		padding: 10px 20px 20px;
-		@include border-radius(0);
-		border-top-color: darken($white, 10%);
-	}
-	&-footer{ border-top-color: transparent; }
-}
-
-/*
-	===========================
-	[3.7. TABS]
-	===========================
-*/
-.nav-tabs{
-	border-bottom: 1px solid transparent;
-	li{
-		a{
-			padding: 8px 15px;
-			font-size: 12px;
-			font-weight: 700;
-			text-transform: uppercase;
-			@include border-radius(0);
-			color: $text-color;
-
-			&:hover{
-				border-color: transparent;
-				color: $text-color;
-				background-color: transparent;
-			}
-		}
-
-		&.active{
-			a{
-				&,
-				&:hover,
-				&:focus{
-					border-color: darken($white, 5%);
-					color: $text-color;
-					background-color: darken($white, 5%);
-				}
-			}
-		}
-	}
-}
-.tab-content{
-	padding: 5px 16px 20px;
-	font-size: 13px;
-	line-height: 22px;
-	background-color: transparent;
-}
-
 
 /*
 	===========================
@@ -611,11 +477,6 @@ button,
 					filter: alpha(opacity=100);
 					@include transition(opacity 0.2s linear);
 				}
-			}
-			img{
-				display: block;
-				width: 100%;
-				height: auto;
 			}
       amp-img{
         display: block;
@@ -698,8 +559,6 @@ button,
 		}
 	}
 }
-
-
 /*
 	===========================
 	[5. MAIN NAVIGATION]
@@ -819,46 +678,6 @@ button,
 		&:hover > ul,
 		&.focus > ul { left: auto; }
 
-		&.menu-item-has-children{
-			position: relative;
-			padding-right: 15px;
-
-			&::after{
-				content: '+';
-				position: absolute;
-				right: 15px;
-				top: 13px;
-				font-size: 13px;
-			}
-
-			&:hover,
-			&:focus{
-				&::after{
-					content: '-';
-					color: $theme-color;
-				}
-			}
-
-			.menu-item-has-children{
-				padding-right: 0;
-				&::after{
-					content: '+';
-					position: absolute;
-					right: 20px;
-					top: 8px;
-					font-size: 13px;
-					color: $text-color;
-				}
-
-				&:hover,
-				&:focus{
-					&::after{
-						content: '-';
-						color: $theme-color;
-					}
-				}
-			}
-		}
 	}
 
 	a {
@@ -894,104 +713,7 @@ button,
 			background-color: $bg-color;
 			&:focus{ outline: none; }
 		}
-		#primary-menu{
-			position: relative;
-			z-index: 4;
-			max-height: 300px;
-			overflow-x: auto;
-      text-align: center;
-			&::-webkit-scrollbar {
-				width: 3px;
-			}
-			&::-webkit-scrollbar-track {
-				background-color: lighten($grey, 30%);
-			}
-			&::-webkit-scrollbar-thumb {
-				background-color: $grey;
-				@include border-radius(2px);
-			}
-			&::-webkit-scrollbar-button {
-				display: none;
-			}
-			&::-webkit-scrollbar-corner {
-				background-color: lighten($grey, 30%);
-			}
-		}
 
-		ul{
-			float: none;
-			border-top: none;
-			background-color: $white;
-
-			ul{
-				display: block;
-				margin-top: 0;
-				float: none;
-				position: static;
-				padding: 0 20px;
-				@include box-shadow(none);
-				background-color: $white;
-
-				&:hover > a,
-				.focus > a { color: $theme-color; }
-
-				a {
-					width: 100%;
-					padding: 10px 12px;
-					font-size: 12px;
-					color: $grey;
-
-					&:hover,
-					&.focus {
-						text-decoration: none;
-						color: $theme-color;
-						background-color: $white;
-					}
-				}
-			}
-		}
-
-		li {
-			display: block;
-			float: none;
-
-			&.menu-item-has-children{
-				position: relative;
-				padding-right: 15px;
-				&::after{
-					content: '';
-					display: none;
-				}
-
-				&:hover,
-				&:focus{
-					background-color: $white;
-					color: $theme-color;
-					a{
-						color: $grey;
-						&:hover,
-						&:focus{ color: $theme-color; }
-					}
-				}
-
-				.menu-item-has-children{
-					padding-right: 0;
-					&::after{
-						content: '';
-						display: none;
-					}
-				}
-			}
-		}
-
-		a {
-			display: block;
-			padding: 10px 12px;
-			font-size: 14px;
-			line-height: 22px;
-			&:hover,
-			&:focus{ color: $theme-color; }
-		}
 	}
 
 	@media screen and (min-width: 601px) {
@@ -1002,15 +724,6 @@ button,
     }
 	}
 
-	@media screen and (max-width: 767px) and (min-width: 601px){
-		float: none;
-		ul{
-			display: table;
-			float: none;
-			margin-left: auto;
-			margin-right: auto;
-		}
-	}
 }
 
 .site-branding{
