@@ -55,37 +55,15 @@
 	[0. IMPORT SOURCE]
 	===========================
 */
-// @import '../../node_modules/bootstrap-sass/assets/stylesheets/_bootstrap.scss';
-
-// Core variables and mixins
-@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/variables";
 @import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/mixins";
-
-// Reset and dependencies
-@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/normalize";
-// @import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/print";
-// @import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/glyphicons";
-
-// Core CSS
-@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/scaffolding";
-@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/type";
-// @import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/code";
-@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/grid";
-// @import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/tables";
-@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/forms";
-@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/buttons";
-
-// Components
-@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/navbar";
-@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/list-group";
-
-// Utility classes
-// @import "bootstrap/utilities";
-// @import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/responsive-utilities";
 
 @import "variables.scss";
 @import "custom.scss";
-
+@import "pure/base.scss";
+@import "pure/grids-core.scss";
+@import "pure/grids.scss";
+@import "pure/grids-responsive.scss";
+@import "pure/menus.scss";
 
 /*
 	===========================
@@ -98,6 +76,7 @@ $bg-color: $white;
 $text-color: $black;
 
 
+
 body{
 	margin: 0;
 	padding:0;
@@ -107,6 +86,15 @@ body{
 	color: $grey;
     background: $white;
 	scrollbar-face-color: $black;
+  *, :after, :before {
+    box-sizing: border-box;
+}
+}
+
+html, button, input, select, textarea,
+   .pure-g [class *= "pure-u"] {
+       /* Set your content font stack here: */
+       @include font-family($font-primary);;
 }
 
 ::-moz-selection {
@@ -138,7 +126,27 @@ a{
 		@include transition(all 0.1s linear);
 	}
 }
-
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
 pre,
 .pre-scrollable{
 	&::-webkit-scrollbar{ width: 6px !important; }
@@ -773,7 +781,10 @@ button,
 	@include font-family($font-primary);
 	font-size: 13px;
 	background-color: $white;
-	.menu-container{ border-bottom: 5px solid darken($white, 10%); }
+	.menu-container{
+    text-align: center;
+     border-bottom: 5px solid darken($white, 10%);
+   }
 
 	ul {
 		display: none;
@@ -928,6 +939,9 @@ button,
 
 	.menu-toggle,
 	&.toggled ul{ display: block; }
+  .menu-container {
+    display: none;
+  }
 
 	@media screen and (max-width: 37.5em){
 		.menu-toggle{
@@ -939,12 +953,12 @@ button,
 			background-color: $bg-color;
 			&:focus{ outline: none; }
 		}
-
 		#primary-menu{
 			position: relative;
 			z-index: 4;
 			max-height: 300px;
 			overflow-x: auto;
+      text-align: center;
 			&::-webkit-scrollbar {
 				width: 3px;
 			}
@@ -1042,6 +1056,9 @@ button,
 	@media screen and (min-width: 601px) {
 		.menu-toggle { display: none; }
 		& ul { display: table; }
+    .menu-container {
+      display: inline-block;
+    }
 	}
 
 	@media screen and (max-width: 767px) and (min-width: 601px){
@@ -1078,15 +1095,21 @@ button,
 			&:hover,
 			&:focus{  text-decoration: none; }
 		}
+@media screen and (min-width: 601px) {
 
 		&.title-image{
 			margin-top: 0;
-			img{
-				height: 80px;
-				width: auto;
-				margin-bottom: 5px;
-			}
+      height: 80px;
+      width: 373px;
+      text-align: center;
+      margin: auto;
+      .div-img{
+        height: 80px;
+        width: auto;
+        margin-bottom: 5px;
+      }
 		}
+  }
 	}
 
 	.site-description{
@@ -1099,19 +1122,33 @@ button,
 	@media screen and (max-width: 992px){
 		.social-icon,
 		.search-form{ margin-top: 0; }
+    .site-title{
+      margin: auto;
+      height: 50px;
+      width: 233px;
+      &.title-image{
+        .div-img{
+          height: 50px;
+          margin-bottom: 0;
+        }
+      }
+    }
 	}
 
-	@media screen and (max-width: 37.5em){
+	@media screen and (max-width: 601px){
 		padding: 20px 0;
 		.site-title{
+      margin: auto;
+      height: 50px;
+      width: 233px;
 			&.title-image{
-				img{
+				.div-img{
 					height: 50px;
 					margin-bottom: 0;
 				}
 			}
 		}
-		.site-description{ font-size: 11px; }
+		.site-description{ font-size: 10px; }
 	}
 }
 

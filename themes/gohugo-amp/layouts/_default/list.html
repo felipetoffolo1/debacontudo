@@ -6,9 +6,9 @@
             <main id="main" class="site-main" role="main">
 
                 <div class="container">
-                    <div class="row">
+                    <div class="pure-g">
                         <!-- article -->
-                        <div class="col-md-8">
+                        <div class="pure-u-16-24">
                             <div class="site-entry">
                                 <header class="page-header">
                                     <h1 class="page-title"><span>Navegando em</span> {{ .Title }}</h1>
@@ -16,9 +16,9 @@
                           <p>Just eat healthy food from now</p>
                         </div> -->
                                 </header>
-                                <div class="row container-masonry category">
+                                <div class="pure-g container-masonry category">
                                     {{ $Site := .Site }} {{ range .Data.Pages }}
-                                    <div class="col-sm-6 col-md-6 col-xl-6">
+                                    <div class="pure-u-12-24">
                                         <article class="post post-grid format-standard hentry">
                                             <div class="entry-featured-image">
                                                 <amp-img src="{{ .Params.thumbnail }}" layout="responsive" width="337.5" height="337.5" alt="{{ .Title }}"></amp-img>
@@ -88,7 +88,7 @@
                         <!-- .col-md-9 -->
 
                         <!-- sidebar -->
-                        <div class="col-md-4">
+                        <div class="pure-u-8-24">
                             {{ partial "sidebar.html" . }}
                         </div>
                     </div>

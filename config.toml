@@ -5,6 +5,7 @@ local = "pt_BR"
 DefaultContentLanguage = "pt"
 disqusShortname = "debacontudo-com-br"
 enableRobotsTXT = true
+theme = "gohugo-amp"
 [blackfriday]
 hrefTargetBlank = true
 [taxonomies]

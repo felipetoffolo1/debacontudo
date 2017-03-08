@@ -18,9 +18,9 @@
                     <main id="main" class="site-main" role="main">
 
                         <div class="container">
-                            <div class="row">
+                            <div class="pure-g">
                                 <!-- article -->
-                                <div class="col-md-8">
+                                <div class="pure-u-md-16-24 pure-u-1">
                                     <div class="site-entry">
 
                                         {{ $Site := .Site }} {{ range .Data.Pages }}
@@ -91,7 +91,7 @@
                                 <!-- .col-md-8 -->
 
                                 <!-- sidebar -->
-                                <div class="col-md-4">
+                                <div class="pure-u-md-8-24 pure-u-1">
                                     {{ partial "sidebar.html" . }}
                                 </div>
                                 <!-- .col-md-4 -->
@@ -156,8 +156,8 @@
             <!-- copyright -->
             <section id="copyright" class="copyright">
                 <div class="container">
-                    <div class="row">
-                        <div class="col-sm-12">
+                    <div class="pure-g">
+                        <div class="pure-u-1">
                             Copyright &copy; 2016 <strong>De Bacon Tudo</strong>. All Right Reserved.
                         </div>
                         <!-- .col-sm-6 -->

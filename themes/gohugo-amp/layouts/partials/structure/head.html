@@ -25,6 +25,11 @@
     <meta name="theme-color" content="{{ $.Site.Params.themeColor }}" />
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Oswald:400,500" rel="stylesheet">
+    <!-- <link rel="stylesheet" href="https://unpkg.com/purecss@0.6.2/build/pure-min.css" integrity="sha384-UQiGfs9ICog+LwheBSRCt1o5cbyKIHbwjWscjemyBMT9YCUMZffs6UqUTd0hObXD" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@0.6.2/build/base-min.css">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@0.6.2/build/grids-min.css">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@0.6.2/build/grids-responsive-min.css"> -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 
 
     {{ partial "seo/main" . }}
@@ -33,12 +38,16 @@
 
 <body>
   <amp-sidebar id="sidebar" layout="nodisplay">
-      <ul class="list-group">
-        <li class="list-group-item"><a href="{{ .Site.BaseURL }}">Home</a></li>
+    <div class="pure-menu" style="display: inline-block">
+      <span class="pure-menu-heading">De Bacon Tudo</span>
+
+      <ul class="pure-menu-list">
+        <li class="pure-menu-item"><a class="pure-menu-link" href="{{ .Site.BaseURL }}">Home</a></li>
         {{ range .Site.Menus.main }}
-        <li class="list-group-item"><a href="{{ .URL }}">{{ .Name }}</a></li>
+        <li class="pure-menu-item"><a class="pure-menu-link" href="{{ .URL }}">{{ .Name }}</a></li>
         {{ end }}
       </ul>
+    </div>
   </amp-sidebar>
 {{ if isset $.Site.Params "ampmanifest" }}
 {{ with $.Site.Data.app.banner }}{{ partial "amp/app-banner" . }}{{ end }}
