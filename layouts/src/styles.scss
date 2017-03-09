@@ -713,6 +713,7 @@ button,
 	}
 
 	@media screen and (max-width: 601px){
+
 		padding: 20px 0;
 		.site-title{
       margin: auto;
@@ -1035,7 +1036,6 @@ button,
 	[6.2. ENTRY SINGLE]
 	===========================
 */
-.home{
 	@media screen and (max-width: 667px){
 		.post{
 			&:not(.first-post):not(.post-grid){
@@ -1049,6 +1049,8 @@ button,
 				}
 				.entry-title{
 					max-width: 100%;
+          font-size: 40px;
+          line-height: 53px;
 				}
 				.entry-meta{ text-align: left; }
 			}
@@ -1071,7 +1073,7 @@ button,
 			&:not(.first-post):not(.post-grid){
 				.entry-title{
 					max-width: 100%;
-					font-size: 14px;
+					font-size: 20px;
 					line-height: 28px;
 				}
         .entry-area {
@@ -1088,7 +1090,6 @@ button,
 			}
 		}
 	}
-}
 
 .single,
 .page,
