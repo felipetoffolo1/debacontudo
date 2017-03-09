@@ -29,12 +29,12 @@ Muitas vezes na vida a gente só quer que alguém resolva o problema, não impor
 ### Justified
 {{< imdb tt1489428 >}}
 {{< img-around-right src="/img/2017/03/series-pouco-conhecidas-netflix-3.png" alt="" height="780" width="940" >}}
-Raylan ([Timothy Olyphant][96344491]) é um **us-marshal** (é um tipo de policial federal americano). Que após ser transferido para sua cidade natal no **Kentucky**, uma dessas cidades cheio de caipiras e onde todos andam armados. Ele volta a se envolver com as pessoas e problemas do seu passado. Raylan faz o tipo **cowboy machão à moda antiga**, com direito a bota e chapéu. Ele basicamente sai chutando portas, prendendo gente e resolvendo a pilha de problemas em que ele vai se metendo. Óbvio que durante o processo ele vai sempre quebrando as regras e usando de toda a sagacidade possível.
+Raylan ([Timothy Olyphant][96344491]) é um **us-marshal** (é um tipo de policial federal americano). Que após ser transferido para sua cidade natal no **Kentucky**, uma dessas cidades cheias de caipiras e onde todos andam armados. Ele volta a se envolver com as pessoas e problemas do seu passado. Raylan faz o tipo **cowboy machão à moda antiga**, com direito a bota e chapéu. Ele basicamente sai chutando portas, prendendo gente e resolvendo a pilha de problemas em que ele vai se metendo. Óbvio que durante o processo ele vai sempre quebrando as regras e usando de toda a sagacidade possível.
 ## Drama / Suspense
 ### Orphan Black
 {{< imdb tt2234222 >}}
 {{< img-around-right src="/img/2017/03/series-pouco-conhecidas-netflix-4.png" alt="" height="780" width="940" >}}
-Sarah Manning ([Tatiana Maslany][606c3f51]) presencia o suicídio de uma mulher, e para a surpresa dela, essa mulher é identifica a ela. Assim começa Orphan Black, uma ficção cientifica Canadense para lá de doida. Sarah terá que lidar com suas várias irmãs/clones e o grupo secreto malígno que as criou. Ver Tatiana Maslany ter que se virar nos 30 enquanto interpretar as várias versões da sua personagem é bem legal, e a história vai te prender. Já que você vai querer saber o que afinal de contas está acontecendo nesse história muito maluca.
+Sarah Manning ([Tatiana Maslany][606c3f51]) presencia o suicídio de uma mulher, e para a surpresa dela, essa mulher é idêntica a ela. Assim começa Orphan Black, uma ficção cientifica Canadense para lá de doida. Sarah terá que lidar com suas várias irmãs/clones e o grupo secreto malígno que as criou. Ver Tatiana Maslany ter que se virar nos 30 enquanto interpretar as várias versões da sua personagem é bem legal, e a história vai te prender. Já que você vai querer saber o que afinal de contas está acontecendo nesse história muito maluca.
 ### Ray Donavan
 {{< imdb tt2249007 >}}
 {{< img-around-right src="/img/2017/03/series-pouco-conhecidas-netflix-5.png" alt="" height="780" width="940" >}}
