@@ -9,7 +9,7 @@ date = "2017-03-09T12:12:26-03:00"
 tags = ["Seriados","Listas"]
 thumbnail = "/img/2017/03/series-pouco-conhecidas-thumb.png"
 banner = "/img/2017/03/series-pouco-conhecidas-banner.png"
-images = ["/img/2017/03/series-pouco-conhecidas-thumb.png","/img/2017/03/series-pouco-conhecidas-banner.png"]
+images = ["/img/2017/03/series-pouco-conhecidas-thumb.png","/img/2017/03/series-pouco-conhecidas-banner.png","/img/2017/03/series-pouco-netflix-1.png","/img/2017/03/series-pouco-netflix-2.png","/img/2017/03/series-pouco-netflix-3.png"]
 categories = ["pop-culture"]
 [structured]
 type = "Article"
