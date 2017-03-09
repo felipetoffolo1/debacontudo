@@ -9,6 +9,7 @@ author = ["felipe"]
 categories = ["Pop Culture"]
 tags = ["Seriados","Listas"]
 date = "2017-02-12T20:00:47-02:00"
+[structured]
 type = "article"
 
 summary ="Santa Clarita Diet é um novo seriado da Netflix, onde Drew Barrymore e Timothy Olyphant fazem um casal de corretores com uma vida bem normal e certinha. Até que a personagem de Drew se transforma em um zumbi e ai você já imagina a m*%&# que isso vai dar."
