@@ -1,0 +1,21 @@
+<div class="pure-g place-widget">
+    <div class="pure-u-1 u-place">
+      <span class="entry-place">
+        <i class="fa fa-location-arrow"></i>
+          {{ .Get "address" }}</span>
+          <a class="" href="{{ .Get "maps" }}" target="_blank">
+            <i class="fa fa-map-marker"></i>
+            Maps</a>
+      </div>
+    <div class="pure-u-1 u-place">
+      <span class="entry-place">
+        <i class="fa fa-calendar"></i>
+          {{ .Get "work-time" }}</span>
+      <span class="entry-place">
+        <i class="fa fa-phone"></i>
+          {{ .Get "phone" }}</span>
+      <span class="entry-place">
+      <i class="fa fa-money"></i>
+        {{ .Get "price" }}</span>
+      </div>
+</div>

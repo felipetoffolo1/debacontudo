@@ -56,6 +56,11 @@
 				padding-left: 10px;
 				padding-right: 10px;
 			}
+      .entry-place:last-child::after{
+				content: '';
+				padding-left: 10px;
+				padding-right: 10px;
+			}
       a:last-child{
         margin-left: 10px;
       }
