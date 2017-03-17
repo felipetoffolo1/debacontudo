@@ -17,17 +17,16 @@ type = "Article"
 
 +++
 
-Ouro Preto é uma cidade única e que merece ser conhecida por todos. Ouro Preto é Patrimonio cultural da humanidade, berço da inconfidência mineira e ex-capital de Minas. Com um centro histórico maravilhoso único, estar em Ouro Preto é viajar no tempo. Ouro Preto é rica (inclusive seu nome original era Vila-rica), não mais tanto em ouro, mas em cultura e belezas arquitetonicas e naturais. A cidade tem inúmeros museus e igrejas que guardam um acervo riquissimo que vão te impressionar e as vezes até emocionar. Não faltam motivos para conhecer essa cidade.
+Ouro Preto é uma cidade única e que merece ser conhecida por todos. A cidade é Patrimônio cultural da humanidade, berço da inconfidência mineira e ex-capital de Minas Gerais. Com um centro histórico maravilhoso e único, Ouro Preto oferece uma viagem no tempo. É rica (inclusive seu nome original era Vila-rica), não mais tanto em ouro, mas em cultura e belezas arquitetônicas e naturais. A cidade tem inúmeros museus e igrejas que guardam um acervo riquíssimo que vão te impressionar e, às vezes, até emocionar. Não faltam motivos para conhecer a cidade.
 
-Ouro Preto é uma cidade muito especial para mim, além de ter nascido lá, era lá o destino certo nas minhas férias de inverno. Na casa da minha "Vovó Bombom" (a senhorinha mais fofa do mundo, cujo apelido foi dado pois era exatamente com bombons que ela sempre nos recebia) eu passada sempre um mês de muita alegria, repleto de deliciosos quitutes, teatro, dança e carinho. Me lembro como eu, criança, andava naquelas ruas tão únicas, como se eu tivesse sido transportado para um filme qualquer. Ruas onde a história brasileira aconteceu, e você consegue sentir isso no ar. Eu ouvia as estórias sobre Tirandentes, o ciclo do ouro e a escravidão. O que, com a minha imaginação, fazia com que um simples caminhar pelas ruas se tornasse uma aventura.
-Mais recentemente resolvemos homenagear essa cidade, unindo o meu amor pela cidade com o amor da minha vida, no nosso ensaio fotográfico pré-wedding.
+Ouro Preto é uma cidade muito especial para mim, além de ter nascido lá, a cidade era o destino certo das minhas férias de inverno. Na casa da minha "Vovó Bombom" (a senhorinha mais fofa do mundo, cujo apelido foi dado pois era exatamente com bombons que ela sempre nos recebia), eu passava sempre um mês de muita alegria, repleto de deliciosos quitutes, teatro, dança e carinho. Me lembro como eu, criança, andava naquelas ruas tão únicas, como se tivesse sido transportado para um filme qualquer. Ruas onde a história brasileira aconteceu, e você consegue sentir isso no ar. Eu ouvia as histórias sobre Tiradentes, o ciclo do ouro e a escravidão. O que, com a minha imaginação, fazia com que um simples caminhar pelas ruas se tornasse uma aventura. Mais recentemente, resolvemos homenagear a cidade, unindo o meu amor pela cidade com o amor da minha vida, no nosso ensaio fotográfico pré-wedding.
 
 {{% img-full src="/img/2017/03/ouropreto-6.png" alt="Vista de Ouro Preto"  height="788" width="944" %}}
 Bem vamos então falar sobre as principais atrações e programas da cidade
 ## Como locomover
-Você vai andar 95% do seu tempo em Ouro Preto a pé. Andar lá de carro é muito difícil e não tem onde parar. Sendo assim deixe o carro no hotel, trace seu roteiro e vá bater perna ladeira acima e abaixo.
-Existem alguns lugares na cidade que parair precisa ser de carro, mas eu nem recomendo.
-Quando necessário pegue um taxi. Em Ouro Preto não tem taximetro, o valor é "tabelo". Ou seja, você negocia antes com o taxista.
+Em Ouro Preto, você vai andar a pé 95% do seu tempo. Andar lá de carro é muito difícil e não tem onde estacionar. Sendo assim, deixe o carro no hotel, trace seu roteiro e vá bater perna ladeira acima e abaixo.
+Existem alguns lugares na cidade que você vai precisar ir de carro, por conta da distância, mas não recomendo.
+Quando necessário, pegue um taxi. Em Ouro Preto não tem taxímetro, o valor é "tabelado". Ou seja, você negocia antes com o taxista.
 ## Pontos de interesse
 ### Praça Tiradentes
 A Praça Tiradentes é o centro e coração de Ouro Preto. Lá está a famosa estátua de Tiradentes, de costas para a Escola de Minas (antigo)
@@ -43,33 +42,33 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eu scelerisque er
 ### Museu da Inconfidência
 {{%place work-time="Terça a Domingo das 10:00h às 18:00h" visit-time="2 horas" link="http://www.museudainconfidencia.gov.br/" price="Inteira: R$5,00 - Meia: R$2,50" %}}
 
-O Museu da Inconfidência é o principal e mais conhecido museu de Ouro Preto. Não dá pra falar que você conhece Ouro Preto sem conhecer esse museu. O seu prédio, que por si já é algo que merece ser visitado, já foi a Casa da Câmara e a cadeia da cidade.
+O Museu da Inconfidência é o principal e mais conhecido museu de Ouro Preto. Não dá para falar que você conhece Ouro Preto se não tiver conhecido esse museu. O seu prédio, que por si só já é algo que merece ser visitado, já foi a Casa da Câmara e a cadeia da cidade.
 {{% img-around-right src="/img/2017/03/ouropreto-10.png" alt="Museu da Incofidência Ouro Preto" title="Pensa numa cadeio bonita"  height="788" width="944" %}}
 
 No museu existem inúmeras obras de arte e objetos históricos que demonstram como era a vida na época do Brasil Império.
-O museu tem no seu acervo obras de **Manuel da Costa Ataíde** e **Aleijadinho**. Outra parte legal do Museu da Inconfidência é o **Panteão dos Inconfidentes** onde estão os restos mortais dos inconfidentes.
+O museu tem no seu acervo obras de **Manuel da Costa Ataíde** e **Aleijadinho**. Outra parte legal do Museu da Inconfidência é o **Panteão dos Inconfidentes**, onde estão os restos mortais dos inconfidentes.
 
-O Museu da Inconfidência fica na praça Tiradentes, em frente ao monumento a Joaquim José da Silva Xavier, o mais famoso ativista da Inconfidência.
-Curiosidade: A estátua de Tiradentes foi feita de forma a ficar de frente parao prédio da cadeia e de costas para o antigo Palácio dos Governadores (atual Escola de Minas).
+O Museu da Inconfidência fica na praça Tiradentes, em frente ao monumento Joaquim José da Silva Xavier, o mais famoso ativista da Inconfidência.
+Curiosidade: A estátua de Tiradentes foi projetada para ficar de frente para o prédio da cadeia e de costas para o antigo Palácio dos Governadores (atual Escola de Minas).
 
 ### Museu do Oratório
 {{%place work-time="Segunda a Domingo das 09:30h às 17:30h" visit-time="1 hora" link="http://museudooratorio.org.br/visite/planeje-sua-visita/" price="Inteira: R$5,00 - Meia: R$2,50" %}}
 
-Esse museu aparentemente pequeno é o museu mais charmoso de Ouro Preto, um dos meus favóritos e visita indispensavel em Ouro Preto.
+O Museu do Oratório, aparentemente pequeno, é o museu mais charmoso de Ouro Preto, um dos meus favoritos e visita indispensável em Ouro Preto.
 
-Como já diz seu nome o Museu do Oratório conta no seu acervo com mais de 160 oratórios e 300 imagens, dos séculoes XVII ao XX. A variedade é incrível, e você vai se surpreender com a beleza das peças e a criativadade dos artistas. O que faz desse passeio ótimo não somente para quem gosta de arte sacra. Além disso o Museu do Oratório tem uma das melhores instalações dos museus de Ouro Preto.
+Como o próprio nome já diz, o Museu do Oratório conta com um acervo de mais de 160 oratórios e 300 imagens, dos séculos XVII ao XX. A variedade é incrível, e você vai se surpreender com a beleza das peças e a criatividade dos artistas, o que faz desse passeio uma experiência inesquecível para todos. Além disso, o Museu do Oratório conta com uma das melhores instalações dos museus de Ouro Preto.
 
-Sua localização é no Adro (adro é a área externa normalmente cercada de uma igreja) da Igreja do Carmo, aquela que fica ao lado do Museu da Inconfidência.
+Sua localização é no Adro (área externa normalmente cercada de uma igreja) da Igreja do Carmo, aquela que fica ao lado do Museu da Inconfidência.
 
 ### Museu de Mineralogia
 {{%place work-time="Terça a Domingo das 12:00h às 17:00h" visit-time="2 horas" link="http://www.museu.em.ufop.br/museu/" price="Inteira: R$5,00 - Meia: R$2,50" %}}
 
-O verdadeiro nome desse museu é Museu de Ciência e Técnica, mas ele é mais conhecido como Museu de Mineralogia. O motivo disso é que sua maior atração é o setor de mineralogia, uma coleção gigante de minerais de todo o mundo.
+O verdadeiro nome desse museu é Museu de Ciência e Técnica, mas ele é mais conhecido como Museu de Mineralogia. O motivo é que sua maior atração é o setor de mineralogia, uma coleção gigante de minerais de todo o mundo.
 {{% img-around-left src="/img/2017/03/ouropreto-8.png" alt="Escola de Minas Ouro Preto"  height="788" width="944" %}}
-Essa coleção começou com alguma amostrar do fundador da Escola de Minas, o francês Claude Henri Gorceix. Com o tempo a coleção foi ganhando mais doações e hoje ela tem uma enorme variedade de minerais espostos. Você verá minerais de todas as cores, tamanhos, formatos e texturas, tem até uma pedra mole. Eu já me perdi lá dentro admirando essa variedade de pedras várias vezes e sugiro que você faça o mesmo.
-Além do setor de mineralogia, existem outro no museu, relacionados a siderurgia, física, etc.. Se você estiver com tempo visite, senão conheça só o de mineralogia mesmo.
+Essa coleção começou com alguma amostras do fundador da Escola de Minas, o francês Claude Henri Gorceix. Com o tempo, a coleção foi ganhando mais doações e hoje ela tem uma enorme variedade de minerais expostos. Você verá minerais de todas as cores, tamanhos, formatos e texturas. Tem até uma pedra mole. Já me perdi lá dentro admirando essa variedade de pedras e sugiro que você faça o mesmo.
+Além do setor de mineralogia, existem outros relacionados à siderurgia, física, etc.. Se você estiver com tempo, visite! Se não, conheça só o de mineralogia mesmo.
 
-Esse museu fica dentro da Escola de Minas (que também é uma construção linda, ex Palácio dos Governadores), que se encontra na praça Tirandentes do lado oposto ao Museu da Inconfidência. (Bom que é tudo pertinho)
+Esse museu fica dentro da Escola de Minas (que também é uma construção linda, antigo Palácio dos Governadores), que se encontra na praça Tiradentes do lado oposto ao Museu da Inconfidência. (Bom que é tudo pertinho)
 
 ### Casa dos Contos
 {{%place work-time="Terça a Sábado: 10h às 16h45 - Domingo e Feriados: 10h às 14h45" visit-time="1 hora" link="http://www.ouropreto.com.br/atrativos/culturais-2/culturais/museu-casa-dos-contos" price="Inteira: R$5,00 - Meia: R$2,50" %}}
@@ -146,7 +145,7 @@ Ouro Preto,como boa cidade mineira, tem muita coisa boa demais da conta para com
 - Escada abaixo
 - Cervejaria Ouro Pretana
 - O Passo: O Passo é um restaurante delicioso, que tem como destaque seu cardápio de pizzas. Elefica em um casarão maravilhoso ao lado da casa dos contos. Casarão esse que inclusive minha prima Georgia (que me ajudou nesse post), morou lá com seu pai. Além disso, o casarão tem um lindo jardim, que também usamos no nosso ensaio.
-- 
+-
 {{% img-full src="/img/2017/03/ouropreto-5.png" title="Adega do Passo"  alt="Igreja da Conceição Ouro Preto"  height="788" width="944" %}}
 {{% img-full src="/img/2017/03/ouropreto-4.png" title="Jardim do Passo" alt="Igreja da Conceição Ouro Preto"  height="788" width="944" %}}
 ## Onde Ficar
