@@ -83,29 +83,28 @@ Uma é o Museu da Moeda, que mostra toda a evolução da moeda e notas usadas no
 O Museu do Aleijadinho é um circuito de três museus que fica localizado em três igrejas: Nossa Senhora da Conceição, São Francisco de Assis e Nossa Senhora das Mercês e Perdões. Sugiro que você visite as duas primeiras e, obviamente, o museu do Aleijadinho delas. Confira mais sobre as igrejas logo abaixo. A entrada é um bilhete único que dá direito a visitar as três igrejas e os seus respectivos museus.
 
 ## Igrejas
-Ouro Preto é cidade do Brasil mais rica em igrejas. Elas são muitas e lindas! Muitas mesmo, hoje existem XX.
+Ouro Preto é a cidade do Brasil mais rica em igrejas. Elas são muitas e lindas! Muitas mesmo, hoje existem XX.
 Não dá pra você visitar todas, então vamos para as minhas favoritas.
 Dica: as igrejas costumam passar por longas restaurações. Então quando montar seu roteiro, verifique se alguma que você pretende visitar não está fechada.
 
 ### Matriz de Nossa Senhora do Pilar
 {{%place work-time="Terça a Domingo: 10h às 10h45 e 12h às 16h45" visit-time="1 hora" link="" price="R$8,00" %}}
 
-Seu nome completo é Basílica Menor de Nossa Senhora do Pilar, mas pode chamar de Igreja do Pilar. A igreja do Pilar é uma das igrejas mais ricas e famosas de Ouro Preto, considera por muitos como o principal exemplo do Barroco Mineiro. A quantidade de ouro (são mais de 400kg) nas suas paredes assim como os detalhes das suas paredes e peças barrocas impressionam.
-Uma curiosidade é a ilusão de ótica do cordeiro de Deus, que se encontra no teto e enquanto você vai andando ele parece mudar de lugar.
-A igreja do Pilar tem muita história e muita informação interessante, sendo assim eu sugiro que você contrate um guia para te contar tudo sobre ela. Eles normalmente ficam nas portas da igrejas oferencendo o serviço.
-Além da igreja em si, na Matriz de NS do Pilar também existe um Museu de Arte Sacra no seu subsolo, que exibe várias peças lindas.
+Seu nome completo é Basílica Menor de Nossa Senhora do Pilar, mas pode chamar de Igreja do Pilar. A igreja do Pilar é uma das igrejas mais ricas e famosas de Ouro Preto, considerada por muitos como o principal exemplo do Barroco Mineiro. A quantidade de ouro (são mais de 400kg) nas suas paredes, assim como os detalhes das suas paredes e peças barrocas, impressionam. Uma curiosidade é a ilusão de ótica do cordeiro de Deus, que se encontra no teto e parece que vai mudando de lugar à medida que você vai andando.
+A igreja do Pilar tem muita história e muita informação interessante. Sendo assim, sugiro que você contrate um guia para te contar tudo sobre ela. Eles normalmente ficam nas portas das igrejas oferencendo o serviço.
+Além da igreja em si, na Matriz de Nossa Senhora do Pilar também existe um Museu de Arte Sacra no subsolo, que exibe várias peças lindas.
 {{% img-full src="/img/2017/03/ouropreto-12.png" alt="Igreja do Pilar Ouro Preto"  height="788" width="944" %}}
 
 ### São Francisco de Assis
 {{%place work-time="Terça a Domingo: 08:30h às 12h e 13:30h às 17h" visit-time="" link="" price="" %}}
 
 {{% img-around-left src="/img/2017/03/ouropreto-1.png" alt="Igreja São Francisco de Assis Ouro Preto"  height="788" width="944" %}}
-Essa igreja é uma da mais lindas de Ouro Preto, e é considera a obra-prima de Antônio Francisco Lisboa. Mais dois artista de peso contribuiram para essa construção. Mestre Athaíde pintou o forro da igreja que se assemelha ao céu, e Aleijadinho fez o medalhão da fachada e o lavabo da sacristia.
-Como já dissemos acima, a igreja também tem um dos Museus do Aleijadinho.
+Essa igreja é uma da mais lindas de Ouro Preto, e é considerada a obra-prima de Antônio Francisco Lisboa. Além dele, mais dois artistas de peso contribuíram para essa construção. Mestre Athaíde pintou o forro da igreja que se assemelha ao céu e Aleijadinho fez o medalhão da fachada e o lavabo da sacristia.
+Como já disse acima, a igreja também conta com um dos Museus do Aleijadinho.
 
 Ela se localiza bem ao lado da feira de pedra sabão, descendo a esquerda da praça Tiradentes.
 
-Além disso essa igreja é "famosa" por ter sido usada como um dos locais em que fizemos a nosso ensaio fotográfico <3
+Além disso, essa igreja é "famosa" por ter sido usada como um dos locais em que fizemos a nosso ensaio fotográfico <3
 {{% img-full src="/img/2017/03/ouropreto-2.png" alt="Igreja São Francisco de Assis Ensaio Ouro Preto"  height="788" width="944" %}}
 
 ### Nossa Senhora do Carmo
