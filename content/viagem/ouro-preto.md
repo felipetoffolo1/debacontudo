@@ -112,7 +112,7 @@ Além disso, essa igreja é "famosa" por ter sido usada como um dos locais em qu
 {{%place work-time="Terça a Domingo: 08:30h às 11h e 13h às 17h" visit-time="" link="http://www.ouropreto.com.br/atrativos/religiosos/igrejas/igreja-nossa-senhora-do-carmo" price="R$" %}}
 
 Mais uma igreja de arquitetura perfeita em Ouro Preto.
-O interessante da Nossa Senhora do Carmo é que ela segue o estilo **Rococó**, que veio depois do Barroco com algumas mudanças. Sua linhas e traços são mais leves e fluidas. Sendo então essa visita uma ótima oportunidade de você perceber as diferenças entre os estilo e fazer tipo de conhecedor.
+O interessante da Nossa Senhora do Carmo é que ela segue o estilo **Rococó**, que veio depois do Barroco com algumas mudanças. Sua linhas e traços são mais leves e fluidas. Essa visita é uma ótima oportunidade de você perceber as diferenças entre os estilos e fazer tipo de conhecedor.
 
 A localização é bem ao lado do **Museu da Inconfidência** e, como já disse, no seu ardo fica o **Museu do Oratório**.
 {{% img-full src="/img/2017/03/ouropreto-13.png" alt="Igreja do Carmo Ouro Preto"  height="788" width="944" %}}
@@ -120,7 +120,7 @@ A localização é bem ao lado do **Museu da Inconfidência** e, como já disse,
 ### Nossa Senhora da Conceição
 {{%place work-time="Terça a Domingo: 08:30h às 11h e 13h às 17h" visit-time="" link="http://www.ouropreto.com.br/atrativos/religiosos/igrejas/igreja-nossa-senhora-do-carmo" price="R$" %}}
 
-Outra parada obrigatória é a Santuário Nossa Senhora da Conceição de Antônio Dias, nossa senhora que nome grande. Nessa igreja se encontram sepultados Manoel Francisco Lisboa (pai do Aleijadinho) e Antônio Francisco Lisboa (o Aleijadinho)
+Outra parada obrigatória é o Santuário Nossa Senhora da Conceição de Antônio Dias (nossa senhora que nome grande). Nessa igreja se encontram sepultados Manoel Francisco Lisboa (pai do Aleijadinho) e Antônio Francisco Lisboa (o Aleijadinho).
 
 Ela fica a alguns minutos de caminhada (obviamente em ladeiras) descendo a **feirinha de pedra sabão**, e nela também fica parte do **Museu do Aleijadinho**.
 {{% img-full src="/img/2017/03/ouropreto-14.png" alt="Igreja da Conceição Ouro Preto"  height="788" width="944" %}}
@@ -131,7 +131,7 @@ A partir de Ouro Preto é possível fazer algumas viagens bate e volta para outr
 ### Viagem de trem para Mariana
 {{%place work-time="Sexta e Sábado: 10h e 14:30h, Domingo: 10h e 16h" visit-time="5 horas" link="http://www.turismoouropreto.com/maria-fumaca" price="Inteira: R$40,00 - Meia: R$20,00" %}}
 
-Saindo da estação de Ouro Preto existe uma Maria Fumaça que vai para Mariana. E a viagem é imperdível. Além do charme de andar de Maria Fumaça, a vista do passeio, que dura 1 hora, é de encher os olhos. A dica é que no trajeto Ouro Preto - Mariana, você vá sentado do lado direito do trem, pois é onde a vista é mais bonita. Outra sugestão é que você vá de trem para Mariana, mas volte de ônibus ou taxi (cerca de R$60,00). Quando estiver em Mariana não esqueça de visitar a Praça Minas Gerais, que tem uma série de igrejas e prédios públicos que formam o maior conjunto arquitetônico de Mariana.
+Saindo da estação de Ouro Preto, existe uma Maria Fumaça que vai para Mariana. A viagem é imperdível. Além do charme de andar de Maria Fumaça, a vista do passeio, que dura uma hora, é de encher os olhos. A dica é que no trajeto Ouro Preto - Mariana você vá sentado do lado direito do trem, pois é onde a vista é mais bonita. Outra sugestão é que você vá de trem para Mariana, mas volte de ônibus ou táxi (cerca de R$60,00). Quando estiver em Mariana, não esqueça de visitar a Praça Minas Gerais, que tem uma série de igrejas e prédios públicos que formam o maior conjunto arquitetônico da cidade.
 
 ### Congonhas
 ### Tiradentes
