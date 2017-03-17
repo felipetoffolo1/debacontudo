@@ -73,19 +73,19 @@ Esse museu fica dentro da Escola de Minas (que também é uma construção linda
 ### Casa dos Contos
 {{%place work-time="Terça a Sábado: 10h às 16h45 - Domingo e Feriados: 10h às 14h45" visit-time="1 hora" link="http://www.ouropreto.com.br/atrativos/culturais-2/culturais/museu-casa-dos-contos" price="Inteira: R$5,00 - Meia: R$2,50" %}}
 
-Esse casarão da Rua São José, foi contruido em 1780 e tantos como residência do cobrador de impostos da capitania de Minas Gerais, era lá que o "leão" morava. O casarão durante os anos serviu a vãrios próprositos, prisão, recolhimento do 1/5, etc. Até que se tornou sede da Fazenda Federal, que lehe rendeu o nome de Casa dos Contos (que é como os portugueses chamam).
-A casa hoje é um belo museu que tem acervo fixo e também alguns itinerantes. No fixo podemos destacar duas exposições.
-Uma é o Museu da Moeda, que mostra toda a evolução da moeda e notas usadas no Brasil. A segunda e ainda mais interessante é uma senzala que se encontra no subsolo do prédio incluindo os objetos de tortura e punição utilizados na época. É meio tenso o clima lá, mas é importante de se conhecer.
+Esse casarão da Rua São José, foi contruido em 1780 e tantos como residência do cobrador de impostos da capitania de Minas Gerais, era lá que o "leão" morava. O casarão também serviu para outras coisas, como prisão, recolhimento do 1/5, etc. Até que se tornou a sede da Fazenda Federal, que lhe rendeu o nome de Casa dos Contos (que é como os portugueses chamam).
+A casa hoje é um belo museu que tem acervo fixo e também alguns itinerantes. No fixo, podemos destacar duas exposições.
+Uma é o Museu da Moeda, que mostra toda a evolução da moeda e notas usadas no Brasil. A segunda e ainda mais interessante é uma senzala que se encontra no subsolo do prédio, incluindo os objetos de tortura e punição utilizados na época. É meio tenso o clima, mas é importante de se conhecer.
 
 ### Museu do Aleijadinho
 {{%place work-time="Terça a Sábado: 10h às 16h45 - Domingo e Feriados: 10h às 14h45" visit-time="1 hora" link="http://www.museualeijadinho.com.br/" price="" %}}
 
-O Museu do Aleijadinho é um circuito de 3 museus que fica localizado em 3 igrejas, Nossa Senhora da Conceição, São Francisco de Assis e Nossa Senhora das Mercês e Perdões. EU sugiro que você visite as duas primeiras e obviamente também o museu do Aleijadinho delas. Mais abaixo vou falar mais das duas. A entrada é um único blihete que dá direito a visitar as três igrejas e os seus museus.
+O Museu do Aleijadinho é um circuito de três museus que fica localizado em três igrejas: Nossa Senhora da Conceição, São Francisco de Assis e Nossa Senhora das Mercês e Perdões. Sugiro que você visite as duas primeiras e, obviamente, o museu do Aleijadinho delas. Confira mais sobre as igrejas logo abaixo. A entrada é um bilhete único que dá direito a visitar as três igrejas e os seus respectivos museus.
 
 ## Igrejas
-Ouro Preto é cidade do Brasil mais ricas em igrejas. Elas são lindas e muitas. Muitas mesmo, hoje existem XX.
+Ouro Preto é cidade do Brasil mais rica em igrejas. Elas são muitas e lindas! Muitas mesmo, hoje existem XX.
 Não dá pra você visitar todas, então vamos para as minhas favoritas.
-Dica: As igrejas costumam passar por longas restaurações. Então quando montar seu roteiro, verifique se alguma que você pretende visitar não está fechada.
+Dica: as igrejas costumam passar por longas restaurações. Então quando montar seu roteiro, verifique se alguma que você pretende visitar não está fechada.
 
 ### Matriz de Nossa Senhora do Pilar
 {{%place work-time="Terça a Domingo: 10h às 10h45 e 12h às 16h45" visit-time="1 hora" link="" price="R$8,00" %}}
