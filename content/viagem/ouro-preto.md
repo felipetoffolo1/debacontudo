@@ -143,7 +143,7 @@ Saindo da estação de Ouro Preto, existe uma Maria Fumaça que vai para Mariana
 ## Onde Comer
 Ouro Preto,como boa cidade mineira, tem muita coisa boa demais da conta para comer (e beber né). Vamos a algumas sugestões:
 
-- **Chafariz e Casa do Contos**: Ambos os locais fazem comida mineira de primeira qualidade. São boas opções para o almoço.
+- **Chafariz e Casa do Ouvidor**: Ambos os locais fazem comida mineira de primeira qualidade. São boas opções para o almoço.
 - **Escada abaixo**: Barzinho/Pub super aconchegante, com ótimos drinks e tira-gostos e mesas grandes caso você esteja em grupo.
 - **Cervejaria Ouro Pretana**: Ela fica mais distante do centro, no Rosário. Mas é o lugar ideal para um happy hour tomando os vários sabores da cerveja local (café, genginbre, ipa,...) todos em tap (chopp).
 - **O Passo**: O Passo é um restaurante delicioso, que tem como destaque seu cardápio de pizzas. Ele fica em um casarão maravilhoso ao lado da Casa dos Contos. Casarão esse que inclusive minha prima Georgia (que me ajudou nesse post), morou lá com seu pai. Além disso, o casarão tem um lindo jardim, que também usamos no nosso ensaio.
