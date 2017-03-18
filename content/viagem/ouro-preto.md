@@ -17,7 +17,7 @@ type = "Article"
 
 +++
 
-Ouro Preto é uma cidade única e que merece ser conhecida por todos. A cidade é Patrimônio cultural da humanidade, berço da inconfidência mineira e ex-capital de Minas Gerais. Com um centro histórico maravilhoso e único, Ouro Preto oferece uma viagem no tempo. É rica (inclusive seu nome original era Vila-rica), não mais tanto em ouro, mas em cultura e belezas arquitetônicas e naturais. A cidade tem inúmeros museus e igrejas que guardam um acervo esplêndido que vão te impressionar e, às vezes, até emocionar. Não faltam motivos para conhecer a cidade.
+Ouro Preto é uma cidade única e que merece ser conhecida por todos. A cidade é Patrimônio cultural da humanidade, berço da inconfidência mineira e ex-capital de Minas Gerais. Com um centro histórico maravilhoso e único, Ouro Preto oferece uma viagem no tempo. É rica (inclusive seu nome original era Vila Rica), não mais tanto em ouro, mas em cultura e belezas arquitetônicas e naturais. A cidade tem inúmeros museus e igrejas que guardam um acervo esplêndido que vão te impressionar e, às vezes, até emocionar. Não faltam motivos para conhecer a cidade.
 
 Ouro Preto é uma cidade muito especial para mim, além de ter nascido lá, a cidade era o destino certo das minhas férias de inverno. Na casa da minha "Vovó Bombom" (a senhorinha mais fofa do mundo, cujo apelido foi dado pois era exatamente com bombons que ela sempre nos recebia), eu passava sempre um mês de muita alegria, repleto de deliciosos quitutes, teatro, dança e carinho. Me lembro como eu, criança, andava naquelas ruas tão únicas, como se tivesse sido transportado para um filme qualquer. Ruas onde a história brasileira aconteceu, e você consegue sentir isso no ar (junto com o mofo). Eu ouvia as histórias sobre Tiradentes, o ciclo do ouro e a escravidão. O que, com a minha imaginação, fazia com que um simples caminhar pelas ruas se tornasse uma aventura. Mais recentemente, resolvemos homenagear a cidade, unindo o meu amor pela cidade com o amor da minha vida, no nosso ensaio fotográfico pré-wedding.
 
@@ -36,10 +36,10 @@ A Praça Tiradentes é o centro e coração de Ouro Preto. Lá está a famosa es
 ### Feira de Pedra Sabão e outras lojas
 {{% img-around-left src="/img/2017/03/ouropreto-9.png" alt="Feira de Pedra Sabão Ouro Preto"  height="788" width="944" %}}
 
-A famosa Feirinha de Pedra Sabão de Ouro Preto é onde se concentram a maior parte dos artesões de pedra sabão da cidade. Ali na feirinha você vai encontrar de tudo em pedra sabão, panelas, estátuas, porta-copos, jogos de xadrez, imagens sacras e por ai vai. Você tem que levar pelo menos uma lembrancinha de pedra sabão daqui, só toma cuidado para não exagerar e apgar uma fortuna de excesso de peso da bagagem.
+A famosa Feirinha de Pedra Sabão de Ouro Preto é onde se concentram a maior parte dos artesões de pedra sabão da cidade. Ali na feirinha você vai encontrar de tudo em pedra sabão, panelas, estátuas, porta-copos, jogos de xadrez, imagens sacras e por ai vai. Você tem que levar pelo menos uma lembrancinha de pedra sabão daqui, só toma cuidado para não exagerar e pagar uma fortuna de excesso de peso da bagagem.
 Negociar aqui é fudamental, pode chorar sem medo no preço que eles estão acostumadose normalmente sempre dão um desconto.
 Além da feirinha, Ouro Preto tem mais uma infinidade de lojas de artesanato, utensilios para cozinha de madeira (que eu indico muito), pedras e tal. Depois de entrar em algumas lojas você vai começar a perceber que todas tem QUASE as mesmas coisas.
-### Vista dá XXXX
+
 ## Museus
 ### Museu da Inconfidência
 {{%place work-time="Terça a Domingo das 10:00h às 18:00h" visit-time="2 horas" link="http://www.museudainconfidencia.gov.br/" price="Inteira: R$10,00 - Meia: R$5,00" %}}
@@ -86,14 +86,14 @@ O Museu do Aleijadinho é um circuito de três museus que ficam localizados em t
 Ouro Preto é a cidade do Brasil mais abundante em belas igrejas. Elas são muitas e lindas!
 Não dá pra você visitar todas, então vamos para as minhas favoritas.
 Dica: as igrejas costumam passar por longas restaurações. Então quando montar seu roteiro, verifique se alguma que você pretende visitar não está fechada.
-A igrejas de Ouro Preto tem muita história e muita informação interessante. Sendo assim, sugiro que você contrate um guia para te contar tudo sobre ela. Eles normalmente ficam nas portas das igrejas oferencendo o serviço.
+A igrejas de Ouro Preto tem muita história e muita informação interessante. Sendo assim, sugiro que você contrate um guia para te contar tudo sobre ela. Eles normalmente ficam nas portas das igrejas oferencendo o serviço. Mas tome cuidado com gente desonesta que infelizmente existe, de preferência sempre contrate um guia registrado como esses [no link](http://turismo.ouropreto.mg.gov.br/guias-de-turismo). Na dúvida peça ajuda a quem estiver vendendo as entradas da igreja.
 
 ### Matriz de Nossa Senhora do Pilar
-{{%place work-time="Terça a Domingo: 10h às 10h45 e 12h às 16h45" visit-time="40min com guia" link="" price="Inteira: R$10,00 - Meia: R$5,00" %}}
+{{%place work-time="Terça a Domingo: 10h às 10h45 e 12h às 16h45" visit-time="40min com guia" link="https://www.ouropretoparoquiadopilar.com.br/" price="Inteira: R$10,00 - Meia: R$5,00" %}}
 
 Seu nome completo é Basílica Menor de Nossa Senhora do Pilar, mas pode chamar de Igreja do Pilar. A igreja do Pilar é uma das igrejas mais ricas e famosas de Ouro Preto, considerada por muitos como o principal exemplo do Barroco Mineiro. A quantidade de ouro (são mais de 400kg) nas suas paredes, assim como os detalhes das suas peças barrocas, impressionam. Uma curiosidade é a ilusão de ótica do cordeiro de Deus, que se encontra no teto e parece que vai mudando de lugar à medida que você vai andando (mas eu mesmo custo a conseguir ver).
 
-Além da igreja em si, na Matriz de Nossa Senhora do Pilar também existe um Museu de Arte Sacra no subsolo, que exibe várias peças lindas.
+Além da igreja em si, na Matriz de Nossa Senhora do Pilar também existe um Museu de Arte Sacra, que exibe várias peças lindas.
 {{% img-full src="/img/2017/03/ouropreto-12.png" alt="Igreja do Pilar Ouro Preto"  height="788" width="944" %}}
 
 ### São Francisco de Assis
@@ -132,7 +132,7 @@ A partir de Ouro Preto é possível fazer algumas viagens bate e volta para outr
 ### Viagem de trem para Mariana
 {{%place work-time="Sexta e Sábado: 10h e 14:30h, Domingo: 10h e 16h" visit-time="5 horas" link="http://www.turismoouropreto.com/maria-fumaca" price="Inteira: R$40,00 - Meia: R$20,00" %}}
 
-Saindo da estação de Ouro Preto, existe uma Maria Fumaça que vai para Mariana. A viagem é imperdível. Além do charme de andar de Maria Fumaça, a vista do passeio, que dura uma hora, é de encher os olhos. A dica é que no trajeto Ouro Preto - Mariana você vá sentado do lado direito do trem, pois é onde a vista é mais bonita. Outra sugestão é que você vá de trem para Mariana, mas volte de ônibus ou táxi (cerca de R$60,00). Quando estiver em Mariana, não esqueça de visitar a Praça Minas Gerais, que tem uma série de igrejas e prédios públicos que formam o maior conjunto arquitetônico da cidade.
+Saindo da estação de Ouro Preto, existe uma Maria Fumaça que vai para Mariana. A viagem é imperdível. Além do charme de andar de Maria Fumaça, a vista do passeio, que dura uma hora, é de encher os olhos. A dica é que no trajeto Ouro Preto - Mariana você vá sentado do lado direito do trem, pois é onde a vista é mais bonita. Outra sugestão é que você vá de trem para Mariana, mas volte de ônibus ou táxi (cerca de R$60,00). Quando estiver em Mariana, não esqueça de visitar a Praça Minas Gerais, que tem uma duas igrejas que disputam sua atenção e prédios públicos que formam o maior conjunto arquitetônico da cidade.
 
 **Além de Mariana você também pode ir para:**
 
