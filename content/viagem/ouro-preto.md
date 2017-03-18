@@ -1,13 +1,13 @@
 +++
-date = "2017-03-18T12:09:59-03:00"
-draft = true
-title = "O guia definitivo do melhor da linda cidade histórica de Ouro Preto"
-description = "O guia definitivo para Los Angeles - Califórnia. Conheça o nosso roteiro para Los Angeles. Veja dicas, passeios, praias, lugares para se divertir e aproveite ao máximo cidade dos anjos."
-slug = "ouro-preto-"
+date = "2017-03-18T14:18:59-03:00"
+draft = false
+title = "Ouro Preto: O guia definitivo para conhecer o melhor dessa cidade histórica"
+description = "Um guia para você conhecer Ouro Preto, uma cidade mágica. A cidade é Patrimônio cultural da humanidade, berço da inconfidência mineira e ex-capital de Minas Gerais. Com um centro histórico maravilhoso e único, Ouro Preto oferece uma viagem no tempo."
+slug = "ouro-preto-o-guia-definitivo"
 tags = ["viagens","Minas Gerais","Brasil"]
-keywords = ["viagens","turismo", "pontos de interesse","o que fazer"]
+keywords = ["viagens","turismo", "pontos de interesse","o que fazer","guia de viagem","ouro preto","melhor de ouro preto","vila rica","praça tiradentes","museu da inconfidencia","igrejas ouro preto","conhecer ouro preto","igreja do pilar","igreja são francisco de assis"]
 categories = ["Viagem"]
-author = ["felipe","larissa"]
+author = ["felipe"]
 banner = "/img/2017/03/ouropreto-banner.png"
 thumbnail = "/img/2017/03/ouropreto-thumb.png"
 images = ["/img/2017/03/ouropreto-thumb.png", "/img/2017/03/ouropreto-6.png", "/img/2017/03/ouropreto-1.png", "/img/2017/03/ouropreto-2.png","/img/2017/03/ouropreto-3.png", "/img/2017/03/ouropreto-4.png", "/img/2017/03/ouropreto-5.png", "/img/2017/03/ouropreto-6.png", "/img/2017/03/ouropreto-7.png", "/img/2017/03/ouropreto-8.png", "/img/2017/03/ouropreto-9.png", "/img/2017/03/ouropreto-10.png", "/img/2017/03/ouropreto-11.png", "/img/2017/03/ouropreto-12.png", "/img/2017/03/ouropreto-13.png", "/img/2017/03/ouropreto-14.png"]
@@ -24,13 +24,13 @@ Ouro Preto é uma cidade muito especial para mim, além de ter nascido lá, a ci
 {{% img-full src="/img/2017/03/ouropreto-6.png" alt="Vista de Ouro Preto"  height="788" width="944" %}}
 
 Bem vamos então falar sobre as principais atrações e programas da cidade
-## Como locomover
+## Como se locomover
 Em Ouro Preto, você vai andar a pé 95% do seu tempo. Andar lá de carro é muito difícil e não tem onde estacionar. Sendo assim, deixe o carro no hotel, trace seu roteiro e vá bater perna ladeira acima e abaixo.
 Existem alguns lugares na cidade que você vai precisar ir de carro, por conta da distância, mas não recomendo.
 Quando necessário, pegue um taxi. Em Ouro Preto não tem taxímetro, o valor é "tabelado". Ou seja, você negocia antes com o taxista.
 ## Pontos de interesse
 ### Praça Tiradentes
-A Praça Tiradentes é o centro e coração de Ouro Preto. Lá está a famosa estátua de Tiradentes, de costas para o Palácio dos Governadores (atual Escola de Minas) e olhando para o local onde estão enterrados seus companheiros (Museu da Inconfidência). Meáaforas a parte, a Praça Tiradentes é onde os caminhos de Ouro Preto se cruzam. A partir de lá você vai partir para boa parte das visitas que vou indicar. Mas além disso, ela deve ser saboreada. Pare para tomar um café na praça (ou uma cerveja) e fique observando a vida passar pela praça. Ouro Preto é uma cidade histórica, e a história não tem pressa.
+A Praça Tiradentes é o centro e coração de Ouro Preto. Lá está a famosa estátua de Tiradentes, de costas para o Palácio dos Governadores (atual Escola de Minas) e olhando para o local onde estão enterrados seus companheiros (Museu da Inconfidência). Meáaforas a parte, a Praça Tiradentes é onde os caminhos de Ouro Preto se cruzam. A partir de lá você vai partir para boa parte das visitas que vou indicar. Mas além disso, ela deve ser saboreada. Pare para tomar um café na praça (na Chocolates Ouro Preto) ou uma cerveja e fique observando a vida passar pela praça. Ouro Preto é uma cidade histórica, e a história não tem pressa. Passe também na loja de cachaças da Milagre de Minas, desguste algumas e leve a sua preferida para casa.
 {{% img-full src="/img/2017/03/ouropreto-7.png" title="Essa não é do ensaio" alt="Praça Tiradentes Ouro Preto"  height="788" width="944" %}}
 
 ### Feira de Pedra Sabão e outras lojas
@@ -42,7 +42,7 @@ Além da feirinha, Ouro Preto tem mais uma infinidade de lojas de artesanato, ut
 ### Vista dá XXXX
 ## Museus
 ### Museu da Inconfidência
-{{%place work-time="Terça a Domingo das 10:00h às 18:00h" visit-time="2 horas" link="http://www.museudainconfidencia.gov.br/" price="Inteira: R$5,00 - Meia: R$2,50" %}}
+{{%place work-time="Terça a Domingo das 10:00h às 18:00h" visit-time="2 horas" link="http://www.museudainconfidencia.gov.br/" price="Inteira: R$10,00 - Meia: R$5,00" %}}
 
 O Museu da Inconfidência é o principal e mais conhecido museu de Ouro Preto. Não dá para falar que você conhece Ouro Preto se não tiver conhecido esse museu. O seu prédio, que por si só já é algo que merece ser visitado, já foi a Casa da Câmara e a cadeia da cidade.
 {{% img-around-right src="/img/2017/03/ouropreto-10.png" alt="Museu da Incofidência Ouro Preto" title="Pensa numa cadeio bonita"  height="788" width="944" %}}
@@ -61,7 +61,7 @@ Como o próprio nome já diz, o Museu do Oratório conta com um acervo de mais d
 Sua localização é no Adro (área externa, normalmente cercada, de uma igreja) da Igreja do Carmo, aquela que fica ao lado do Museu da Inconfidência.
 
 ### Museu de Mineralogia
-{{%place work-time="Terça a Domingo das 12:00h às 17:00h" visit-time="2 horas" link="http://www.museu.em.ufop.br/museu/" price="Inteira: R$5,00 - Meia: R$2,50" %}}
+{{%place work-time="Terça a Domingo das 12:00h às 17:00h" visit-time="1,5 horas" link="http://www.museu.em.ufop.br/museu/" price="Inteira: R$10,00 - Meia: R$5,00" %}}
 
 O verdadeiro nome desse museu é Museu de Ciência e Técnica, mas ele é mais conhecido como Museu de Mineralogia. O motivo é que sua maior atração é o setor de mineralogia, uma coleção gigante de minerais de todo o mundo.
 {{% img-around-left src="/img/2017/03/ouropreto-8.png" alt="Escola de Minas Ouro Preto"  height="788" width="944" %}}
@@ -73,34 +73,35 @@ Esse museu fica dentro da Escola de Minas (que também é uma construção linda
 ### Casa dos Contos
 {{%place work-time="Terça a Sábado: 10h às 16h45 - Domingo e Feriados: 10h às 14h45" visit-time="1 hora" link="http://www.ouropreto.com.br/atrativos/culturais-2/culturais/museu-casa-dos-contos" price="Inteira: R$5,00 - Meia: R$2,50" %}}
 
-Esse casarão da Rua São José, foi contruido em 1780 e alguma coisa como residência do cobrador de impostos da capitania de Minas Gerais, era lá que o "leão" morava. O casarão também serviu para outras coisas, como prisão, recolhimento do quinto, etc. Até que se tornou a sede da Fazenda Federal, que lhe rendeu o nome de Casa dos Contos (que é como os portugueses chamam).
+Esse casarão da Rua São José foi construído em 1780 e lá vai bolinha e era a residência do cobrador de impostos da capitania de Minas Gerais. O casarão também serviu para outras coisas, como prisão, recolhimento do quinto, etc. Até que se tornou a sede da Fazenda Federal, que lhe rendeu o nome de Casa dos Contos (que é como os portugueses chamam).
 A casa hoje é um belo museu que tem acervo fixo e também alguns itinerantes. No fixo, podemos destacar duas exposições.
 Uma é o Museu da Moeda, que mostra toda a evolução da moeda e notas usadas no Brasil. A segunda e ainda mais interessante é uma senzala que se encontra no subsolo do prédio, incluindo os objetos de tortura e punição utilizados na época. É meio tenso o clima, mas é importante de se conhecer.
 
 ### Museu do Aleijadinho
-{{%place work-time="Terça a Sábado: 10h às 16h45 - Domingo e Feriados: 10h às 14h45" visit-time="1 hora" link="http://www.museualeijadinho.com.br/" price="" %}}
+{{%place work-time="Terça a Sábado: 10h às 16h45 - Domingo e Feriados: 10h às 14h45" visit-time="30 minutos em cada" link="http://www.museualeijadinho.com.br/" price="De acordo com a igreja" %}}
 
-O Museu do Aleijadinho é um circuito de três museus que fica localizado em três igrejas: Nossa Senhora da Conceição, São Francisco de Assis e Nossa Senhora das Mercês e Perdões. Sugiro que você visite as duas primeiras e, obviamente, o museu do Aleijadinho delas. Confira mais sobre as igrejas logo abaixo. A entrada é um bilhete único que dá direito a visitar as três igrejas e os seus respectivos museus.
+O Museu do Aleijadinho é um circuito de três museus que ficam localizados em três igrejas: Nossa Senhora da Conceição, São Francisco de Assis e Nossa Senhora das Mercês e Perdões. Sugiro que você visite as duas primeiras e, obviamente, o museu do Aleijadinho delas. Confira mais sobre as igrejas logo abaixo. A entrada é um bilhete único que dá direito a visitar as três igrejas e os seus respectivos museus.
 
 ## Igrejas
-Ouro Preto é a cidade do Brasil mais rica em igrejas. Elas são muitas e lindas! Muitas mesmo, hoje existem XX.
+Ouro Preto é a cidade do Brasil mais abundante em belas igrejas. Elas são muitas e lindas!
 Não dá pra você visitar todas, então vamos para as minhas favoritas.
 Dica: as igrejas costumam passar por longas restaurações. Então quando montar seu roteiro, verifique se alguma que você pretende visitar não está fechada.
+A igrejas de Ouro Preto tem muita história e muita informação interessante. Sendo assim, sugiro que você contrate um guia para te contar tudo sobre ela. Eles normalmente ficam nas portas das igrejas oferencendo o serviço.
 
 ### Matriz de Nossa Senhora do Pilar
-{{%place work-time="Terça a Domingo: 10h às 10h45 e 12h às 16h45" visit-time="1 hora" link="" price="R$8,00" %}}
+{{%place work-time="Terça a Domingo: 10h às 10h45 e 12h às 16h45" visit-time="40min com guia" link="" price="Inteira: R$10,00 - Meia: R$5,00" %}}
 
-Seu nome completo é Basílica Menor de Nossa Senhora do Pilar, mas pode chamar de Igreja do Pilar. A igreja do Pilar é uma das igrejas mais ricas e famosas de Ouro Preto, considerada por muitos como o principal exemplo do Barroco Mineiro. A quantidade de ouro (são mais de 400kg) nas suas paredes, assim como os detalhes das suas paredes e peças barrocas, impressionam. Uma curiosidade é a ilusão de ótica do cordeiro de Deus, que se encontra no teto e parece que vai mudando de lugar à medida que você vai andando.
-A igreja do Pilar tem muita história e muita informação interessante. Sendo assim, sugiro que você contrate um guia para te contar tudo sobre ela. Eles normalmente ficam nas portas das igrejas oferencendo o serviço.
+Seu nome completo é Basílica Menor de Nossa Senhora do Pilar, mas pode chamar de Igreja do Pilar. A igreja do Pilar é uma das igrejas mais ricas e famosas de Ouro Preto, considerada por muitos como o principal exemplo do Barroco Mineiro. A quantidade de ouro (são mais de 400kg) nas suas paredes, assim como os detalhes das suas peças barrocas, impressionam. Uma curiosidade é a ilusão de ótica do cordeiro de Deus, que se encontra no teto e parece que vai mudando de lugar à medida que você vai andando (mas eu mesmo custo a conseguir ver).
+
 Além da igreja em si, na Matriz de Nossa Senhora do Pilar também existe um Museu de Arte Sacra no subsolo, que exibe várias peças lindas.
 {{% img-full src="/img/2017/03/ouropreto-12.png" alt="Igreja do Pilar Ouro Preto"  height="788" width="944" %}}
 
 ### São Francisco de Assis
-{{%place work-time="Terça a Domingo: 08:30h às 12h e 13:30h às 17h" visit-time="" link="" price="" %}}
+{{%place work-time="Terça a Domingo: 08:30h às 12h e 13:30h às 17h" visit-time="1 hora" link="http://www.ouropreto.com.br/atrativos/religiosos/igrejas/igreja-sao-francisco-de-assis" price="Inteira: R$10,00 - Meia: R$5,00" %}}
 
 {{% img-around-left src="/img/2017/03/ouropreto-1.png" alt="Igreja São Francisco de Assis Ouro Preto"  height="788" width="944" %}}
-Essa igreja é uma da mais lindas de Ouro Preto, e é considerada a obra-prima de Antônio Francisco Lisboa. Além dele, mais dois artistas de peso contribuíram para essa construção. Mestre Athaíde pintou o forro da igreja que se assemelha ao céu e Aleijadinho fez o medalhão da fachada e o lavabo da sacristia.
-Como já disse acima, a igreja também conta com um dos Museus do Aleijadinho.
+Essa igreja é uma da **mais lindas** de Ouro Preto, e é considerada a obra-prima de **Antônio Francisco Lisboa**. Além dele, mais dois artistas de peso contribuíram para essa construção. **Mestre Athaíde** pintou o forro da igreja que se assemelha ao céu e **Aleijadinho** fez o medalhão da fachada e o lavabo da sacristia.
+Como já disse acima, a igreja também conta com um dos **Museus do Aleijadinho**.
 
 Ela se localiza bem ao lado da feira de pedra sabão, descendo a esquerda da praça Tiradentes.
 
@@ -109,16 +110,16 @@ Além disso, essa igreja é "famosa" por ter sido usada como um dos locais em qu
 
 ### Nossa Senhora do Carmo
 
-{{%place work-time="Terça a Domingo: 08:30h às 11h e 13h às 17h" visit-time="" link="http://www.ouropreto.com.br/atrativos/religiosos/igrejas/igreja-nossa-senhora-do-carmo" price="R$" %}}
+{{%place work-time="Terça a Domingo: 08:30h às 11h e 13h às 17h" visit-time="1 hora" link="http://www.ouropreto.com.br/atrativos/religiosos/igrejas/igreja-nossa-senhora-do-carmo" price="Inteira: R$5,00 - Meia: R$2,50" %}}
 
 Mais uma igreja de arquitetura perfeita em Ouro Preto.
-O interessante da Nossa Senhora do Carmo é que ela segue o estilo **Rococó**, que veio depois do Barroco com algumas mudanças. Sua linhas e traços são mais leves e fluidas. Essa visita é uma ótima oportunidade de você perceber as diferenças entre os estilos e fazer tipo de conhecedor.
+O interessante da Nossa Senhora do Carmo é que ela segue o estilo **Rococó**, que veio depois do Barroco com algumas mudanças. Sua linhas e traços são mais leves e fluidas. Essa visita é uma ótima oportunidade de você perceber as diferenças entre os estilos e depois fazer tipo de conhecedor.
 
 A localização é bem ao lado do **Museu da Inconfidência** e, como já disse, no seu ardo fica o **Museu do Oratório**.
 {{% img-full src="/img/2017/03/ouropreto-13.png" alt="Igreja do Carmo Ouro Preto"  height="788" width="944" %}}
 
 ### Nossa Senhora da Conceição
-{{%place work-time="Terça a Domingo: 08:30h às 11h e 13h às 17h" visit-time="" link="http://www.ouropreto.com.br/atrativos/religiosos/igrejas/igreja-nossa-senhora-do-carmo" price="R$" %}}
+{{%place work-time="Terça a Domingo: 08:30h às 11h e 13h às 17h" visit-time="1 hora" link="http://www.ouropreto.com.br/atrativos/religiosos/igrejas/santuario-de-nossa-senhora-da-conceicao-de-antonio-dias" price="Inteira: R$19,00 - Meia: R$5,00" %}}
 
 Outra parada obrigatória é o Santuário Nossa Senhora da Conceição de Antônio Dias (nossa senhora que nome grande). Nessa igreja se encontram sepultados Manoel Francisco Lisboa (pai do Aleijadinho) e Antônio Francisco Lisboa (o Aleijadinho).
 
@@ -133,34 +134,27 @@ A partir de Ouro Preto é possível fazer algumas viagens bate e volta para outr
 
 Saindo da estação de Ouro Preto, existe uma Maria Fumaça que vai para Mariana. A viagem é imperdível. Além do charme de andar de Maria Fumaça, a vista do passeio, que dura uma hora, é de encher os olhos. A dica é que no trajeto Ouro Preto - Mariana você vá sentado do lado direito do trem, pois é onde a vista é mais bonita. Outra sugestão é que você vá de trem para Mariana, mas volte de ônibus ou táxi (cerca de R$60,00). Quando estiver em Mariana, não esqueça de visitar a Praça Minas Gerais, que tem uma série de igrejas e prédios públicos que formam o maior conjunto arquitetônico da cidade.
 
-### Congonhas
-### Tiradentes
-### Lavras Novas
+**Além de Mariana você também pode ir para:**
+
+- Lavras Novas - 20km
+- Congonhas - 73km
+- Tiradentes - 159km
 
 ## Onde Comer
 Ouro Preto,como boa cidade mineira, tem muita coisa boa demais da conta para comer (e beber né). Vamos a algumas sugestões:
 
-- Chafariz e Casa do Contos: Ambos os locais fazem comida mineira de primeira qualidade. São boas opções para o almoço.
-- Escada abaixo
-- Cervejaria Ouro Pretana
-- O Passo: O Passo é um restaurante delicioso, que tem como destaque seu cardápio de pizzas. Ele fica em um casarão maravilhoso ao lado da casa dos contos. Casarão esse que inclusive minha prima Georgia (que me ajudou nesse post), morou lá com seu pai. Além disso, o casarão tem um lindo jardim, que também usamos no nosso ensaio.
--
+- **Chafariz e Casa do Contos**: Ambos os locais fazem comida mineira de primeira qualidade. São boas opções para o almoço.
+- **Escada abaixo**: Barzinho/Pub super aconchegante, com ótimos drinks e tira-gostos e mesas grandes caso você esteja em grupo.
+- **Cervejaria Ouro Pretana**: Ela fica mais distante do centro, no Rosário. Mas é o lugar ideal para um happy hour tomando os vários sabores da cerveja local (café, genginbre, ipa,...) todos em tap (chopp).
+- **O Passo**: O Passo é um restaurante delicioso, que tem como destaque seu cardápio de pizzas. Ele fica em um casarão maravilhoso ao lado da Casa dos Contos. Casarão esse que inclusive minha prima Georgia (que me ajudou nesse post), morou lá com seu pai. Além disso, o casarão tem um lindo jardim, que também usamos no nosso ensaio.
+
 {{% img-full src="/img/2017/03/ouropreto-5.png" title="Adega do Passo"  alt="Igreja da Conceição Ouro Preto"  height="788" width="944" %}}
 {{% img-full src="/img/2017/03/ouropreto-4.png" title="Jardim do Passo" alt="Igreja da Conceição Ouro Preto"  height="788" width="944" %}}
+
 ## Onde Ficar
-Como eu só fica na casa de vovó em Ouro Preto, eu nunca me hospedei por lá. Por isso não conheço muitos hoteis.
-Mas a minha dica é que fica em um hotel no centro histórico. Hoteis mais longe não valem a pena.
+Como eu só fico na casa de vovó em Ouro Preto, eu nunca me hospedei por lá. Por isso não conheço muitos hotéis.
+Mas a minha dica é que fique em um hotel no centro histórico, é lá que tudo acontece.E é muito mais prazeroso e um clima muita mais gostoso estar no centro histórico.
 
-De toda forma perguntei sobre alguns bons hoteis e algumas das sugestões foram (Tem todo o preço misturado ai):
-- Rock In Hostel
-- Solar da Opera
-- Pousada Classica
-- Pousada do Mondego
-- Pousada dos Ofícios
-- Solar do Rosário
-- Hotel do Teatro
-- Grande hotel
-- Pousada Nelo Nuno - Pousada de um artista pintor, que inclusive pintou meu avô. É bem aconchegante e com bom custo benefício
+{{% img-full src="/img/2017/03/ouropreto-11.png" title="É isso gente acabou o post" alt="Igreja da Conceição Ouro Preto"  height="788" width="944" %}}
 
-
-{{% img-full src="/img/2017/03/ouropreto-11.png" title="È isso gente acabou o post" alt="Igreja da Conceição Ouro Preto"  height="788" width="944" %}}
+Agradecimentos: Muito obrigado a Geórgia Toffolo que me ajudou a criar essa lista e minha tia Valéria Toffolo que me ajudou a char os preços atualizados das atrações.
