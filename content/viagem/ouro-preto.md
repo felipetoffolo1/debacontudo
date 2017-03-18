@@ -157,4 +157,4 @@ Mas a minha dica é que fique em um hotel no centro histórico, é lá que tudo 
 
 {{% img-full src="/img/2017/03/ouropreto-11.png" title="É isso gente acabou o post" alt="Igreja da Conceição Ouro Preto"  height="788" width="944" %}}
 
-Agradecimentos: Muito obrigado a Geórgia Toffolo que me ajudou a criar essa lista e minha tia Valéria Toffolo que me ajudou a char os preços atualizados das atrações.
+Agradecimentos: Muito obrigado a Geórgia Toffolo que me ajudou a criar essa lista, e minha tia Valéria Toffolo que me ajudou a achar os preços atualizados das atrações.
