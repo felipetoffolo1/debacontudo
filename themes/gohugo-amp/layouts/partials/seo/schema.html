@@ -16,8 +16,6 @@
 {{ end }}{{ end }}
 {{ end }}
 
-<!-- Output all taxonomies as schema.org keywords -->
-<meta itemprop="keywords" content="{{ range $plural, $terms := .Site.Taxonomies }}{{ range $term, $val := $terms }}{{ printf "%s," $term }}{{ end }}{{ end }}" />
 
 {{if .IsPage}}
 <meta itemprop="wordCount" content="{{ .WordCount }}">

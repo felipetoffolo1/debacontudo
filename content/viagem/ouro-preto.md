@@ -2,7 +2,7 @@
 date = "2017-03-18T14:18:59-03:00"
 draft = false
 title = "Ouro Preto: O guia definitivo para conhecer o melhor dessa cidade histórica"
-description = "Um guia para você conhecer Ouro Preto, uma cidade mágica. A cidade é Patrimônio cultural da humanidade, berço da inconfidência mineira e ex-capital de Minas Gerais. Com um centro histórico maravilhoso e único, Ouro Preto oferece uma viagem no tempo."
+description = "Um guia para você conhecer Ouro Preto, uma cidade mágica. Descubra o que fazer em Ouro Preto. A cidade é Patrimônio cultural da humanidade, berço da inconfidência mineira e ex-capital de Minas Gerais. Com um centro histórico maravilhoso e único, Ouro Preto oferece uma viagem no tempo."
 slug = "ouro-preto-o-guia-definitivo"
 tags = ["viagens","Minas Gerais","Brasil"]
 keywords = ["viagens","turismo", "pontos de interesse","o que fazer","guia de viagem","ouro preto","melhor de ouro preto","vila rica","praça tiradentes","museu da inconfidencia","igrejas ouro preto","conhecer ouro preto","igreja do pilar","igreja são francisco de assis"]
@@ -17,20 +17,20 @@ type = "Article"
 
 +++
 
-Ouro Preto é uma cidade única e que merece ser conhecida por todos. A cidade é Patrimônio cultural da humanidade, berço da inconfidência mineira e ex-capital de Minas Gerais. Com um centro histórico maravilhoso e único, Ouro Preto oferece uma viagem no tempo. É rica (inclusive seu nome original era Vila Rica), não mais tanto em ouro, mas em cultura e belezas arquitetônicas e naturais. A cidade tem inúmeros museus e igrejas que guardam um acervo esplêndido que vão te impressionar e, às vezes, até emocionar. Não faltam motivos para conhecer a cidade.
+Ouro Preto é uma cidade única e que merece ser conhecida por todos. A cidade é Patrimônio cultural da humanidade, berço da inconfidência mineira e ex-capital de Minas Gerais. Com um centro histórico maravilhoso e único, Ouro Preto oferece uma viagem no tempo. É rica (inclusive seu nome original era Vila Rica), não mais tanto em ouro, mas em cultura e belezas arquitetônicas e naturais. A cidade tem inúmeros museus e igrejas que guardam um acervo esplêndido que vão te impressionar e, às vezes, até emocionar. Não faltam motivos para **conhecer Ouro Preto**.
 
 Ouro Preto é uma cidade muito especial para mim, além de ter nascido lá, a cidade era o destino certo das minhas férias de inverno. Na casa da minha "Vovó Bombom" (a senhorinha mais fofa do mundo, cujo apelido foi dado pois era exatamente com bombons que ela sempre nos recebia), eu passava sempre um mês de muita alegria, repleto de deliciosos quitutes, teatro, dança e carinho. Me lembro como eu, criança, andava naquelas ruas tão únicas, como se tivesse sido transportado para um filme qualquer. Ruas onde a história brasileira aconteceu, e você consegue sentir isso no ar (junto com o mofo). Eu ouvia as histórias sobre Tiradentes, o ciclo do ouro e a escravidão. O que, com a minha imaginação, fazia com que um simples caminhar pelas ruas se tornasse uma aventura. Mais recentemente, resolvemos homenagear a cidade, unindo o meu amor pela cidade com o amor da minha vida, no nosso ensaio fotográfico pré-wedding.
 
 {{% img-full src="/img/2017/03/ouropreto-6.png" alt="Vista de Ouro Preto"  height="788" width="944" %}}
 
-Bem vamos então falar sobre as principais atrações e programas da cidade
+Bem vamos então falar sobre **o que fazer em Ouro Preto**, as principais atrações e programas da cidade.
 ## Como se locomover
 Em Ouro Preto, você vai andar a pé 95% do seu tempo. Andar lá de carro é muito difícil e não tem onde estacionar. Sendo assim, deixe o carro no hotel, trace seu roteiro e vá bater perna ladeira acima e abaixo.
 Existem alguns lugares na cidade que você vai precisar ir de carro, por conta da distância, mas não recomendo.
 Quando necessário, pegue um taxi. Em Ouro Preto não tem taxímetro, o valor é "tabelado". Ou seja, você negocia antes com o taxista.
 ## Pontos de interesse
 ### Praça Tiradentes
-A Praça Tiradentes é o centro e coração de Ouro Preto. Lá está a famosa estátua de Tiradentes, de costas para o Palácio dos Governadores (atual Escola de Minas) e olhando para o local onde estão enterrados seus companheiros (Museu da Inconfidência). Meáaforas a parte, a Praça Tiradentes é onde os caminhos de Ouro Preto se cruzam. A partir de lá você vai partir para boa parte das visitas que vou indicar. Mas além disso, ela deve ser saboreada. Pare para tomar um café na praça (na Chocolates Ouro Preto) ou uma cerveja e fique observando a vida passar pela praça. Ouro Preto é uma cidade histórica, e a história não tem pressa. Passe também na loja de cachaças da Milagre de Minas, desguste algumas e leve a sua preferida para casa.
+A **Praça Tiradentes** é o centro e coração de Ouro Preto. Lá está a famosa estátua de Tiradentes, de costas para o Palácio dos Governadores (atual Escola de Minas) e olhando para o local onde estão enterrados seus companheiros (Museu da Inconfidência). Meáaforas a parte, a **Praça Tiradentes** é onde os caminhos de Ouro Preto se cruzam. A partir de lá você vai partir para boa parte das visitas que vou indicar. Mas além disso, ela deve ser saboreada. Pare para tomar um café na praça (na Chocolates Ouro Preto) ou uma cerveja e fique observando a vida passar pela praça. Ouro Preto é uma cidade histórica, e a história não tem pressa. Passe também na loja de cachaças da Milagre de Minas, desguste algumas e leve a sua preferida para casa.
 {{% img-full src="/img/2017/03/ouropreto-7.png" title="Essa não é do ensaio" alt="Praça Tiradentes Ouro Preto"  height="788" width="944" %}}
 
 ### Feira de Pedra Sabão e outras lojas
