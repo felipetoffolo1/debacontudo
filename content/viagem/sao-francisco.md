@@ -2,7 +2,6 @@
 title = "São Francisco"
 slug= ""
 date = "2017-02-02T13:47:53-02:00"
-author = "Larissa Toffolo"
 banner = "/img/2017/02/pexels-photo-96420.jpeg"
 tags = ["california","cidades"]
 categories = ["Viagem"]
