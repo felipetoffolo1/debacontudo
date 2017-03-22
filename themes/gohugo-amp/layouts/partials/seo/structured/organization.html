@@ -3,8 +3,8 @@
   "@context": "http://schema.org",
   "@type": "Organization",
   "name": "{{ .Site.Params.organizationName }}",
-  "url": "{{ .Site.BaseURL }}"
-  {{ with .Site.Params.socialProfiles }}, "sameAs": {{ . }}{{ end }}
+  "url": "{{ .Site.BaseURL }}",
+  "sameAs": {{ .Site.Params.socialProfiles | jsonify }}
   {{ with .Site.Params.organizationLogo }}, "logo": "{{ . }}"{{ end }}
   {{ with .Site.Params.organizationAddress }}, "address": "{{ . }}"{{ end }}
   {{ with .Site.Data.organization.contacts.contactPoint }}, "contactPoint": {{ . }}{{ end }}
