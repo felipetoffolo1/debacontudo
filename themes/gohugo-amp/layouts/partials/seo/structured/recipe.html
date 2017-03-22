@@ -20,11 +20,11 @@
       "@context": "http://schema.org",
       "@type": "ImageObject",
       "author": "{{ .Params.image.author }}",
-        "url": "http://debacontudo.com.br/{{ .Params.thumbnail }}",
-        "datePublished": "{{ .Params.date.Format "2006-01-02T15:04:05" }}",
-        "name": "{{ .Params.title }}",
-        "height" : 800,
-        "width" : 800,
+      "url": "http://debacontudo.com.br/{{ .Params.thumbnail }}",
+      "datePublished": "{{ .PublishDate.Format "2006-01-02T15:04:05" }}",
+      "name": "{{ .Params.title }}",
+      "height" : 800,
+      "width" : 800,
       "license" : "{{ .Params.image.license_link }}",
       "isBasedOn" : "{{ .Params.image.link }}"
     }
