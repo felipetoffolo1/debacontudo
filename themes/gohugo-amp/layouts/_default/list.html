@@ -8,7 +8,7 @@
                 <div class="container">
                     <div class="pure-g">
                         <!-- article -->
-                        <div class="pure-u-16-24">
+                        <div class="pure-u-md-16-24 pure-u-1">
                             <div class="site-entry">
                                 <header class="page-header">
                                     <h1 class="page-title"><span>Navegando em</span> {{ .Title }}</h1>
@@ -18,7 +18,7 @@
                                 </header>
                                 <div class="pure-g container-masonry category">
                                     {{ $Site := .Site }} {{ range .Data.Pages }}
-                                    <div class="pure-u-12-24">
+                                    <div class="pure-u-md-12-24 pure-u-1">
                                         <article class="post post-grid format-standard hentry">
                                             <div class="entry-featured-image">
                                                 <amp-img src="{{ .Params.thumbnail }}" layout="responsive" width="337.5" height="337.5" alt="{{ .Title }}"></amp-img>
@@ -88,7 +88,7 @@
                         <!-- .col-md-9 -->
 
                         <!-- sidebar -->
-                        <div class="pure-u-8-24">
+                        <div class="pure-u-md-8-24 pure-u-1">
                             {{ partial "sidebar.html" . }}
                         </div>
                     </div>

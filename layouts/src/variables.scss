@@ -1,25 +1,4 @@
 /*
-Theme Name: Astrif Food Blog Theme
-Author: TemplateNinja
-Description: Variables and Mixin for Astrif Food Blog Theme
-*/
-
-/*
-	========================================
-	TABLE OF CONTENT
-	========================================
-
-	[1. URL]
-	[2. FONT]
-	[3. COLOR]
-	[4. MIXIN]
-
-*/
-
-
-
-
-/*
 	============================
 	[2. FONT]
 	============================
@@ -189,30 +168,6 @@ $alert-danger: #a94442;
 			transition-property: $string;
 }
 
-@mixin rotateX( $deg ) {
-	-webkit-transform: rotateX($deg);
-	   -moz-transform: rotateX($deg);
-	  	-ms-transform: rotateX($deg);
-	   	 -o-transform: rotateX($deg);
-	   		transform: rotateX($deg);
-}
-
-@mixin rotateY( $deg ) {
-	-webkit-transform: rotateY($deg);
-	   -moz-transform: rotateY($deg);
-	  	-ms-transform: rotateY($deg);
-	   	 -o-transform: rotateY($deg);
-	   		transform: rotateY($deg);
-}
-
-@mixin rotate( $deg ) {
-	-webkit-transform: rotate($deg);
-	   -moz-transform: rotate($deg);
-	  	-ms-transform: rotate($deg);
-	   	 -o-transform: rotate($deg);
-	   		transform: rotate($deg);
-}
-
 @mixin transform-origin( $string ) {
 	-webkit-transform-origin: $string;
        -moz-transform-origin: $string;
@@ -237,13 +192,6 @@ $alert-danger: #a94442;
 			background-size: $bgsize;
 }
 
-// .background-gradient($from: darken($purple, 60%); $to: darken($theme-color, 25%)){
-// 	background-image: -webkit-linear-gradient(top, fade($from, 80%) 0%, fade($to, 80%) 100%);
-// 	background-image: -o-linear-gradient(top, fade($from, 80%) 0%, fade($to, 80%) 100%);
-// 	background-image: linear-gradient(to bottom, fade($from, 80%) 0%, fade($to, 80%) 100%);
-// 	background-repeat: repeat-x;
-// 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$to7d', endColorstr='$to7d', GradientType=0);
-// }
 
 @mixin rgba($color, $opacity) {
 	$rgba : rgba( red($color), green($color), blue($color), $opacity );

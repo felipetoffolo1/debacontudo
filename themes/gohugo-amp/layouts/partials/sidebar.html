@@ -1,6 +1,12 @@
 <div class="site-sidebar">
 
-    {{ partial "about.html" . }} {{ if not .IsHome }}
+    {{ partial "about.html" . }}
+    <section class="widget widget_facebook">
+      <amp-iframe width=279 height=214 sandbox="allow-scripts allow-same-origin" resizable layout="responsive" frameborder="0" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fdebacontudo%2F&tabs&width=279&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=991562090894608">
+        <div overflow tabindex=0 role=button aria-label="Read more">Leia Mais</div>
+      </amp-iframe>
+    </section>
+    {{ if not .IsHome }}
     <section class="widget widget_recent_entries">
         <h2 class="widget-title"><span>Posts Recentes</span></h2>
         <ul>
@@ -14,18 +20,13 @@
     </section>
     <!-- .widget_recent_entries -->
     {{ end }}
-    <section class="widget widget_facebook">
-      <amp-iframe width=279 height=214 sandbox="allow-scripts allow-same-origin" resizable layout="responsive" frameborder="0" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fdebacontudo%2F&tabs&width=279&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=991562090894608">
-        <div overflow tabindex=0 role=button aria-label="Read more">Leia Mais</div>
-      </amp-iframe>
-    </section>
     <section class="widget widget_tag_cloud">
         <h2 class="widget-title"><span>Tags</span></h2>
 
         <div class="tagcloud">
             <ul id="all-tags">
                 {{ range first 10 .Site.Taxonomies.tags.ByCount }}
-                <a href="{{ " /tags/ " | relLangURL }}{{ .Name | urlize }}">{{ .Name }} <span>{{ .Count }}</span></a> {{ end }}
+                <a href="{{ "/tags/" | relLangURL }}{{ .Name | urlize }}">{{ .Name }} <span>{{ .Count }}</span></a> {{ end }}
             </ul>
 
         </div>
