@@ -1,7 +1,7 @@
 +++
 categories = ["comida"]
 author = ["felipe"]
-draft = true
+draft = false
 date = "2017-03-22T12:34:26-03:00"
 title = "Jantar: Ombro de Porco Assado Lentamente com Purê de Abóbora"
 totop = true
