@@ -7,6 +7,7 @@
 @import "mixins/_vendor-prefixes";
 @import "variables.scss";
 @import "custom.scss";
+@import "responsive.scss";
 @import "pure/base-min.scss";
 @import "pure/grids-min.scss";
 @import "pure/grids-responsive-min.scss";
@@ -120,25 +121,25 @@ pre {
     }
 }
 
-.form-bordered {
-    height: 45px;
-    padding: 10px 20px;
-    font-size: 13px;
-    font-weight: 400;
-    border: 2px solid darken($white, 20%);
-    @include border-radius(0);
-    @include box-shadow-none;
-    color: darken($grey, 5%);
-    @include transition(all 0.1s linear);
-
-    &:focus {
-        color: darken($theme-color, 12%);
-        border-color: $text-color;
-        @include box-shadow-none;
-        outline: none;
-        @include transition(all 0.1s linear);
-    }
-}
+// .form-bordered {
+//     height: 45px;
+//     padding: 10px 20px;
+//     font-size: 13px;
+//     font-weight: 400;
+//     border: 2px solid darken($white, 20%);
+//     @include border-radius(0);
+//     @include box-shadow-none;
+//     color: darken($grey, 5%);
+//     @include transition(all 0.1s linear);
+//
+//     &:focus {
+//         color: darken($theme-color, 12%);
+//         border-color: $text-color;
+//         @include box-shadow-none;
+//         outline: none;
+//         @include transition(all 0.1s linear);
+//     }
+// }
 
 textarea {
     height: auto;
@@ -1971,7 +1972,12 @@ input[type="submit"] {
                 color: lighten($grey, 15%);
             }
         }
-
+        .instagram-md{
+          height: 350px;
+        }
+        .instagram-sm{
+          height: 1400px;
+        }
         .instagram-widget {
             position: relative;
 
