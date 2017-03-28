@@ -1799,21 +1799,25 @@ input[type="submit"] {
                 }
 
                 .popular-entry-thumbnail {
-                    img {
-                        float: left;
-                        margin-right: 15px;
-                        max-width: 130px;
-                        height: auto;
-                        @include border-radius(50%);
-                        @media screen and (min-width: 992px) and (max-width: 1200px) {
-                            max-width: 100px;
-                        }
-                    }
+
+                  width: 130px;
+                  height: 130px;
+                  float: left;
+                  margin: 0 15px 0 0;
+                  @media screen and (min-width: 992px) and (max-width: 1200px) {
+                    width: 100px;
+                    height: 100px;
+                  }
+                  img{
+                    @include border-radius(50%);
+                  }
                 }
 
                 .popular-entry-title {
                     display: block;
                     margin-top: 10px;
+                    font-weight: 500;
+
 
                     .popular-entry-title-link {
                         display: block;
