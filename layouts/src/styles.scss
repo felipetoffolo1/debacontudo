@@ -97,7 +97,9 @@ a {
         width: 1170px;
     }
 }
-
+.padding-side {
+  padding: 0px 15px;
+}
 .pre-scrollable,
 pre {
     &::-webkit-scrollbar {
@@ -177,6 +179,7 @@ h2 {
 h3 {
     font-size: 26px;
     line-height: 30px;
+    font-weight: 500;
 }
 
 h4 {

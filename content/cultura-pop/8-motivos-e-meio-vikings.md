@@ -4,21 +4,23 @@ date = "2017-03-28T12:00:17-03:00"
 slug="oito-motivos-e-meio-para-assistir-vikings"
 description = "Vikings é uma série de aventura épica com muita ação e emoção. A trama é muito bem traçada gerando vários motivos para assistir Vikings, aqui vão alguns deles."
 author = ["felipe"]
-draft = true
+draft = false
 tags = ["Seriados","Listas"]
 thumbnail = "/img/2017/03/motivos-vikings-thumb.jpg"
 banner = "/img/2017/03/motivos-vikings-banner.jpg"
 images = ["/img/2017/03/motivos-vikings-thumb.jpg","/img/2017/03/motivos-vikings-banner.jpg"]
-categories = ["Pop Culture"]
+categories = ["pop-culture"]
 [structured]
 type = "Article"
 
 +++
 {{< imdb tt2306299 >}}
+
 Eu sei que Vikings já está aí faz um tempo, mas nem todo mundo viu ainda.
-“Eu mesma ainda não vi. Vamos ver se ele me convence”. - Larissa
 
 Além disso, eu adoro a série e não tinha o blog na época que começou. Então, vamos listar os melhores motivos para você assistir ao seriado Vikings.
+
+{{< quote-her "Eu mesma ainda não vi. Vamos ver se ele me convence. - Larissa">}}
 
 ## 1 - Ação que parece real
 As cenas de ação da série (são muitas) parecem muito reais (e violentas). Acredito que parte disso é  principalmente pela sua simplicidade. Simples nesse caso não é sem graça, pelo contrário, as batalhas acontecem em proporções reais de pessoas (e não milhares de pessoas como vemos em outras séries). Isso torna a coisa mais verossímil e próxima, permitindo que a gente entenda o que diabos tá acontecendo na batalha. Depois de pouco tempo assistindo a série, você já vai conseguir entender as técnicas de batalha viking como o shield wall.

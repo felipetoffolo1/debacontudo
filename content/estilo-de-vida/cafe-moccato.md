@@ -12,7 +12,7 @@ tags = ["review","cafe"]
 slug = "moccato-um-clube-para-verdadeiros-amantes-do-cafes"
 title = "Moccato: um clube para verdadeiros amantes do café"
 keywords = ["clube de café","moccato","amantes do café","praticidade","cafe fresco","café em cápsula","café premium","sabores únicos","moccato","capsula nespresso","capsula alternativa"]
-categories = ["Comida","Estilo de Vida"]
+categories = ["estilo-de-vida","comida"]
 [structured]
 type = "Article"
 

@@ -1,5 +1,5 @@
 +++
-categories = ["Comida","Estilo de Vida"]
+categories = ["estilo-de-vida","comida"]
 description = "Veja alguns motivos para você conhecer o Piauíndia, um charmoso e aconchegante restaurante em Brasília "
 tags = ["Restaurantes", "Brasília", "Review"]
 title = "Piauíndia: comida indiana com um toque brasileiro"

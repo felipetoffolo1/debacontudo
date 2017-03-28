@@ -1,5 +1,5 @@
 +++
-categories = ["Comida","Estilo de Vida"]
+categories = ["estilo-de-vida","comida"]
 description = "Um guia para você mudar seus hábitos alimentares e ser prático durante esse processo"
 tags = ["whole30","Paleo","receitas","vida saudável","cozinha prática"]
 title = "Como fazer receitas de forma prática, ser saudável e não desistir da vida"
