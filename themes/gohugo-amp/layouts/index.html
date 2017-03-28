@@ -62,8 +62,11 @@
                                                 <!-- .entry-header -->
                                                 <div class="entry-content">
                                                     <p class="text-center">
+                                                      {{if .Params.summary}}
+                                                      {{ .Params.summary | truncate 200 }}
+                                                      {{else}}
                                                         {{ .Summary | truncate 200 }}
-
+                                                        {{end}}
                                                         <a href="{{ .RelPermalink }}" class="more-link">
                                                             <span class="moretext">Leia Mais</span> <span class="screen-reader-text">{{ .Title }}</span>
                                                         </a>

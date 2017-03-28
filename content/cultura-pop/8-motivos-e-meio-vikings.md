@@ -10,6 +10,7 @@ thumbnail = "/img/2017/03/motivos-vikings-thumb.jpg"
 banner = "/img/2017/03/motivos-vikings-banner.jpg"
 images = ["/img/2017/03/motivos-vikings-thumb.jpg","/img/2017/03/motivos-vikings-banner.jpg"]
 categories = ["pop-culture"]
+summary ="Eu sei que Vikings já está aí faz um tempo, mas nem todo mundo viu ainda.Além disso, eu adoro a série e não tinha o blog na época que começou. Então, vamos listar os melhores motivos para você assistir ao seriado Vikings."
 [structured]
 type = "Article"
 
