@@ -30,13 +30,13 @@ Existem alguns lugares na cidade que você vai precisar ir de carro, por conta d
 Quando necessário, pegue um taxi. Em Ouro Preto não tem taxímetro, o valor é "tabelado". Ou seja, você negocia antes com o taxista.
 ## Pontos de interesse
 ### Praça Tiradentes
-A **Praça Tiradentes** é o centro e coração de Ouro Preto. Lá está a famosa estátua de Tiradentes, de costas para o Palácio dos Governadores (atual Escola de Minas) e olhando para o local onde estão enterrados seus companheiros (Museu da Inconfidência). Meáaforas a parte, a **Praça Tiradentes** é onde os caminhos de Ouro Preto se cruzam. A partir de lá você vai partir para boa parte das visitas que vou indicar. Mas além disso, ela deve ser saboreada. Pare para tomar um café na praça (na Chocolates Ouro Preto) ou uma cerveja e fique observando a vida passar pela praça. Ouro Preto é uma cidade histórica, e a história não tem pressa. Passe também na loja de cachaças da Milagre de Minas, desguste algumas e leve a sua preferida para casa.
+A **Praça Tiradentes** é o centro e coração de Ouro Preto. Lá está a famosa estátua de Tiradentes, de costas para o Palácio dos Governadores (atual Escola de Minas) e olhando para o local onde estão enterrados seus companheiros (Museu da Inconfidência). Metáforas a parte, a **Praça Tiradentes** é onde os caminhos de Ouro Preto se cruzam. A partir de lá você vai partir para boa parte das visitas que vou indicar. Mas além disso, ela deve ser saboreada. Pare para tomar um café na praça (na Chocolates Ouro Preto) ou uma cerveja e fique observando a vida passar pela praça. Ouro Preto é uma cidade histórica, e a história não tem pressa. Passe também na loja de cachaças da Milagre de Minas, desguste algumas e leve a sua preferida para casa.
 {{% img-full src="/img/2017/03/ouropreto-7.png" title="Essa não é do ensaio" alt="Praça Tiradentes Ouro Preto"  height="788" width="944" %}}
 
 ### Feira de Pedra Sabão e outras lojas
 {{% img-around-left src="/img/2017/03/ouropreto-9.png" alt="Feira de Pedra Sabão Ouro Preto"  height="788" width="944" %}}
 
-A famosa Feirinha de Pedra Sabão de Ouro Preto é onde se concentram a maior parte dos artesões de pedra sabão da cidade. Ali na feirinha você vai encontrar de tudo em pedra sabão, panelas, estátuas, porta-copos, jogos de xadrez, imagens sacras e por ai vai. Você tem que levar pelo menos uma lembrancinha de pedra sabão daqui, só toma cuidado para não exagerar e pagar uma fortuna de excesso de peso da bagagem.
+A famosa Feirinha de Pedra Sabão de Ouro Preto é onde se concentram a maior parte dos artesões de pedra sabão da cidade e tem de entrar no seu roteiro de Ouro Preto. Ali na feirinha você vai encontrar de tudo em pedra sabão, panelas, estátuas, porta-copos, jogos de xadrez, imagens sacras e por ai vai. Você tem que levar pelo menos uma lembrancinha de pedra sabão daqui, só toma cuidado para não exagerar e pagar uma fortuna de excesso de peso da bagagem.
 Negociar aqui é fudamental, pode chorar sem medo no preço que eles estão acostumadose normalmente sempre dão um desconto.
 Além da feirinha, Ouro Preto tem mais uma infinidade de lojas de artesanato, utensilios para cozinha de madeira (que eu indico muito), pedras e tal. Depois de entrar em algumas lojas você vai começar a perceber que todas tem QUASE as mesmas coisas.
 
@@ -54,7 +54,7 @@ O Museu da Inconfidência fica na praça Tiradentes, em frente ao monumento Joaq
 ### Museu do Oratório
 {{%place work-time="Segunda a Domingo das 09:30h às 17:30h" visit-time="1 hora" link="http://museudooratorio.org.br/visite/planeje-sua-visita/" price="Inteira: R$5,00 - Meia: R$2,50" %}}
 
-O Museu do Oratório, aparentemente pequeno, é o museu mais charmoso de Ouro Preto, um dos meus favoritos e visita indispensável em Ouro Preto.
+O Museu do Oratório, aparentemente pequeno, é o museu mais charmoso de Ouro Preto, um dos meus favoritos e visita indispensável entre os lugares para conhecer em Ouro Preto.
 
 Como o próprio nome já diz, o Museu do Oratório conta com um acervo de mais de 160 oratórios e 300 imagens, dos séculos XVII ao XX. A variedade é incrível, e você vai se surpreender com a beleza das peças e a criatividade dos artistas, o que faz desse passeio uma experiência inesquecível para todos. Além disso, o Museu do Oratório conta com uma das melhores instalações dos museus de Ouro Preto.
 
@@ -84,7 +84,7 @@ O Museu do Aleijadinho é um circuito de três museus que ficam localizados em t
 
 ## Igrejas
 Ouro Preto é a cidade do Brasil mais abundante em belas igrejas. Elas são muitas e lindas!
-Não dá pra você visitar todas, então vamos para as minhas favoritas.
+Não dá pra você visitar todas, então vamos para as minhas favoritas para adicionar no seu roteiro em Ouro Preto.
 Dica: as igrejas costumam passar por longas restaurações. Então quando montar seu roteiro, verifique se alguma que você pretende visitar não está fechada.
 A igrejas de Ouro Preto tem muita história e muita informação interessante. Sendo assim, sugiro que você contrate um guia para te contar tudo sobre ela. Eles normalmente ficam nas portas das igrejas oferencendo o serviço. Mas tome cuidado com gente desonesta que infelizmente existe, de preferência sempre contrate um guia registrado como esses [no link](http://turismo.ouropreto.mg.gov.br/guias-de-turismo). Na dúvida peça ajuda a quem estiver vendendo as entradas da igreja.
 
@@ -127,7 +127,7 @@ Ela fica a alguns minutos de caminhada (obviamente em ladeiras) descendo a **fei
 {{% img-full src="/img/2017/03/ouropreto-14.png" alt="Igreja da Conceição Ouro Preto"  height="788" width="944" %}}
 
 ## Day Trips
-A partir de Ouro Preto é possível fazer algumas viagens bate e volta para outras cidades. Vamos falar das principais.
+A partir de Ouro Preto é possível fazer algumas viagens bate e volta para outras cidades. Vamos falar das principais opções do que fazer perto de Ouro Preto.
 
 ### Viagem de trem para Mariana
 {{%place work-time="Sexta e Sábado: 10h e 14:30h, Domingo: 10h e 16h" visit-time="5 horas" link="http://www.turismoouropreto.com/maria-fumaca" price="Inteira: R$40,00 - Meia: R$20,00" %}}
@@ -153,7 +153,7 @@ Ouro Preto,como boa cidade mineira, tem muita coisa boa demais da conta para com
 
 ## Onde Ficar
 Como eu só fico na casa de vovó em Ouro Preto, eu nunca me hospedei por lá. Por isso não conheço muitos hotéis.
-Mas a minha dica é que fique em um hotel no centro histórico, é lá que tudo acontece.E é muito mais prazeroso e um clima muita mais gostoso estar no centro histórico.
+Mas a minha dica é que fique em um hotel no centro histórico, é lá que tudo acontece.E é muito mais prazeroso e um clima muita mais gostoso estar no centro histórico,lá é onde ficam as melhores hospedagens de Ouro Preto.
 
 {{% img-full src="/img/2017/03/ouropreto-11.png" title="É isso gente acabou o post" alt="Igreja da Conceição Ouro Preto"  height="788" width="944" %}}
 
