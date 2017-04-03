@@ -62,7 +62,7 @@ identifier = "twitter"
 weight = 3
 [[menu.social]]
 pre = "<i class='fa fa-instagram'></i>"
-url = "http://www.instagram.com/blogdebacontudo"
+url = "http://www.instagram.com/casaldebacontudo"
 identifier = "instagram"
 weight = 2
 [[menu.social]]
