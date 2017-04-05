@@ -219,7 +219,9 @@ Santa Mônica tem uma rua/shopping/centro de entretenimento muito legal chamada 
 ## Rumo a San Francisco!
 E assim acaba nossa viagem por Los Angeles. A notícia ruim é que acabou. A boa é que agora começa a nossa Roadtrip pela Highway 1. Em breve, novos posts sobre a estrada, cidades pelo caminho e dicas para um roteiro legal em **São Francisco**.
 
-
+### Mais sobre essa viagem
+- [Primeira parte da Road Trip na Highway 1](http://debacontudo.com.br/viagem/roadtrip-highway-1-parte-1/)
+- Segunda parte da Road Trip na Highway 1 (em breve)
 
 [3b8ce3c1]: http://www.smartdestinations.com/los-angeles-attractions-and-tours/_d_Lax-p1.html?pass=Lax_Prod_Go "GoPass"
 [209b977a]: http://www.imdb.com/name/nm0189144/ "David Cross"
