@@ -17,20 +17,20 @@ totop = true
 type = "Article"
 
 +++
-A Highway 1 é uma estrada costeira da Califórnia, nela é feita uma das melhores e mais famosas roadtrips do mundo. A Highway 1 te oferece tudo que você poderia querer em uma Roadtrip, boas estradas, belissimas vistas, lugares interessantes e muita diversão.
-A gente fez o trecho de Los Angeles até São Francisco e adoramos MUITO. Muita gente faz a viagem no sentido inverso, mas no nosso roteiro foi mais comodo fazer assim, e não percebemos nenhuma perda por isso. Essa foi a nossa primeira experiência com roadtrip e se depender dela, a primeira de muitas.
+A Highway 1 é uma estrada costeira da Califórnia, onde é feita uma das melhores e mais famosas roadtrips do mundo. A Highway 1 oferece tudo que você poderia querer em uma roadtrip: boas estradas, belíssimas vistas, lugares interessantes e muita diversão.
+Nós fizemos o trecho de Los Angeles até São Francisco e gostamos MUITO. Muita gente faz a viagem no sentido inverso, mas no nosso roteiro foi mais cômodo fazer assim, e não percebemos nenhuma perda por isso. Essa foi a nossa primeira experiência com roadtrip e, se depender dela, a primeira de muitas.
 
 ## Dia 1 - Los Angeles - Malibu - Santa Barbara
 
-Acordamos cedo em Los Angeles depois de vários dias magníficos (a gente contou sobre eles [aqui](link)) , tristes por estar deixando a cidade, mas muito empolgados por tudo que tinha por vir na Highway 1.
-Nosso destino final do dia era Santa Barbara, passando no caminho por Malibu, um trajeto de cerca de 162 km.  
-Já de cara a Highway 1 não decepcionou, iniciamos na linda Santa Mônica (que também falamos no outro post), já mostrando para o que veio a vista eram lindas.
+Acordamos cedo em Los Angeles depois de vários dias magníficos (a gente contou sobre eles [aqui](link)), tristes por estar deixando a cidade, mas muito empolgados por tudo que ainda viria na Highway 1.
+Nosso destino final do dia era Santa Barbara, passando por praias famosas como Malibu, um trajeto de cerca de 162 km.  
+Já de cara a Highway 1 não nos decepcionou. Iniciamos na linda Santa Mônica (que também falamos no outro post), que oferece uma vista incrível.
 ### Malibu
-Nossa primeira parada foi em Malibu, onde conhecemos a Zuma Beach, uma das mais conhecidas de Malibu. A parada foi rápida, só paramos, demos uma volta na areia, apreciamos o mar e foi só isso. Não vimos muita vantagem nessa praia não, a não ser marcar o x de visitada. Voltamos logo para estrada.
-Depois disso fizemos um pit stop em um mall na beira da estrada para almoçar. Durante todo o caminho existem vários shoppings abertos onde você vai encontrar as lojas das redes de sempre (Marshalls, Rossi, Target, etc..) e lugares para comer. Almoçamos no Lazy Dog um restaurante americano (ou seja, hamburguer) muito bom e depois pé na estrada de volta.
+Nossa primeira parada foi em Malibu, onde conhecemos a Zuma Beach, uma das mais conhecidas de Malibu. A parada foi rápida, só paramos, demos uma volta na areia, apreciamos o mar e foi só isso. Não vimos muita vantagem nessa praia, a não ser marcar o x como destino já visitado. Logo voltamos para a estrada.
+Depois disso, fizemos um pit stop em um mall na beira da estrada para almoçar. Durante todo o caminho existem vários shoppings abertos onde você vai encontrar as lojas das redes de sempre (Marshalls, Rossi, Target, etc..) e lugares para comer. Almoçamos no Lazy Dog, um restaurante americano (ou seja, hambúrguer) muito bom e depois colocamos o pé na estrada novamente. 
 ### Santa Barbara
-Finalmente chegamos a Santa Barbará e foi paixão à primeira vista (suspiro profundo). Chegando na cidade avistamos um praia de areia branca, água azul (como ainda não tínhamos visto na Califórnia ) e veleiros ao fundo, uma imagem muito pitoresca. Tanto que essas características renderam à Santa Barbara o apelido de Riviera Americana.
-Depois de aproveitar um pouco a praia fomos para o nosso hotel o [Oasis Inn and Suites][3596c54a], um desses hoteizinhos abertos, estilo motel, baratinho e atendeu super bem, além do café da manhã ter sido ótimo.
+Finalmente chegamos a Santa Barbara e foi paixão à primeira vista (suspiro profundo). Chegando na cidade, avistamos uma praia de areia branca, água azul (como ainda não tínhamos visto na Califórnia) e veleiros ao fundo, uma imagem muito pitoresca. Tanto que essas características renderam à Santa Barbara o apelido de Riviera Americana.
+Depois de aproveitar um pouco a praia, fomos para o nosso hotel: o [Oasis Inn and Suites][3596c54a]. É um desses hoteizinhos abertos, estilo motel, baratinho e que nos atendeu super bem, além do café da manhã ter sido ótimo.
 
 #### Santa Barbara Courthouse
 
