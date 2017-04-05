@@ -1,70 +1,95 @@
 +++
 title = "Road Trip pela Highway 1: Primeira Parte - Malibu, Santa Barbara, Solvang e Região Vinícola de Santa Ynez"
 draft = true
-description = "O guia definitivo para Los Angeles - Califórnia. Conheça o nosso roteiro para Los Angeles. Veja dicas, passeios, praias, lugares para se divertir e aproveite ao máximo cidade dos anjos."
+description = "Acompanhe o nosso roteiro de road trip pela Highway 1. Uma estrada costeira da Califórnia com belíssimas vistas, lugares interessantes e muita diversão"
 slug = "highway-1-parte-1"
-date = "2017-04-05T21:00:47-02:00"
-tags = ["viagens","california","usa"]
-keywords = ["viagens","california","usa","los angeles","roteiro los angeles", "los angeles o que fazer","turismo", "pontos de interesse","guia los angeles","o que fazer", "são francisco","6 dias"]
+date = "2017-04-05T17:00:47-02:00"
+tags = ["viagens","california","usa","roadtrip","highway-1"]
 categories = ["Viagem"]
 author = ["felipe","larissa"]
-banner = "/img/2017/04/highway-1-banner.jpg"
-thumbnail = "/img/2017/04/highway-1-thumb.jpg"
-images = ["/img/2017/04/highway-1-banner.jpg","/img/2017/04/highway-1-thumb.jpg"]
+banner = "/img/2017/04/highway-1-1-banner.jpg"
+thumbnail = "/img/2017/04/highway-1-1-thumb.jpg"
+images = ["/img/2017/04/highway-1-1-banner.jpg","/img/2017/04/highway-1-1-thumb.jpg"]
 lightbox = true
 totop = true
 [structured]
 type = "Article"
 
 +++
-A Highway 1 é uma estrada costeira da Califórnia, onde é feita uma das melhores e mais famosas road trips do mundo. A Highway 1 oferece tudo que você poderia querer em uma roadtrip: boas estradas, belíssimas vistas, lugares interessantes e muita diversão.
-Nós fizemos o trecho de Los Angeles até São Francisco e gostamos MUITO. Muita gente faz a viagem no sentido inverso, mas no nosso roteiro foi mais cômodo fazer assim, e não percebemos nenhuma perda por isso. Essa foi a nossa primeira experiência com roadtrip e, se depender dela, a primeira de muitas.
+A **Highway 1** é uma estrada costeira da **Califórnia**, onde é feita uma das melhores e mais famosas road trips do mundo. A Highway 1 oferece tudo que você poderia querer em uma roadtrip: boas estradas, belíssimas vistas, lugares interessantes e muita diversão.
+Nós fizemos o trecho de **Los Angeles até São Francisco** e gostamos **MUITO**. Muita gente faz a viagem no sentido inverso, mas no nosso roteiro foi mais cômodo fazer assim, e não percebemos nenhuma perda por isso. Essa foi a nossa primeira experiência com roadtrip e, se depender dela, a primeira de muitas.
 Dividimos o nosso roteiro pela Highway 1 em duas postagens (porque somos prolixos e tava ficando enorme), essa é a primeira parte.
 
 ## Dia 1 - Los Angeles - Malibu - Santa Barbara
 
-Acordamos cedo em Los Angeles depois de vários dias magníficos (a gente contou sobre eles [aqui](link)), tristes por estar deixando a cidade, mas muito empolgados por tudo que ainda viria na Highway 1.
-Nosso destino final do dia era Santa Barbara, passando por praias famosas como Malibu, um trajeto de cerca de 162 km.  
+Acordamos cedo em **Los Angeles** depois de vários dias magníficos (a gente contou sobre eles [aqui][73807f42]), tristes por estar deixando a cidade, mas muito empolgados por tudo que ainda viria na Highway 1.
+Nosso destino final do dia era **Santa Barbara**, passando por praias famosas como **Malibu**, um trajeto de cerca de 162 km.  
 Já de cara a Highway 1 não nos decepcionou. Iniciamos na linda Santa Mônica (que também falamos no outro post), que oferece uma vista incrível.
 ### Malibu
-Nossa primeira parada foi em Malibu, onde conhecemos a Zuma Beach, uma das mais conhecidas de Malibu. A parada foi rápida, só paramos, demos uma volta na areia, apreciamos o mar e foi só isso. Não vimos muita vantagem nessa praia, a não ser marcar o x como destino já visitado. Logo voltamos para a estrada.
+Nossa primeira parada foi em **Malibu**, onde conhecemos a **Zuma Beach**, uma das mais conhecidas de Malibu. A parada foi rápida, só paramos, demos uma volta na areia, apreciamos o mar e foi só isso. Não vimos muita vantagem nessa praia, a não ser marcar o x como destino já visitado. Logo voltamos para a estrada.
 Depois disso, fizemos um pit stop em um mall na beira da estrada para almoçar. Durante todo o caminho existem vários shoppings abertos onde você vai encontrar as lojas das redes de sempre (Marshalls, Rossi, Target, etc..) e lugares para comer. Almoçamos no Lazy Dog, um restaurante americano (ou seja, hambúrguer) muito bom e depois colocamos o pé na estrada novamente.
 ### Santa Barbara
-{{% img-full src="/img/2017/04/highway-1-1.jpg"   height="788" width="944" %}}
-Finalmente chegamos a Santa Barbara e foi paixão à primeira vista (suspiro profundo). Chegando na cidade, avistamos uma praia de areia branca, água azul (como ainda não tínhamos visto na Califórnia) e veleiros ao fundo, uma imagem muito pitoresca. Tanto que essas características renderam à Santa Barbara o apelido de Riviera Americana.
+{{% img-full src="/img/2017/04/highway-1-1.jpg"   height="628" width="1200" %}}
+Finalmente chegamos a **Santa Barbar** a e foi paixão à primeira vista (suspiro profundo). Chegando na cidade, avistamos uma praia de areia branca, água azul (como ainda não tínhamos visto na **Califórnia**) e veleiros ao fundo, uma imagem muito pitoresca. Tanto que essas características renderam à Santa Barbara o apelido de **Riviera Americana**.
 Depois de aproveitar um pouco a praia, fomos para o nosso hotel: o [Oasis Inn and Suites][3596c54a]. É um desses hoteizinhos abertos, estilo motel, baratinho e que nos atendeu super bem, além do café da manhã ter sido ótimo.
 
-#### Santa Barbara County Courthouse
+  [73807f42]: http://debacontudo.com.br/viagem/O-Melhor-Roteiro-para-Los-Angeles/ "Post Roteiro Los Angeles"
 
-{{% img-full src="/img/2017/04/highway-1-2.jpg"   height="788" width="944" %}}
-O Santa Barbara County Courthouse é, como o nome diz, onde está localizado o tribunal de Santa Barbara. Composto de quatro prédios, foi construído no estilo Espanhol Colonial, que é o estilo utilizado na maior parte da cidade. É a construção arquitetônica mais importante desse estilo e da cidade.
-É um ótimo lugar para dar uma descansada, esticar uma toalha no gramado, enquanto faz um lanchinho, tirar uma fotos e recarregar a bateria.
+#### Santa Barbara County Courthouse
+{{%place work-time="Tours diariamente as 14:00" visit-time="1 hora" link="http://sbcourthouse.org/" price="Gratuíto" %}}
+
+O **Santa Barbara County Courthouse** é, como o nome diz, onde está localizado o tribunal de Santa Barbara. Composto de quatro prédios, foi construído no estilo **Espanhol Colonial**, que é o estilo utilizado na maior parte da cidade.
+{{% img-full src="/img/2017/04/highway-1-2.jpg"   height="628" width="1200" %}}
+
+{{% img-full src="/img/2017/04/highway-1-20.jpg"  height="628" width="1200" %}}
+
+É a construção arquitetônica mais importante desse estilo e da cidade. E um ótimo lugar para dar uma descansada, esticar uma toalha no gramado, enquanto faz um lanchinho, tirar uma fotos e recarregar a bateria.
 #### Downtown
 O centro comercial de Santa Barbara é simplesmente um dos melhores que conhecemos durante a roadtrip.
 São dezenas de lojas locais e de grandes redes,  restaurantes totalmente charmosos e todos seguindo o estilo, arquitetura e “espírito” da cidade.
-A maioria dos estabelecimentos ficam na State Street, a principal rua de Santa Barbara Downtown.
+A maioria dos estabelecimentos ficam na **State Street**, a principal rua de Santa Barbara Downtown.
 O ideal é caminhar por ela de forma despretenciosa, olhando as lojas e as diversas opções de restaurantes. Enquanto caminha, vá explorando as entradinhas que existem pelo caminho, algumas vão levar a pequenas “vilas” que você não pode perder.
 
+{{% img-full src="/img/2017/04/highway-1-3.jpg" title="Entrada de uma vilazinha dessas"  height="788" width="944" %}}
+
+{{% img-full src="/img/2017/04/highway-1-4.jpg"   height="628" width="1200" %}}
+
 ## Dia 2 - Santa Barbara - Solvang - Vinícolas - Los Olivos - San Luis Obispo
-Tivemos que nos despedir de Santa Barbara logo pela manhã. Mas tudo bem, porque esse era o dia em que iríamos visitar uma das regiões vinícolas da Califórnia. A principal região vinícola da California é a famosa Napa Valley. Mas não é a única. Bem perto da rota da Highway 1, existe o Santa Ynez Valley, que também abriga ótimas vinícolas e cidades surpreendentes. Essa é uma visita que tem que ser feita em qualquer roteiro pela Highway 1, śério, nem pense em não passar por lá.
+Tivemos que nos despedir de Santa Barbara logo pela manhã. Mas tudo bem, porque esse era o dia em que iríamos visitar uma das **regiões vinícolas da Califórnia**. A principal região vinícola da California é a famosa Napa Valley. Mas não é a única. Bem perto da rota da Highway 1, existe o **Santa Ynez Valley**, que também abriga ótimas vinícolas e cidades surpreendentes. Essa é uma visita que tem que ser feita em qualquer roteiro pela Highway 1, śério, nem pense em não passar por lá.
 ### Solvang
-Solvang é uma cidade Dinamarquesa no meio da Califórnia. Não nos pergunte de quem foi a ideia. A cidade é toda típica, construções, lojas, restaurantes, tudo remete à Dinamarca. Em Solvang, o principal a fazer é explorar a cidade. Pare seu carro em algum lugar e vá andando e conhecendo as lojinhas. Existem algumas de chocolate que só não vão estragar sua dieta porque você já desistiu dela no início da viagem. Além disso, experimente alguns pratos típicos dinarmaqueses. A gente almoçou no Solvang Restaurante, onde experimentamos o carro chefe da casa: o aebleskiver, que é tipo uma bola de panqueca. E comemos um prato com salsichão que tava bem bom também.
-{{% img-full src="/img/2017/04/highway-1-5.jpg"   height="788" width="944" %}}
+**Solvang** é uma cidade Dinamarquesa no meio da Califórnia. Não nos pergunte de quem foi a ideia. A cidade é toda típica, construções, lojas, restaurantes, tudo remete à **Dinamarca**. Em Solvang, o principal a fazer é explorar a cidade. Pare seu carro em algum lugar e vá andando e conhecendo as lojinhas. Existem algumas de chocolate que só não vão estragar sua dieta porque você já desistiu dela no início da viagem. Além disso, experimente alguns pratos típicos dinarmaqueses. A gente almoçou no Solvang Restaurante, onde experimentamos o carro chefe da casa: o **aebleskiver**, que é tipo uma bola de panqueca. E comemos um prato com salsichão que tava bem bom também.
+{{% img-full src="/img/2017/04/highway-1-5.jpg"   height="628" width="1200" %}}
 ### Região Vinícola do Vale Santa Ynez
 Para os amantes de vinho, umas melhores partes da viagem. Escolhemos duas que encontramos na internet. Em cada vinícola existe uma degustação de vinhos, onde você paga um valor (cerca de 18 dólares) e degusta uma sequência de taças de vinhos escolhidos pela casa. Enquanto te servem, eles fazem uma pequena explicação sobre cada vinho. Como a gente adora vinho, mas não conhece nada dos termos técnicos, ficamos balançando a cabeça e fingindo que entendíamos enquanto explicavam para a gente.
 #### Sunstone Vineyards and Winery
+{{%place work-time="Diariamente das 11:00 ás 17:00" visit-time="1 hora" link="http://sunstonewinery.com/" price="Degustação $18,00 dólares" %}}
+
 A Sunstone é uma vinícola com várias opções de visitas e degustações. Além da degustação de vinhos, existem opções especiais para grupos, almoços, degustação de azeites e tour pela produção (precisa agendar com atencedência).
-{{% img-full src="/img/2017/04/highway-1-6.jpg"  title="Felipe achou que ia era para a Europa e tava derretendo nesse casaco" height="788" width="944" %}}
+
+{{% img-full src="/img/2017/04/highway-1-6.jpg"  title="Felipe achou que ia era para a Europa e tava derretendo nesse casaco"  height="628" width="1200" %}}
+
+{{% img-full src="/img/2017/04/highway-1-7.jpg"   height="628" width="1200" %}}
+
 O espaço da Sunstone é muito lindo. Para chegar até lá você passa por uma estradinha entre a plantação de uvas até avistar a casa principal que tem um pátio para degustação que te faz querer passar o dia lá.
+
 {{<quote-him "Só não passei porque ainda tinha mais vinho pela frente - Felipe">}}
 
-{{% img-full src="/img/2017/04/highway-1-7.jpg"   height="788" width="944" %}}
 #### Rusack Vineyards
-A Rusack é outra vinícola linda. O legal de lá é que na degustação, além de experimentar os vinhos, você ainda ganha uma taça de sourvenir. O destaque da Rusack foi um espumante delicioso. Até quisemos levar uma garrafa, mas o preço estava salgado para os nossos bolsos brasileiros. Então o melhor é pedir a degustação e saborear ela bem devagarinho enquanto aprecia a linda vista.
-{{% img-full src="/img/2017/04/highway-1-wide-2.jpg" title="Um mar de uva"  height="520" width="2480" %}}
-{{% img-full src="/img/2017/04/highway-1-9.jpg" title="Cara da riqueza"  height="788" width="944" %}}
+{{%place work-time="Diariamente das 11:00 ás 17:00" visit-time="1 hora" link="https://www.rusack.com/" price="Degustação $15,00 dólares" %}}
+
+
+A Rusack é outra vinícola linda. O legal de lá é que na degustação, além de experimentar os vinhos, você ainda ganha uma taça de sourvenir.
+
+{{% img-full src="/img/2017/04/highway-1-wide-2.jpg" title="Nada como tomar o vinho admirando a paisagem de onde ele saiu"  height="520" width="2480" %}}
+
+O destaque da Rusack foi um espumante delicioso. Até quisemos levar uma garrafa, mas o preço estava salgado para os nossos bolsos brasileiros. Então o melhor é pedir a degustação e saborear ela bem devagarinho enquanto aprecia a linda vista.
+
+{{% img-full src="/img/2017/04/highway-1-9.jpg" title="Cara da riqueza"   height="628" width="1200" %}}
+
 ### Los Olivos
 Los Olivos é uma cidade bem amena que visitamos no caminho para San Luis Obispo (onde iríamos dormir). Além de ser bonitinha, e parecer um pouco uma cidade de faroeste, não vimos muito mais o que fazer por lá. Então demos uma olhada rápida e voltamos para a estrada.
+{{<quote-him "Lembro que a gente ficou um tempo parado numa igrejinha porque tinha WIFI - Felipe">}}
+
 ### San Luis Obispo
 San Luis Obispo foi onde escolhemos para dormir. A cidade em si não tem nada para fazer. Nossa escolha foi simplesmente por uma questão de logística, levando em conta a distância para a próxima cidade. Então não precisa de pressa para chegar lá. Fomos jantar em um mall próximo e depois descansar para o próximo dia.
 
