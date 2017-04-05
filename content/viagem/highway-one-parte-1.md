@@ -35,7 +35,7 @@ Depois disso, fizemos um pit stop em um mall na beira da estrada para almoçar. 
 
 Finalmente chegamos a **Santa Barbara** e foi paixão à primeira vista (suspiro profundo). Chegando na cidade, avistamos uma praia de areia branca, água azul (como ainda não tínhamos visto na **Califórnia**) e veleiros ao fundo, uma imagem muito pitoresca. Tanto que essas características renderam à Santa Barbara o apelido de **Riviera Americana**.
 {{<quote-her "Mas a água tava tão gelada que só deu para molhar o pezinho - Larissa">}}
-Depois de aproveitar um pouco a praia, fomos para o nosso hotel: o [Oasis Inn and Suites][3596c54a]. É um desses hoteizinhos abertos, estilo motel, baratinho e que nos atendeu super bem, além do café da manhã ter sido ótimo.
+Depois de aproveitar um pouco a praia, fomos para o hotel: o [Oasis Inn and Suites][3596c54a]. É um desses hoteizinhos abertos, estilo motel, baratinho e que nos atendeu super bem, além do café da manhã ter sido ótimo.
 
   [73807f42]: http://debacontudo.com.br/viagem/O-Melhor-Roteiro-para-Los-Angeles/ "Post Roteiro Los Angeles"
 
