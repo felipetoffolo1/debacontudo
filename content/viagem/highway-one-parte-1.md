@@ -100,7 +100,7 @@ Los Olivos é uma cidade bem amena que visitamos no caminho para San Luis Obispo
 Escolhemos a cidade de San Luis Obispo para dormir. A cidade em si não tem nada para fazer. Nossa escolha foi simplesmente por uma questão de logística, levando em conta a distância para a próxima cidade. Então não precisa de pressa para chegar lá. Fomos jantar em um mall próximo e depois descansar para o próximo dia.
 
 ## Fim da primeira parte :(
-Bem, pessoal esse é o fim do post da primeira parte no nosso Roteiro pela Highway 1. Em breve a gente posta a segunda parte com Big Sur, Carmel By The Sea, Monterey e Palo Alto.
+Em breve a gente posta a segunda parte com Big Sur, Carmel By The Sea, Monterey e Palo Alto.
 
 ### Mais sobre essa viagem
 - [Nosso Roteiro de 6 dias em Los Angeles][b4190514]
