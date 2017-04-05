@@ -40,7 +40,7 @@ Depois de aproveitar um pouco a praia, fomos para o hotel: o [Oasis Inn and Suit
   [73807f42]: http://debacontudo.com.br/viagem/O-Melhor-Roteiro-para-Los-Angeles/ "Post Roteiro Los Angeles"
 
 #### Santa Barbara County Courthouse
-{{%place work-time="Tours diariamente as 14:00" visit-time="1 hora" link="http://sbcourthouse.org/" price="Gratuíto" %}}
+{{%place work-time="Tours diariamente às 14:00" visit-time="1 hora" link="http://sbcourthouse.org/" price="Gratuíto" %}}
 
 O **Santa Barbara County Courthouse** é, como o nome diz, onde está localizado o tribunal de Santa Barbara. Composto de quatro prédios, foi construído no estilo **Espanhol Colonial**, que é o estilo utilizado na maior parte da cidade.
 {{% img-full src="/img/2017/04/highway-1-2.jpg"   height="628" width="1200" %}}
@@ -63,13 +63,13 @@ O ideal é caminhar por ela de forma despretenciosa, olhando as lojas e as diver
 {{% img-around-right src="/img/2017/04/highway-1-22.jpg"  height="788" width="944" %}}
 Tivemos que nos despedir de Santa Barbara logo pela manhã. Mas tudo bem, porque esse era o dia em que iríamos visitar uma das **regiões vinícolas da Califórnia**. A principal região vinícola da California é a famosa Napa Valley. Mas não é a única. Bem perto da rota da Highway 1, existe o **Santa Ynez Valley**, que também abriga ótimas vinícolas e cidades surpreendentes. Essa é uma visita que tem que ser feita em qualquer roteiro pela Highway 1, śério, nem pense em não passar por lá.
 ### Solvang
-**Solvang** é uma cidade Dinamarquesa no meio da Califórnia. Não nos pergunte de quem foi a ideia. A cidade é toda típica, construções, lojas, restaurantes, tudo remete à **Dinamarca**. Em Solvang, o principal a fazer é explorar a cidade. Pare seu carro em algum lugar e vá andando e conhecendo as lojinhas. Existem algumas de chocolate que só não vão estragar sua dieta porque você já desistiu dela no início da viagem. Além disso, experimente alguns pratos típicos dinarmaqueses. A gente almoçou no Solvang Restaurante, onde experimentamos o carro chefe da casa: o **aebleskiver**, que é tipo uma bola de panqueca. E comemos um prato com salsichão que tava bem bom também.
+**Solvang** é uma cidade Dinamarquesa no meio da Califórnia. Não nos pergunte de quem foi a ideia. A cidade é toda típica, construções, lojas, restaurantes, tudo remete à **Dinamarca**. Em Solvang, o principal a fazer é explorar a cidade. Pare seu carro em algum lugar e vá andando e conhecendo as lojinhas. Existem algumas de chocolate que só não vão estragar sua dieta porque você já desistiu dela no início da viagem. Além disso, experimente alguns pratos típicos dinarmaqueses. A gente almoçou no Solvang Restaurant, onde experimentamos o carro chefe da casa: o **aebleskiver**, que é tipo uma bola de panqueca. E comemos um prato com salsichão que tava bem bom também.
 {{% img-full src="/img/2017/04/highway-1-5.jpg"   height="628" width="1200" %}}
 ### Região Vinícola do Vale Santa Ynez
 Para os amantes de vinho, conhecer as **vinícolas do Vale Santa Ynez** é uma das melhores partes da viagem. Escolhemos duas que encontramos na internet. Em cada vinícola existe uma degustação de vinhos, onde você paga um valor (cerca de 18 dólares) e degusta uma sequência de taças de vinhos escolhidos pela casa. Enquanto te servem, eles fazem uma pequena explicação sobre cada vinho.
 Como a gente adora vinho, mas não conhece nada dos termos técnicos, ficamos balançando a cabeça e fingindo que entendíamos enquanto explicavam para a gente.
 #### Sunstone Vineyards and Winery
-{{%place work-time="Diariamente das 11:00 ás 17:00" visit-time="1 hora" link="http://sunstonewinery.com/" price="Degustação $18,00 dólares" %}}
+{{%place work-time="Diariamente das 11:00 às 17:00" visit-time="1 hora" link="http://sunstonewinery.com/" price="Degustação $18,00 dólares" %}}
 
 A Sunstone é uma vinícola com várias opções de visitas e degustações. Além da degustação de vinhos, existem opções especiais para grupos, almoços, degustação de azeites e tour pela produção (precisa agendar com atencedência).
 
@@ -82,7 +82,7 @@ O espaço da Sunstone é muito lindo. Para chegar até lá você passa por uma e
 
 #### Rusack Vineyards
 
-{{%place work-time="Diariamente das 11:00 ás 17:00" visit-time="1 hora" link="https://www.rusack.com/" price="Degustação $15,00 dólares" %}}
+{{%place work-time="Diariamente das 11:00 às 17:00" visit-time="1 hora" link="https://www.rusack.com/" price="Degustação $15,00 dólares" %}}
 
 A Rusack é outra vinícola linda. O legal de lá é que na degustação, além de experimentar os vinhos, você ainda ganha uma taça de sourvenir.
 
