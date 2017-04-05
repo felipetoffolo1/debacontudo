@@ -18,7 +18,7 @@ type = "Article"
 +++
 A **Highway 1** é uma estrada costeira da **Califórnia**, onde é feita uma das melhores e mais famosas road trips do mundo. A Highway 1 oferece tudo que você poderia querer em uma roadtrip: boas estradas, belíssimas vistas, lugares interessantes e muita diversão.
 Nós fizemos o trecho de **Los Angeles até São Francisco** e gostamos **MUITO**. Muita gente faz a viagem no sentido inverso, mas no nosso roteiro foi mais cômodo fazer assim, e não percebemos nenhuma perda por isso. Essa foi a nossa primeira experiência com roadtrip e, se depender dela, a primeira de muitas.
-Dividimos o nosso roteiro pela Highway 1 em duas postagens (porque somos prolixos e tava ficando enorme), essa é a primeira parte.
+Dividimos o nosso roteiro pela Highway 1 em duas postagens (porque somos prolixos e tava ficando enorme). Essa é a primeira parte.
 
 ## Dia 1 - Los Angeles - Malibu - Santa Barbara
 
