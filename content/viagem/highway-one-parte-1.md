@@ -16,8 +16,8 @@ totop = true
 type = "Article"
 
 +++
-A **Highway 1** é uma estrada costeira da **Califórnia**, onde é feita uma das melhores e mais famosas road trips do mundo. A Highway 1 oferece tudo que você poderia querer em uma roadtrip: boas estradas, belíssimas vistas, lugares interessantes e muita diversão.
-Nós fizemos o trecho de **Los Angeles até São Francisco** e gostamos **MUITO**. Muita gente faz a viagem no sentido inverso, mas no nosso roteiro foi mais cômodo fazer assim, e não percebemos nenhuma perda por isso. Essa foi a nossa primeira experiência com roadtrip e, se depender dela, a primeira de muitas.
+A **Highway 1** é uma estrada costeira da **Califórnia**, onde é feita uma das melhores e mais famosas road trips do mundo. A Highway 1 oferece tudo que você poderia querer em uma road trip: boas estradas, belíssimas vistas, lugares interessantes e muita diversão.
+Nós fizemos o trecho de **Los Angeles até São Francisco** e gostamos **MUITO**. Muita gente faz a viagem no sentido inverso, mas no nosso roteiro foi mais cômodo fazer assim, e não percebemos nenhuma perda por isso. Essa foi a nossa primeira experiência com road trip e, se depender dela, a primeira de muitas.
 Dividimos o nosso roteiro pela Highway 1 em duas postagens (porque somos prolixos e tava ficando enorme). Essa é a primeira parte.
 
 ## Dia 1 - Los Angeles - Malibu - Santa Barbara
@@ -49,7 +49,7 @@ O **Santa Barbara County Courthouse** é, como o nome diz, onde está localizado
 
 É a construção arquitetônica mais importante desse estilo e da cidade. E um ótimo lugar para dar uma descansada, esticar uma toalha no gramado, enquanto faz um lanchinho, tirar uma fotos e recarregar a bateria.
 #### Downtown
-O centro comercial de Santa Barbara é simplesmente um dos melhores que conhecemos durante a roadtrip.
+O centro comercial de Santa Barbara é simplesmente um dos melhores que conhecemos durante a road trip.
 São dezenas de lojas locais e de grandes redes, restaurantes totalmente charmosos e todos seguindo o estilo, arquitetura e “espírito” da cidade.
 {{<quote-him "Até hoje eu namoro a ideia de largar tudo e abrir um restaurantezinho em Santa Barbara - Felipe">}}
 A maioria dos estabelecimentos ficam na **State Street**, a principal rua de Santa Barbara Downtown.
