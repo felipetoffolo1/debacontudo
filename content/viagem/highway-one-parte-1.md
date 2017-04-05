@@ -84,7 +84,7 @@ O espaço da Sunstone é muito lindo. Para chegar até lá você passa por uma e
 
 {{%place work-time="Diariamente das 11:00 às 17:00" visit-time="1 hora" link="https://www.rusack.com/" price="Degustação $15,00 dólares" %}}
 
-A Rusack é outra vinícola linda. O legal de lá é que na degustação, além de experimentar os vinhos, você ainda ganha uma taça de sourvenir.
+A Rusack é outra vinícola linda. O legal de lá é que na degustação, além de experimentar os vinhos, você ainda ganha uma taça de souvenir.
 
 {{% img-full src="/img/2017/04/highway-1-wide-2.jpg" title="Nada como tomar o vinho admirando a paisagem de onde ele saiu"  height="520" width="2480" %}}
 
@@ -97,7 +97,7 @@ Los Olivos é uma cidade bem amena que visitamos no caminho para San Luis Obispo
 {{<quote-him "Lembro que a gente ficou um tempo parado numa igrejinha porque tinha WIFI - Felipe">}}
 
 ### San Luis Obispo
-San Luis Obispo foi onde escolhemos para dormir. A cidade em si não tem nada para fazer. Nossa escolha foi simplesmente por uma questão de logística, levando em conta a distância para a próxima cidade. Então não precisa de pressa para chegar lá. Fomos jantar em um mall próximo e depois descansar para o próximo dia.
+Escolhemos a cidade de San Luis Obispo para dormir. A cidade em si não tem nada para fazer. Nossa escolha foi simplesmente por uma questão de logística, levando em conta a distância para a próxima cidade. Então não precisa de pressa para chegar lá. Fomos jantar em um mall próximo e depois descansar para o próximo dia.
 
 ## Fim da primeira parte :(
 Bem, pessoal esse é o fim do post da primeira parte no nosso Roteiro pela Highway 1. Em breve a gente posta a segunda parte com Big Sur, Carmel By The Sea, Monterey e Palo Alto.
