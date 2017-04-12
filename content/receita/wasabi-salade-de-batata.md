@@ -2,12 +2,12 @@
 categories = ["comida"]
 author = ["felipe"]
 draft = true
-date = "2017-04-12T12:34:26-03:00"
+date = "2017-04-12T17:28:26-03:00"
 title = "Salada de Batata Wasabi: Unindo o oriental e o ocidental para o nosso prazer"
 totop = true
 tags = ["jantarComAmigos","receitas","bacon","porco"]
 slug = "salada-de-batata-wasabi"
-description = "Essa receita de Ombro de Porco Assado Lentamente vai impressionar. A carne fica desfiando no garfo e repleta de sabor que é absorvido durante o cozimento. Para completar, um purê de abóbora divino."
+description = "Juntando o oriental com o ocidental, o bom com o agradável e a fome com a vontade de comer. Essa receita de salada de batata com wasabi vai ser um sucesso no seu almoço ou jantar."
 banner = "/img/2017/04/wasabi-potato-salad-banner.jpg"
 thumbnail = "/img/2017/04/wasabi-potato-salad-thumb.jpg"
 images = ["/img/2017/04/wasabi-potato-salad-thumb.jpg","/img/2017/04/wasabi-potato-salad-banner.jpg"]
@@ -34,14 +34,15 @@ images = ["/img/2017/04/wasabi-potato-salad-thumb.jpg","/img/2017/04/wasabi-pota
     "6. Tempere com sal e pimenta do reino a gosto",
     "7. Deixe na geladeira até servir",]
 +++
-A salada de batata com wasabi é uma receita daquelas que parece inusitada, mas que depois que você experimenta você fica "como eu não pensei nisso antes?". Eu conheci essa receita em um dos restaurantes do Ferry Building Market em São Francisco e de cara me apaixonei. E lógico que chegando aqui resolvi fazê-la e deu certo.
+A salada de batata com wasabi (ou erva-forte, aquela bolinha de massinha verde que vem com o sushi) é uma receita daquelas que parece inusitada, mas que depois que você experimenta você fica "como eu não pensei nisso antes?".
+Eu conheci essa receita em um dos restaurantes do Ferry Building Market em São Francisco (sim, muito chique) e de cara me apaixonei. E lógico que chegando aqui resolvi fazê-la e acabou que deu certo.
 Então, vamos para a receita.
 
 ## Ingredientes
 
 - Batata Inglesa: 1,5kg a 2kg cortadas em cubos médios(Se quiser ser fit faz com a batata doce)
 - Wasabi pronto: 3 colheres de sopa (você compra ele já pronto ou compra o pozinho e mistura com água)
-- Maionese: 1 pote (sugiro que seja caseira, mas outras atendem também)
+- Maionese: 2 xícaras (sugiro que seja caseira, mas outras atendem também)
 - Salsão: talos de 1/2 unidade picada
 - Cebola Roxa: 1 unidade média picada pequena
 - Abacate: 3 avocados (que eu sugiro) ou 1 abacate normal, cortados em cubos
@@ -57,5 +58,8 @@ Então, vamos para a receita.
 6. Tempere com sal e pimenta do reino a gosto.
 7. Deixe na geladeira até o momento de servir.
 
-Essa receita fica muito boa com frutos do mar, mas também vai muito bem com carne vermelha (um rosbife então, nem se fala). Espero que vocês experimentem e, se gostarem, me contem.
+Essa receita fica muito boa com frutos do mar, mas também vai muito bem com carne vermelha (um rosbife então, nem se fala) e até com porco. Ou seja coloca com qualquer coisa que vai dar certo. Só não combina com gente que não gosta de wasabi.
+{{<quote-her "Mas eu não gosto de wasabi no sushi e adoro essa salada - Larissa">}}
+O bom dessa receita que você fala o nome e as pessoas já dizem "nossa que diferente". Então é certeiro que vai impressionar, mesmo sendo facinha de fazer.
+Espero que vocês experimentem e, se gostarem, me contem.
 {{% img-full src="/img/2017/04/wasabi-potato-salad-1.jpg" alt="Ombro de Porco Pronto" title="HUmmmmm"  height="800" width="800" %}}
