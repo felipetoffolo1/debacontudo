@@ -34,7 +34,7 @@ images = ["/img/2017/04/wasabi-potato-salad-thumb.jpg","/img/2017/04/wasabi-pota
     "6. Tempere com sal e pimenta do reino a gosto",
     "7. Deixe na geladeira até servir",]
 +++
-A salada de batata com wasabi (ou erva-forte, aquela bolinha de massinha verde que vem com o sushi) é uma receita daquelas que parece inusitada, mas que depois que você experimenta você fica "como eu não pensei nisso antes?".
+A salada de batata com wasabi (ou erva-forte, aquela bolinha de massinha verde que vem com o sushi) é uma receita daquelas que **parece inusitada**, mas que depois que você experimenta você fica "como eu não pensei nisso antes?".
 Eu conheci essa receita em um dos restaurantes do Ferry Building Market em São Francisco (sim, muito chique) e de cara me apaixonei. E lógico que chegando aqui resolvi fazê-la e acabou que deu certo.
 Então, vamos para a receita.
 
@@ -54,12 +54,13 @@ Então, vamos para a receita.
 2. Quando as batatas estiverem ficando macias, tire o papel alumínio. Asse até começar a dourar, depois retire e deixe esfriar.
 3. Pegue a cebola roxa picada e regue com limão para deixar seu sabor mais suave. Reserve.
 4. Misture a maionese e o wasabi, mas coloque aos poucos e vá experimentando para não ficar muito forte.
-5. Pegue uma tigela grande (não vai pegar uma pequena e deixar ficar tudo caindo na hora de misturar) e vai juntando tudo, batata, cebola, salsão e maionese.
+5. Pegue uma tigela **grande** (não vai pegar uma pequena e deixar ficar tudo caindo na hora de misturar) e vai juntando tudo, batata, cebola, salsão e maionese.
 6. Tempere com sal e pimenta do reino a gosto.
 7. Deixe na geladeira até o momento de servir.
 
-Essa receita fica muito boa com frutos do mar, mas também vai muito bem com carne vermelha (um rosbife então, nem se fala) e até com porco. Ou seja coloca com qualquer coisa que vai dar certo. Só não combina com gente que não gosta de wasabi.
+Essa receita fica muito boa com **frutos do mar**, mas também vai muito bem com carne vermelha (um **rosbife** então, nem se fala) e até com **porco**. Ou seja coloca com qualquer coisa que vai dar certo. Só não combina com gente que não gosta de wasabi.
 {{<quote-her "Mas eu não gosto de wasabi no sushi e adoro essa salada - Larissa">}}
-O bom dessa receita que você fala o nome e as pessoas já dizem "nossa que diferente". Então é certeiro que vai impressionar, mesmo sendo facinha de fazer.
+**O bom dessa receita que você fala o nome e as pessoas já dizem "nossa que diferente"**. Então é certeiro que vai impressionar, mesmo sendo facinha de fazer.
 Espero que vocês experimentem e, se gostarem, me contem.
+
 {{% img-full src="/img/2017/04/wasabi-potato-salad-1.jpg" alt="Ombro de Porco Pronto" title="HUmmmmm"  height="800" width="800" %}}
