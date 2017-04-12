@@ -1,7 +1,7 @@
 +++
 categories = ["comida"]
 author = ["felipe"]
-draft = true
+draft = false
 date = "2017-04-12T17:28:26-03:00"
 title = "Salada de Batata Wasabi: Unindo o oriental e o ocidental para o nosso prazer"
 totop = true
