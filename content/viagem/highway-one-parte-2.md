@@ -17,37 +17,35 @@ totop = true
 type = "Article"
 
 +++
-Oi gente, voltamos com a segunda parte da Highway 1. Esse roteiro tem coisa boa demais para caber em um post só, então dividimos em dois.
-Para quem não viu a [primeira parte acessa o link ai](/viagem/roadtrip-highway-1-parte-1/) onde contamos dos dois primeiros dias.
-Esse trecho é o que vai de San Luis Obispo até chegar em São Francisco e é a parte mais linda da viagem sem dúvidas.
-Então vamos ao roteiro da Highway 1.
+E a nossa viagem pela Highway 1 continua. Esse roteiro tem coisa boa demais para caber em um post só, então dividimos em dois.
+Para quem ainda não viu a [primeira parte, acessa o link aí](/viagem/roadtrip-highway-1-parte-1/). Detalhamos os dois primeiros dias de viagem. 
+Esse trecho é o que vai de San Luis Obispo até São Francisco e é a parte mais linda da viagem.
 
 ## Dia 3 - San Luis Obispo - Big Sur -  Carmel By The Sea - Monterey
-Partirmos de San Luis Obispo para um dos maiores trechos da viagem. Nossa destino era a linda Monterey, mas antes de chegar lá tinha muita coisa legal para ver.
-Já no início do caminho para o Big Sur, a gente avistou uma parada de observação na estrada e resolvemos parar para apreciar e tirar uma fotos. Chegando lá, sentimos um cheirinho estranho e, para nossa surpresa, encontramos um monte de leões marinhos.
+Partimos de San Luis Obispo para um dos maiores trechos da viagem. Nosso destino final era a linda Monterey, mas o caminho até lá contou com paisagens deslumbrantes.
+Já no início do caminho para o Big Sur, a gente avistou uma parada de observação na estrada e resolvemos parar para apreciar e tirar uma fotos. Chegando lá, sentimos um cheirinho estranho e, para nossa surpresa, encontramos um monte de leões marinhos. FOTO LEÕES MARINHOS
 ### Big Sur
-O Big Sur é uma trecho da Highway 1 conhecido por ser a parte com a vista mais linda dessa rota entre Los Angeles e São Francisco. O Big Sur é uma região mais montanhosa e com a estrada bem curvilínea. Então a passagem aqui é sem pressa, curtindo o visual de tirar o fôlego.
-A cada curva você acha que encontrou um lugar mais bonito que o anterior, tanto que você vai querer parar de 5 em 5 minutos.
-Existe a possibilidade de dormir em hotéis da região, inclusive um muito famoso chamado [Post Ranch Inn][3b157e32]. Mas a gente não tinha tempo nem dinheiro para isso.
-Antes de ir para o Big Sur, não esqueça de encher o tanque! Só vimos um posto lá e bem caro.
+O Big Sur é um trecho da Highway 1 conhecido por ser a parte com a vista mais linda dessa rota entre Los Angeles e São Francisco. É uma região mais montanhosa e com a estrada bem curvilínea. Vale passar por ela sem pressa, curtindo o visual que é de tirar o fôlego. A cada curva, um lugar mais bonito que o anterior. Dá vontade de parar de 5 em 5 minutos para tirar várias fotos.
+Existe a possibilidade de dormir em hotéis da região, inclusive um muito famoso chamado [Post Ranch Inn][3b157e32]. Mas a gente não tinha tempo (nem dinheiro) para isso.
+Antes de ir para o Big Sur, não esqueça de encher o tanque! Só vimos um posto por lá e era bem caro.
 {{% img-full src="/img/2017/04/highway-1-12.jpg" title="Você faz uma curva e..." height="788" width="944" %}}
 {{% img-full src="/img/2017/04/highway-1-11.jpg" title="Faz outra curva e..."  height="788" width="944" %}}
 {{% img-full src="/img/2017/04/highway-1-13.jpg"   height="788" width="944" %}}
 #### Bixby Creek Bridge
 Essa ponte é definitivamente o ponto mais famoso do Big Sur e parada obrigatória para fotos.
-Logo depois que você passar pela ponte vai ter uma espaço para estacionar e passar um tempinho ali.
+Logo depois que você passar pela ponte, vai ter uma espaço para estacionar e passar um tempinho ali.
 {{% img-full src="/img/2017/04/highway-1-wide-3.jpg"   height="520" width="2480" %}}
 ### Carmel By the Sea
-Carmel é outra cidade bem aconchegante, daquelas que te dá vontade de sentar debaixo de uma árvore e ficar vendo a vida passar. Mas infelizmente não tivemos tempo para isso. O cronograma da nossa roadtrip na California estava apertado. Então demos um passadinha e fomos para Monterey.
+Carmel é outra cidade bem aconchegante, daquelas que te dá vontade de sentar debaixo de uma árvore e ficar vendo a vida passar. Mas infelizmente não tivemos tempo para isso. O cronograma da nossa roadtrip na Califórnia estava apertado. Então demos só uma passadinha e partimos para Monterey.
 ### Monterey
-O que dizer dessa cidade que mal conhecemos e já amamos pacas? Monterey é uma cidade que respira o mar, durante muitos anos sua principal atividade econômica foi a produção de sardinha enlatada. Hoje, Monterey celebra essa conexão com o mar em sua cultura, culinária e na sua principal atração: o aquário da baía de Monterey.
+O que dizer dessa cidade que mal conhecemos e já amamos pacas? Monterey é uma cidade que respira o mar. Durante muitos anos sua principal atividade econômica foi a produção de sardinha enlatada. Hoje, Monterey celebra essa conexão com o mar em sua cultura, culinária e com a sua principal atração: o aquário da baía de Monterey.
 #### Cannery Row
-Assim que chegamos em Monterey seguimos direto para a Cannery Row. Essa é a parte da cidade em que se localizava a fábrica de sardinha enlatada. Hoje, essa charmosa rua abriga lojinhas, restaurantes e o aquário. Na Cannery Row existe um pier com vários restaurantes. Almoçamos por ali um fish and chips (para variar) e um coquetel de camarão (a preços justos). Barriga cheia, era hora de conhecer o aquário da baía de Monterey.
+Assim que chegamos em Monterey seguimos direto para a Cannery Row. Essa é a parte da cidade em que ficava uma fábrica de sardinha enlatada. Hoje, essa charmosa rua abriga lojinhas, restaurantes e o aquário. Na Cannery Row, existe um pier com vários restaurantes. Almoçamos por ali um fish and chips (para variar) e um coquetel de camarão (a preços justos). Barriga cheia, partimos para o aquário da baía de Monterey.
 {{% img-full src="/img/2017/04/highway-1-15.jpg"   height="788" width="944" %}}
 #### Monterey Bay Aquarium
-A aquário da baía de Monterey é uma ONG que tem como objetivo a educação e preservação natural. Considerado por muitos o melhor aquário do mundo, ele também é o nosso favorito.
-{{<quote-her "Curiosidade, esse aquário serviu como inspiração para o filme Procurando Dory - Larissa">}}
-Um dos diferenciais desse aquário é que ele utiliza a água da baía que flui constantemente dentro dos tanques. Isso permite que algumas espécies maritimas só sejam exibidas por lá.
+O aquário da baía de Monterey é uma ONG que tem como objetivo a educação e a preservação natural. Considerado por muitos o melhor aquário do mundo, ele também é o nosso favorito.
+{{<quote-her "Curiosidade: esse aquário serviu como inspiração para o filme Procurando Dory - Larissa">}}
+Um dos diferenciais desse aquário é que ele utiliza a água da baía que flui constantemente dentro dos tanques. Isso permite que algumas espécies marítimas só sejam exibidas por lá.
 {{% img-full src="/img/2017/04/highway-1-17.jpg"   height="788" width="944" %}}
 ##### Galeria Mar Aberto
 Entra as várias seções do aquário da baía de Monterey, a nossa favorita é a Mar Aberto. Nela você encontra o maior tanque do complexo. Você fica de frente para um paredão enorme, mas enorme mesmo, onde você vai ver cardumes impressionantes, peixes gigantescos, tartarugas marinhas e tubarões. Inclusive esse tanque chegou a ter tubarões brancos, mas por pouco tempo, já que eles não conseguem se adaptar a aquários.
@@ -56,15 +54,15 @@ Entra as várias seções do aquário da baía de Monterey, a nossa favorita é 
 Outra dica é não perder o horário de alimentação das lontras marinhas, é pura fofura.
 ### Fisherman's Wharf
 Outra visita indispensável é o Fisherman's Wharf, antigo cais dos pescadores que se tornou uma região turística. Lá  existem vários restaurantes (até melhores). Foi em um desses que experimentamos pela primeira vez um dos pratos típicos da região,  o Clam Chowder, que é um caldo de mariscos cremoso, perfeito para dias frios.
-{{<quote-him "À medida que fomos subindo a costa, o frio e o vento foram aumentando, nessa altura do campeonato estavamos empacotados já." >}}
+{{<quote-him "À medida que fomos subindo a costa, o frio e o vento foram aumentando, nessa altura do campeonato estávamos empacotados já." >}}
 ## Dia 4 - Monterey - Palo Alto - São Francisco
 Último dia de roadtrip :( Mas não sem algumas últimas aventuras.
-Antes de chegar em São Francisco, decidimos conhecer um pouco do famoso Vale do Silício, já que somos entusiastas da tecnologia (a Larissa trabalha com social media e o Felipe com desenvolvimento de software). Sendo assim, partirmos para (tentar) conhecer o Google e o Facebook.
+Antes de chegar em São Francisco, decidimos conhecer um pouco do famoso Vale do Silício, já que somos entusiastas da tecnologia (a Larissa trabalha com social media e o Felipe com desenvolvimento de software). Sendo assim, partimos para (tentar) conhecer o Google e o Facebook.
 ### Palo alto
-Jogamos as coordenadas da sede do Google no GPS e, alguns minutos depois, estávamos lá. O Googleplex é tipo um bairro todo do Google. Fomos até a praça principal e tudo era lindo, exatamente como tínhamos imaginado. Bem, pelo menos por fora. Já que foi só isso que conhecemos. Nenhum prédio do Google é aberto ao acesso público. Existem tours pra grupos, mas que precisam ser marcados com antecedência e, mesmo assim, não são fáceis. Só nos restou tirar foto com os bichinhos do Android e ir embora.
-Ficamos um tanto quanto frustrados, mas a esperança é a última que morre, e fomos tentar conhecer o Facebook. A visita ao Facebook foi diferente, lá não tinha NADA para ver. Para não dizer que não tinha nada, tinha uma placa do botãozinho 'curti'.
+Jogamos as coordenadas da sede do Google no GPS e, alguns minutos depois, estávamos lá. O Googleplex é tipo um bairro todo do Google. Fomos até a praça principal e tudo era lindo, exatamente como tínhamos imaginado. Bem, pelo menos por fora. Já que foi só isso que conhecemos. Nenhum prédio do Google possui acesso aberto ao público. Existem tours para grupos, mas que precisam ser marcados com antecedência e, mesmo assim, não são fáceis. Só nos restou tirar foto com os bichinhos do Android e ir embora.
+Ficamos um tanto quanto frustrados, mas como a esperança é a última que morre, fomos tentar conhecer o Facebook. A visita ao Facebook foi diferente, lá não tinha NADA para ver. Para não dizer que não tinha nada, tinha uma placa do botãozinho 'curtir'.
 {{<quote-her "Rodamos muita estrada para UMA fotinha. Mas valeu a pena!">}}
-Agora que já estávamos íntimos do Vale do Silício, fomos finalmente para um dos nossos destinos mais aguardados: a maravilhosa cidade de São Francisco.
+Depois da "visita" ao Vale do Silício, finalmente fomos para um dos nossos destinos mais aguardados: a maravilhosa cidade de São Francisco.
 Mas essa história fica para o próximo post. ;)
 {{% img-full src="/img/2017/04/highway-1-18.jpg"   height="788" width="944" %}}
 {{% img-full src="/img/2017/04/highway-1-19.jpg" title="Fica ai com a curtida"   height="788" width="944" %}}
