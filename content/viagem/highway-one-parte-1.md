@@ -104,7 +104,7 @@ Em breve a gente posta a segunda parte com Big Sur, Carmel By The Sea, Monterey 
 
 ### Mais sobre essa viagem
 - [Nosso Roteiro de 6 dias em Los Angeles][b4190514]
-- Segunda parte da Road Trip na Highway 1 (em breve)
+- [Road Trip pela Highway 1 - Segunda Parte: Big Sur, Carmel, Monterey e Palo Alto](/viagem/roadtrip-highway-1-parte-2/)
 
 [3596c54a]: http://www.booking.com/hotel/us/oasis-inn-amp-suites.pt-br.html?aid=311840;label=oasis-inn-amp-suites-wXPAJL1hY4QLnwK0htZPkgS161692530923%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t1%3Aneg%3Afi%3Atiaud-285284110526%3Akwd-21370427593%3Alp1001541%3Ali%3Adec%3Adm;sid=34e1caa2505acf7236fc7c922d504010;dest_id=20015794;dest_type=city;dist=0;hpos=1;room1=A%2CA;sb_price_type=total;srfid=28a7aa1e3e615de29613f3603afcd01a12e7f8ebX1;type=total;ucfs=1&#hotelTmpl "Oasis Inn and Suites"
   [b4190514]: http://debacontudo.com.br/viagem/O-Melhor-Roteiro-para-Los-Angeles/ "Nosso Roteiro de 4 dias em Los Angeles"

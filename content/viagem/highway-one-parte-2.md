@@ -101,7 +101,11 @@ Agora que já estávamos íntimos do **Vale do Silício**, fomos finalmente para
 Mas essa história fica para o próximo post. ;)
 {{% img-full src="/img/2017/04/highway-1-19.jpg" title="Fica ai com a curtida"   height="628" width="1200" %}}
 
+### Mais sobre essa viagem
+- [Nosso Roteiro de 6 dias em Los Angeles][b4190514]
+- [Road Trip pela Highway 1: Primeira Parte - Malibu, Santa Barbara, Solvang e Região Vinícola de Santa Ynez](/viagem/roadtrip-highway-1-parte-1/)
 
+[b4190514]: http://debacontudo.com.br/viagem/O-Melhor-Roteiro-para-Los-Angeles/ "Nosso Roteiro de 4 dias em Los Angeles"
 
 [3b157e32]: https://www.tripadvisor.com.br/Hotel_Review-g240329-d261216-Reviews-Post_Ranch_Inn-Big_Sur_California.html "Post Ranch Inn"
 [3596c54a]: http://www.booking.com/hotel/us/oasis-inn-amp-suites.pt-br.html?aid=311840;label=oasis-inn-amp-suites-wXPAJL1hY4QLnwK0htZPkgS161692530923%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t1%3Aneg%3Afi%3Atiaud-285284110526%3Akwd-21370427593%3Alp1001541%3Ali%3Adec%3Adm;sid=34e1caa2505acf7236fc7c922d504010;dest_id=20015794;dest_type=city;dist=0;hpos=1;room1=A%2CA;sb_price_type=total;srfid=28a7aa1e3e615de29613f3603afcd01a12e7f8ebX1;type=total;ucfs=1&#hotelTmpl "Oasis Inn and Suites"

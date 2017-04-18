@@ -34,9 +34,9 @@ images = ["/img/2017/04/wasabi-potato-salad-thumb.jpg","/img/2017/04/wasabi-pota
     "6. Tempere com sal e pimenta do reino a gosto",
     "7. Deixe na geladeira até servir",]
 +++
-A salada de batata com wasabi (ou erva-forte, aquela bolinha de massinha verde que vem com o sushi) é uma receita daquelas que **parece inusitada**, mas que depois que você experimenta você fica "como eu não pensei nisso antes?".
+A salada de batata com wasabi ou erva-forte (aquela bolinha de massinha verde que vem com o sushi) é uma receita daquelas que **parece inusitada**, mas que depois que você experimenta você fica "como eu não pensei nisso antes?".
 Eu conheci essa receita em um dos restaurantes do Ferry Building Market em São Francisco (sim, muito chique) e de cara me apaixonei. E lógico que chegando aqui resolvi fazê-la e acabou que deu certo.
-Então, vamos para a receita.
+Então, vamos para a receita de Salada de Batata com Wasabi.
 
 ## Ingredientes
 
