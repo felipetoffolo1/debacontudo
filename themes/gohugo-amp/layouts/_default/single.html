@@ -7,17 +7,54 @@
         <div id="primary" class="content-area">
           <main id="main" class="site-main" role="main">
 
-            <div class="container">
               <div class="pure-g">
                 <!-- article -->
                 <div class="pure-u-xl-4-24 pure-u-md-2-24">
 
                 </div>
+                <div class="pure-u-xl-16-24  pure-u-md-20-24 pure-u-1  site-entry">
+
+                  <div class="format-standard hentry">
+                    <div class="entry-header">
+                      <h1 class="entry-title">{{ .Params.title }}</h1>
+                      <div class="entry-meta">
+                        <span class="posted-on">
+                          <a rel="bookmark"> <time class="entry-date" datetime="2016-09-07">{{ .Date.Format "2" }} {{ .Date.Format "Jan" }}, {{ .Date.Format "2006" }}</time> </a>
+
+                        </span><!-- .posted-on -->
+
+                        {{ if .Params.categories }}
+                        {{ range .Params.categories }}
+                        <span class="entry-cat">
+                          <span class="cat-link"><a class="post-category post-category-{{ . | urlize }}" href="{{ $Site.BaseURL}}/categories/{{ . | urlize }}">{{ . }}</a></span>
+
+                        </span><!-- .entry-cat -->
+                        {{ end }}
+                        {{ end }}
+                        <span class="entry-like "><a href=""><i class="fa fa-clock-o"></i> <em>{{.ReadingTime}} <span class="reading-time">min</span></em></a></span>
+                      </div><!-- .entry-meta -->
+                    </div><!-- .entry-header -->
+                  </div>
+                </div>
+                <div class="pure-u-xl-4-24 pure-u-md-2-24">
+
+                </div>
+                <div class="pure-u-1 ">
+                    {{ if .Params.banner }}
+                    <div class="entry-featured-image">
+                      <amp-img src="{{ .Params.banner }}" layout="responsive" width="1920" height="1080" alt="{{ .Title }}"></amp-img>
+                    </div><!-- .entry-featured-image -->
+                    {{ end }}
+                </div>
+                <div class="container">
+                <div class="pure-u-xl-4-24 pure-u-md-2-24">
+
+                </div>
                 <div class="pure-u-xl-16-24  pure-u-md-20-24 pure-u-1">
                   <div class="site-entry">
-
                     <article class="post format-standard hentry">
-                      <div class="entry-header">
+
+                      <div class="entry-header hide" >
                         <h1 class="entry-title">{{ .Params.title }}</h1>
                         <div class="entry-meta">
                           <span class="posted-on">
@@ -36,13 +73,6 @@
                           <span class="entry-like "><a href=""><i class="fa fa-clock-o"></i> <em>{{.ReadingTime}} <span class="reading-time">min</span></em></a></span>
                         </div><!-- .entry-meta -->
                       </div><!-- .entry-header -->
-                      {{ if .Params.banner }}
-                      <div class="entry-featured-image">
-                        <amp-img src="{{ .Params.banner }}" layout="responsive" width="1024" height="512" alt="{{ .Title }}"></amp-img>
-                      </div><!-- .entry-featured-image -->
-                      {{ end }}
-
-
                       <div class="entry-content">
                         {{ .Content }}
 
