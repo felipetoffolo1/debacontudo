@@ -23,7 +23,7 @@
                                 <div class="pure-u-md-16-24 pure-u-1">
                                     <div class="site-entry">
 
-                                        {{ $Site := .Site }} {{ range .Data.Pages }}
+                                        {{ $Site := .Site }} {{ range (.Paginate ( .Data.Pages)).Pages }}
                                         <article class="post format-standard hentry {{if not .Prev}} first-post {{end}}">
                                             <div class="entry-featured-image">
                                                 {{if not .Prev}}
@@ -80,15 +80,9 @@
                                         </article>
                                         <!-- .post -->
                                         {{ end }}
+                                        {{ partial "navigation/pagination" . }}
 
-                                        <nav class="navigation posts-navigation" role="navigation">
-                                            <h2 class="screen-reader-text">Navegação</h2>
-                                            <div class="nav-links">
-                                                <div class="nav-previous"><a href="#">Posts Mais Antigos></a></div>
-                                                <div class="nav-next"><a href="#">Posts Mais Novos</a></div>
-                                            </div>
-                                        </nav>
-                                        <!-- .navigation -->
+
                                     </div>
                                 </div>
                                 <!-- .col-md-8 -->

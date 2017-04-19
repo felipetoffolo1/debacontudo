@@ -1,20 +1,22 @@
 {{ $pag := $.Paginator }}
 {{ if gt $pag.TotalPages 1 }}
-<nav class="pagination">
+<!-- .navigation -->
+<nav  class="navigation posts-navigation" role="navigation">
+  <h2 class="screen-reader-text">Navegação</h2>
 
-    <ul>
+      <div class="nav-links">
         {{ if $pag.HasPrev }}
-        <li><a href="{{ if $pag.HasPrev }}{{ $pag.Prev.URL }}{{ end }}" aria-label="Previous">prev</a></li>
+        <div class="nav-previous"><a href="{{ if $pag.HasPrev }}{{ $pag.Prev.URL }}{{ end }}" aria-label="Previous">Posts Mais Antigos</a></div>
         {{ end }}
 
-        {{ range $pag.Pagers }}
+        <!-- {{ range $pag.Pagers }}
         <li {{ if eq . $pag }}class="active"{{ end }}><a href="{{ .URL }}">{{ .PageNumber }}</a></li>
-        {{ end }}
+        {{ end }} -->
 
         {{ if $pag.HasNext }}
-        <li><a href="{{ if $pag.HasNext }}{{ $pag.Next.URL }}{{ end }}" aria-label="Next">next</a></li>
+        <div class="nav-next"><a href="{{ if $pag.HasNext }}{{ $pag.Next.URL }}{{ end }}" aria-label="Next">Posts Mais Novos</a></div>
         {{ end }}
-    </ul>
+  </div>
 
 </nav>
 {{ end }}
