@@ -77,6 +77,9 @@ Entra as várias seções do aquário da baía de Monterey, a nossa favorita é 
 {{% img-full src="/img/2017/04/highway-1-16.jpg" title="É lindo mas eu não consegui tirar uma foto que fizesse jus a beleza d aquário"  height="628" width="1200" %}}
 
 Outra dica é não perder o horário de alimentação das lontras marinhas, é pura fofura.
+
+{{< video-full width="1280" height="720" layout="fixed" video="ULfkXsn8LWU" >}}
+
 ### Fisherman's Wharf
 Outra visita indispensável é o **Fisherman's Wharf**, antigo cais dos pescadores que se tornou uma região turística. Lá  existem vários restaurantes (até melhores). Foi em um desses que experimentamos pela primeira vez um dos pratos típicos da região,  o Clam Chowder, que é um caldo de mariscos cremoso, perfeito para dias frios.
 
