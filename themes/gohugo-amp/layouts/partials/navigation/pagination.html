@@ -6,7 +6,7 @@
 
       <div class="nav-links">
         {{ if $pag.HasPrev }}
-        <div class="nav-previous"><a href="{{ if $pag.HasPrev }}{{ $pag.Prev.URL }}{{ end }}" aria-label="Previous">Posts Mais Antigos</a></div>
+        <div class="nav-previous"><a href="{{ if $pag.HasPrev }}{{ $pag.Prev.URL }}{{ end }}" aria-label="Previous">Anteriores</a></div>
         {{ end }}
 
         <!-- {{ range $pag.Pagers }}
@@ -14,7 +14,7 @@
         {{ end }} -->
 
         {{ if $pag.HasNext }}
-        <div class="nav-next"><a href="{{ if $pag.HasNext }}{{ $pag.Next.URL }}{{ end }}" aria-label="Next">Posts Mais Novos</a></div>
+        <div class="nav-next"><a href="{{ if $pag.HasNext }}{{ $pag.Next.URL }}{{ end }}" aria-label="Next">Próximos</a></div>
         {{ end }}
   </div>
 
