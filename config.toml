@@ -6,6 +6,7 @@ DefaultContentLanguage = "pt"
 disqusShortname = "debacontudo-com-br"
 enableRobotsTXT = true
 theme = "gohugo-amp"
+Paginate = 8
 [blackfriday]
 hrefTargetBlank = true
 [taxonomies]
