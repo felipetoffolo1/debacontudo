@@ -1,13 +1,14 @@
-+++
-title = "Quem Somos"
-draft = true
-slug= ""
-date = "2017-02-07T15:47:29"
-nodate="true"
-banner = ""
-tags = []
-categories = []
-+++
+---
+banner: ""
+categories: []
+date: 2017-02-07T15:47:29
+draft: true
+nodate: "true"
+slug: ""
+tags: []
+title: Quem Somos
+---
+
 </br>
 ## Felipe Toffolo
 {{% figure src="/img/quem-somos/felipe-toffolo.png" alt="Felipe Toffolo" class="pure-img-around-right" %}}

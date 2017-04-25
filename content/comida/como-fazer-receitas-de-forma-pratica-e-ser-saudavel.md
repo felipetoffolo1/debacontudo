@@ -1,22 +1,44 @@
-+++
-categories = ["estilo-de-vida","comida"]
-description = "Um guia para você mudar seus hábitos alimentares e ser prático durante esse processo"
-tags = ["whole30","Paleo","receitas","vida saudável","cozinha prática"]
-title = "Como fazer receitas de forma prática, ser saudável e não desistir da vida"
-totop = true
-keywords = ["comida","whole30","cozinha prática","receitas fáceis","receita prática","cozinhando","como cozinhar com praticidade","comida saudável fácil","comida saudável", "comida saudável prática"]
-banner = "/img/2017/03/receitas-praticas-banner.png"
-draft = false
-slug = "como-fazer-receitas-de-forma-pratica-ser-saudavel-e-não-desistir-da-vida"
-date = "2017-03-01T14:00:44-03:00"
-lightbox = false
-thumbnail = "/img/2017/03/receitas-praticas-thumb.png"
-images = ["/img/2017/03/receitas-praticas-thumb.png","/img/2017/03/receitas-praticas-banner.png"]
-author = ["felipe"]
-type = "article"
-[structured]
-type = "Article"
-+++
+---
+author:
+- felipe
+banner: /img/2017/03/receitas-praticas-banner.png
+categories:
+- estilo-de-vida
+- comida
+date: 2017-03-01T14:00:44-03:00
+description: Um guia para você mudar seus hábitos alimentares e ser prático durante
+  esse processo
+draft: false
+images:
+- /img/2017/03/receitas-praticas-thumb.png
+- /img/2017/03/receitas-praticas-banner.png
+keywords:
+- comida
+- whole30
+- cozinha prática
+- receitas fáceis
+- receita prática
+- cozinhando
+- como cozinhar com praticidade
+- comida saudável fácil
+- comida saudável
+- comida saudável prática
+lightbox: false
+slug: como-fazer-receitas-de-forma-pratica-ser-saudavel-e-não-desistir-da-vida
+structured:
+  type: Article
+tags:
+- whole30
+- Paleo
+- receitas
+- vida saudável
+- cozinha prática
+thumbnail: /img/2017/03/receitas-praticas-thumb.png
+title: Como fazer receitas de forma prática, ser saudável e não desistir da vida
+totop: true
+type: article
+---
+
 Tem um quesito em que o Junk Food é imbatível: praticidade. Realmente nada é mais prático do que abrir um saco de batatas chips ou pedir uma pizza. E esse acaba sendo um dos grandes empecilhos de quem quer comer de forma saudável. É comum pensarmos "vai dar muito trabalho" ou "se tivesse alguém para fazer para mim eu comeria". Bem, chegou a hora de  darmos um jeito nisso. Vou te revelar os meus segredos para comer bem, sem me matar na cozinha todos os dias.
 
 ## Tenha calma

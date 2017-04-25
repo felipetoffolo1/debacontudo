@@ -1,20 +1,41 @@
-+++
-author = ["felipe"]
-banner = "/img/2017/02/fritada-de-batata-doce-banner.png"
-thumbnail = "/img/2017/02/fritada-de-batata-doce-thumb.png"
-images = ["/img/2017/02/fritada-de-batata-doce-thumb.png","/img/2017/02/fritada-de-batata-doce-banner.png"]
-description = "Aprenda a fazer uma receita prática, saudável, versátil além de deliciosa de fritada de batata-doce"
-date = "2017-02-25T13:25:19-03:00"
-totop = true
-draft = false
-lightbox = false
-tags = ["receitas","comidas","whole30","paleo","receita pratica"]
-slug = "fritada_de_batata_doce_pratica_saudavel_versátil_deliciosa"
-title = "Fritada de Batata Doce - Prática, saudável, versátil e deliciosa"
-keywords = ["fritada de batata-doce", "batata doce", "fritada","whole30","paleo","saudavel","natural","prática","fácil","receita fritada whole30","receita café da manhã whole30","receita café da manhã paleo"]
-categories = ["comida"]
-
-+++
+---
+author:
+- felipe
+banner: /img/2017/02/fritada-de-batata-doce-banner.png
+categories:
+- comida
+date: 2017-02-25T13:25:19-03:00
+description: Aprenda a fazer uma receita prática, saudável, versátil além de deliciosa
+  de fritada de batata-doce
+draft: false
+images:
+- /img/2017/02/fritada-de-batata-doce-thumb.png
+- /img/2017/02/fritada-de-batata-doce-banner.png
+keywords:
+- fritada de batata-doce
+- batata doce
+- fritada
+- whole30
+- paleo
+- saudavel
+- natural
+- prática
+- fácil
+- receita fritada whole30
+- receita café da manhã whole30
+- receita café da manhã paleo
+lightbox: false
+slug: fritada_de_batata_doce_pratica_saudavel_versátil_deliciosa
+tags:
+- receitas
+- comidas
+- whole30
+- paleo
+- receita pratica
+thumbnail: /img/2017/02/fritada-de-batata-doce-thumb.png
+title: Fritada de Batata Doce - Prática, saudável, versátil e deliciosa
+totop: true
+---
 
 Essa é uma daquelas receitas que você não dá o peixe, mas ensina a pescar.
 Então vou ensinar a receita básica e depois falo um pouco sobre variações e dicas de preparo.

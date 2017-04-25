@@ -1,17 +1,36 @@
-+++
-title = "O Desafio do Whole30 - Onde vive? O que come?"
-description = "Conheça a dieta Whole30. Como fazer, seus beneficios, dicas e a nossa experiência."
-date = "2017-02-10T12:46:59"
-author = ["felipe"]
-banner = "/img/2017/02/Whole30.png"
-images = ["/img/2017/02/whole30-thumb.png"]
-thumbnail = "/img/2017/02/whole30-thumb.png"
-tags = ["Dieta","Malhação","Saudável"]
-keywords = ["whole30", "dieta", "paleo","nutricao","saudavel","alimentacao","vida saudavel", "dicas whole30"," dieta whole30", "whole como fazer" ]
-categories = ["estilo-de-vida","comida"]
-[structured]
-type = "Article"
-+++
+---
+author:
+- felipe
+banner: /img/2017/02/Whole30.png
+categories:
+- estilo-de-vida
+- comida
+date: 2017-02-10T12:46:59
+description: Conheça a dieta Whole30. Como fazer, seus beneficios, dicas e a nossa
+  experiência.
+images:
+- /img/2017/02/whole30-thumb.png
+keywords:
+- whole30
+- dieta
+- paleo
+- nutricao
+- saudavel
+- alimentacao
+- vida saudavel
+- dicas whole30
+- ' dieta whole30'
+- whole como fazer
+structured:
+  type: Article
+tags:
+- Dieta
+- Malhação
+- Saudável
+thumbnail: /img/2017/02/whole30-thumb.png
+title: O Desafio do Whole30 - Onde vive? O que come?
+---
+
 ## Em busca da saúde perfeita
 
 Hoje todos nós (ou quase todos) buscamos ter uma vida mais saudável, sem que tudo pareça sem graça.

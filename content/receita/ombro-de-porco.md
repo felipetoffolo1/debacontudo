@@ -1,44 +1,65 @@
-+++
-categories = ["comida"]
-author = ["felipe"]
-draft = false
-date = "2017-03-22T12:34:26-03:00"
-title = "Jantar: Ombro de Porco Assado Lentamente com Purê de Abóbora"
-totop = true
-tags = ["jantarComAmigos","receitas","bacon","porco"]
-slug = "ombro-de-porco-assado-lentamente-com-pure"
-description = "Essa receita de Ombro de Porco Assado Lentamente vai impressionar. A carne fica desfiando no garfo e repleta de sabor que é absorvido durante o cozimento. Para completar, um purê de abóbora divino."
-banner = "/img/2017/03/ombro-de-porco-banner.jpg"
-thumbnail = "/img/2017/03/ombro-de-porco-thumb.jpg"
-images = ["/img/2017/03/ombro-de-porco-thumb.jpg","/img/2017/03/ombro-de-porco-banner.jpg"]
-[structured]
-    type = "Recipe"
-[recipe]
-    category = "prato principal"
-    prepTime = "PT1H"
-    totalTime = "PT6H"
-    recipeYield = "8"
-    ingredients = [ "Ombro/Paleta de porcocom a pele: 1 peça (cerca de 5kg)",
-                    "Alho: 11 dentes",
-                    "Páprica defumada (se gostar de pimenta, use a picante): 6 colheres de sopa",
-                    "Açúcar mascavo: 4 colheres de sopa",
-                    "Tomilho: 1 ramo",
-                    "Bourbon (pode ser whisky ou até uma cachaça mais amadeirada): 4 colheres",
-                    "Pimenta jamaicana: 1/2 colher de sopa (se não tiver, use pimenta do reino)",
-                    "Fumaça líquida: 2 colheres de sopa (opcional)",
-                    "Azeite" ]
+---
+author:
+- felipe
+banner: /img/2017/03/ombro-de-porco-banner.jpg
+categories:
+- comida
+date: 2017-03-22T12:34:26-03:00
+description: Essa receita de Ombro de Porco Assado Lentamente vai impressionar. A
+  carne fica desfiando no garfo e repleta de sabor que é absorvido durante o cozimento.
+  Para completar, um purê de abóbora divino.
+draft: false
+images:
+- /img/2017/03/ombro-de-porco-thumb.jpg
+- /img/2017/03/ombro-de-porco-banner.jpg
+recipe:
+  category: prato principal
+  ingredients:
+  - 'Ombro/Paleta de porcocom a pele: 1 peça (cerca de 5kg)'
+  - 'Alho: 11 dentes'
+  - 'Páprica defumada (se gostar de pimenta, use a picante): 6 colheres de sopa'
+  - 'Açúcar mascavo: 4 colheres de sopa'
+  - 'Tomilho: 1 ramo'
+  - 'Bourbon (pode ser whisky ou até uma cachaça mais amadeirada): 4 colheres'
+  - 'Pimenta jamaicana: 1/2 colher de sopa (se não tiver, use pimenta do reino)'
+  - 'Fumaça líquida: 2 colheres de sopa (opcional)'
+  - Azeite
+  instructions:
+  - 1. Pegue a peça de ombro e faça cortes em xadrez, cortando a pele. Tome cuidado
+    para não cortar a carne. Corte somente a pele.
+  - 2. Amasse o alho e, em uma tigela, junte com páprica, açúcar, sal, bourbon, pimenta
+    jamaicana, metade das folhas do tomilho e fumaça líquida. Adicione azeite para
+    ajudar a formar uma pasta.
+  - 3. Esfregue a pasta por toda a peça, sem deixar nenhuma parte para trás.
+  - 4. Deixe na geladeira de uma noite para a outra (no mínimo). Se puder deixar mais,
+    melhor.
+  - 5. Pré-aqueça o forno a 250 graus.
+  - 6. Coloque a peça no forno por cerca de 40 minutos, até que a pele esteja bem
+    crocante.
+  - 7. Quando a pele estiver crocante, tire do forno e tampe com uma camada dupla
+    de papel alumínio ou plástico para assar.
+  - 8. Diminua o forno para 140 graus, e coloque a peça de volta.
+  - 9. Deixe assar por algo entre 4 e 5 horas. O ponto correto é quando a carne estiver
+    desfiando, soltando com o garfo.
+  - 10. Deixe mais uns 15 minutos no forno, sem cobrir, só pra dar mais uma corzinha.
+    Se seu forno tiver a opção grill, use! Só fique de olho para não queimar a pele
+    demais.
+  prepTime: PT1H
+  recipeYield: "8"
+  totalTime: PT6H
+slug: ombro-de-porco-assado-lentamente-com-pure
+structured:
+  type: Recipe
+tags:
+- jantarComAmigos
+- receitas
+- bacon
+- porco
+thumbnail: /img/2017/03/ombro-de-porco-thumb.jpg
+title: 'Jantar: Ombro de Porco Assado Lentamente com Purê de Abóbora'
+totop: true
+---
 
-    instructions = ["1. Pegue a peça de ombro e faça cortes em xadrez, cortando a pele. Tome cuidado para não cortar a carne. Corte somente a pele.",
-                    "2. Amasse o alho e, em uma tigela, junte com páprica, açúcar, sal, bourbon, pimenta jamaicana, metade das folhas do tomilho e fumaça líquida. Adicione azeite para ajudar a formar uma pasta.",
-                    "3. Esfregue a pasta por toda a peça, sem deixar nenhuma parte para trás.",
-                    "4. Deixe na geladeira de uma noite para a outra (no mínimo). Se puder deixar mais, melhor.",
-                    "5. Pré-aqueça o forno a 250 graus.",
-                    "6. Coloque a peça no forno por cerca de 40 minutos, até que a pele esteja bem crocante.",
-                    "7. Quando a pele estiver crocante, tire do forno e tampe com uma camada dupla de papel alumínio ou plástico para assar.",
-                    "8. Diminua o forno para 140 graus, e coloque a peça de volta.",
-                    "9. Deixe assar por algo entre 4 e 5 horas. O ponto correto é quando a carne estiver desfiando, soltando com o garfo.",
-                    "10. Deixe mais uns 15 minutos no forno, sem cobrir, só pra dar mais uma corzinha. Se seu forno tiver a opção grill, use! Só fique de olho para não queimar a pele demais."]
-+++
 Nada como cozinhar para os amigos, principalmente se no final a gente vê a galera raspando o patro e enchendo de elogios.
 Essa receita que vou ensinar é feita com ombro de porco, também conhecido como paleta. Essa carne é ideal para ser assada devagar e por muito tempo. Isso vai permitir que ela pegue muito sabor e, ao mesmo tempo, fique desfiando.
 Para acompanhar, um purê de abóbora com um toque de queijo e bacon.

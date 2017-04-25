@@ -1,20 +1,30 @@
-+++
-title = "8 motivos e meio para assistir Vikings"
-date = "2017-03-28T12:00:17-03:00"
-slug="oito-motivos-e-meio-para-assistir-vikings"
-description = "Vikings é uma série de aventura épica com muita ação e emoção. A trama é muito bem traçada gerando vários motivos para assistir Vikings, aqui vão alguns deles."
-author = ["felipe"]
-draft = false
-tags = ["Seriados","Listas"]
-thumbnail = "/img/2017/03/motivos-vikings-thumb.jpg"
-banner = "/img/2017/03/motivos-vikings-banner.jpg"
-images = ["/img/2017/03/motivos-vikings-thumb.jpg","/img/2017/03/motivos-vikings-banner.jpg"]
-categories = ["pop-culture"]
-summary ="Eu sei que Vikings já está aí faz um tempo, mas nem todo mundo viu ainda.Além disso, eu adoro a série e não tinha o blog na época que começou. Então, vamos listar os melhores motivos para você assistir ao seriado Vikings."
-[structured]
-type = "Article"
+---
+author:
+- felipe
+banner: /img/2017/03/motivos-vikings-banner.jpg
+categories:
+- pop-culture
+date: 2017-03-28T12:00:17-03:00
+description: Vikings é uma série de aventura épica com muita ação e emoção. A trama
+  é muito bem traçada gerando vários motivos para assistir Vikings, aqui vão alguns
+  deles.
+draft: false
+images:
+- /img/2017/03/motivos-vikings-thumb.jpg
+- /img/2017/03/motivos-vikings-banner.jpg
+slug: oito-motivos-e-meio-para-assistir-vikings
+structured:
+  type: Article
+summary: Eu sei que Vikings já está aí faz um tempo, mas nem todo mundo viu ainda.Além
+  disso, eu adoro a série e não tinha o blog na época que começou. Então, vamos listar
+  os melhores motivos para você assistir ao seriado Vikings.
+tags:
+- Seriados
+- Listas
+thumbnail: /img/2017/03/motivos-vikings-thumb.jpg
+title: 8 motivos e meio para assistir Vikings
+---
 
-+++
 {{< imdb tt2306299 >}}
 
 Eu sei que Vikings já está aí faz um tempo, mas nem todo mundo viu ainda.

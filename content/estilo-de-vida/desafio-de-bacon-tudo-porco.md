@@ -1,19 +1,18 @@
-+++
-images = []
-banner = ""
-description = ""
-date = "2017-03-20T19:09:00-03:00"
-categories = []
-totop = true
-lightbox = false
-tags = []
-draft = true
-slug = ""
-title = "desafio de bacon tudo - porco"
-author = ""
-keywords = []
-
-+++
+---
+author: ""
+banner: ""
+categories: []
+date: 2017-03-20T19:09:00-03:00
+description: ""
+draft: true
+images: []
+keywords: []
+lightbox: false
+slug: ""
+tags: []
+title: desafio de bacon tudo - porco
+totop: true
+---
 
 Por sorte, ou talvez não seja só sorte, temos vários amigos que gostam de cozinhar.
 Uma noite dessas enquanto bebericavamos em um bar, estavamos sobre cozinhar e percebemos que tinhamoa vários "chefs" na mesa. Nessa hora resolvemos colocar a habilidade de todas a prova.

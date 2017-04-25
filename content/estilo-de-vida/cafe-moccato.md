@@ -1,22 +1,39 @@
-+++
-author = ["larissa"]
-banner = "/img/2017/02/cafe-moccato-banner.png"
-images = ["/img/2017/02/cafe-moccato-thumb.png"]
-thumbnail = "/img/2017/02/cafe-moccato-thumb.png"
-description = "Conheça o clube de café Moccato: café fresco em cápsula na sua casa."
-date = "2017-03-04T17:25:19-03:00"
-totop = true
-notoc = true
-draft = false
-tags = ["review","cafe"]
-slug = "moccato-um-clube-para-verdadeiros-amantes-do-cafes"
-title = "Moccato: um clube para verdadeiros amantes do café"
-keywords = ["clube de café","moccato","amantes do café","praticidade","cafe fresco","café em cápsula","café premium","sabores únicos","moccato","capsula nespresso","capsula alternativa"]
-categories = ["estilo-de-vida","comida"]
-[structured]
-type = "Article"
+---
+author:
+- larissa
+banner: /img/2017/02/cafe-moccato-banner.png
+categories:
+- estilo-de-vida
+- comida
+date: 2017-03-04T17:25:19-03:00
+description: 'Conheça o clube de café Moccato: café fresco em cápsula na sua casa.'
+draft: false
+images:
+- /img/2017/02/cafe-moccato-thumb.png
+keywords:
+- clube de café
+- moccato
+- amantes do café
+- praticidade
+- cafe fresco
+- café em cápsula
+- café premium
+- sabores únicos
+- moccato
+- capsula nespresso
+- capsula alternativa
+notoc: true
+slug: moccato-um-clube-para-verdadeiros-amantes-do-cafes
+structured:
+  type: Article
+tags:
+- review
+- cafe
+thumbnail: /img/2017/02/cafe-moccato-thumb.png
+title: 'Moccato: um clube para verdadeiros amantes do café'
+totop: true
+---
 
-+++
 {{<
     img-around-right src="/img/2017/02/clube-cafe-moccato.jpeg"
     height="500"

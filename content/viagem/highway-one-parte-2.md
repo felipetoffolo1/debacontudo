@@ -1,22 +1,43 @@
-+++
-title = "Road Trip pela Highway 1 - Segunda Parte: Big Sur, Carmel, Monterey e Palo Alto"
-draft = false
-description = "Acompanhe o nosso roteiro de road trip pela Highway 1. Nesse trecho passamos pelo Big Sur, Carmel by The Sea, Monterey, Google e Facebook"
-slug = "highway-1-parte-2"
-date = "2017-04-17T18:00:47-02:00"
-tags = ["viagens","california","usa"]
-keywords = ["viagens","california","usa","los angeles","roteiro los angeles", "los angeles o que fazer","turismo", "pontos de interesse","guia los angeles","o que fazer", "são francisco","6 dias"]
-categories = ["viagem"]
-author = ["felipe"]
-banner = "/img/2017/04/highway-1-banner.jpg"
-thumbnail = "/img/2017/04/highway-1-thumb.jpg"
-images = ["/img/2017/04/highway-1-banner.jpg","/img/2017/04/highway-1-thumb.jpg"]
-lightbox = true
-totop = true
-[structured]
-type = "Article"
+---
+author:
+- felipe
+banner: /img/2017/04/highway-1-banner.jpg
+categories:
+- viagem
+date: 2017-04-17T18:00:47-02:00
+description: Acompanhe o nosso roteiro de road trip pela Highway 1. Nesse trecho passamos
+  pelo Big Sur, Carmel by The Sea, Monterey, Google e Facebook
+draft: false
+images:
+- /img/2017/04/highway-1-banner.jpg
+- /img/2017/04/highway-1-thumb.jpg
+keywords:
+- viagens
+- california
+- usa
+- los angeles
+- roteiro los angeles
+- los angeles o que fazer
+- turismo
+- pontos de interesse
+- guia los angeles
+- o que fazer
+- são francisco
+- 6 dias
+lightbox: true
+slug: highway-1-parte-2
+structured:
+  type: Article
+tags:
+- viagens
+- california
+- usa
+thumbnail: /img/2017/04/highway-1-thumb.jpg
+title: 'Road Trip pela Highway 1 - Segunda Parte: Big Sur, Carmel, Monterey e Palo
+  Alto'
+totop: true
+---
 
-+++
 E a nossa viagem pela **Highway 1** continua. Esse roteiro tem coisa boa demais para caber em um post só, então dividimos em dois.
 Para quem ainda não viu a [primeira parte, acessa o link aí](/viagem/roadtrip-highway-1-parte-1/). Detalhamos os dois primeiros dias de viagem.
 Esse trecho é o que vai de San Luis Obispo até **São Francisco** e é a parte mais linda da viagem.

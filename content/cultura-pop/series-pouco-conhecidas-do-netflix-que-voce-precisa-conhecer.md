@@ -1,19 +1,46 @@
-+++
-title = "10 Séries pouco conhecidas no Netflix que você precisa conhecer"
-description = "Você já se pegou procurando alguma série legal para ver no Netflix, mas não sabia qual? Bem, aqui estão algumas séries que você precisa conhecer no Netflix"
-slug = "10-series-pouco-conhecidas-no-netflix-que-voce-precisa-conhecer"
-author = ["felipe"]
-keywords = ["netflix","series pouco conhecidas", "review" ,"critica","melhores series netflix","boas series netflix", "o que assitir no netflix", "the killing","luther","justified","orphan black","ray donavan","master of none","arrested development","izombie","love"]
-draft = false
-date = "2017-03-09T12:12:26-03:00"
-tags = ["Seriados","Listas"]
-thumbnail = "/img/2017/03/series-pouco-conhecidas-thumb.png"
-banner = "/img/2017/03/series-pouco-conhecidas-banner.png"
-images = ["/img/2017/03/series-pouco-conhecidas-thumb.png","/img/2017/03/series-pouco-conhecidas-banner.png","/img/2017/03/series-pouco-netflix-1.png","/img/2017/03/series-pouco-netflix-2.png","/img/2017/03/series-pouco-netflix-3.png"]
-categories = ["pop-culture"]
-[structured]
-type = "Article"
-+++
+---
+author:
+- felipe
+banner: /img/2017/03/series-pouco-conhecidas-banner.png
+categories:
+- pop-culture
+date: 2017-03-09T12:12:26-03:00
+description: Você já se pegou procurando alguma série legal para ver no Netflix, mas
+  não sabia qual? Bem, aqui estão algumas séries que você precisa conhecer no Netflix
+draft: false
+images:
+- /img/2017/03/series-pouco-conhecidas-thumb.png
+- /img/2017/03/series-pouco-conhecidas-banner.png
+- /img/2017/03/series-pouco-netflix-1.png
+- /img/2017/03/series-pouco-netflix-2.png
+- /img/2017/03/series-pouco-netflix-3.png
+keywords:
+- netflix
+- series pouco conhecidas
+- review
+- critica
+- melhores series netflix
+- boas series netflix
+- o que assitir no netflix
+- the killing
+- luther
+- justified
+- orphan black
+- ray donavan
+- master of none
+- arrested development
+- izombie
+- love
+slug: 10-series-pouco-conhecidas-no-netflix-que-voce-precisa-conhecer
+structured:
+  type: Article
+tags:
+- Seriados
+- Listas
+thumbnail: /img/2017/03/series-pouco-conhecidas-thumb.png
+title: 10 Séries pouco conhecidas no Netflix que você precisa conhecer
+---
+
 Tem várias séries que eu assisto no Netflix e que direto eu quero comentar com alguém e ninguém, além da gente, conhece (frustração). Como não tive tempo de encomendar a **pesquisa do IBGE**, esse é o meu critério para séries pouco conhecidas. Então, para que um dia a gente possa conversar sobre esses seriados (vai que né), fiz uma lista de séries pouco conhecidas no Netflix e listei alguns motivos para você conhecê-las.
 
 ## Suspense / Policial

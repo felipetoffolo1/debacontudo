@@ -1,18 +1,31 @@
-+++
-date = "2017-02-07T16:47:53-02:00"
-title = "De Bacon Tudo"
-notitle = true
-author = ["felipe"]
-thumbnail = "/img/2017/02/card-de-bacon-tudo.png"
-description = "Saiba mais sobre o que será o blog De Bacon Tudo"
-banner = "/img/2017/02/De Bacon Tudo.png"
-tags = ["outros"]
-images = ["/img/2017/02/De Bacon Tudo.png"]
-categories = ["Quem Somos"]
-keywords = ["blog","variedades","viagens","seriados","receitas","gourmet","pop-culture","cultura pop"]
-[structured]
-type = "Article"
-+++
+---
+author:
+- felipe
+banner: /img/2017/02/De Bacon Tudo.png
+categories:
+- Quem Somos
+date: 2017-02-07T16:47:53-02:00
+description: Saiba mais sobre o que será o blog De Bacon Tudo
+images:
+- /img/2017/02/De Bacon Tudo.png
+keywords:
+- blog
+- variedades
+- viagens
+- seriados
+- receitas
+- gourmet
+- pop-culture
+- cultura pop
+notitle: true
+structured:
+  type: Article
+tags:
+- outros
+thumbnail: /img/2017/02/card-de-bacon-tudo.png
+title: De Bacon Tudo
+---
+
 Bem-vindo a esse blog sobre nada. Obviamente você já entendeu que o nosso nada é tudo. Mas por que isso? Vamos começar explicando do começo. Esse blog pertence a nós e nós somos um casal, basicamente um casal como outro qualquer, quer dizer, não um qualquer, digamos que somos um casal legal.
 
 <!--more-->

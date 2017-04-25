@@ -1,21 +1,26 @@
-+++
-author = ["felipe"]
-banner = "/img/2017/04/pedido-de-casamento-banner.jpg"
-images = ["/img/2017/04/pedido-de-casamento-thumb.jpg,/img/2017/04/pedido-de-casamento-banner.jpg"]
-thumbnail = "/img/2017/04/pedido-de-casamento-thumb.jpg"
-description = "Saiba como foi o nosso pedido de casamento a 1 ano atrás de uma forma bem diferente assim como a gente."
-date = "2017-04-10T19:25:19-03:00"
-totop = true
-notoc = true
-draft = false
-tags = ["casamento","estilo-de-vida"]
-slug = "pedido-de-noivado-montanha-russa"
-title = "Um pedido de casamento pra lá de inusitado"
-categories = ["estilo-de-vida"]
-[structured]
-type = "Article"
-
-+++
+---
+author:
+- felipe
+banner: /img/2017/04/pedido-de-casamento-banner.jpg
+categories:
+- estilo-de-vida
+date: 2017-04-10T19:25:19-03:00
+description: Saiba como foi o nosso pedido de casamento a 1 ano atrás de uma forma
+  bem diferente assim como a gente.
+draft: false
+images:
+- /img/2017/04/pedido-de-casamento-thumb.jpg,/img/2017/04/pedido-de-casamento-banner.jpg
+notoc: true
+slug: pedido-de-noivado-montanha-russa
+structured:
+  type: Article
+tags:
+- casamento
+- estilo-de-vida
+thumbnail: /img/2017/04/pedido-de-casamento-thumb.jpg
+title: Um pedido de casamento pra lá de inusitado
+totop: true
+---
 
 Hoje faz um ano de uma parte importante da história desse casal De Bacon Tudo, o dia em que pedi a Larissa em casamento. Na verdade eu e a Larissa já tínhamos decidido que iríamos nos casar (já tinha até cerimonialista contratado), mas eu ainda não tinha feito um pedido bonitinho e nem trocado alianças.
 Na época, estávamos com viagem marcada com parte da nossa família para Orlando, e óbvio que eu enxerguei uma oportunidade. Sou uma pessoa que gosta de tudo diferente (diferente até demais), quem me conhece sabe bem disso. E o meu pedido não poderia deixar de ser diferente.

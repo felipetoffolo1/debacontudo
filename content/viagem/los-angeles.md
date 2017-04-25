@@ -1,22 +1,43 @@
-+++
-title = "Viagem para Califórnia: O Melhor Roteiro para Los Angeles"
-draft = false
-description = "O guia definitivo para Los Angeles - Califórnia. Conheça o nosso roteiro para Los Angeles. Veja dicas, passeios, praias, lugares para se divertir e aproveite ao máximo cidade dos anjos."
-slug = "O-Melhor-Roteiro-para-Los-Angeles"
-date = "2017-02-20T21:00:47-02:00"
-tags = ["viagens","california","usa"]
-keywords = ["viagens","california","usa","los angeles","roteiro los angeles", "los angeles o que fazer","turismo", "pontos de interesse","guia los angeles","o que fazer", "são francisco","6 dias"]
-categories = ["viagem"]
-author = ["felipe","larissa"]
-banner = "/img/2017/02/los-angeles-banner.png"
-thumbnail = "/img/2017/02/los-angeles-thumb.png"
-images = ["/img/2017/02/los-angeles-thumb.png","/img/2017/02/los-angeles-banner.png"]
-lightbox = true
-totop = true
-[structured]
-type = "Article"
-
-+++
+---
+author:
+- felipe
+- larissa
+banner: /img/2017/02/los-angeles-banner.png
+categories:
+- viagem
+date: 2017-02-20T21:00:47-02:00
+description: O guia definitivo para Los Angeles - Califórnia. Conheça o nosso roteiro
+  para Los Angeles. Veja dicas, passeios, praias, lugares para se divertir e aproveite
+  ao máximo cidade dos anjos.
+draft: false
+images:
+- /img/2017/02/los-angeles-thumb.png
+- /img/2017/02/los-angeles-banner.png
+keywords:
+- viagens
+- california
+- usa
+- los angeles
+- roteiro los angeles
+- los angeles o que fazer
+- turismo
+- pontos de interesse
+- guia los angeles
+- o que fazer
+- são francisco
+- 6 dias
+lightbox: true
+slug: O-Melhor-Roteiro-para-Los-Angeles
+structured:
+  type: Article
+tags:
+- viagens
+- california
+- usa
+thumbnail: /img/2017/02/los-angeles-thumb.png
+title: 'Viagem para Califórnia: O Melhor Roteiro para Los Angeles'
+totop: true
+---
 
 ## "Garota eu vou pra Califórnia..."
 

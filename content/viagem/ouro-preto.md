@@ -1,21 +1,58 @@
-+++
-date = "2017-03-18T14:18:59-03:00"
-draft = false
-title = "Ouro Preto: O guia definitivo para conhecer o melhor dessa cidade histórica"
-description = "Um guia para você conhecer Ouro Preto, uma cidade mágica. Descubra o que fazer em Ouro Preto. A cidade é Patrimônio cultural da humanidade, berço da inconfidência mineira e ex-capital de Minas Gerais. Com um centro histórico maravilhoso e único, Ouro Preto oferece uma viagem no tempo."
-slug = "ouro-preto-o-guia-definitivo"
-tags = ["viagens","Minas Gerais","Brasil"]
-keywords = ["viagens","turismo", "pontos de interesse","o que fazer","guia de viagem","ouro preto","melhor de ouro preto","vila rica","praça tiradentes","museu da inconfidencia","igrejas ouro preto","conhecer ouro preto","igreja do pilar","igreja são francisco de assis"]
-categories = ["viagem"]
-author = ["felipe"]
-banner = "/img/2017/03/ouropreto-banner.png"
-thumbnail = "/img/2017/03/ouropreto-thumb.png"
-images = ["/img/2017/03/ouropreto-thumb.png", "/img/2017/03/ouropreto-6.png", "/img/2017/03/ouropreto-1.png", "/img/2017/03/ouropreto-2.png","/img/2017/03/ouropreto-3.png", "/img/2017/03/ouropreto-4.png", "/img/2017/03/ouropreto-5.png", "/img/2017/03/ouropreto-6.png", "/img/2017/03/ouropreto-7.png", "/img/2017/03/ouropreto-8.png", "/img/2017/03/ouropreto-9.png", "/img/2017/03/ouropreto-10.png", "/img/2017/03/ouropreto-11.png", "/img/2017/03/ouropreto-12.png", "/img/2017/03/ouropreto-13.png", "/img/2017/03/ouropreto-14.png"]
-totop = true
-[structured]
-type = "Article"
-
-+++
+---
+author:
+- felipe
+banner: /img/2017/03/ouropreto-banner.png
+categories:
+- viagem
+date: 2017-03-18T14:18:59-03:00
+description: Um guia para você conhecer Ouro Preto, uma cidade mágica. Descubra o
+  que fazer em Ouro Preto. A cidade é Patrimônio cultural da humanidade, berço da
+  inconfidência mineira e ex-capital de Minas Gerais. Com um centro histórico maravilhoso
+  e único, Ouro Preto oferece uma viagem no tempo.
+draft: false
+images:
+- /img/2017/03/ouropreto-thumb.png
+- /img/2017/03/ouropreto-6.png
+- /img/2017/03/ouropreto-1.png
+- /img/2017/03/ouropreto-2.png
+- /img/2017/03/ouropreto-3.png
+- /img/2017/03/ouropreto-4.png
+- /img/2017/03/ouropreto-5.png
+- /img/2017/03/ouropreto-6.png
+- /img/2017/03/ouropreto-7.png
+- /img/2017/03/ouropreto-8.png
+- /img/2017/03/ouropreto-9.png
+- /img/2017/03/ouropreto-10.png
+- /img/2017/03/ouropreto-11.png
+- /img/2017/03/ouropreto-12.png
+- /img/2017/03/ouropreto-13.png
+- /img/2017/03/ouropreto-14.png
+keywords:
+- viagens
+- turismo
+- pontos de interesse
+- o que fazer
+- guia de viagem
+- ouro preto
+- melhor de ouro preto
+- vila rica
+- praça tiradentes
+- museu da inconfidencia
+- igrejas ouro preto
+- conhecer ouro preto
+- igreja do pilar
+- igreja são francisco de assis
+slug: ouro-preto-o-guia-definitivo
+structured:
+  type: Article
+tags:
+- viagens
+- Minas Gerais
+- Brasil
+thumbnail: /img/2017/03/ouropreto-thumb.png
+title: 'Ouro Preto: O guia definitivo para conhecer o melhor dessa cidade histórica'
+totop: true
+---
 
 Ouro Preto é uma cidade única e que merece ser conhecida por todos. A cidade é Patrimônio cultural da humanidade, berço da inconfidência mineira e ex-capital de Minas Gerais. Com um centro histórico maravilhoso e único, Ouro Preto oferece uma viagem no tempo. É rica (inclusive seu nome original era Vila Rica), não mais tanto em ouro, mas em cultura e belezas arquitetônicas e naturais. A cidade tem inúmeros museus e igrejas que guardam um acervo esplêndido que vão te impressionar e, às vezes, até emocionar. Não faltam motivos para **conhecer Ouro Preto**.
 

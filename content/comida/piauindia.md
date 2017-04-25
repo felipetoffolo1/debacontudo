@@ -1,21 +1,42 @@
-+++
-categories = ["estilo-de-vida","comida"]
-description = "Veja alguns motivos para você conhecer o Piauíndia, um charmoso e aconchegante restaurante em Brasília "
-tags = ["Restaurantes", "Brasília", "Review"]
-title = "Piauíndia: comida indiana com um toque brasileiro"
-totop = true
-keywords = ["piauíndia", "restaurante indiano","brasília", "restaurante brasília", "onde comer em brasília", "review restaurante", "dicas de restaurante", "comida indiana", "piauíndia brasília","comida bsb"]
-banner = "/img/2017/03/piauindia-banner.png"
-draft = false
-slug = "piauindia-comida-indiana-com-um toque-brasileiro"
-date = "2017-03-15T20:53:44-03:00"
-thumbnail = "/img/2017/03/piauindia-thumb.png"
-images = ["/img/2017/03/piauindia-1.png", "/img/2017/03/piauindia-2.png", "/img/2017/03/piauindia-3.png", "/img/2017/03/piauindia-4.png", "/img/2017/03/piauindia-5.png"]
-author = ["larissa"]
-[structured]
-type = "Article"
-+++
-
+---
+author:
+- larissa
+banner: /img/2017/03/piauindia-banner.png
+categories:
+- estilo-de-vida
+- comida
+date: 2017-03-15T20:53:44-03:00
+description: 'Veja alguns motivos para você conhecer o Piauíndia, um charmoso e aconchegante
+  restaurante em Brasília '
+draft: false
+images:
+- /img/2017/03/piauindia-1.png
+- /img/2017/03/piauindia-2.png
+- /img/2017/03/piauindia-3.png
+- /img/2017/03/piauindia-4.png
+- /img/2017/03/piauindia-5.png
+keywords:
+- piauíndia
+- restaurante indiano
+- brasília
+- restaurante brasília
+- onde comer em brasília
+- review restaurante
+- dicas de restaurante
+- comida indiana
+- piauíndia brasília
+- comida bsb
+slug: piauindia-comida-indiana-com-um toque-brasileiro
+structured:
+  type: Article
+tags:
+- Restaurantes
+- Brasília
+- Review
+thumbnail: /img/2017/03/piauindia-thumb.png
+title: 'Piauíndia: comida indiana com um toque brasileiro'
+totop: true
+---
 
 Toda vez que vou ao Piauíndia me pergunto se todos já conhecem o restaurante.  Apesar de não ser novo em Brasília (inaugurou em 2013), muita gente ainda não o conhece. Da última vez que fui, fiz um post no Instagram e algumas pessoas vieram me perguntar o que achei, se valia a pena conhecer ou não. Por isso, resolvi listar algumas coisas legais sobre o restaurante que vão te fazer querer ir lá assim que terminar de ler esse post.
 

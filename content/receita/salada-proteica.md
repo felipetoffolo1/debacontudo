@@ -1,20 +1,42 @@
-+++
-date = "2017-02-28T22:05:16-03:00"
-lightbox = false
-thumbnail = "/img/2017/02/salada-proteica-thumb.png"
-images = ["/img/2017/02/salada-proteica-banner.png","/img/2017/02/salada-proteica-thumb.png"]
-description = "Aprenda a fazer a salada proteica. Uma receita prática e saudável que vai te salvar no dia a dia."
-totop = true
-title ="Salada Proteica - Uma refeição saudável que você não pode viver sem"
-keywords = ["salada proteica","salada whole30", "whole30","whole 30","receita","salada","salada deliciosa","melhor salada","salada fácil", "salada prática","salada no pote"," maionese caseira","paleo"]
-categories = ["comida"]
-tags = ["receitas","comidas","whole30","paleo","receita pratica"]
-author = ["felipe"]
-draft = false
-banner = "/img/2017/02/salada-proteica-banner.png"
-slug = "salada_proteica_uma_refeicao_saudavel_que_voce_nao_pode_viver_sem"
-
-+++
+---
+author:
+- felipe
+banner: /img/2017/02/salada-proteica-banner.png
+categories:
+- comida
+date: 2017-02-28T22:05:16-03:00
+description: Aprenda a fazer a salada proteica. Uma receita prática e saudável que
+  vai te salvar no dia a dia.
+draft: false
+images:
+- /img/2017/02/salada-proteica-banner.png
+- /img/2017/02/salada-proteica-thumb.png
+keywords:
+- salada proteica
+- salada whole30
+- whole30
+- whole 30
+- receita
+- salada
+- salada deliciosa
+- melhor salada
+- salada fácil
+- salada prática
+- salada no pote
+- ' maionese caseira'
+- paleo
+lightbox: false
+slug: salada_proteica_uma_refeicao_saudavel_que_voce_nao_pode_viver_sem
+tags:
+- receitas
+- comidas
+- whole30
+- paleo
+- receita pratica
+thumbnail: /img/2017/02/salada-proteica-thumb.png
+title: Salada Proteica - Uma refeição saudável que você não pode viver sem
+totop: true
+---
 
 A salada proteica é uma refeição mão na roda.
 A receita é tão simples que mal dá pra chamar de receita. Mas independentemente de como vamos chamar, o importante é que vai facilitar a sua vida.

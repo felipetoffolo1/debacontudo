@@ -1,20 +1,27 @@
-+++
-categories = ["estilo-de-vida","comida"]
-description = "Entenda porque você não deve escolher o bistrô Jardim Bom Demais para tomar café da manhã. A não ser que queira se irritar"
-tags = ["Restaurantes", "Brasília", "Review"]
-title = "Precisamos falar de atendimento: o descaso do bistrô Jardim Bom Demais"
-totop = true
-banner = "/img/2017/04/jardim-bom-demais-banner.jpg"
-draft = false
-slug = "descaso-do-bistro-jardim-bom-demais"
-date = "2017-04-03T14:53:44-03:00"
-thumbnail = "/img/2017/04/jardim-bom-demais-thumb.jpg"
-images = ["/img/2017/04/jardim-bom-demais-banner.jpg"]
-author = ["larissa"]
-[structured]
-type = "Article"
-+++
-
+---
+author:
+- larissa
+banner: /img/2017/04/jardim-bom-demais-banner.jpg
+categories:
+- estilo-de-vida
+- comida
+date: 2017-04-03T14:53:44-03:00
+description: Entenda porque você não deve escolher o bistrô Jardim Bom Demais para
+  tomar café da manhã. A não ser que queira se irritar
+draft: false
+images:
+- /img/2017/04/jardim-bom-demais-banner.jpg
+slug: descaso-do-bistro-jardim-bom-demais
+structured:
+  type: Article
+tags:
+- Restaurantes
+- Brasília
+- Review
+thumbnail: /img/2017/04/jardim-bom-demais-thumb.jpg
+title: 'Precisamos falar de atendimento: o descaso do bistrô Jardim Bom Demais'
+totop: true
+---
 
 Nem só de experiências boas vive o ser humano. Por isso, falar daquilo que nos frustra às vezes é importante. Quem acompanha nosso [Instagram](http://instagram.com/casaldebacontudo) já deve ter percebido que estamos à procura do brunch perfeito. A ideia é abordar os principais lugares que oferecem o serviço e fazer uma avaliação de cada um. Comida, atendimento, preço e cardápio são alguns dos itens que estamos avaliando. Ontem decidimos conhecer o brunch do bistrô Jardim Bom Demais, restaurante que fica localizado no Jardim Botânico de Brasília. Infelizmente, dos itens citados acima, ficou faltando provar o mais importante de todos: a comida. Isso mesmo. Não conseguimos ser atendidos! A manhã de domingo acabou se tornando uma grande frustração.
 

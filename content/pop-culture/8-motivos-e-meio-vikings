@@ -1,17 +1,16 @@
-+++
-banner = ""
-images = []
-keywords = []
-totop = true
-lightbox = false
-tags = []
-description = ""
-author = ""
-date = "2017-03-28T10:12:10-03:00"
-title = "8 motivos e meio vikings"
-categories = []
-draft = true
-slug = ""
-
-+++
+---
+author: ""
+banner: ""
+categories: []
+date: 2017-03-28T10:12:10-03:00
+description: ""
+draft: true
+images: []
+keywords: []
+lightbox: false
+slug: ""
+tags: []
+title: 8 motivos e meio vikings
+totop: true
+---
 

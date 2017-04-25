@@ -1,21 +1,33 @@
-+++
-title = "Road Trip pela Highway 1: Primeira Parte - Malibu, Santa Barbara, Solvang e Região Vinícola de Santa Ynez"
-draft = false
-description = "Acompanhe o nosso roteiro de road trip pela Highway 1. Uma estrada costeira da Califórnia com belíssimas vistas, lugares interessantes e muita diversão"
-slug = "roadtrip-highway-1-parte-1"
-date = "2017-04-05T17:57:47-02:00"
-tags = ["viagens","california","usa","roadtrip","highway-1"]
-categories = ["viagem"]
-author = ["felipe","larissa"]
-banner = "/img/2017/04/highway-1-1-banner.jpg"
-thumbnail = "/img/2017/04/highway-1-1-thumb.jpg"
-images = ["/img/2017/04/highway-1-1-banner.jpg","/img/2017/04/highway-1-1-thumb.jpg"]
-lightbox = true
-totop = true
-[structured]
-type = "Article"
+---
+author:
+- felipe
+- larissa
+banner: /img/2017/04/highway-1-1-banner.jpg
+categories:
+- viagem
+date: 2017-04-05T17:57:47-02:00
+description: Acompanhe o nosso roteiro de road trip pela Highway 1. Uma estrada costeira
+  da Califórnia com belíssimas vistas, lugares interessantes e muita diversão
+draft: false
+images:
+- /img/2017/04/highway-1-1-banner.jpg
+- /img/2017/04/highway-1-1-thumb.jpg
+lightbox: true
+slug: roadtrip-highway-1-parte-1
+structured:
+  type: Article
+tags:
+- viagens
+- california
+- usa
+- roadtrip
+- highway-1
+thumbnail: /img/2017/04/highway-1-1-thumb.jpg
+title: 'Road Trip pela Highway 1: Primeira Parte - Malibu, Santa Barbara, Solvang
+  e Região Vinícola de Santa Ynez'
+totop: true
+---
 
-+++
 A **Highway 1** é uma estrada costeira da **Califórnia**, onde é feita uma das melhores e mais famosas road trips do mundo. A Highway 1 oferece tudo que você poderia querer em uma road trip: boas estradas, belíssimas vistas, lugares interessantes e muita diversão.
 Nós fizemos o trecho de **Los Angeles até São Francisco** e gostamos **MUITO**. Muita gente faz a viagem no sentido inverso, mas no nosso roteiro foi mais cômodo fazer assim, e não percebemos nenhuma perda por isso. Essa foi a nossa primeira experiência com road trip e, se depender dela, a primeira de muitas.
 Dividimos o nosso roteiro pela Highway 1 em duas postagens (porque somos prolixos e tava ficando enorme). Essa é a primeira parte.
