@@ -6,7 +6,7 @@ DefaultContentLanguage = "pt"
 disqusShortname = "debacontudo-com-br"
 enableRobotsTXT = true
 theme = "gohugo-amp"
-Paginate = 8
+Paginate = 6
 MetaDataFormat = "yaml"
 [blackfriday]
 hrefTargetBlank = true
@@ -23,7 +23,7 @@ gaid = "UA-91331327-1"
 # [params]
 # amp
 amp = true
-ampElements = ["amp-accordion","amp-ad","amp-analytics","amp-youtube","amp-instagram","amp-carousel","amp-iframe","amp-dynamic-css-classes","amp-form","amp-fx-flying-carpet","amp-image-lightbox","amp-lightbox","amp-sidebar","amp-social-share","amp-sticky-ad","amp-user-notification"]
+ampElements = ["amp-accordion","amp-ad","amp-analytics","amp-youtube","amp-instagram","amp-carousel","amp-iframe","amp-dynamic-css-classes","amp-mustache","amp-form","amp-fx-flying-carpet","amp-image-lightbox","amp-lightbox","amp-sidebar","amp-social-share","amp-sticky-ad","amp-user-notification"]
 themeColor = "#c0392b"
 # adsensePublisher = "ca-pub-123456789"
 googleAnalytics = "UA-91331327-1"

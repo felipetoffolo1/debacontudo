@@ -1,196 +1,218 @@
 {{ partial "structure/head" . }}
 
 <main class="single">
-  {{ partial "menu.html" . }}
-  {{ $Site := .Site }}
+  {{ partial "menu.html" . }} {{ $Site := .Site }}
   <div id="content" class="site-content">
-        <div id="primary" class="content-area">
-          <main id="main" class="site-main" role="main">
+    <div id="primary" class="content-area">
+      <main id="main" class="site-main" role="main">
 
-              <div class="pure-g">
-                <!-- article -->
-                <div class="pure-u-xl-4-24 pure-u-md-2-24">
+        <div class="pure-g">
+          <!-- article -->
+          <div class="pure-u-xl-4-24 pure-u-md-2-24">
 
-                </div>
-                <div class="pure-u-xl-16-24  pure-u-md-20-24 pure-u-1  site-entry">
+          </div>
+          <div class="pure-u-xl-16-24  pure-u-md-20-24 pure-u-1  site-entry">
 
-                  <div class="format-standard hentry">
-                    <div class="entry-header">
-                      <h1 class="entry-title">{{ .Params.title }}</h1>
-                      <div class="entry-meta">
-                        <span class="posted-on">
+            <div class="format-standard hentry">
+              <div class="entry-header">
+                <h1 class="entry-title">{{ .Params.title }}</h1>
+                <div class="entry-meta">
+                  <span class="posted-on">
                           <a rel="bookmark"> <time class="entry-date" datetime="2016-09-07">{{ .Date.Format "2" }} {{ .Date.Format "Jan" }}, {{ .Date.Format "2006" }}</time> </a>
 
-                        </span><!-- .posted-on -->
+                        </span>
+                  <!-- .posted-on -->
 
-                        {{ if .Params.categories }}
-                        {{ range .Params.categories }}
-                        <span class="entry-cat">
+                  {{ if .Params.categories }} {{ range .Params.categories }}
+                  <span class="entry-cat">
                           <span class="cat-link"><a class="post-category post-category-{{ . | urlize }}" href="{{ $Site.BaseURL}}/categories/{{ . | urlize }}">{{ . }}</a></span>
 
-                        </span><!-- .entry-cat -->
-                        {{ end }}
-                        {{ end }}
-                        <span class="entry-like "><a href=""><i class="fa fa-clock-o"></i> <em>{{.ReadingTime}} <span class="reading-time">min</span></em></a></span>
-                      </div><!-- .entry-meta -->
-                    </div><!-- .entry-header -->
-                  </div>
+                  </span>
+                  <!-- .entry-cat -->
+                  {{ end }} {{ end }}
+                  <span class="entry-like "><a href=""><i class="fa fa-clock-o"></i> <em>{{.ReadingTime}} <span class="reading-time">min</span></em>
+                  </a>
+                  </span>
                 </div>
-                <div class="pure-u-xl-4-24 pure-u-md-2-24">
+                <!-- .entry-meta -->
+              </div>
+              <!-- .entry-header -->
+            </div>
+          </div>
+          <div class="pure-u-xl-4-24 pure-u-md-2-24">
 
-                </div>
-                <div class="pure-u-1 ">
-                    {{ if .Params.banner }}
-                    <div class="entry-featured-image">
-                      <amp-img src="{{ .Params.banner }}" layout="responsive" width="1920" height="1080" alt="{{ .Title }}"></amp-img>
-                    </div><!-- .entry-featured-image -->
-                    {{ end }}
-                </div>
-                <div class="container">
-                <div class="pure-u-xl-4-24 pure-u-md-2-24">
+          </div>
+          <div class="pure-u-1 ">
+            {{ if .Params.banner }}
+            <div class="entry-featured-image">
+              <amp-img src="{{ .Params.banner }}" layout="responsive" width="1920" height="1080" alt="{{ .Title }}"></amp-img>
+            </div>
+            <!-- .entry-featured-image -->
+            {{ end }}
+          </div>
+          <div class="container">
+            <div class="pure-u-xl-4-24 pure-u-md-2-24">
 
-                </div>
-                <div class="pure-u-xl-16-24  pure-u-md-20-24 pure-u-1">
-                  <div class="site-entry">
-                    <article class="post format-standard hentry">
+            </div>
+            <div class="pure-u-xl-16-24  pure-u-md-20-24 pure-u-1">
+              <div class="site-entry">
+                <article class="post format-standard hentry">
 
-                      <div class="entry-header hide" >
-                        <h1 class="entry-title">{{ .Params.title }}</h1>
-                        <div class="entry-meta">
-                          <span class="posted-on">
+                  <div class="entry-header hide">
+                    <h1 class="entry-title">{{ .Params.title }}</h1>
+                    <div class="entry-meta">
+                      <span class="posted-on">
                             <a rel="bookmark"> <time class="entry-date" datetime="2016-09-07">{{ .Date.Format "2" }} {{ .Date.Format "Jan" }}, {{ .Date.Format "2006" }}</time> </a>
 
-                          </span><!-- .posted-on -->
+                          </span>
+                      <!-- .posted-on -->
 
-                          {{ if .Params.categories }}
-                            {{ range .Params.categories }}
-                            <span class="entry-cat">
+                      {{ if .Params.categories }} {{ range .Params.categories }}
+                      <span class="entry-cat">
                               <span class="cat-link"><a class="post-category post-category-{{ . | urlize }}" href="{{ $Site.BaseURL}}/categories/{{ . | urlize }}">{{ . }}</a></span>
 
-                            </span><!-- .entry-cat -->
-                            {{ end }}
-                          {{ end }}
-                          <span class="entry-like "><a href=""><i class="fa fa-clock-o"></i> <em>{{.ReadingTime}} <span class="reading-time">min</span></em></a></span>
-                        </div><!-- .entry-meta -->
-                      </div><!-- .entry-header -->
-                      <div class="entry-content">
-                        {{ .Content }}
+                      </span>
+                      <!-- .entry-cat -->
+                      {{ end }} {{ end }}
+                      <span class="entry-like "><a href=""><i class="fa fa-clock-o"></i> <em>{{.ReadingTime}} <span class="reading-time">min</span></em>
+                      </a>
+                      </span>
+                    </div>
+                    <!-- .entry-meta -->
+                  </div>
+                  <!-- .entry-header -->
+                  <div class="entry-content">
+                    {{ .Content }}
 
-                      </div><!-- .entry-content -->
+                  </div>
+                  <!-- .entry-content -->
 
-                      <footer class="entry-footer">
-                        {{ if .Params.tags }}
-                        <span class="tags-links">
+                  <footer class="entry-footer">
+                    {{ if .Params.tags }}
+                    <span class="tags-links">
                           {{ range .Params.tags }}
                           <a class="post-tag post-tag-{{ . | urlize }}" href="{{ $Site.BaseURL}}/tags/{{ . | urlize }}">{{ . }}</a>,
                           {{ end }}
-                      </span><!-- .tags-links -->
-                        {{ end }}
+                      </span>
+                    <!-- .tags-links -->
+                    {{ end }} {{ partial "socialsharing.html" . }}
 
-                        {{ partial "socialsharing.html" . }}
+                  </footer>
+                  <!-- .entry-footer -->
+                </article>
+                <!-- .post -->
 
-                      </footer><!-- .entry-footer -->
-                    </article><!-- .post -->
-
-                    <nav class="navigation post-navigation" role="navigation">
-                      <h2 class="screen-reader-text">Post navigation</h2>
-                      <div class="nav-links">
-                        {{ if .Prev }}
-                        <div class="nav-previous">
-                          <a href="#" class="image-link">
-                            <amp-img src="{{ .Prev.Params.thumbnail }}" width="90" height="90" layout="fixed"></amp-img></a>
-                          <span>Post Anterior</span>
-                          <a href="{{ .Prev.RelPermalink }}" class="prev-link" rel="prev">{{ .Prev.Title }}</a>
-                        </div>
-                        {{ end }}
-
-                        {{ if .Next }}
-                        <div class="nav-next">
-                          <a href="#" class="image-link">
-                          <amp-img src="{{ .Next.Params.thumbnail }}" width="90" height="90" layout="fixed"></amp-img></a>
-                          <span>Próximo Post</span>
-                          <a  href="{{ .Next.RelPermalink }}" class="next-link" rel="next">{{ .Next.Title  }}</a>
-                        </div>
-                        {{ end }}
-                      </div>
-                    </nav><!-- .navigation -->
-
-                    <!-- author bio -->
-                    {{ if .Params.author }}
-                    <div class="section-title">
-                      <h3>Escrito por</h3>
+                <nav class="navigation post-navigation" role="navigation">
+                  <h2 class="screen-reader-text">Post navigation</h2>
+                  <div class="nav-links">
+                    {{ if .Prev }}
+                    <div class="nav-previous">
+                      <a href="#" class="image-link">
+                        <amp-img src="{{ .Prev.Params.thumbnail }}" width="90" height="90" layout="fixed"></amp-img>
+                      </a>
+                      <span>Post Anterior</span>
+                      <a href="{{ .Prev.RelPermalink }}" class="prev-link" rel="prev">{{ .Prev.Title }}</a>
                     </div>
-                    {{ range .Params.author}}
-                    <div class="entry-author-bio">
-                      <div class="author-bio-avatar">
-                        <div class="avatar">
-                          <amp-img alt="author bio" src="{{ index (index $.Site.Data.authors  . ) "thumbnail" }}" height="200" width="200" layout="responsive" ></amp-img>
-                        </div>
-                      </div><!-- .author-bio-avatar -->
-                      <div class="author-bio-description">
-                        <h4>{{ index (index $.Site.Data.authors . ) "display_name" }}</h4>
-                        <p>{{ index (index $.Site.Data.authors  . ) "short_bio" }}</p>
-
-                        <ul class="social-icon">
-                          <li><a href="#" class="icon-facebook" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                          <li><a href="#" class="icon-twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                          <li><a href="#" class="icon-instagram" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                          <li><a href="#" class="icon-youtube" target="_blank"><i class="fa fa-youtube-play"></i></a></li>
-                          <li><a href="#" class="icon-pinterest" target="_blank"><i class="fa fa-pinterest"></i></a></li>
-                        </ul>
-                      </div><!-- .author-bio-description -->
-                    </div><!-- entry-author-bio -->
+                    {{ end }} {{ if .Next }}
+                    <div class="nav-next">
+                      <a href="#" class="image-link">
+                        <amp-img src="{{ .Next.Params.thumbnail }}" width="90" height="90" layout="fixed"></amp-img>
+                      </a>
+                      <span>Próximo Post</span>
+                      <a href="{{ .Next.RelPermalink }}" class="next-link" rel="next">{{ .Next.Title  }}</a>
+                    </div>
                     {{ end }}
+                  </div>
+                </nav>
+                <!-- .navigation -->
 
+                <!-- author bio -->
+                {{ if .Params.author }}
+                <div class="section-title">
+                  <h3>Escrito por</h3>
+                </div>
+                {{ range .Params.author}}
+                <div class="entry-author-bio">
+                  <div class="author-bio-avatar">
+                    <div class="avatar">
+                      <amp-img alt="author bio" src="{{ index (index $.Site.Data.authors  . ) " thumbnail " }}" height="200" width="200" layout="responsive"></amp-img>
+                    </div>
+                  </div>
+                  <!-- .author-bio-avatar -->
+                  <div class="author-bio-description">
+                    <h4>{{ index (index $.Site.Data.authors . ) "display_name" }}</h4>
+                    <p>{{ index (index $.Site.Data.authors . ) "short_bio" }}</p>
+
+                    <ul class="social-icon">
+                      <li><a href="#" class="icon-facebook" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                      <li><a href="#" class="icon-twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                      <li><a href="#" class="icon-instagram" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                      <li><a href="#" class="icon-youtube" target="_blank"><i class="fa fa-youtube-play"></i></a></li>
+                      <li><a href="#" class="icon-pinterest" target="_blank"><i class="fa fa-pinterest"></i></a></li>
+                    </ul>
+                  </div>
+                  <!-- .author-bio-description -->
+                </div>
+                <!-- entry-author-bio -->
+                {{ end }} {{ end }} {{ range first 1 .Params.categories }} {{ $term := . }} {{ $taxonomy := index $Site.Taxonomies.categories $term }}
+                <div class="related-posts">
+                  <div class="section-title">
+                    <h3>Você também vai curtir</h3>
+                  </div>
+                  <div class="pure-g">
+                    {{ range first 3 $taxonomy.Pages }}
+                    <div class="pure-u-1 pure-u-md-8-24 padding-side">
+                      <div class="post-container">
+                        <div class="post-thumbnail">
+                          <a href="#">
+                            <amp-img src="{{ .Params.thumbnail }}" layout="responsive" width="800" height="800"></amp-img>
+                          </a>
+                        </div>
+                        <!-- .post-thumbnail -->
+                        <h3 class="post-title"><a href="{{ .RelPermalink}}">{{ .Title | truncate 50}}</a></h3>
+                        <span class="post-meta"><a href="{{ .RelPermalink}}"><time class="entry-date" datetime="2016-09-07">{{ .Date.Format "2" }} {{ .Date.Format "Jan" }}, {{ .Date.Format "2006" }}</time></a></span>
+                      </div>
+                      <!-- .post-container -->
+                    </div>
+                    <!-- .col-md-3 -->
+                    {{ end }}
+                  </div>
+                  <!-- .row -->
+                </div>
+                <!-- .related-posts -->
                 {{ end }}
 
-                {{ range first 1 .Params.categories }}
-                {{ $term := . }}
-                {{ $taxonomy := index $Site.Taxonomies.categories $term }}
-                <div class="related-posts">
-                <div class="section-title">
-                  <h3>Você também vai curtir</h3>
-                </div>
-                <div class="pure-g">
-                  {{ range first 3  $taxonomy.Pages }}
-                  <div class="pure-u-1 pure-u-md-8-24 padding-side">
-                    <div class="post-container">
-                      <div class="post-thumbnail">
-                        <a href="#"><amp-img src="{{ .Params.thumbnail }}" layout="responsive" width="800" height="800"></amp-img></a>
-                      </div><!-- .post-thumbnail -->
-                      <h3 class="post-title"><a href="{{ .RelPermalink}}">{{ .Title | truncate 50}}</a></h3>
-                      <span class="post-meta"><a href="{{ .RelPermalink}}"><time class="entry-date" datetime="2016-09-07">{{ .Date.Format "2" }} {{ .Date.Format "Jan" }}, {{ .Date.Format "2006" }}</time></a></span>
-                    </div><!-- .post-container -->
-                  </div><!-- .col-md-3 -->
+                <!-- <div id="comments" class="comments-area">
+                  {{ if not .Params.nocomment }}
+                  <amp-iframe width="600" height="140" layout="responsive" sandbox="allow-scripts allow-same-origin allow-modals allow-popups allow-forms" resizable src="https://s3-sa-east-1.amazonaws.com/felipetoffolo/disqus2.html#{{ .RelPermalink}}">
+                    <div overflow tabindex=0 role=button aria-label="Read more">Read more!</div>
+                  </amp-iframe>
+
                   {{ end }}
-                </div><!-- .row -->
-              </div><!-- .related-posts -->
-              {{ end }}
+                </div> -->
+              </div>
+              <!-- .site-entry -->
+            </div>
+            <!-- .col-md-8 -->
+            <div class="pure-u-xl-4-24 pure-u-md-2-24">
+              <!-- <a href="#top" id="nav-to-top" class="btn btn-link  sticky-button">Voltar ao Topo</a> -->
+            </div>
+          </div>
+          <!-- .row -->
+        </div>
+        <!-- .container -->
 
-                    <div id="comments" class="comments-area">
-                      {{ if not .Params.nocomment }}
-                      <amp-iframe width="600" height="140"
-                                  layout="responsive"
-                                  sandbox="allow-scripts allow-same-origin allow-modals allow-popups allow-forms"
-                                  resizable
-                                  src="https://s3-sa-east-1.amazonaws.com/felipetoffolo/disqus2.html#{{ .RelPermalink}}">
-                                  <div overflow tabindex=0 role=button aria-label="Read more">Read more!</div>
-                      </amp-iframe>
+      </main>
+      <!-- #main -->
+      <footer class="site-footer">
+        {{ partial "subscribe.html" . }}
 
-                       {{ end }}
-                    </div>
-                  </div><!-- .site-entry -->
-                </div><!-- .col-md-8 -->
-                <div class="pure-u-xl-4-24 pure-u-md-2-24">
-                  <!-- <a href="#top" id="nav-to-top" class="btn btn-link  sticky-button">Voltar ao Topo</a> -->
-                </div>
-              </div><!-- .row -->
-            </div><!-- .container -->
-
-          </main><!-- #main -->
-        </div><!-- #primary -->
-      </div><!-- #content -->
-      <!-- <script type="text/javascript">
+      </footer>
+    </div>
+    <!-- #primary -->
+  </div>
+  <!-- #content -->
+  <!-- <script type="text/javascript">
       onscroll = function() {
         var toTopVisible = false;
         var scrollTop = document.documentElement.scrollTop || document.body.scrollTop;

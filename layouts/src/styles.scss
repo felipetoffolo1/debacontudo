@@ -1551,13 +1551,14 @@ input[type="submit"] {
 	===========================
 */
 .site-sidebar {
-    padding: 40px;
-    background-color: darken($white, 5%);
-    margin: 40px 15px;
+    margin: 40px 15px 0 15px;
     height: 100%;
+    overflow: hidden;
 }
 
 .widget-area {
+  background-color: darken($white, 5%);
+  padding: 40px;
     margin-bottom: 40px;
 }
 
@@ -1901,6 +1902,7 @@ input[type="submit"] {
             margin-bottom: 40px;
             font-size: 48px;
             line-height: 54px;
+            margin-top: 10px;
             color: $text-color;
         }
 
