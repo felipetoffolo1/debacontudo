@@ -5,7 +5,7 @@ banner: /img/2017/04/aplicativos-para-viagem-banner.jpg
 categories:
   - viagem
 date: 2017-04-26T12:35:16
-description: Existem uma série de apps para viagem que pode te ajudar a economizar, organizar seus roteiros, descobrir as melhores atrações, se locomover, se comunicar e registrar suas férias. Interessou? A gente adora usar a tecnologia para facilitar e melhorar as nossas viagens. Para você conhecer os melhores, fiz uma listinha dos nossos favoritos.
+description: Existem uma série de apps para viagem que podem te ajudar a economizar, organizar seus roteiros, descobrir as melhores atrações, se locomover, se comunicar e registrar suas férias. Interessou? A gente adora usar a tecnologia para facilitar e melhorar as nossas viagens. Para você conhecer os melhores, fiz uma listinha dos nossos favoritos.
 draft: false
 images:
   - /img/2017/04/aplicativos-para-viagem-banner.jpg
@@ -22,7 +22,7 @@ title: 10 aplicativos imprescindíveis para facilitar sua próxima viagem
 totop: true
 ---
 
-A gente adora usar a tecnologia para facilitar e melhorar as nossas viagens (eu sou meio geek né). Existem uma série de apps para viagem que pode te ajudar a economizar, organizar seus roteiros, descobrir as melhores atrações, se locomover, se comunicar e registrar suas férias. Interessou?
+A gente adora usar a tecnologia para facilitar e melhorar as nossas viagens (eu sou meio geek né). Existem uma série de apps para viagem que podem te ajudar a economizar, organizar seus roteiros, descobrir as melhores atrações, se locomover, se comunicar e registrar suas férias. Interessou?
 Para você conhecer os melhores, fiz uma listinha dos nossos favoritos.
 
 # 1 - Trip It
