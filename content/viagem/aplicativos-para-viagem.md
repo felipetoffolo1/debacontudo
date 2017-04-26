@@ -4,11 +4,9 @@ author:
 banner: /img/2017/04/aplicativos-para-viagem-banner.jpg
 categories:
   - viagem
-date: {}
-description: >-
-  Acompanhe o nosso roteiro de road trip pela Highway 1. Nesse trecho passamos
-  pelo Big Sur, Carmel by The Sea, Monterey, Google e Facebook
-draft: true
+date: 2017-04-26T12:35:16
+description: Existem uma série de apps para viagem que pode te ajudar a economizar, organizar seus roteiros, descobrir as melhores atrações, se locomover, se comunicar e registrar suas férias. Interessou? A gente adora usar a tecnologia para facilitar e melhorar as nossas viagens. Para você conhecer os melhores, fiz uma listinha dos nossos favoritos.
+draft: false
 images:
   - /img/2017/04/aplicativos-para-viagem-banner.jpg
   - /img/2017/04/aplicativos-para-viagem-thumb.jpg
@@ -20,10 +18,12 @@ tags:
   - dicas
   - listas
 thumbnail: /img/2017/04/aplicativos-para-viagem-thumb.jpg
-title: 10 aplicativos imprencídiveis para facilitar sua próxima viagem
+title: 10 aplicativos imprescindíveis para facilitar sua próxima viagem
 totop: true
-published: true
 ---
+
+A gente adora usar a tecnologia para facilitar e melhorar as nossas viagens (eu sou meio geek né). Existem uma série de apps para viagem que pode te ajudar a economizar, organizar seus roteiros, descobrir as melhores atrações, se locomover, se comunicar e registrar suas férias. Interessou?
+Para você conhecer os melhores, fiz uma listinha dos nossos favoritos.
 
 # 1 - Trip It
 
@@ -43,9 +43,11 @@ Usamos principalmente para:
 - **Roteiro**: nosso roteiro vai completinho no aplicativo. Colocamos os endereços, horários de visita e tudo que precisamos saber dos locais que pretendemos visitar. Assim fica fácil de consultar e planejar o dia a dia.
 - **Compartilhar a informação**: No tripIt, caso você não vá sozinho, é possível compartilhar a viagem com outras pessoas.
 
-#DicaDeBaconTudo Outra feature super legal do TripIt é que você pode reencaminhar seus e-mails de confirmação de reservas para plans@tripit.com e ele importa a informação para a sua viagem (mas o e-mail tem que ser em inglês).
+ #DicaDeBaconTudo: Outra feature super legal do TripIt é que você pode reencaminhar seus e-mails de confirmação de reservas para plans@tripit.com e ele importa a informação para a sua viagem (mas o e-mail tem que ser em inglês).
 
 # 2 - Google Trips
+
+{{< app apple="https://itunes.apple.com/us/app/google-trips-travel-planner/id1081561570?mt=8" android="https://play.google.com/store/apps/details?id=com.google.android.apps.travel.onthego" >}}
 
 É claro que o Google também tem o seu próprio aplicativo para viagens.
 
@@ -64,6 +66,8 @@ Como a gente já sabe, o Google não brinca em serviço e o Google Trip é bem c
 
 # 3 - Google Maps
 
+{{< app apple="https://itunes.apple.com/us/app/google-maps-navigation-transit/id585027354?mt=8" android="https://play.google.com/store/apps/details?id=com.google.android.apps.maps" >}}
+
 Do Maps nem tem muito o que falar, né, todo mundo já conhece. O que **TALVEZ** você não saiba ainda é que com ele você pode consultar todo tipo de transporte. Seja de carro, a pé ou usando transporte público.
 
 {{% img-double  src2="/img/2017/04/aplicativos-para-viagem-15.png"  src="/img/2017/04/aplicativos-para-viagem-16.png"  height="1780" width="1080" %}} 
@@ -71,6 +75,8 @@ Do Maps nem tem muito o que falar, né, todo mundo já conhece. O que **TALVEZ**
 Outro recurso importante é a possibilidade de fazer download da cidade que você vai visitar para poder consultar offline,  caso seja necessário (vai que a internet para onde você vai é tão ruim quanto a nossa aqui). 
 
 # 4 - Google Tradutor
+
+{{< app apple="https://itunes.apple.com/us/app/google-translate/id414706506?mt=8" android="https://play.google.com/store/apps/details?id=com.google.android.apps.translate" >}}
 
 É muito **idioma** pelo mundo, por mais que a gente tente dar aquela enrolada com o **inglês** em todo lugar que vamos, tem hora que não tem jeito. Mas não se preocupe, o **Google Tradutor** está aí para salvar a gente.
 
@@ -82,15 +88,19 @@ Esse é o último do Google que vou citar, prometo.
 
 # 5 - Kayak
 
+{{< app apple="https://itunes.apple.com/us/app/kayak-flights-hotels-cars/id305204535?mt=8" android="https://play.google.com/store/apps/details?id=com.kayak.android" >}}
+
 O **Kayak** é um site de **pesquisa de passagens, hotéis e carros** como vários outros por aí (Decolar, Submarino Viagens, etc).
 
 Mas além disso ele permite que você não perca os melhores preços e economize uma grana na sua passagem. Basta configurar **alertas de preços** para voos e hotéis. 
 
 {{% img-double  src2="/img/2017/04/aplicativos-para-viagem-1.png"  src="/img/2017/04/aplicativos-para-viagem-13.png"  height="1780" width="1080" %}} 
 
-Você informa o local e data desejada e ele vai te avisando sempre que os preços mudarem. Show  né, ou você não tá afim de economizar???
+Você informa o local e data desejada e ele vai te avisando sempre que os preços mudarem. Show  né, ou você não tá afim de economizar??? Tem outros apps que fazem isso, mas esse é o nosso favorito.
 
 # 6 - TripAdvisor
+
+{{< app apple="https://itunes.apple.com/us/app/tripadvisor-hotels-flights-restaurants/id284876795?mt=8" android="https://play.google.com/store/apps/details?id=com.tripadvisor.tripadvisor" >}}
 
 O TripAdvisor é o maior banco de dados de informações de viagens de todos. Lá tem uma porrada de informação sobre tudo. Então ele é um dos aplicativos obrigatórios para utilizar como fonte de consulta para sua viagem. Lá você descobre sugestões de programas e confere as opiniões sobre lugares, hotéis, serviços e tudo mais. 
 
@@ -100,25 +110,31 @@ Não programe **NADA** sem consultá-lo primeiro.
 
 # 7 - Instagram
 
+{{< app apple="https://itunes.apple.com/us/app/instagram/id389801252?mt=8" android="https://play.google.com/store/apps/details?id=com.instagram.android" >}}
+
 Se você vai viajar, tem que tirar **foto**. E tem que postar no **Instagram** pra gente ver, e mostrar pra aquele amigo seu, que se acha, que vocẽ também tá bombando na trip.
 
 {{% img-double  src2="/img/2017/04/aplicativos-para-viagem-19.png"  src="/img/2017/04/aplicativos-para-viagem-20.png"  height="1780" width="1080" %}} 
 
-
-
 Mas vê se não exagera e curta sua viagem hein.
 
-E não esquece de seguir a gente lá ;) COLOCAR O LINK
+E não esquece de seguir a gente lá no [insta](https://www.instagram.com/casaldebacontudo/) ) 
 
 # 8 - Foursquare
+
+{{< app apple="https://itunes.apple.com/us/app/foursquare-city-guide-restaurants-bars-nearby/id306934924?mt=8" android="https://play.google.com/store/apps/details?id=com.joelapenna.foursquared" >}}
 
 Eu sempre uso o Foursquare para me ajudar a decidir onde vou comer quando estou em algum lugar tentando decidir. Muitas vezes eu só vou estar nesse lugar um único dia, então não quero me arriscar de escolher o pior lugar, e o Foursquare facilita que façamos boas escolhas.
 
 {{% img-double  src2="/img/2017/04/aplicativos-para-viagem-4.png"  src="/img/2017/04/aplicativos-para-viagem-5.png"  height="1780" width="1080" %}} 
 
-Outra dica é fazer previamente no Foursquare uma lista dos lugares que você gostaria de ir. Assim, quando estiver procurando algum lugar, você já vai ter várias opções favoritas.
+Existe outra app bem semelhante que é o Yelp, dependendo do local que você está.
+
+  #DicaDeBaconTudo: Fazer previamente no Foursquare uma lista dos lugares que você gostaria de ir. Assim, quando estiver procurando algum lugar, você já vai ter várias opções favoritas.
 
 # 9 - Airbnb
+
+{{< app apple="https://itunes.apple.com/us/app/airbnb/id401626263?mt=8" android="https://play.google.com/store/apps/details?id=com.airbnb.android" >}}
 
 Tá **procurando um hotel**, mas tá difícil achar algo que **caiba no bolso** e não seja horroroso? Que tal tentar no **Airbnb**? Pra quem não sabe, por meio desse app você pode alugar casas, apartamentos, quartos e camas pelo mundo todo. 
 
@@ -127,6 +143,8 @@ Tá **procurando um hotel**, mas tá difícil achar algo que **caiba no bolso** 
 O legal é que, além de você normalmente economizar ( mas tem hora que não compensa, precisa pesquisar) uma grana, você ainda interage com um local, o que pode ser uma experiência incrível. Inclusive há um tempo atrás, o **Airbnb** adicionou a opção de contratar "experiências", que são passeios que você faz com locais.
 
 # 10 - Pass2U Wallet 
+
+{{< app apple="https://play.google.com/store/apps/details?id=com.passesalliance.wallet&hl=en" android="https://play.google.com/store/apps/details?id=com.passesalliance.wallet" >}}
 
 Esse aplicativo faz algo bem simples, mas faz muito bem. O Pass2U Wallet guarda os cartões de embarque dos seus voos. Assim você não precisa ficar imprimindo papel ou procurando no seu e-mail onde tá o cartão do check-in. 
 
@@ -140,4 +158,4 @@ Organização na viagem é tudo.
 
 
 
-Minhas dicas de aplicativos para facilitar sua pŕoxima viagem são essas. Se você conhece mais algum legal, me conta que sempre quero conhecer. Fui.
+Minhas dicas de aplicativos para facilitar sua pŕoxima viagem são essas. Se você sabe de mais algum legal, me conta que sempre quero conhecer. Fui.
