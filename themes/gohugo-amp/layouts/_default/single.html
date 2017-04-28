@@ -45,11 +45,16 @@
           <div class="pure-u-1 ">
             {{ if .Params.banner }}
             <div class="entry-featured-image">
-              <amp-img src="{{ .Params.banner }}" layout="responsive" width="1920" height="1080" alt="{{ .Title }}"></amp-img>
+              <amp-img src="{{ .Params.banner }}" alt="{{ .Params.title }}" layout="responsive" width="1920" height="1080" alt="{{ .Title }}"></amp-img>
             </div>
             <!-- .entry-featured-image -->
             {{ end }}
           </div>
+          {{ if .Params.pinterest }}
+          <div class="hide">
+            <amp-img src="{{ .Params.pinterest }}" width="735" height="1102" layout="fixed"></amp-img>
+          </div>
+          {{ end }}
           <div class="container">
             <div class="pure-u-xl-4-24 pure-u-md-2-24">
 
@@ -86,7 +91,6 @@
 
                   </div>
                   <!-- .entry-content -->
-
                   <footer class="entry-footer">
                     {{ if .Params.tags }}
                     <span class="tags-links">

@@ -1560,6 +1560,9 @@ input[type="submit"] {
   background-color: darken($white, 5%);
   padding: 40px;
     margin-bottom: 40px;
+    .sidebar-subscribe-title {
+      margin-top: 0px;
+    }
 }
 
 .widget {
