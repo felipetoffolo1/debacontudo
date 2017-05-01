@@ -5,8 +5,7 @@ banner: /img/2017/04/receita-fraldinha-recheada-braciole-banner.jpg
 categories:
   - comida
 date: {}
-description: >-
-  O Braciole é uma receita espetacular de origem italiana que é deliciosamente
+description: O Braciole é uma receita espetacular de origem italiana que é deliciosamente
   fácil de fazer. Umas daquelas receitas deliciosas que é oportunidade para
   brilhar e ganhar uns créditos culinários com os amigos ou a paquera, sem ter
   muito trabalho.
@@ -18,12 +17,10 @@ images:
 recipe:
   category: prato principal
   ingredients:
-    - >-
-      Fraldinha: 750g de carne magra. Procure uma peça mais quadrada para
-      permitir rechear melhor.
-    - >-
-      Parmesão ralado: 1/2 xícara (por favor compre opedaço de queijo e rale na
-      hora)
+    - 'Fraldinha: 750g de carne magra. Procure uma peça mais quadrada para
+      permitir rechear melhor.'
+    - 'Parmesão ralado: 1/2 xícara (por favor compre opedaço de queijo e rale na
+      hora)'
     - 'Provolone ralado: 1/2 xícara (também rale na hora)'
     - 'Torradas ou croutons: 1/2 xícara'
     - 'Cebolinha: 3 colheres de sopa'
@@ -33,26 +30,20 @@ recipe:
     - 'Vinho Branco: 1 xícara'
     - 'Molho de tomate: 4 xícaras, de um molho já previamente temperado'
   instructions:
-    - >-
-      1. Em uma tigela misture os queijos, a torrada quebrada em pedaços,
+    - 1. Em uma tigela misture os queijos, a torrada quebrada em pedaços,
       cebolinha, salsinha e o alho. Reserve
-    - >-
-      2. Abra a sua peça de fraldinha numa tábua o mesa e bata com uma martelo
+    - 2. Abra a sua peça de fraldinha numa tábua o mesa e bata com uma martelo
       (se não tiver, use uma frigideira mais pesada), para afinar a peça e
       facilitar rechea-lá.
-    - >-
-      3. Tempere a fraldinha com sal e pimenta do reino , depois espalhe o
+    - 3. Tempere a fraldinha com sal e pimenta do reino , depois espalhe o
       recheio sobre a carne.
-    - >-
-      4. Usando pedaços de barbante vá amarrando a carne para fecha-lá. Coloque
+    - 4. Usando pedaços de barbante vá amarrando a carne para fecha-lá. Coloque
       um barbante a cerca de cada 1,5cm e amarre bem as pontas para o recheio
       não escorrer.
-    - >-
-      5. Coloque a peça em um panela que vá no forno ou uma forma que vá no
+    - 5. Coloque a peça em um panela que vá no forno ou uma forma que vá no
       fogão
     - 6. Em uma panelinha derreta a manteiga
-    - >-
-      7. Coloque a panela com a carne no fogo alto e derrame a manteiga
+    - 7. Coloque a panela com a carne no fogo alto e derrame a manteiga
       derretida por cima da peça.
     - 8. Sele a carne por cerca de 2 minutos de cada lado dela.
     - 9. Depois de selada coloque o vinho branco e espere ferver
@@ -72,11 +63,9 @@ tags:
   - carne recheada
   - jantarADois
 thumbnail: /img/2017/04/receita-fraldinha-recheada-braciole-thumb.jpg
-title: >-
-  Conheça o espetacular Braciole, uma receita italiana de fraldinha recheada com
+title: Conheça o espetacular Braciole, uma receita italiana de fraldinha recheada com
   tudo de bom
 totop: true
-published: true
 ---
 
 O **Braciole** é uma receita espetacular de **origem italiana** (que nem eu) que é deliciosamente fácil de fazer.
