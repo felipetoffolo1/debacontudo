@@ -10,7 +10,7 @@ description: >-
   fácil de fazer. Umas daquelas receitas deliciosas que é oportunidade para
   brilhar e ganhar uns créditos culinários com os amigos ou a paquera, sem ter
   muito trabalho.
-draft: true
+draft: false
 images:
   - /img/2017/04/receita-fraldinha-recheada-braciole-thumb.jpg
   - /img/2017/04/receita-fraldinha-recheada-braciole-banner.jpg
