@@ -66,7 +66,8 @@ thumbnail: /img/2017/04/receita-fraldinha-recheada-braciole-thumb.jpg
 title: Conheça o espetacular Braciole, uma receita italiana de fraldinha recheada com
   tudo de bom
 totop: true
-  ---
+
+---
 
 O **Braciole** é uma receita espetacular de **origem italiana** (que nem eu) que é deliciosamente fácil de fazer.
 
