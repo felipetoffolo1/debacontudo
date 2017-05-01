@@ -1,0 +1,18 @@
+<div class="pure-g place-widget text-center">
+  <div class="pure-u-1">
+    <h2>{{ .Get "name" }}</h2>
+
+    <hr/>
+  </div>
+    <div class="pure-u-1 u-place">
+      <span class="entry-place">
+        <i class="fa fa-hourglass-start "></i>
+          <b>Tempo de Preparo: </b>{{ .Get "prep-time" }}</span>
+      <span class="entry-place">
+        <i class="fa fa-hourglass-half"></i>
+          <b>Tempo de Cozimento: </b>{{ .Get "cook-time" }}</span>
+      <span class="entry-place">
+      <i class="fa fa-hourglass-end"></i>
+        <b>Tempo Total: </b>{{ .Get "total-time" }}</span>
+      </div>
+</div>
