@@ -63,6 +63,7 @@ tags:
   - carne recheada
   - jantarADois
 thumbnail: /img/2017/04/receita-fraldinha-recheada-braciole-thumb.jpg
+feedImg: /img/2017/04/receita-fraldinha-recheada-braciole2.jpg
 title: Conheça o espetacular Braciole, uma receita italiana de fraldinha recheada com
   tudo de bom
 totop: true
