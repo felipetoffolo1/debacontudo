@@ -1,0 +1,7 @@
+<div class="img-short">
+<amp-img on="tap:lightbox-full"
+    role="button"
+    tabindex="0" src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" height="{{ .Get "height" }}" width="{{ .Get "width" }}" layout="fixed" ></amp-img>
+    <p class="text-muted caption">{{.Get "title"}}</p>
+<amp-image-lightbox id="lightbox-fixed" layout="nodisplay"></amp-image-lightbox>
+</div>
