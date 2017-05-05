@@ -22,7 +22,7 @@ tags:
   - hoteis
 
 thumbnail: /img/2017/05/qual-o-melhor-site-de-hoteis-thumb.jpg
-title: 'Sites de Pesquisa de Hotéis: Qual o site ideal para te ajudar a achar um hotel barato e bom'
+title: 'Sites de Pesquisa de Hotéis: Qual o melhor site para te ajudar a achar um hotel barato e bom'
 totop: true
 ---
 
