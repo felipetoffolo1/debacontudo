@@ -16,8 +16,17 @@ isPlainText = false
 isHTML = false
 NoUgly = true
 NotAlternative = false
+[outputFormats.instant]
+mediaType = "text/html"
+path="instant"
+rel = "alternate"
+isPlainText = false
+isHTML = true
+NoUgly = true
+NotAlternative = false
 [outputs]
 home = [ "HTML", "FACEBOOK", "RSS"]
+page = [ "HTML", "instant"]
 [blackfriday]
 hrefTargetBlank = true
 [taxonomies]
