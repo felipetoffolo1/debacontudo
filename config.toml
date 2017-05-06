@@ -8,6 +8,16 @@ enableRobotsTXT = true
 theme = "gohugo-amp"
 Paginate = 6
 MetaDataFormat = "yaml"
+[outputFormats.FACEBOOK]
+mediaType = "application/rss"
+baseName = "facebook"
+rel = "alternate"
+isPlainText = false
+isHTML = false
+NoUgly = true
+NotAlternative = false
+[outputs]
+home = [ "HTML", "FACEBOOK", "RSS"]
 [blackfriday]
 hrefTargetBlank = true
 [taxonomies]
