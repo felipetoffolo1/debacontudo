@@ -16,17 +16,18 @@ isPlainText = false
 isHTML = false
 NoUgly = true
 NotAlternative = false
-[outputFormats.instant]
+[outputFormats.INSTANT]
+name = "instant"
 mediaType = "text/html"
 path="instant"
-rel = "alternate"
+rel = "instant"
 isPlainText = false
 isHTML = true
-NoUgly = true
+NoUgly = false
 NotAlternative = false
 [outputs]
-home = [ "HTML", "FACEBOOK", "RSS"]
-page = [ "HTML", "instant"]
+home = [ "HTML", "FACEBOOK", "RSS" ,"INSTANT"]
+page = [ "HTML", "INSTANT"]
 [blackfriday]
 hrefTargetBlank = true
 [taxonomies]

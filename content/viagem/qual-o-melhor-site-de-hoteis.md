@@ -109,7 +109,7 @@ Como já disse, o **[TripAdvisor](https://www.tripadvisor.com.br/)** é recheado
 
 O **[Trivago](https://www.trivago.com.br/)** talvez é uns dos primeiros que vem a sua mente quando você pensa em pesquisar hotéis.
 
-{{quote-her "Claro, a cada cinco minutos tem uma propaganda na TV - Larissa"}}
+{{<quote-her "Claro, a cada cinco minutos tem uma propaganda na TV - Larissa">}}
 
 Apesar de ter ficado por último, o Trivago não é ruim. Apenas não encontrei vantagens em relação aos demais. Para não dizer que ele não tem nada melhor do que os outros,  ele tem o layout mais bonito da categoria.
 
