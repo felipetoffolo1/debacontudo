@@ -6,7 +6,6 @@
     <div id="primary" class="content-area">
       <main id="main" class="site-main" role="main">
 
-        <div class="container">
         <div class="pure-g">
           <!-- article -->
           <div class="pure-u-xl-4-24 pure-u-md-2-24">
@@ -85,11 +84,14 @@
                     </div>
                     <!-- .entry-meta -->
                   </div>
+                  <div class="">
                   <!-- .entry-header -->
                   <div class="entry-content">
                     {{ .Content }}
 
                   </div>
+                </div>
+
                   <!-- .entry-content -->
                   <footer class="entry-footer">
                     {{ if .Params.tags }}
@@ -206,7 +208,6 @@
           <!-- .row -->
         <!-- .container -->
 
-      </div>
       </main>
       <!-- #main -->
       <footer class="site-footer">
