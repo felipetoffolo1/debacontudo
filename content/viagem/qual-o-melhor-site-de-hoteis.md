@@ -61,11 +61,13 @@ Então você deve estar pensando: "Poxa, então tanto faz onde eu vou comprar!".
 
 ## Avaliações
 
-A parte de **comentários e avaliações** em um site de hotéis é uma das partes mais essenciais. É nela que você descobre de verdade se um hotel **é bom ou não**, se vale realmente a pena investir o seu dinheiro suado para passar alguns dias felizes ali ou se você corre o risco de só passar raiva.
-
-{{< img-full src="/img/2017/05/pesquisa-opiniao.jpeg" alt="Respondendo avaliação do hotel"  height="628" width="1200" layout="fixed" >}}
+A parte de **comentários e avaliações** em um site de hotéis é uma das partes mais essenciais.
 
 {{<quote-her "Eu leio TODAS as avaliações possíveis - Larissa">}}
+
+É nela que você descobre de verdade se um hotel **é bom ou não**, se vale realmente a pena investir o seu dinheiro suado para passar alguns dias felizes ali ou se você corre o risco de só passar raiva.
+
+{{< img-full src="/img/2017/05/pesquisa-opiniao.jpeg" alt="Respondendo avaliação do hotel"  height="628" width="1200" layout="fixed" >}}
 
 Nesse quesito, os **sites de compras** acabam se saindo melhor na maioria das vezes. Como os clientes contratam o hotel direto nesses sites, são eles que acabam recebendo o maior número de avaliações. Com exceção do TripAdvisor, pois o TripAdvisor é o maior (provavelmente) banco de dados de opiniões sobre hotéis (e tudo mais numa viagem) que eu conheço. Tanto que a maioria dos demais sites também mostram as avaliações do TripAdvisor, além das suas.
 
