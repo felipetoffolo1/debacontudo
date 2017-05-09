@@ -8,7 +8,7 @@ categories:
 date: 2017-05-08T14:53:44-03:00
 description: Entenda porque você não deve escolher o bistrô Jardim Bom Demais para
   tomar café da manhã. A não ser que queira se irritar
-draft: false
+draft: true
 images:
 - /img/2017/04/jardim-bom-demais-banner.jpg
 slug: melhor-brunch-de-brasilia
