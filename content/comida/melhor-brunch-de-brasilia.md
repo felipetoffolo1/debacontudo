@@ -1,17 +1,17 @@
 ---
 author:
 - larissa
-banner: /img/2017/04/jardim-bom-demais-banner.jpg
+banner: "/img/2017/04/jardim-bom-demais-banner.jpg"
 categories:
 - estilo-de-vida
 - comida
 date: 2017-05-08T14:53:44-03:00
-description: Entenda porque você não deve escolher o bistrô Jardim Bom Demais para
-  tomar café da manhã. A não ser que queira se irritar
+description: "Entenda porque você não deve escolher o bistrô Jardim Bom Demais para
+  tomar café da manhã. A não ser que queira se irritar"
 draft: true
 images:
 - /img/2017/04/jardim-bom-demais-banner.jpg
-slug: melhor-brunch-de-brasilia
+slug: "melhor-brunch-de-brasilia"
 structured:
   type: Article
 tags:
@@ -19,7 +19,7 @@ tags:
 - Brasília
 - Review
 thumbnail: /img/2017/04/jardim-bom-demais-thumb.jpg
-title: '6 brunches em Brasília que você precisa conhecer'
+title: "6 brunches em Brasília que você precisa conhecer"
 totop: true
 ---
 
@@ -38,7 +38,7 @@ CLN 104 - Bloco A - Loja 26
 
 Nós começamos a nossa busca no charmoso Daniel Briand. Com um clima parisiense e bem aconchegante, o Patissier (que é tipo um confeitaria fina francesa) é desses que faz a gente querer ficar sentado por horas, apenas apreciando a sua culinária. No cardápio, há duas opções disponíveis de brunch.
 
-{{< quote-him “Fico me sentido num café na Champs-Élysées , tudo muito chique - Felipe” >}}
+{{< quote-him "Fico me sentido num café na Champs-Élysées , tudo muito chique - Felipe" >}}
 
 A primeira é o **Première Formule** (R$ 50), que vem com pães, manteiga, queijo gruyère e geleia da casa, um croissant, um pão de chocolate, um brioche de amêndoa e patê de champagne ou salada de frutas com chantilly. Para beber, suco de laranja e um acompanhamento quente à sua escolha: café, chocolate ou chá (nacional ou importado).
 Já a segunda opção é o **Deuxième Formule** (R$ 41), que acompanha pães, manteiga, queijo gruyère e geleia da casa, um croissant e um pão de chocolate. Para beber, as mesmas opções do Première Formule.
@@ -63,7 +63,7 @@ Por R$ 28, você aprecia o brunch que acompanha uma cesta de pães, manteiga, ge
 
  O atendimento na Quitinete é sempre muito bom. Não temos do que reclamar. Dica: escolha as mesas de fora para sentar e apreciar a comida. O clima é bem mais legal!
 
-{{< quote-him “Se eu pudesse te dar só uma dica, seria, coma o ovo Benedict - Felipe”>}}
+{{< quote-him "Se eu pudesse te dar só uma dica, seria, coma o ovo Benedict - Felipe">}}
 
 Ernesto Cafés Especiais: o melhor para curtir a manhã
 SQS 115 - Bloco C - Loja 14
@@ -82,7 +82,7 @@ Já o brunch Universal (R$ 49) vem com café expresso ou cappuccino ou chocolate
 
 Nós fomos de New York City (wanna be fancy). Difícil escolher qual comida foi a mais gostosa. Mas, para mim, o ovo mexido (visivelmente feito de ovos caipira) e o pãozinho que vem junto são incomparáveis. Ah, o iogurte também estava divino.  Além do brunch, pedimos a omelete de muzzarella de búfala que valeu cada centavo.
 
-{{< quote-him “No brunch do Universal eles servem mimosa, eu até queria, mas achei caro” >}}
+{{< quote-him "No brunch do Universal eles servem mimosa, eu até queria, mas achei caro" >}}
 
 Ponto positivo para a decoração do Universal, que proporciona um clima super descontraído e ao mesmo tempo sofisticado, você sai de lá glamourosa.
 
