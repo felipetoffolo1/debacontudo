@@ -1,0 +1,32 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Recipe",
+  "name": "{{ .Title }}",
+  "description": "{{ .Params.description }}",
+  "recipeCategory": "{{ .Params.recipe.category }}",
+  "author": {
+    "name" : "Felipe Toffolo"
+  },
+  "description": "{{ .Params.description }}",
+  "datePublished" : "{{ .PublishDate.Format "2006-01-02T15:04:05" }}",
+  "dateModified" : "{{ .Date.Format "2006-01-02T15:04:05"  }}",
+  "prepTime": "{{ .Params.recipe.prepTime }}",
+  "totalTime": "{{ .Params.recipe.totalTime }}",
+  "recipeYield": "{{ .Params.recipe.recipeYield }}",
+  "recipeIngredient": {{ .Params.recipe.ingredients | jsonify }},
+  "recipeInstructions":{{ .Params.recipe.instructions | jsonify }},
+  "image" : {
+      "@context": "http://schema.org",
+      "@type": "ImageObject",
+      "author": "{{ .Params.image.author }}",
+      "url": "http://debacontudo.com.br/{{ .Params.thumbnail }}",
+      "datePublished": "{{ .PublishDate.Format "2006-01-02T15:04:05" }}",
+      "name": "{{ .Params.title }}",
+      "height" : 800,
+      "width" : 800,
+      "license" : "{{ .Params.image.license_link }}",
+      "isBasedOn" : "{{ .Params.image.link }}"
+    }
+}
+</script>

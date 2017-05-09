@@ -1,0 +1,26 @@
+{{ partial "seo/structured/website" . }}
+{{ partial "seo/structured/organization" . }}
+{{ partial "seo/structured/breadcrumb" . }}
+<!-- Schema.org markup -->
+{{ $BaseURL := .Site.BaseURL }}
+<meta itemprop="name" content="{{ .Title }}">
+
+{{ if .IsHome }}
+<meta itemprop="description" content="{{ .Site.Params.Description }}" >
+<meta itemprop="image" content="{{ $BaseURL }}{{ .Site.Params.Image }}">
+{{ else }}
+<meta itemprop="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}">
+<!-- Output images -->
+{{ with .Params.images }}{{ range first 6 . }}
+	<meta itemprop="image" content="{{ $BaseURL }}{{ . }}">
+{{ end }}{{ end }}
+{{ end }}
+
+
+{{if .IsPage}}
+<meta itemprop="wordCount" content="{{ .WordCount }}">
+{{ end }}
+
+{{ if eq .Params.structured.type "Article" }}{{ partial "seo/structured/article" . }}{{ end }}
+{{ if eq .Params.structured.type "Course" }}{{ partial "seo/structured/course" . }}{{ end }}
+{{ if eq .Params.structured.type "Recipe" }}{{ partial "seo/structured/recipe" . }}{{ end }}

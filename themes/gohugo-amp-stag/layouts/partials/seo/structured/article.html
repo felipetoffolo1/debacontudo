@@ -1,0 +1,35 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": "Felipe Toffolo",
+  "headline": "{{ .Title }}",
+  "description": "{{ .Params.description }}",
+  "wordCount": {{ .WordCount }},
+  "datePublished" : "{{ .Params.date }}",
+  "dateModified" : "{{ .Date.Format "2006-01-02T15:04:05"  }}",
+  "image" : {
+      "@context": "http://schema.org",
+      "@type": "ImageObject",
+      "author": "{{ .Params.image.author }}",
+      "url": "http://debacontudo.com.br/{{ .Params.thumbnail }}",
+      "datePublished": "{{ .Params.date }}",
+      "name": "{{ .Params.title }}",
+      "height" : 800,
+      "width" : 800,
+      "license" : "{{ .Params.image.license_link }}",
+      "isBasedOn" : "{{ .Params.image.link }}"
+    },
+  "mainEntityOfPage" : "{{ .Permalink }}",
+  "publisher" : {
+    "@type": "Organization",
+    "name" : "{{ $.Site.Params.publisherName }}",
+    "logo" : {
+        "@type" : "ImageObject",
+        "url" : "{{ $.Site.Params.publisherLogo }}",
+        "height" : "{{ $.Site.Params.publisherLogoHeight }}",
+        "width" : "{{ $.Site.Params.publisherLogoWidth }}"
+    }
+  }
+}
+</script>
