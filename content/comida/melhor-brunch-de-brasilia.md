@@ -1,7 +1,7 @@
 ---
 author:
 - larissa
-banner: "/img/2017/04/jardim-bom-demais-banner.jpg"
+banner: "/img/2017/05/melhores-brunches-de-brasilia-banner.jpg"
 categories:
 - estilo-de-vida
 - comida
@@ -10,7 +10,7 @@ description: "Entenda porque você não deve escolher o bistrô Jardim Bom Demai
   tomar café da manhã. A não ser que queira se irritar"
 draft: true
 images:
-- /img/2017/04/jardim-bom-demais-banner.jpg
+-  /img/2017/05/melhores-brunches-de-brasilia-banner.jpg
 slug: "melhor-brunch-de-brasilia"
 structured:
   type: Article
@@ -18,7 +18,7 @@ tags:
 - Restaurantes
 - Brasília
 - Review
-thumbnail: /img/2017/04/jardim-bom-demais-thumb.jpg
+thumbnail:  "/img/2017/05/melhores-brunches-de-brasilia-thumb.jpg"
 title: "6 brunches em Brasília que você precisa conhecer"
 totop: true
 ---
