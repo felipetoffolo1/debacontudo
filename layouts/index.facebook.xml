@@ -14,9 +14,35 @@
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{ with .Site.Author.email }}
       <author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>
-      {{end}}
+      {{ end }}
       <description>{{ .Description | html }}</description>
-      <content:encoded>{{chomp "<![CDATA[\n"}}{{ .Content | safeHTML }}{{chomp "]]>\n"}}</content:encoded>
+      <content:encoded>
+
+             {{chomp "<![CDATA[\n"}} <html lang="pt-br" prefix="op: http://media.facebook.com/op#">
+              <head>
+                <meta charset="utf-8">
+                <link rel="canonical" href="{{ .Permalink }}">
+                <meta property="op:markup_version" content="v1.0">
+              </head>
+              <body>
+                <article>
+                  <header>
+                    <figure>
+                      <img src="{{ .Params.banner }}" />
+                    </figure>
+                    <h1 class="entry-title">{{ .Params.title }}</h1>
+
+                    <time class="op-published" datetime="2017-5-05T19:00">{{ .Date.Format "2" }} {{ .Date.Format "Jan" }}, {{ .Date.Format "2006" }}</time>
+                    <time class="op-modified" datetime="2017-5-05T19:00">{{ .Date.Format "2" }} {{ .Date.Format "Jan" }}, {{ .Date.Format "2006" }}</time>
+                  </header>
+                  {{ .Content | safeHTML }}
+                </article>
+              </body>
+             </html>
+                  {{chomp "]]>\n"}}
+
+
+      </content:encoded>
     </item>
     {{ end }}
   </channel>
