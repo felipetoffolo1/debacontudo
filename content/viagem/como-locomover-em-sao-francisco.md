@@ -65,6 +65,8 @@ Abaixo as opções de Muni Passport  :
 
 Nós compramos um [San Francisco City Pass](http://www.citypass.com/san-francisco) que além do transporte dá acesso a algumas atrações, que você tem que visitar anyway (saiba mais no nosso post de São Francisco). Então vale muito a pena.
 
+E aqui você encontra os [mapas do transporte público](https://www.sfmta.com/maps) de São Francisco
+
 # Street Car, o mais usado
 
 O Street Car é tipo um filhote de ônibus com trem.  É um meio de transporte histórico da cidade que funciona super bem. Gente, o Street Car não é aquele bondinho, calma que já chegaremos nele.
@@ -73,7 +75,9 @@ O Street Car é parte do sistema Muni de transporte, então você pode usar um p
 
 ## Quando usar
 
-A gente usava sempre que podia. O Street Car percorre principalmente a região central de São Francisco e a região dos Pier. Que são algumas das principais regiões turísticas de São Francisco. Então a gente sempre pegava o street cara para ir ao Pier 32, Ferry Build Marketing Place e Exploratorium, entre outros.
+A gente usava sempre que podia. O Street Car percorre principalmente a região central de São Francisco e a região dos Pier. Que são algumas das principais regiões turísticas de São Francisco. Então a gente sempre pegava o street cara para ir ao Pier 32, Ferry Build Marketing Place e Exploratorium, entre outros. Essa rota especificamente é chamada de **F-Line**
+
+{{< img-full src="/img/2017/05/mapa-muni-sao-francisco-f-line.jpg" alt="Respondendo avaliação do hotel"  height="531" width="770" layout="fixed" >}}
 
 # Cable Car, o mais cool
 
@@ -102,5 +106,7 @@ Então, São Francisco é cheio de ladeiras para baixo e para cima (obviamente, 
 
 
 Bem, espero que isso seja o suficiente para você naõ ficar perdido em São Francisco. Mas caso você fique, você escolheu um dos melhores lugares para se perder ;)
+
+**Dica:** Use o **Google Maps** como explicamos nesse post de **[apps de viagem](http://debacontudo.com.br/viagem/10-aplicativos-para-viagem/)** ele vai te ajudar muito.
 
 Qualquer dúvida e comentário é só mandar. 
