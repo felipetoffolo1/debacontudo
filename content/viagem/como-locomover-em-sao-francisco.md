@@ -22,11 +22,11 @@ tags:
   - hoteis
 
 thumbnail: /img/2017/05/como-locomover-em-sao-francisco-thumb.jpg
-title: 'Como se locomover em São Francisco: principais transportes e rotas'
+title: 'Como andar em São Francisco: principais transportes e rotas'
 totop: true
 ---
 
-São Francisco é uma cidade com vários meios de locomoção, então decidi fazer esse texto explicando como se locomover em São Francisco da melhor forma. Destacando os principais meios de transporte e onde usá-los.
+São Francisco é uma cidade com vários meios de locomoção, metrô, Bart,muni, street car, cable car, etc.. As opções são muitas, então decidi meio que traça um mapa do transporte público em São Francisco, mostrando as opções e explicando quando usá-las..
 
 # Devo alugar carro em São Francisco?
 
@@ -52,13 +52,22 @@ Falando nisso, fica esperto que o metrô lá é rápido. Eu dei bobeira no dia q
 
 # O sistema Muni
 
-"O sistema o que Felipe?". O sistema Muni, que siginifica xxxxxxxxxx. Esse sistema engloba o street car, cable car e onibus. O que é ótimo, já que você pode comprar passes para andar em todos eles livremente.
+"O sistema o que Felipe?". O sistema Muni, que significa xxxxxxxxxx. Esse sistema engloba o street car, cable car e onibus. O que é ótimo, já que você pode comprar passes para andar em todos eles livremente. 
 
-As opções são xxxx
+Abaixo as opções de Muni Passport  :
+
+| Passe de Transporte Muni              | Valor  |
+| ------------------------------------- | ------ |
+| 1-Day Visitor Passport - 1 dia        | $21.00 |
+| 3-Day Visitor Passport - 2 dias       | $32.00 |
+| 7-Day Visitor Passport - 3 dias       | $42.00 |
+| Adult CityPASS® - 9 Dia mais atrações | $94.00 |
+
+Nós compramos um [San Francisco City Pass](http://www.citypass.com/san-francisco) que além do transporte dá acesso a algumas atrações, que você tem que visitar anyway (saiba mais no nosso post de São Francisco). Então vale muito a pena.
 
 # Street Car, o mais usado
 
-O Street Car é tipo um filhote de onibus com trem.  É um meio de transporte histórico da cidade que funciona super bem. Gente, o Street Car não é aquele bondinho, calma que já chegaremos nele.
+O Street Car é tipo um filhote de ônibus com trem.  É um meio de transporte histórico da cidade que funciona super bem. Gente, o Street Car não é aquele bondinho, calma que já chegaremos nele.
 
 O Street Car é parte do sistema Muni de transporte, então você pode usar um passe ou pagar por cada viagem. 
 
@@ -81,6 +90,10 @@ Bem, além das opções mais legais, São Francisco também tem o bom e velho ô
 ## Quando usar
 
 Basicamente sempre que não der para usar o street car, ou seja, saindo do centro. Você vai usar para ir pro Golden Gate Park, nas 3 Painted Ladies e nos bairros de Castro e Haight-Ashbury.
+
+# Bicicleta
+
+
 
 # E a pé? Rola de andar?
 
