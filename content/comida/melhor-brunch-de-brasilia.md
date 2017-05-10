@@ -6,8 +6,7 @@ categories:
 - estilo-de-vida
 - comida
 date: 2017-05-08T14:53:44-03:00
-description: "Entenda porque você não deve escolher o bistrô Jardim Bom Demais para
-  tomar café da manhã. A não ser que queira se irritar"
+description: "Se tem um programa que a gente gosta de fazer nos finais de semana é acordar e sair para descobrir lugares onde tomar café da manhã em Brasília, sem nenhuma preocupação. E nada como um brunch caprichado para matar esse desejo, né?"
 draft: true
 images:
 -  /img/2017/05/melhores-brunches-de-brasilia-banner.jpg
@@ -23,38 +22,37 @@ title: "6 brunches em Brasília que você precisa conhecer"
 totop: true
 ---
 
-Se tem um programa que a gente gosta de fazer nos finais de semana é acordar e sair para descobrir lugares onde tomar café da manhã em Brasília, sem nenhuma preocupação. E nada como um brunch caprichado para matar esse desejo, né?
+Se tem um programa que a gente gosta de fazer nos finais de semana é acordar e sair para descobrir lugares onde tomar **café da manhã em Brasília**, sem nenhuma preocupação. E nada como um brunch caprichado para matar esse desejo, né?
 
-Mas o que é Brunch mesmo?
+# Mas o que é Brunch mesmo?
 
-Brunch é a mistura do breakfast (café da manhã) com o lunch (almoço), ou seja um café da manhã bem reforçado no meio da manhã. Dizem que foi criado na Inglaterra, no final do século 19, para atender àqueles que só conseguiam acordar muito tarde, depois de passar a noite inteira na farra. O cardápio inclui refeições mais completas e uma variedade maior de pratos. A proposta do brunch é que você faça sua refeição com calma, conversando, curtindo, sem muita pressa para terminar de comer.
+Brunch é a mistura do **breakfast** (café da manhã) com o **lunch** (almoço), ou seja um **café da manhã bem reforçado** no meio da manhã. Dizem que foi criado na Inglaterra, no final do século 19, para atender àqueles que só conseguiam acordar muito tarde, depois de passar a noite inteira na farra. O cardápio inclui refeições mais completas e uma variedade maior de pratos. A proposta do brunch é que você faça sua refeição com calma, conversando, curtindo, sem muita pressa para terminar de comer.
 
-Já que amamos um brunch, resolvemos sair em busca do melhor brunch de Brasília. Tem cardápio mais brunch francês, mais abrasileirado, mais simples e mais encorpado. Vamos aos nossos escolhidos!
+Já que amamos um brunch, resolvemos sair em busca so ** melhor brunch de Brasília**. Tem brunch francês, mais abrasileirado, mais simples e mais encorpado. Vamos aos nossos escolhidos!
 
-Branches em Brasília
+# Daniel Briand: o melhor croissant
 
-Daniel Briand: o melhor croissant
 CLN 104 - Bloco A - Loja 26
 
-Nós começamos a nossa busca no charmoso Daniel Briand. Com um clima parisiense e bem aconchegante, o Patissier (que é tipo um confeitaria fina francesa) é desses que faz a gente querer ficar sentado por horas, apenas apreciando a sua culinária. No cardápio, há duas opções disponíveis de brunch.
+Nós começamos a nossa busca no **charmoso Daniel Briand**. Com um clima **parisiense** e bem aconchegante, o Patissier (que é tipo um confeitaria fina francesa) é desses que faz a gente querer ficar sentado por horas, apenas apreciando a sua culinária. No cardápio, há **duas opções** disponíveis de brunch.
 
 {{< quote-him "Fico me sentido num café na Champs-Élysées , tudo muito chique - Felipe" >}}
 
-A primeira é o **Première Formule** (R$ 50), que vem com pães, manteiga, queijo gruyère e geleia da casa, um croissant, um pão de chocolate, um brioche de amêndoa e patê de champagne ou salada de frutas com chantilly. Para beber, suco de laranja e um acompanhamento quente à sua escolha: café, chocolate ou chá (nacional ou importado).
+A primeira é o **Première Formule** (R$ 50), que vem com pães, manteiga, queijo gruyère e geleia da casa, um croissant, um pão de chocolate, um brioche de amêndoa e patê de champagne ou salada de frutas com chantilly. Para beber, suco de laranja e um acompanhamento quente à sua escolha: café, chocolate ou chá.
 Já a segunda opção é o **Deuxième Formule** (R$ 41), que acompanha pães, manteiga, queijo gruyère e geleia da casa, um croissant e um pão de chocolate. Para beber, as mesmas opções do Première Formule.
 
-Escolhemos a primeira opção. Depois de escolher uma mesa, fomos rapidamente atendidos, mesmo com o restaurante bem cheio.  Das comidas, o destaque absoluto fica por conta do croissant, que é extremamente delicioso, além da combinação do queijo gruyére com o patê de champagne. O pão de chocolate também é muito saboroso. O Première Formule serviu bem para mim e para o Felipe. Pedimos apenas uma bebida quente à parte (café nunca é demais). <3
+Depois de escolher uma mesa, fomos **rapidamente atendidos,** mesmo com o restaurante bem cheio.  Escolhemos a primeira opção de Brunch. E o destaque absoluto fica por conta do croissant, que é extremamente delicioso, além da combinação do queijo gruyére com o patê de champagne. O pão de chocolate também é muito bom. O Première Formule serviu bem para mim e para o Felipe. Pedimos apenas uma bebida quente à parte (café nunca é demais). <3
 
+# Belini Café - The Coffee Experience: o melhor café
 
-Belini Café - The Coffee Experience: o melhor café
 CLS 114 - Bloco B - Loja 07
 
-Para quem adora café como a gente, a Belini Café é parada quase que obrigatória. No cardápio, uma imensa variedade da bebida (vale um post depois só falando disso). Mas, voltando ao tema brunch, eles oferecem no menu opções mais abrasileirada, com tudo aquilo que a gente gosta. O **café preguicinha** (melhor nome de brunch) (R$25), que foi a nossa escolha, acompanha um café especial coado, um croissant, geléia e manteiga, salada de frutas, iogurte, granola caseira e porção de ovos mexidos. Há ainda outras opções de café da manhã no cardápio, menos parecidas com brunch, como o café fit, que acompanha café coado com torradas; o café dos campeões, que vem com panqueca e vitamina de banana; além do café zero lactose e zero glúten (tá na moda né).
+Para quem **adora café** como a gente, a **Belini Café** é parada quase que obrigatória. No cardápio, uma imensa variedade da bebida. Mas, voltando ao tema brunch, eles oferecem no menu opções mais abrasileiradas, com tudo aquilo que a gente gosta. O **café preguicinha** (melhor nome de brunch) (R$25), que foi a nossa escolha, acompanha um café especial coado, um croissant, geléia e manteiga, salada de frutas, iogurte, granola caseira e porção de ovos mexidos. Há ainda outras opções de café da manhã no cardápio, menos parecidas com brunch, como o café fit, que acompanha café coado com torradas; o café dos campeões, que vem com panqueca e vitamina de banana; além do café zero lactose e zero glúten (tá na moda né).
 
-O atendimento foi ótimo. O destaque fica para o café coado e para os ovos mexidos (nós pedimos para acrescentar bacon, porque né, temos que honrar o nome). O café preguicinha serve bem uma pessoa ou mais ou menos duas pessoas. Nós pedimos à parte uma porção de pão de queijo, outra de ovos mexidos e mais um café (como sempre né).
+O atendimento foi ótimo. O destaque fica para o café coado e para os ovos mexidos (nós pedimos para acrescentar bacon, porque né, temos que honrar o nome). O café preguicinha serve bem uma pessoa ou mais ou menos duas. Nós pedimos à parte uma porção de pão de queijo, outra de ovos mexidos e mais um café (como sempre né).
 
+# Quitinete Gourmet: o melhor custo x benefício
 
-Quitinete Gourmet: o melhor custo x benefício
 CLS 209 - Bloco B - Loja 05
 
 O brunch da Quitinete Gourmet é um dos nossos favoritos. Primeiro por conta do ovo benedict, que é simplesmente divino. Depois por conta do preço, que é super acessível.
@@ -65,10 +63,11 @@ Por R$ 28, você aprecia o brunch que acompanha uma cesta de pães, manteiga, ge
 
 {{< quote-him "Se eu pudesse te dar só uma dica, seria, coma o ovo Benedict - Felipe">}}
 
-Ernesto Cafés Especiais: o melhor para curtir a manhã
+# Ernesto Cafés Especiais: o melhor para curtir a manhã
+
 SQS 115 - Bloco C - Loja 14
 
-O Ernesto tem um clima delicioso para começar o dia. Ficar debaixo das árvores apreciando um bom café da manhã e vendo a vida passar. Escolhemos o dia do meu aniversário para conhecer esse brunch. Apesar de estar bastante cheio (aos sábados lá é sempre movimentado), o atendimento do restaurante foi bem rápido. Nossa dica é que você não chegue com muita fome, caso queira escolher uma mesa melhor. Tá, mas e a comida, vale a pena?
+O **Ernesto** tem um clima delicioso para começar o dia. O bom aqui é ficar debaixo das árvores apreciando um bom café da manhã e vendo a vida passar. Escolhemos o dia do meu aniversário para conhecer esse brunch. Apesar de estar bastante cheio (aos sábados lá é sempre movimentado), o atendimento do restaurante foi bem rápido. Nossa dica é que você não chegue com muita fome, caso queira escolher uma mesa melhor. Tá, mas e a comida, vale a pena?
 
 O brunch do Ernesto Café  é composto por uma cesta de pães, ovo mexido com bacon, salada de frutas com granola, manteiga, requeijão e geleia da casa. Para beber, as tradicionais bebidas de brunch: suco de laranja e café ou cappuccino. O destaque do brunch são os pães, extremamente bem feitos e deliciosos.
 
