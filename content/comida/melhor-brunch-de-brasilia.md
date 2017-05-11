@@ -111,7 +111,7 @@ CLN 413 - Bloco D - Sobreloja Sala 113
 
 Encerramos a nossa busca pelos melhores brunches de Brasília no **Quintal F/508**, que foi uma grata surpresa para nós.
 
-Inicialmente, o local funcionava apenas como um **espaço de fotografia**. Mas, para atender às demandas gastronômicas dos alunos, eles decidiram abrir, em 2014, o café e espaço de convivência, Quintal F/508. O F do nome vem  ao número de abertura de lentes fotográficas. (sim, nós ficamos curiosos e perguntamos isso). Já o  508 faz referência à antiga localização, na 508 Sul.
+Inicialmente, o local funcionava apenas como um **espaço de fotografia**. Mas, para atender às demandas gastronômicas dos alunos, eles decidiram abrir, em 2014, o café e espaço de convivência, Quintal F/508. O F do nome faz uma referência ao número de abertura de lentes fotográficas. (sim, nós ficamos curiosos e perguntamos isso). Já o  508 faz referência à antiga localização, na 508 Sul.
 
 Bem escondidinho, o espaço é pequeno e **aconchegante**. Quando você chega, parece que você está chegando na casa de alguém, dá até para acompanhar de perto a preparação das comidas. O ambiente é super descontraído, possui mini exposições de fotografias  e uma decoração mega descolada. Tudo isso faz você querer ficar lá sentado aproveitando a experiência. Sem falar na vista para o parque olhos d’água que também não é nada mal.
 
