@@ -28,7 +28,7 @@ Se tem um programa que a gente gosta de fazer nos fins de semana é acordar e sa
 
 Brunch é a mistura do **breakfast** (café da manhã) com o **lunch** (almoço), ou seja um **café da manhã bem reforçado** no meio da manhã. Dizem que foi criado na Inglaterra, no final do século 19, para atender àqueles que só conseguiam acordar muito tarde, depois de passar a noite inteira na farra. O cardápio inclui refeições mais completas e uma variedade maior de pratos. A proposta do brunch é que você faça sua refeição com calma, conversando, curtindo, sem muita pressa para terminar de comer.
 
-Já que amamos um brunch, resolvemos sair em busca do ** melhor brunch de Brasília**. Tem brunch francês, mais abrasileirado, mais simples e mais encorpado. Vamos aos nossos escolhidos!
+Já que amamos um brunch, resolvemos sair em busca do **melhor brunch de Brasília**. Tem brunch francês, mais abrasileirado, mais simples e mais encorpado. Vamos aos nossos escolhidos!
 
 # Daniel Briand: o melhor croissant
 
@@ -65,7 +65,7 @@ O brunch da **Quitinete Gourmet** é um dos nossos favoritos. Primeiro por conta
 
 Por R$ 28, você aprecia o brunch que acompanha uma cesta de pães, manteiga, geleia da casa, requeijão, ovo benedict (hummmm), salada de frutas, bolo de cenoura, queijo com bacon, mini panqueca com chantilly, suco de laranja e uma bebida quente à sua escolha.
 
- O atendimento na Quitinete é sempre muito bom. Não temos do que reclamar. 
+ O atendimento na Quitinete é sempre muito bom. Não temos do que reclamar.
 
 **Dica**: escolha as mesas de fora para sentar e apreciar a comida. O clima é bem mais legal!
 
@@ -77,7 +77,7 @@ SQS 115 - Bloco C - Loja 14
 
 {{< img-full src="/img/2017/05/brunch-ernesto-cafes-especiais.jpg" alt="Brunch Ernesto Cafés Especiais Brasilia"  height="788" width="940" >}}
 
-O **Ernesto** tem um clima delicioso para começar o dia. O bom aqui é ficar debaixo das árvores apreciando um bom café da manhã e **vendo a vida passar**. 
+O **Ernesto** tem um clima delicioso para começar o dia. O bom aqui é ficar debaixo das árvores apreciando um bom café da manhã e **vendo a vida passar**.
 
 Escolhemos o dia do meu aniversário para conhecer esse brunch. Apesar de estar bastante cheio (aos sábados lá é sempre movimentado), o atendimento do restaurante foi **bem rápido**. Mas a nossa **dica** é que você não chegue com muita fome, caso queira escolher uma mesa melhor. Tá, mas e a comida, vale a pena?
 
@@ -95,11 +95,11 @@ No cardápio, duas opções de brunches: New York City (R$ 49), que acompanha um
 
 Já o brunch Universal (R$ 49) vem com café expresso ou cappuccino ou chocolate quente, suco de laranja, iogurte artesanal com melaço, omelete de mozzarella de búfala, tomatinhos e manjericão, brioche com salmão curado e creme de endro dill.
 
-Nós fomos de **New York City** (wanna be fancy). Difícil escolher qual comida foi a mais gostosa. Mas, para mim, o ovo mexido (visivelmente feito de **ovos caipira**) e o pãozinho que vem junto são incomparáveis. 
+Nós fomos de **New York City** (wanna be fancy). Difícil escolher qual comida foi a mais gostosa. Mas, para mim, o ovo mexido (visivelmente feito de **ovos caipira**) e o pãozinho que vem junto são incomparáveis.
 
 Ah, o iogurte também estava divino.  Além do brunch, pedimos a omelete de muzzarella de búfala que valeu cada centavo.
 
-{{< quote-him "No brunch do Universal eles servem mimosa, eu até queria, mas achei caro" >}}
+{{< quote-him "No brunch do Universal eles servem mimosa, eu até queria, mas achei caro - Felipe" >}}
 
 Ponto positivo para a decoração do Universal, que proporciona um clima super descontraído e ao mesmo tempo sofisticado, você sai de lá glamourosa.
 
@@ -115,7 +115,7 @@ Inicialmente, o local funcionava apenas como um **espaço de fotografia**. Mas, 
 
 Bem escondidinho, o espaço é pequeno e **aconchegante**. Quando você chega, parece que você está chegando na casa de alguém, dá até para acompanhar de perto a preparação das comidas. O ambiente é super descontraído, possui mini exposições de fotografias  e uma decoração mega descolada. Tudo isso faz você querer ficar lá sentado aproveitando a experiência. Sem falar na vista para o parque olhos d’água que também não é nada mal.
 
-Mas, vamos ao que interessa! **E o brunch?** Vale a pena? Sim! Valeu demais. Bem, o brunch do Quintal F/508 serve tranquilamente **duas pessoas**. Por R$ 49, ele acompanha  torre de banana pancake acompanhada de mel, geleia caseira ou nutella, omelete de forno com recheios do dia, queijo quente especial feito no pão de fermentação natural com queijos especiais e manjericão, iogurte natural com geleia caseira, mel e frutas frescas, cestinha de biscoitos caseiros, bebida quente e suco do dia. 
+Mas, vamos ao que interessa! **E o brunch?** Vale a pena? Sim! Valeu demais. Bem, o brunch do Quintal F/508 serve tranquilamente **duas pessoas**. Por R$ 49, ele acompanha  torre de banana pancake acompanhada de mel, geleia caseira ou nutella, omelete de forno com recheios do dia, queijo quente especial feito no pão de fermentação natural com queijos especiais e manjericão, iogurte natural com geleia caseira, mel e frutas frescas, cestinha de biscoitos caseiros, bebida quente e suco do dia.
 
 O que achei bem legal também é a opção do **meio brunch**. Se você quiser ir sozinho ou não quiser dividir, por R$ 29 você experimenta as mesmas comidas, mas em proporção menor. Legal, né?! O destaque da comida vai para o **queijo quente** e para a t**orre de banana pancake**. Ambos estavam simplesmente deliciosos.
 
