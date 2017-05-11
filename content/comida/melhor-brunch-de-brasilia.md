@@ -5,8 +5,8 @@ banner: "/img/2017/05/melhores-brunches-de-brasilia-banner.jpg"
 categories:
 - estilo-de-vida
 - comida
-date: 2017-05-08T14:53:44-03:00
-description: "Se tem um programa que a gente gosta de fazer nos finais de semana é acordar e sair para descobrir lugares onde tomar café da manhã em Brasília, sem nenhuma preocupação. E nada como um brunch caprichado para matar esse desejo, né?"
+date: 2017-05-11T18:30:44-03:00
+description: "Descubra o resultado da nossa busca pelo melhor brunch de Brasília. Vários lugares em Brasília servem brunches deliciosos que você não pode perder."
 draft: true
 images:
 -  /img/2017/05/melhores-brunches-de-brasilia-banner.jpg
@@ -18,11 +18,11 @@ tags:
 - Brasília
 - Review
 thumbnail:  "/img/2017/05/melhores-brunches-de-brasilia-thumb.jpg"
-title: "6 brunches em Brasília que você precisa conhecer"
+title: "6 incríveis brunches em Brasília que vão fazer você babar"
 totop: true
 ---
 
-Se tem um programa que a gente gosta de fazer nos finais de semana é acordar e sair para descobrir lugares onde tomar **café da manhã em Brasília**, sem nenhuma preocupação. E nada como um brunch caprichado para matar esse desejo, né?
+Se tem um programa que a gente gosta de fazer nos finais de semana é acordar e sair para descobrir lugares onde tomar **café da manhã em Brasília**, sem nenhuma preocupação. E nada como um brunch caprichado para matar esse desejo, né?  Então decidimos buscar o **melhor brunch de Brasília**.  E descobrimos 6 lugares incríveis que **você não pode deixar de conhecer**.
 
 # Mas o que é Brunch mesmo?
 
