@@ -28,7 +28,7 @@ Se tem um programa que a gente gosta de fazer nos fins de semana é acordar e sa
 
 Brunch é a mistura do **breakfast** (café da manhã) com o **lunch** (almoço), ou seja um **café da manhã bem reforçado** no meio da manhã. Dizem que foi criado na Inglaterra, no final do século 19, para atender àqueles que só conseguiam acordar muito tarde, depois de passar a noite inteira na farra. O cardápio inclui refeições mais completas e uma variedade maior de pratos. A proposta do brunch é que você faça sua refeição com calma, conversando, curtindo, sem muita pressa para terminar de comer.
 
-Já que amamos um brunch, resolvemos sair em busca so ** melhor brunch de Brasília**. Tem brunch francês, mais abrasileirado, mais simples e mais encorpado. Vamos aos nossos escolhidos!
+Já que amamos um brunch, resolvemos sair em busca do ** melhor brunch de Brasília**. Tem brunch francês, mais abrasileirado, mais simples e mais encorpado. Vamos aos nossos escolhidos!
 
 # Daniel Briand: o melhor croissant
 
