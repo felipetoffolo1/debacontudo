@@ -117,7 +117,7 @@ Bem escondidinho, o espaço é pequeno e **aconchegante**. Quando você chega, p
 
 Mas, vamos ao que interessa! **E o brunch?** Vale a pena? Sim! Valeu demais. Bem, o brunch do Quintal F/508 serve tranquilamente **duas pessoas**. Por R$ 49, ele acompanha  torre de banana pancake acompanhada de mel, geleia caseira ou nutella, omelete de forno com recheios do dia, queijo quente especial feito no pão de fermentação natural com queijos especiais e manjericão, iogurte natural com geleia caseira, mel e frutas frescas, cestinha de biscoitos caseiros, bebida quente e suco do dia.
 
-O que achei bem legal também é a opção do **meio brunch**. Se você quiser ir sozinho ou não quiser dividir, por R$ 29 você experimenta as mesmas comidas, mas em proporção menor. Legal, né?! O destaque da comida vai para o **queijo quente** e para a t**orre de banana pancake**. Ambos estavam simplesmente deliciosos.
+O que achei bem legal também é a opção do **meio brunch**. Se você quiser ir sozinho ou não quiser dividir, por R$ 29 você experimenta as mesmas comidas, mas em proporção menor. Legal, né?! O destaque da comida vai para o **queijo quente** e para a **torre de banana pancake**. Ambos estavam simplesmente deliciosos.
 
 # Bistrô Jardim Bom Demais: a maior decepção
 

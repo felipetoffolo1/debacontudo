@@ -97,6 +97,12 @@ Basicamente sempre que não der para usar o street car, ou seja, saindo do centr
 
 # Bicicleta
 
+Bicicleta é um meio de transporte super usado em São Francisco. A gente mesmo usou, pois tem algumas empresas que fazem o aluguel das bikes.
+
+## Quando usar
+
+Eu sugiro usar igual a gente usou, fazendo um passeio do Pier 31 até a Golden Gate. Porque no centrão é tudo muita ladeira. Já na região do Embarcadeiro onde ficam os piers é bem mais plano. Mas não ache que não vai dar uma suadinha viu... A Larissa achou que não ia suar e olha a cara dela no passeio
+
 
 
 # E a pé? Rola de andar?
