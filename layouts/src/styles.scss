@@ -1804,8 +1804,8 @@ input[type="submit"] {
 
                 .popular-entry-thumbnail {
 
-                  width: 130px;
-                  height: 130px;
+                  width: 125px;
+                  height: 125px;
                   float: left;
                   margin: 0 15px 0 0;
                   @media screen and (min-width: 992px) and (max-width: 1200px) {
@@ -1819,14 +1819,14 @@ input[type="submit"] {
 
                 .popular-entry-title {
                     display: block;
-                    margin-top: 10px;
+                    margin-top: 15px;
                     font-weight: 500;
 
 
                     .popular-entry-title-link {
                         display: block;
                         @include font-family($font-secondary);
-                        font-size: 18px;
+                        font-size: 16px;
                         text-transform: uppercase;
                         letter-spacing: 1px;
                         color: $text-color;

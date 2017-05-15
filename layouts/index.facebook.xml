@@ -69,11 +69,11 @@
                               m.parentNode.insertBefore(a, m)
                             })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
                             ga('create', '{{ $Site.Params.Gaid}}', 'auto');
-                            ga('send', 'pageview');
-                            ga('set', 'title', {{.Title}});
                             ga('require', 'displayfeatures');
+                            ga('set',  'title', {{.Title}});
                             ga('set', 'campaignSource', 'Facebook');
                             ga('set', 'campaignMedium', 'Social Instant Article');
+                            ga('send', 'pageview');
                           </script>
                         </iframe>
                       </figure>
