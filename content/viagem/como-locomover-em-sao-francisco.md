@@ -114,4 +114,4 @@ Bem, espero que isso seja o suficiente para você naõ ficar perdido em São Fra
 
 **Dica:** Use o **Google Maps** como explicamos nesse post de **[apps de viagem](http://debacontudo.com.br/viagem/10-aplicativos-para-viagem/)**. Ele vai te ajudar muito!
 
-Tem alguma dúvida ou comentári? Escreva pra gente! 
+Tem alguma dúvida ou comentário? Escreva pra gente! 
