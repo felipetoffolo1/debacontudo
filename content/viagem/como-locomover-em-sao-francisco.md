@@ -5,8 +5,9 @@ banner: /img/2017/05/como-se-locomover-em-sao-francisco-banner.jpg
 pinterest: /img/2017/05/como-se-locomover-em-sao-francisco-pinterest.jpg
 categories:
   - viagem
-date: 2017-05-16T12:10:00
-description: São Francisco é uma cidade com vários meios de locomoção: As opções são muitas, então decidi traçar um mapa do transporte público em São Francisco, mostrando suas opções e quando usar cada uma delas para andar em São Francisco.
+date: 2017-05-16T12:29:16
+description: São Francisco é uma cidade com vários meios de locomoção. As opções são muitas, então decidi traçar um mapa do transporte público em São Francisco, mostrando suas opções e quando usar cada uma delas para andar em São Francisco.
+draft: false
 images:
   - /img/2017/05/como-se-locomover-em-sao-francisco-pinterest.jpg
   - /img/2017/05/como-se-locomover-em-sao-francisco-banner.jpg
@@ -121,7 +122,7 @@ Apesar de ele levar em bastantes locais a gente usou bem pouco. Demos sempre pre
 
 # Andar de Bicicleta
 
-Bicicleta é um meio de transporte **super usado** em São Francisco, mas tem que saber como andar de bicicleta em São Francisco. A gente mesmo usou, pois tem algumas empresas que fazem o **aluguel das bikes**, usamos a  [Blazzing Saddles](https://www.blazingsaddles.com/)  que foi ótima. 
+Bicicleta é um meio de transporte **super usado** em São Francisco, mas tem que saber como andar de bicicleta em São Francisco. A gente mesmo usou, pois tem algumas empresas que fazem o **aluguel das bikes**, usamos a  [Blazzing Saddles](https://www.blazingsaddles.com/)  que foi ótima.
 
 ## Quando usar
 
