@@ -5,9 +5,8 @@ banner: /img/2017/05/como-se-locomover-em-sao-francisco-banner.jpg
 pinterest: /img/2017/05/como-se-locomover-em-sao-francisco-pinterest.jpg
 categories:
   - viagem
-date: 2017-05-16T19:29:16
-description: Descubra qual o melhor site de pesquisa de hotéis. Como usar cada um deles e conseguir um hotel barato e bom. O site com os melhores preços...
-draft: true
+date: 2017-05-16T12:10:00
+description: São Francisco é uma cidade com vários meios de locomoção: As opções são muitas, então decidi traçar um mapa do transporte público em São Francisco, mostrando suas opções e quando usar cada uma delas para andar em São Francisco.
 images:
   - /img/2017/05/como-se-locomover-em-sao-francisco-pinterest.jpg
   - /img/2017/05/como-se-locomover-em-sao-francisco-banner.jpg
@@ -23,11 +22,11 @@ tags:
   - california
 
 thumbnail: /img/2017/05/como-se-locomover-em-sao-francisco-thumb.jpg
-title: 'Como andar em São Francisco: principais transportes e rotas'
+title: 'Como andar em São Francisco: Descubra as melhores opções e quando usá-las'
 totop: true
 ---
 
-São Francisco é uma cidade com vários meios de locomoção: metrô, Bart,muni, street car, cable car e etc. As opções são muitas, então decidi traçar um mapa do transporte público em São Francisco, mostrando as opções e explicando quando usar cada uma.
+São Francisco é uma cidade com vários meios de locomoção: metrô, Bart,muni, street car, cable car e etc. As opções são muitas, então decidi traçar um mapa do transporte público em São Francisco, mostrando as opções e quando usar cada uma delas para andar em São Francisco.
 
 # Devo alugar carro em São Francisco?
 
@@ -104,13 +103,13 @@ Um os metrôs de São Francisco tem o nome de **Bart** (não esqueça esse nome)
 
 "Mas e se eu descer em outra estação?" Não tem problema. Basta você colocar mais "crédito" no seu cartão na estação onde você desceu ou em qualquer um dos caixa eletrônicos que tem por lá.
 
-## Quando usar
+### Quando usar
 
 A gente só usou **trem Bart** para ir e voltar do **aeroporto**. Durante os passeios não foi necessário. E, provavelmente, você também não precisará. A não ser que você queira ir até Okland. Já que ele é focado em transporte para os demais munícipios da região.
 
-Falando nisso, fica esperto que esse metrô lá é muito rápido. Eu dei bobeira no dia que chegamos e quando fui ver já estávamos em Okland perdidos. rsrsrs
+Falando nisso, fica esperto que esse metrô lá é muito rápido. Eu dei bobeira no dia que chegamos e quando fui ver já estávamos em Oakland perdidos. rsrsrs
 
-### Metrô Muni
+## Metrô Muni
 
 Já o **Muni Metro**, també faz parte do sistema Muni. E como os demais meios de transporte do sistema Muni, é focado na região municipal de São Francisco.
 
@@ -118,15 +117,15 @@ Já o **Muni Metro**, també faz parte do sistema Muni. E como os demais meios d
 
 Apesar de ele levar em bastantes locais a gente usou bem pouco. Demos sempre preferências para os **outros transportes**, pois são mais turísticos e davam a oportunidade de admirar e ver a cidade pelos trajetos.
 
-{{% img-full src="/img/2017/05/muni-metro-sao-francisco.jpg" alt="Mapa Metrô Muni" height="424" width="770" %}}
+{{% img-full src="/img/2017/05/muni-metro-sao-francisco.jpg" alt="Mapa Metrô Muni" height="424" width="770" title="Mapa do Transporte Público Muni Metro de São Francisco" %}}
 
-# Bicicleta
+# Andar de Bicicleta
 
-Bicicleta é um meio de transporte **super usado** em São Francisco. A gente mesmo usou, pois tem algumas empresas que fazem o **aluguel das bikes**, sendo o principal passeio de bicicleta ir pedalando a**té a ponte Golden Gat**e.
+Bicicleta é um meio de transporte **super usado** em São Francisco, mas tem que saber como andar de bicicleta em São Francisco. A gente mesmo usou, pois tem algumas empresas que fazem o **aluguel das bikes**, usamos a  [Blazzing Saddles](https://www.blazingsaddles.com/)  que foi ótima. 
 
 ## Quando usar
 
-Eu sugiro fazer o mesmo que fizemos: um passeio do **Pier 31 até a Golden Gate**. Porque no centrão é tudo muita ladeira. Já na região do Embarcadeiro, onde ficam os píers, é bem mais plano. Mas não ache que não vai dar uma suadinha viu.. A Larissa achou que não ia suar e tava toda empacotada para andar de bike, acabou derretendo de calor.
+Eu sugiro fazer o mesmo que fizemos: um passeio de bicicleta até a **Golden Gate** partindo do **Pier 31**. Porque no centrão é tudo muita ladeira. Já na região do Embarcadeiro, onde ficam os píers, é bem mais plano. Mas não ache que não vai dar uma suadinha viu. A Larissa achou que não ia suar e tava toda empacotada para andar de bike, acabou derretendo de calor.
 
 {{% img-full src="/img/2017/05/pedalando-ate-golden-gate.jpg"   height="628" width="1200" title="Mas chegando lá valeu muito a pena" alt="Na ponte Golden Gate de Bicileta" %}}
 
@@ -143,8 +142,10 @@ Só não sugiro ficar indo de um **pier para o outro a pé**, porque é mais lon
 
 Bem, espero que isso seja o suficiente para você naõ ficar perdido em São Francisco. Mas caso você fique, você escolheu um dos melhores lugares para se perder ;)
 
-**Dica IMPORTANTE:** Use o **Google Maps** como explicamos nesse post de **[apps de viagem](http://debacontudo.com.br/viagem/10-aplicativos-para-viagem/)**. Ele vai te ajudar muito, sempre indicando os melhores transportes!
+
+
+**Dica IMPORTANTE:** Use o **Google Maps**, como explicamos nesse post de **[apps de viagem](http://debacontudo.com.br/viagem/10-aplicativos-para-viagem/)**. Ele vai te ajudar muito, sempre indicando os melhores transportes!
 
 Tem alguma **dúvida** ou **comentário**? Escreva pra gente!
 
-Está afim de conhecer a **California**? Quem sabe fazer uma RoadTrip pela Highway One? [Dá uma olhada no nosso guia](http://debacontudo.com.br/viagem/roadtrip-highway-1-parte-1/)
+Está afim de conhecer a **California**? Quem sabe fazer uma RoadTrip pela Highway One? [Dê uma olhada no nosso guia](http://debacontudo.com.br/viagem/roadtrip-highway-1-parte-1/)
