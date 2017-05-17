@@ -16,7 +16,7 @@ structured:
 tags:
 - casamento
 - estilo-de-vida
-thumbnail: /img/2017/05/pedido-de-casamento-thumb.jpg
+thumbnail: /img/2017/05/melhor-video-save-the-date-criativo-thumb.jpg
 title: Descubra o vídeo de Save The Date mais criativo e animado que você já viu
 totop: true
 ---
