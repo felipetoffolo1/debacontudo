@@ -21,7 +21,22 @@ thumbnail:  "/img/2017/05/melhores-brunches-de-brasilia-thumb.jpg"
 title: "x incríveis x em Brasília que vão te deixar com água na boca"
 totop: true
 ---
+Tem poucos pecados mais deliciosos do que comer um bom hamburguer. Pegar aquele pão quentinho com as mãos, abrir bem a boca e morder com vontade, sentindo os sentidos enlouquecerem passando por camadas de pão, carne macia e suculenta, queijo, bacon, salada e sabe-se o que lá mais. Sério, a gente não confia em quem não gosta de hamburguer.
+
+# O Hamburguer Artesanal
+
+Apesar de tão saboroso, o hamburguer ficou marcado como um junk food, ou como comida de fast-food, já que essas redes popularizam pelo mundo essa comida.
+
+Masss hoje em dia a gente não precisa mais se entregar as essas grandes redes, na maioria das cidades você pode encontrar um bom hamburguer artesanal, feito com carne de verdade, pão de verdade, acompanhado de batata de verdade e feito por... gente de verdade.
+
+E em Brasília não ia ser diferente, temos várias opções legais. E com o dia do hamburguer ai, decidimos fazer esse favor (para nós mesmos), de experimentar alguns dos melhores hamburguers artesanais de Brasília, de empresas de Brasília.
+
+Dividimos nossa listinha por região da capital. Além disso a gente pediu em cada lugar os sanduíches "que mais saem" (de acordo com quem atendeu a gente), e não cobrimos food trucks senão a lista ia ser tão grande quanto os kilos que iamos ganhar.
+
+Vamos lá para lista, apreciem com moderação ;)
+
 # Asa Sul
+
 ## Parrilla Madrid Burger
 ### Um bife de hambúrguer, feito na parrilla, que você não vai esquecer
 
