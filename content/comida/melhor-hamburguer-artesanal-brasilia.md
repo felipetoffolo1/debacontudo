@@ -81,7 +81,9 @@ Escolhemos um dia e horário bem tranquilos para conhecer o hambúrguer do Malib
 ### Um clássico que merece ser sempre relembrado
 
 Fomos numa terça-feira a noite e fomos super bem atendidos. Pedimos um Super Brasil Prime, que vem com xxx e batata rústica.
-Achamos o hambúrguer extremamente bem feito e delicioso, no ponto exato que pedimos. O recheio estava na medida certa e a batata prime também estava delicosa. O Cumarim não pode ficar de fora da sua lista! Para quem mora no Plano, a novidade é que ainda neste ano eles vão abrir uma outra unidade na 204 sul. Legal, né?!
+Achamos o hambúrguer extremamente bem feito e delicioso, no ponto exato que pedimos. O recheio estava na medida certa e a batata prime também estava delicosa.
+
+O Cumarim não pode ficar de fora da sua lista! Para quem mora no Plano, a novidade é que ainda neste ano eles vão abrir uma outra unidade na 204 sul. Legal, né?!
 
 {{< quote-her "No conjunto da obra, o Cumarim é um dos meus favoritos. - Larissa">}}
 
@@ -89,7 +91,9 @@ Achamos o hambúrguer extremamente bem feito e delicioso, no ponto exato que ped
 ## Geléia Burguer
 ### Um sucesso absoluto das ruas que agora também tem seu lugar
 
-Quem está acostumado a comer o hambúrguer do Geléia nos food trucks, precisa conhecer a loja de Águas Claras, que é um charme só. O ambiente é muito bem decorado e faz você querer provar todo o cardápio só para passar mais tempo por lá. Parece que estamos naqueles trailers americanos. O pedido é feito diretamente no caixa. Escolhemos o xxxx, que é um dos mais tradicionais. A carne estava no ponto certo e o pão australiano é um destaque a parte. O hambúrguer não vem com batata-frita, mas quem gosta muito não pode deixar de pedir a batata rústica da casa, que é simplesmente deliciosa. 
+Quem está acostumado a comer o hambúrguer do Geléia nos food trucks, precisa conhecer a loja de Águas Claras, que é um charme só. O ambiente é muito bem decorado e faz você querer provar todo o cardápio só para passar mais tempo por lá. Parece que estamos naqueles trailers americanos. O pedido é feito diretamente no caixa.
+
+Escolhemos o xxxx, que é um dos mais tradicionais. A carne estava no ponto certo e o pão australiano é um destaque a parte. O hambúrguer não vem com batata-frita, mas quem gosta muito não pode deixar de pedir a batata rústica da casa, que é simplesmente deliciosa. 
 
 
 # Asa Norte
