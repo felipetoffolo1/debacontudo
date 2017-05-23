@@ -95,9 +95,10 @@ Quem está acostumado a comer o hambúrguer do Geléia nos food trucks, precisa 
 
 Escolhemos o xxxx, que é um dos mais tradicionais. A carne estava no ponto certo e o pão australiano é um destaque a parte. O hambúrguer não vem com batata-frita, mas quem gosta muito não pode deixar de pedir a batata rústica da casa, que é simplesmente deliciosa. 
 
-
 # Asa Norte
-## Papríca Burguer
+
+## Páprica Burger
+
 ### Estilo, muito sabor e uma opção para quem corre da calorías
 
 Comer um hamburguer em uma loja em posto de gasolina não é novidade para ninguém, mas um hambuguér tão saboroso em um ambiente cheio de estilo como o Papríca Burguer, isso a gente nunca viu em um postinho.
@@ -109,10 +110,20 @@ Voltando para a comida, a gente comeu por lá o Páprica (R$ 26), que vem com ha
 Aqui também tem opção pra quem tá correndo dos carboidratos, você pode pedir a versão low-carb onde o seu sanduíche vem servido na alface americana.
 
 # Taguatinga
+
 ## Bullrger
-###
+
+## #
+
 ## Carcará
-###
+
+### Um dos queridinhos do Brasília
+
+Desde que a gente começou a falar que estava fazendo esse post, todo mundo veio dizer para a gente "vocês vão no Carcará né?". E sim, nos fomos no Carcará.
+
+Chegando lá já começamos a entender tantos fãs, era domingo a noite a casa tava lotada, mas fomos super bem atendidos. Apesar de termos ficado super tentados a pedir o Carne Abacaxi, pedimos o Carne Tradicional (R$ 29,90), nele vem 180g de carne, muçarela, alface, tomate, cebola roxa, ovo e bacon (acompanha batata). E realmente ele estava tradicionalmente apetitoso, a carne estava em um bom ponto e suculenta. Junto com a batata pedimos a maionese de bacon, que não gostamos muito, da próxima vamos pedir outra.
+
+Onde que clica para entrar no fã clube?
 
 # Guará
 ## Hum Burguer
