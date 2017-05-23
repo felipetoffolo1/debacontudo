@@ -88,6 +88,14 @@ O hambuguer estavam ótimos (sim, vou falar isso de todos, pq né, estavam), os 
 ## Papríca Burguer
 ### Estilo, muito sabor e uma opção para quem corre da calorías
 
+Comer um hamburguer em uma loja em posto de gasolina não é novidade para ninguém, mas um hambuguér tão saboroso em um ambiente cheio de estilo como o Papríca Burguer, isso a gente nunca viu em um postinho.
+
+O Papríca Burguer tem uma construção de container com estilo industrial, lampadas penduradas e paredes com quadro de giz, tudo isso deixando o ambiente muito cool.
+
+Voltando para a comida, a gente comeu por lá o Páprica (R$ 26), que vem com hambúguer black angus, queijo minas meia cura gratinado, cebolas caramelizadas, bacon fatiado fininho e salada. Servido no pão de brioche com molho páprica. Olha, depois de comer esse sandúiche a vontade era ir na cozinha e dar um abraço em quem fez rsrs. Simplesmente delicioso.
+
+Aqui também tem opção pra quem tá correndo dos carboidratos, você pode pedir a versão low-carb onde o seu sanduíche vem servido na alface americana.
+
 # Taguatinga
 ## Bullrger
 ###
