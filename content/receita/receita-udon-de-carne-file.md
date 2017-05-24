@@ -9,7 +9,7 @@ description: O Braciole é uma receita espetacular de origem italiana que é del
   fácil de fazer. Umas daquelas receitas deliciosas que é oportunidade para
   brilhar e ganhar uns créditos culinários com os amigos ou a paquera, sem ter
   muito trabalho.
-draft: false
+draft: true
 images:
   - /img/2017/04/receita-fraldinha-recheada-braciole-thumb.jpg
   - /img/2017/04/receita-fraldinha-recheada-braciole-banner.jpg
@@ -53,7 +53,7 @@ recipe:
   prepTime: PT20m
   recipeYield: '8'
   totalTime: PT1.5H
-slug: receita-fraldinha-recheada-braciole
+slug: udon
 structured:
   type: Recipe
 tags:
@@ -73,4 +73,3 @@ totop: true
 Fazer Udon é algo muito mais fácil do que a gente imagina. Eu sou um fã de loinga data da cozinha japonesa, e adoro comer udons, sobas e lamens por ai. Mas nunca tinha me aventurado a fazer. Acho que muitas vezes a gente fica achando que fazer os pratos japoneses é difícil por uma certa falta de intimidade com os ingredientes. Que ai deixam na gente a impressão de que são coisa muito difíceis e complexas. Mas nem é o caso.
 
 Vou passar aqui a receita de udon fácil para qualquer brasileiro sair fazendo.
-
