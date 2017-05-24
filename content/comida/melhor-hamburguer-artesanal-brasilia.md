@@ -120,42 +120,26 @@ O Pápríca Burguer tem uma construção de container com estilo industrial, lâ
 
 Voltando para a comida, a gente comeu por lá o Páprica (R$ 26), que vem com hambúrguer black angus, queijo minas meia cura gratinado, cebola caramelizada, bacon fatiado fininho e salada. O sanduíche é servido no pão de brioche com molho páprica. Depois de comer esse sandúiche, a vontade era de ir na cozinha e dar um abraço em quem fez rsrs. Simplesmente delicioso.
 
-Aqui também tem opção pra quem tá correndo dos carboidratos, você pode pedir a versão low-carb onde o seu sanduíche vem servido na alface americana.
+No Páprica Burguer, também tem opção para quem tá correndo dos carboidratos. Você pode pedir a versão low-carb, que troca o pãozinho pela a alface americana.
 
 # Taguatinga
 
 ## Bullrger
 
-### xxxxx
-
-O Bullrger é outra ótima opção de Hambuguer Artesanal. A casa é bem decorada e organizada e o atendimento foi rápido.
-
-No cardápio 4 variedades de sandúiche. Sendo que uma delas é o "Especial" (R$ 25 com 180gr) que é tipo um a moda do chef que vai trocando mensalmente. Mas a gente foi no Toro (R$ 30), que tem um hamburguer de 180gr, muçarela,cebola roxa, maionese de ervas e bacon, tudo servido no pão com gergelim.
-
-Achamos o sanduíche muito bom, e por um ótimo preço. A carne estava saborosa e os recheios bem feitos e de boa qualidade. Anota ai como outra casa de Taguatinga que merece a sua visita. 
+## #
 
 ## Carcará
 
-### Um dos queridinhos do Brasília
+### Um dos queridinhos de Brasília
 
-Desde que a gente começou a falar que estava fazendo esse post, todo mundo veio dizer para a gente "vocês vão no Carcará né?". E sim, nos fomos no Carcará.
+Desde que a gente começou a falar que estava fazendo esse post, todo mundo veio dizer para a gente "O Carcará tá na lista, né?". E sim, nós fomos ao Carcará.
 
-Chegando lá já começamos a entender tantos fãs, era domingo a noite a casa tava lotada, mas fomos super bem atendidos. Apesar de termos ficado super tentados a pedir o Carne Abacaxi, pedimos o Carne Tradicional (R$ 29,90), nele vem 180g de carne, muçarela, alface, tomate, cebola roxa, ovo e bacon (acompanha batata). E realmente ele estava tradicionalmente apetitoso, a carne estava em um bom ponto e suculenta. Junto com a batata pedimos a maionese de bacon, que não gostamos muito, da próxima vamos pedir outra.
+Chegando lá, já começamos a entender a quantidade de fãs. Fomos num domingo à noite e a casa estava lotada, mas fomos super bem atendidos. Apesar de termos ficado tentados a pedir o Carne Abacaxi, pedimos o Carne Tradicional (R$ 29,90). O sanduíche vem com 180g de carne, muçarela, alface, tomate, cebola roxa, ovo e bacon (acompanha batata). E realmente ele estava tradicionalmente apetitoso, a carne estava em um bom ponto e suculenta. Para acompanhar a batata, pedimos a maionese de bacon, mas não gostamos muito. Vamos pedir outra da próxima vez.
 
-Onde que clica para entrar no fã clube?
 
 # Guará
 ## Hum Burguer
 ###
 
 ## Burgster
-### xxx
-
-Música ao vivo, cervejas especiais e um ambiente aconchegante. Só isso já faz de qualquer lugar uma ótima opção. Some nisso um sanduíche excepcional e batatas rústica  impossíveis de não se comer, e você tem o Burgster.
-
-O Burgster tá no Guará 2, mas ele não serve bomba e sim um hambuguer artesanal fenomenal.
-
-Experimentamos o xxxx e bla bla bla
-
-
-
+### A região conhecida pela bomba agora
