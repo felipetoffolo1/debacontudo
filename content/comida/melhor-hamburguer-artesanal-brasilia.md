@@ -134,7 +134,7 @@ No Páprica Burguer, também tem opção para quem tá correndo dos carboidratos
 
 Desde que a gente começou a falar que estava fazendo esse post, todo mundo veio dizer para a gente "O Carcará tá na lista, né?". E sim, nós fomos ao Carcará.
 
-Chegando lá, já começamos a entender a quantidade de fãs. Fomos num domingo à noite e a casa estava lotada, mas fomos super bem atendidos. Apesar de termos ficado tentados a pedir o Carne Abacaxi, pedimos o Carne Tradicional (R$ 29,90). O sanduíche vem com 180g de carne, muçarela, alface, tomate, cebola roxa, ovo e bacon (acompanha batata). E realmente ele estava tradicionalmente apetitoso, a carne estava em um bom ponto e suculenta. Para acompanhar a batata, pedimos a maionese de bacon, mas não gostamos muito. Vamos pedir outra da próxima vez.
+Chegando lá, já começamos a entender a quantidade de fãs. Fomos num domingo à noite e a casa estava lotada, mas fomos super bem atendidos. Apesar de termos ficado tentados a pedir o Carne Abacaxi, pedimos o Carne Tradicional (R$ 29,90). O sanduíche vem com 180g de carne, muçarela, alface, tomate, cebola roxa, ovo e bacon (acompanha batata). E realmente ele estava tradicionalmente apetitoso, a carne estava em um bom ponto e suculenta. Para acompanhar a batata, pedimos a maionese de bacon, mas não gostamos muito. Vamos pedir outra da próxima vez.?
 
 
 # Guará
