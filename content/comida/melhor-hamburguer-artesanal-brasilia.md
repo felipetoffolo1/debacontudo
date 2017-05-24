@@ -21,19 +21,19 @@ thumbnail:  "/img/2017/05/melhores-brunches-de-brasilia-thumb.jpg"
 title: "x incríveis x em Brasília que vão te deixar com água na boca"
 totop: true
 ---
-Tem poucos pecados mais deliciosos do que comer um bom hamburguer. Pegar aquele pão quentinho com as mãos, abrir bem a boca e morder com vontade, sentindo os sentidos enlouquecerem passando por camadas de pão, carne macia e suculenta, queijo, bacon, salada e sabe-se o que lá mais. Sério, a gente não confia em quem não gosta de hamburguer.
+Tem poucos pecados mais deliciosos do que comer um bom hambúrguer. Pegar aquele pão quentinho com as mãos, abrir bem a boca e morder com vontade, sentindo os sentidos enlouquecerem passando por camadas de pão, carne macia e suculenta, queijo, bacon, salada e sabe-se o que lá mais. Sério, a gente não confia em quem não gosta de hambúrguer.
 
-# O Hamburguer Artesanal
+# O Hambúrguer Artesanal
 
-Apesar de tão saboroso, o hamburguer ficou marcado como um junk food, ou como comida de fast-food, já que essas redes popularizam pelo mundo essa comida.
+Apesar de muito saboroso, o hambúrguer ficou marcado como um tipo de junk food, ou como comida de fast-food, já que essas redes popularizaram pelo mundo o alimento.
 
-Masss hoje em dia a gente não precisa mais se entregar as essas grandes redes, na maioria das cidades você pode encontrar um bom hamburguer artesanal, feito com carne de verdade, pão de verdade, acompanhado de batata de verdade e feito por... gente de verdade.
+Masss, hoje em dia, a gente não precisa mais se entregar para essas grandes redes. Na maioria das cidades você pode encontrar um bom hambúrguer artesanal, feito com carne de verdade, pão de verdade, acompanhado de batata de verdade e feito por... gente de verdade. (claro, né. =P)
 
-E em Brasília não ia ser diferente, temos várias opções legais. E com o dia do hamburguer ai, decidimos fazer esse favor (para nós mesmos), de experimentar alguns dos melhores hamburguers artesanais de Brasília, de empresas de Brasília.
+E em Brasília temos várias opções legais para apreciar um bom hambúrguer artesanal. Para comemorar o dia do hambúrguer, celebrado dia 28 de maio, decidimos fazer esse favor (para nós mesmos) de experimentar alguns dos melhores hambúrguers artesanais de Brasília (de empresas de Brasília).
 
-Dividimos nossa listinha por região da capital. Além disso a gente pediu em cada lugar os sanduíches "que mais saem" (de acordo com quem atendeu a gente), e não cobrimos food trucks senão a lista ia ser tão grande quanto os kilos que iamos ganhar.
+Dividimos nossa listinha por regiões da capital. Além disso, pedimos em cada lugar os sanduíches "que mais saem" (de acordo com quem atendeu a gente), e não cobrimos food trucks, senão a lista ia ser tão grande quanto os kilos que iríamos ganhar.
 
-Vamos lá para lista, apreciem com moderação ;)
+Vamos para a lista. Apreciem com moderação! ;)
 
 # Asa Sul
 
@@ -41,8 +41,6 @@ Vamos lá para lista, apreciem com moderação ;)
 ### Um bife de hambúrguer, feito na parrilla, que você não vai esquecer
 
 O Parrilla Madrid resolveu unir as técnicas espanholas de preparo da carne com o nosso amado hambúrguer, tão tipicamente americano. E o resultado foi o melhor dos dois mundos.
-
-
 
 No Parrilla Madrid experimentamos o Jack Burger (R$ 33), que vem com creme de ricota, Jack Daniels Blend (eu sempre peço qualquer coisa que tenha Jack Daniels no meio) e cebola caramelizada no pão de brioche.
 
