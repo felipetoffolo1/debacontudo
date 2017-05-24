@@ -128,7 +128,13 @@ Aqui também tem opção pra quem tá correndo dos carboidratos, você pode pedi
 
 ## Bullrger
 
-## #
+### xxxxx
+
+O Bullrger é outra ótima opção de Hambuguer Artesanal. A casa é bem decorada e organizada e o atendimento foi rápido.
+
+No cardápio 4 variedades de sandúiche. Sendo que uma delas é o "Especial" (R$ 25 com 180gr) que é tipo um a moda do chef que vai trocando mensalmente. Mas a gente foi no Toro (R$ 30), que tem um hamburguer de 180gr, muçarela,cebola roxa, maionese de ervas e bacon, tudo servido no pão com gergelim.
+
+Achamos o sanduíche muito bom, e por um ótimo preço. A carne estava saborosa e os recheios bem feitos e de boa qualidade. Anota ai como outra casa de Taguatinga que merece a sua visita. 
 
 ## Carcará
 
@@ -145,4 +151,13 @@ Onde que clica para entrar no fã clube?
 ###
 
 ## Burgster
-### A região conhecida pela bomba agora
+### xxx
+
+Música ao vivo, cervejas especiais e um ambiente aconchegante. Só isso já faz de qualquer lugar uma ótima opção. Some nisso um sanduíche excepcional e batatas rústica  impossíveis de não se comer, e você tem o Burgster.
+
+O Burgster tá no Guará 2, mas ele não serve bomba e sim um hambuguer artesanal fenomenal.
+
+Experimentamos o xxxx e bla bla bla
+
+
+
