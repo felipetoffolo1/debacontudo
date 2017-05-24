@@ -53,6 +53,8 @@ E também o Burrata Buger (R$ 39), que vem com queijo burrata artesanal, crispy 
 
 Todos os dois estavam deliciosos. O destaque vai para o bife de hambúrguer 180g feito com carne black angus e feito na parrilla. Sério, o bife de lá é muito saboroso e preparado no ponto rosadinho que amamos. Se fôssemos fazer uma única crítica seria sobre a quantidade de molho nos sanduíches, que acabou escondendo o sabor dos outros ingredientes. Mas aquele bife....
 
+{{<restaurant-simple address="ENdereço" maps="codigo do maps" site="url">}}
+
 ## Universal Dinner
 ### Levando o sabor gourmet literalmente para a rua
 
