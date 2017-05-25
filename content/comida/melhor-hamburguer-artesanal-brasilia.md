@@ -7,7 +7,7 @@ categories:
 - estilo-de-vida
 - comida
 date: 2017-05-25T08:30:44-03:00
-description: "Descubra o resultado da nossa busca pelo melhor brunch de Brasília. Vários lugares em Brasília servem brunches deliciosos que você não pode perder."
+description: "Existem várias opções legais para apreciar um bom hambúrguer artesanal em Brasília. Decidimos experimentar alguns dos melhores hambúrgueres artesanais de Brasília e fazer uma lista para você."
 draft: false
 images:
 -  /img/2017/05/melhor-hamburguer-de-brasilia-banner.jpg
@@ -32,7 +32,7 @@ Masss, hoje em dia, a gente não precisa mais se entregar para essas grandes red
 
 {{< img-full src="/img/2017/05/hamburguer-na-calcada-universal-dinner.jpg" alt="Hamburguer na Calçada do Universal Dinner"  height="628" width="1200" >}}
 
-Exiatem várias opções legais para apreciar um bom hambúrguer artesanal em Brasília. Decidimos fazer o favor (para nós mesmos) de experimentar alguns dos melhores hambúrgueres artesanais de Brasília.
+Existem várias opções legais para apreciar um bom hambúrguer artesanal em Brasília. Decidimos fazer o favor (para nós mesmos) de experimentar alguns dos melhores hambúrgueres artesanais de Brasília.
 
 Dividimos nossa listinha por regiões da capital. Além disso, pedimos em cada lugar os sanduíches "que mais saem" (de acordo com quem atendeu a gente), e não cobrimos food trucks, senão a lista ia ser tão grande quanto os kilos que iríamos ganhar.
 
