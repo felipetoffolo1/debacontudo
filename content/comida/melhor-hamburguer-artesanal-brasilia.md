@@ -19,7 +19,7 @@ tags:
 - Brasília
 - Review
 thumbnail:  "/img/2017/05/melhor-hamburguer-de-brasilia-thumb.jpg"
-title: "12 locais em Brasília para comer um hambúrguer artesanal top"
+title: "12 locais em Brasília para comer um Hambúrguer Artesanal TOP"
 totop: true
 ---
 Tem poucos pecados mais deliciosos do que comer um bom hambúrguer. Pegar aquele pão quentinho com as mãos, abrir bem a boca e morder com vontade, saborear a carne macia e suculenta, o queijo, o bacon, a salada e sabe-se o que lá mais. Sério, a gente não confia em quem não gosta de hambúrguer.
@@ -43,13 +43,13 @@ Aprecie com moderação! ;)
 
 ------
 
-## Parrilla Madrid Burger
+## Parrilla Burger
 
 ### Um bife de hambúrguer, feito na parrilla, que você não vai esquecer
 
 O Parrilla Madrid resolveu unir as técnicas espanholas de preparo da carne com o nosso amado hambúrguer, tão tipicamente americano. E o resultado foi o melhor dos dois mundos.
 
-{{< img-full src="/img/2017/05/hamburguer-artesanal-parrilla-burger.jpg" alt="Hamburguer do Parrilla Madrid"  height="628" width="1200" >}}
+{{< img-full src="/img/2017/05/hamburguer-artesanal-parrilla-burger.jpg" alt="Hamburguer do Parrilla Burguer"  height="628" width="1200" >}}
 
 No Parrilla Madrid, experimentamos o Jack Burger (R$ 33), que vem com creme de ricota, Jack Daniels Blend e cebola caramelizada no pão de brioche.
 
@@ -57,9 +57,9 @@ No Parrilla Madrid, experimentamos o Jack Burger (R$ 33), que vem com creme de r
 
 E também o Burrata Burger (R$ 39), que vem com queijo burrata artesanal, crispy de bacon, tomate e pão de brioche.
 
-Todos os dois estavam deliciosos. O destaque vai para o bife de hambúrguer de carne black angus de 180g feito na parrilla. Sério, o bife de lá é muito saboroso e preparado no ponto rosadinho que amamos. Não conseguimos sentir direito o recheio por causa da quantidade excessiva de molho que acabou escondendo o sabor dos outros ingredientes. Mas aquele bife....
+Todos os dois estavam deliciosos. O destaque vai para o bife de hambúrguer de carne black angus de 180g feito na parrilla. Sério, o bife de lá é muito saboroso e preparado no ponto rosadinho que amamos. O molho estava um pouco excessivo e acabou escondendo um pouco o sabor dos outros ingredientes. Mas aquele bife....<3
 
-{{<restaurant-simple address="ENdereço" maps="codigo do maps" site="url">}}
+{{<restaurant-simple address="Comércio Local Sul 408 Bloco D Loja 1 - Asa Sul, Brasília - DF"  face="https://www.facebook.com/restauranteparrillamadrid/">}}
 
 ## Universal Dinner
 ### Levando o sabor gourmet literalmente para a rua
@@ -76,6 +76,7 @@ A carne estava suculenta, no ponto correto e com sabor defumado. Todos os ingred
 
 Para quem estiver de dieta e quiser uma opção de hambúrguer mais saúdavel, o Universal Dinner oferece também o Burguer Fit (R$ 30), que substitui o pão por uma omelete. Não comemos esse porque não era o nosso foco de pesquisa do dia, mas vamos voltar para experimentar.
 
+{{<restaurant-simple address="Asa Sul 210 C 18 - Brasília, DF" face="https://www.facebook.com/restauranteuniversaldiner/">}}
 ## Ancho Bistrô de Fogo
 
 ### Delicioso e você ainda pode levar a paquera lá
@@ -90,6 +91,7 @@ Vamos ser sinceros: o hambúrguer artesanal do Ancho Bistrô de Fogo nos surpree
 
 {{< quote-her "Além disso, tem uma sangria tinta maravilhosa! - Larissa">}}
 
+{{<restaurant-simple address="306 Bloco C Loja 28 - Asa Sul, Brasília, DF" face="https://www.facebook.com/anchobistrodefogo/">}}
 # Águas Claras
 
 ------
@@ -109,6 +111,7 @@ Achamos o hambúrguer extremamente bem feito e delicioso, no ponto exato que ped
 O Cumarim não pode ficar de fora da sua lista! Para quem mora no Plano, a novidade é que ainda neste ano além da hamburgueria de Água Claras, eles vão abrir uma outra unidade na 204 sul. Legal, né?!
 
 
+{{<restaurant-simple address="Av. das Castanheiras - Águas Claras, Brasília - DF" face="https://www.facebook.com/cumarim/">}}
 
 ## Geléia Burguer
 
@@ -119,6 +122,8 @@ Quem está acostumado a comer o hambúrguer do Geléia nos food trucks precisa c
 {{< img-full src="/img/2017/05/hamburguer-artesanal-geleia.jpg" alt="Hamburguer do Geléia"  height="628" width="1200" >}}
 
 Escolhemos o Original Burguer, um dos mais tradicionais, que vem com blend de fraldinha e costela de 160g, queijo cheddar, cebola caramelizada, maionese caseira, bacon crispy, pão australiano. A carne estava no ponto certo e o pão australiano é simplesmente delicioso. O hambúrguer não vem com batata-frita, mas quem gosta muito não pode deixar de pedir a batata rústica da casa, que é simplesmente maravilhosa.
+
+{{<restaurant-simple address="R. Alecrim, 6 - Águas Claras, Brasília - DF" face="https://www.facebook.com/geleiahamburgueria/">}}
 
 # Asa Norte
 
@@ -140,13 +145,14 @@ Nós escolhemos o Páprica (R$ 26), que vem com hambúrguer black angus, queijo 
 
 No Páprica Burguer também tem opção para quem tá correndo dos carboidratos. Você pode pedir a versão low-carb, que troca o pãozinho pela a alface americana.
 
+{{<restaurant-simple address="Eixinho 204 norte, Asa Norte, Brasília - Df" face="https://www.facebook.com/papricaburger/">}}
 # Taguatinga
 
 ------
 
 
 
-## Carcará
+## O Carcará Hamburgueria
 
 ### Um dos queridinhos de Brasília
 
@@ -162,7 +168,9 @@ Para acompanhar a batata, pedimos a maionese de bacon, mas não gostamos muito. 
 
 Não deixe de ir lá descobrir o motivo de tanta fama.
 
-## Bullrger
+{{<restaurant-simple address="St. A Sul QSA 11 Cs 11 - Taguatinga, Brasília DF" face="https://www.facebook.com/ocarcara.taguatinga/">}}
+
+## Bullrger Burger & Beer
 
 ### Hamburguer para nenhum toureiro botar defeito
 
@@ -176,6 +184,7 @@ Achamos o sanduíche muito bom. A carne estava saborosa e os recheios bem feitos
 
 O Bullger é outra chamburgueria em Taguatinga que merece a sua visita.
 
+{{<restaurant-simple address="QNA 42 lote 10 loja 2, Taguatinga Norte, Brasília - DF" face="https://www.facebook.com/bullrger/">}}
 # Guará
 
 ------
@@ -194,6 +203,7 @@ O bife de hambúrguer se chama Tri Blend  pois eles usam três carnes no bife: c
 
  Escolha o Hum! Burguer mais perto (Sudoeste, Asa Norte e Águas Claras) e aproveite!
 
+ {{<restaurant-simple address="SGCV - Guará, Shopping Casa Park - Térreo, Brasília" face="https://www.facebook.com/humburguer/">}}
 ## Burgster
 
 ### Quem disse que no Guará só tem bomba?
@@ -206,6 +216,7 @@ Apesar de estar no Guará 2, você não vai encontrar uma bomba no Burgster e, s
 
 Experimentamos o Poderos Chefão (RS 25), um dos mais pedidos da casa.O sanduíche vem com hambúrguer de 180g, bacon, champignon salteado no shoyu, queijo prato, alface, tomate e maionese burgster. O sandúiche estava incrível e veio em um pão australiano de arrasar. Sem falar nas batatas rústicas (que você pode optar por R$5 a mais) temperadas com páprica... ai ai ai. Tudo muito bom!
 
+{{<restaurant-simple address="Guará II QE 32 Bloco A Loja 14 - Guará, Brasília - DF" face="https://www.facebook.com/burgsterhamburgueria/">}}
 # Hamburgueres do Sudoeste
 
 ------
@@ -224,11 +235,12 @@ Foram dois hambúrgueres: o Lincoln Burguer (R$ 28), que acompanha hambúrguer d
 
 Os hambúgueres estavam ótimos (sim, vou falar isso de todos, porque né, estavam) e os recheios estavam super bem equilibrados, fazendo jus à fama do Brazilian American Burguer. Destaque para o Cadillac Burguer, que possui essa combinação divina do queijo brie com damasco. Vale experimentar! A gente achou a carne um pouquinho passada do ponto ideal, mas isso é de gosto né. Os sanduíches acompanham batata-frita e, ao final da refeição, você ainda ganha um sorvete de cortesia.
 
+{{<restaurant-simple address="St. Sudoeste Superquadra Sudoeste 301 BL C - Sudoeste, Brasília, DF" face="https://www.facebook.com/brazilianamericanburgers/">}}
 # Vicente Pires
 
 ------
 
-## Malibu Burguer
+## Mallibu American Burguer
 
 ### Um achado em Vicente Pires
 
@@ -240,6 +252,7 @@ Apesar de termos pedido o Super Malibu, o garçom nos trouxe o Super Malibu Ched
 
 Ainda assim, o sanduíche estava bem gostoso. A carne estava no ponto e a cebola caramelizada uma delícia.
 
+{{<restaurant-simple address="St. Hab. Vicente Pires 4 28 - Vicente Pires, Brasília - DF" face=https://www.facebook.com/mallibuamericanburger/">}}
 ------
 
 Já ficamos com vontade de comer tudo de novo só vendo essas fotos. Esperamos que vocês também tenham gostado.
