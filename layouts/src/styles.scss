@@ -278,8 +278,13 @@ hr {
 */
 .form-control {
     @include border-radius(0);
+    .button,
+    button,
+    input[type="button"],
+    input[type="submit"] {
+    @include border-radius(25px);
 }
-
+  }
 .btn {
     &,
     &:hover {
@@ -322,7 +327,6 @@ input[type="submit"] {
         padding: 8px 20px;
         font-size: 11px;
         text-transform: uppercase;
-        @include border-radius(25px);
         background-color: transparent;
         border: 2px solid $text-color;
         color: $text-color;
@@ -1063,7 +1067,7 @@ input[type="submit"] {
             a {
                 display: inline-block;
                 margin-right: 5px;
-                font-size: 12px;
+                font-size: 14px;
                 text-transform: none;
                 color: lighten($grey, 25%);
 
@@ -1281,6 +1285,7 @@ input[type="submit"] {
 .related-posts {
     display: block;
     margin-bottom: 40px;
+    width: 100%;
     @media screen and (max-width: 767px) {
         margin-bottom: 10px;
     }
@@ -1892,61 +1897,64 @@ input[type="submit"] {
 	[14. FOOTER]
 	==================
 */
+
+.footer-subscribe {
+  display: block;
+  padding: 60px 0;
+  text-align: center;
+}
+.subscribe{
+
+  .subscribe-title {
+    margin-bottom: 40px;
+    font-size: 48px;
+    line-height: 54px;
+    margin-top: 10px;
+    color: $text-color;
+  }
+
+  .form-control,
+  input[type="email"] {
+    display: inline-block;
+    height: auto;
+    width: 280px;
+    padding: 15px 20px;
+    letter-spacing: 1px;
+    font-size: 12px;
+    border: 0;
+    @include border-radius(0);
+    @include box-shadow-none;
+    background-color: darken($white, 10%);
+  }
+
+  .btn,
+  button,
+  input[type="button"],
+  input[type="submit"] {
+    padding: 13px 20px;
+    font-size: 12px;
+    text-transform: uppercase;
+    border: 2px solid $text-color;
+    @include border-radius(0);
+    color: $text-color;
+    background-color: transparent;
+    @include transition(all 0.1s linear);
+
+    &:hover {
+      border-color: $black;
+      color: $white;
+      background-color: $black;
+    }
+
+    &:focus {
+      outline: none;
+    }
+  }
+}
 .site-footer {
     width: 100%;
     background-color: darken($white, 5%);
 
-    .footer-subscribe {
-        display: block;
-        padding: 60px 0;
-        text-align: center;
-
-        .subscribe-title {
-            margin-bottom: 40px;
-            font-size: 48px;
-            line-height: 54px;
-            margin-top: 10px;
-            color: $text-color;
-        }
-
-        .form-control,
-        input[type="email"] {
-            display: inline-block;
-            height: auto;
-            width: 280px;
-            padding: 15px 20px;
-            letter-spacing: 1px;
-            font-size: 12px;
-            border: 0;
-            @include border-radius(0);
-            @include box-shadow-none;
-            background-color: darken($white, 10%);
-        }
-
-        .btn,
-        button,
-        input[type="button"],
-        input[type="submit"] {
-            padding: 13px 20px;
-            font-size: 12px;
-            text-transform: uppercase;
-            border: 2px solid $text-color;
-            @include border-radius(0);
-            color: $text-color;
-            background-color: transparent;
-            @include transition(all 0.1s linear);
-
-            &:hover {
-                border-color: $black;
-                color: $white;
-                background-color: $black;
-            }
-
-            &:focus {
-                outline: none;
-            }
-        }
-    }
 
     .footer-instagram {
         display: block;

@@ -95,7 +95,7 @@
                   <!-- .entry-content -->
                   <footer class="entry-footer">
                     {{ if .Params.tags }}
-                    <span class="tags-links">
+                    <span class="tags-links text-center">
                           {{ range .Params.tags }}
                           <a class="post-tag post-tag-{{ . | urlize }}" href="{{ $Site.BaseURL}}/tags/{{ . | urlize }}">{{ . }}</a>,
                           {{ end }}
@@ -107,6 +107,7 @@
                   <!-- .entry-footer -->
                 </article>
                 <!-- .post -->
+<div>
 
                 <nav class="navigation post-navigation" role="navigation">
                   <h2 class="screen-reader-text">Post navigation</h2>
@@ -131,10 +132,11 @@
                   </div>
                 </nav>
                 <!-- .navigation -->
+              </div>
 
                 <!-- author bio -->
-                {{ if .Params.author }}
                 <div class="section-title">
+                  {{ if .Params.author }}
                   <h3>Escrito por</h3>
                 </div>
                 {{ range .Params.author}}
@@ -161,11 +163,15 @@
                   <!-- .author-bio-description -->
                 </div>
                 <!-- entry-author-bio -->
-                {{ end }} {{ end }} {{ range first 1 .Params.categories }} {{ $term := . }} {{ $taxonomy := index $Site.Taxonomies.categories $term }}
+                {{ end }}
+
+                 {{ end }}
+
+                 <div class="section-title">
+                   <h3>Você também vai curtir</h3>
+                 </div>
+                {{ range first 1 .Params.categories }} {{ $term := . }} {{ $taxonomy := index $Site.Taxonomies.categories $term }}
                 <div class="related-posts">
-                  <div class="section-title">
-                    <h3>Você também vai curtir</h3>
-                  </div>
                   <div class="pure-g">
                     {{ range first 3 $taxonomy.Pages }}
                     <div class="pure-u-1 pure-u-md-8-24 padding-side">
