@@ -252,7 +252,7 @@ Apesar de termos pedido o Super Malibu, o garçom nos trouxe o Super Malibu Ched
 
 Ainda assim, o sanduíche estava bem gostoso. A carne estava no ponto e a cebola caramelizada uma delícia.
 
-{{<restaurant-simple address="St. Hab. Vicente Pires 4 28 - Vicente Pires, Brasília - DF" face=https://www.facebook.com/mallibuamericanburger/">}}
+{{<restaurant-simple address="St Hab. Vicente Pires 4 28 - Vicente Pires, Brasília - DF" face="https://www.facebook.com/mallibuamericanburger/" >}}
 ------
 
 Já ficamos com vontade de comer tudo de novo só vendo essas fotos. Esperamos que vocês também tenham gostado.
