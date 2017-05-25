@@ -7,9 +7,11 @@
 
 {{ if .IsHome }}
 <meta itemprop="description" content="{{ .Site.Params.Description }}" >
+<meta name="description" content="{{ .Site.Params.Description }}" >
 <meta itemprop="image" content="{{ $BaseURL }}{{ .Site.Params.Image }}">
 {{ else }}
 <meta itemprop="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}">
+<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}">
 <!-- Output images -->
 {{ with .Params.images }}{{ range first 6 . }}
 	<meta itemprop="image" content="{{ $BaseURL }}{{ . }}">
