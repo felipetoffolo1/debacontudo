@@ -125,6 +125,7 @@ Escolhemos o **Original Burguer** (R$ 24), um dos mais tradicionais, que vem com
 
 {{<restaurant-simple address="R. Alecrim, 6 - Águas Claras, Brasília - DF" face="https://www.facebook.com/geleiahamburgueria/">}}
 
+{{<facebook-like>}}
 # Asa Norte
 
 ------
