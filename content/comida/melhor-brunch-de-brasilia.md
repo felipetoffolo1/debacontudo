@@ -83,6 +83,8 @@ Escolhemos o dia do meu aniversário para conhecer esse brunch. Apesar de estar 
 
 O brunch do Ernesto Café  é composto por uma cesta de pães, ovo mexido com bacon, salada de frutas com granola, manteiga, requeijão e geleia da casa. Para beber, as tradicionais bebidas de brunch: suco de laranja e café ou cappuccino. O **destaque** do brunch são os pães, extremamente bem feitos e deliciosos.
 
+{{<facebook-like>}}
+
 # Universal Dinner: o melhor atendimento
 
 CLS 210 - Bloco C - Loja 18
