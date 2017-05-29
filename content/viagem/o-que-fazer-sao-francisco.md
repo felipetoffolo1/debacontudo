@@ -40,6 +40,17 @@ São Francisco tem na sua baía a famosissima prisão de alcatraz, onde ficou pr
 É possível fazer um passeio dentro da cadeia, cheio de historia, tensão e um clima meio macabro. Se você está animado opte pela versão noturna.
 # 2 - Visitar o California Academy of Science
 
+Quando estavamos planejando a nossa viagem a gente se perguntou. Visitar o California Academy of Science vale a pena? Se você acha que uma experiência inesquecível vale a pena, a resposta é sim.
+
+O California Academy of Science é um museu focado na natureza, e suas exposição são bem fora do comum. Só para você ter uma idéia do que você vai ver lá.
+
+- Um crocódilo branco muito doido
+- Uma estufa em um globo de vidro gigantesco onde você vai conhecer as florestas trópicais (com direiro a aves e borboletas)
+- Um tiranoussauro rex (só o esqueleto tá)
+- Um áquario lindo e bem completo
+
+Tem mais várias coisas, mas ai você vai lá ver, e não esquece de consultar no site deles as novas exposições add link
+
 # 3 - Ir de Cable Car da Union Square até a Girardeli Square
 Os cables cars fazem parte da identidade e história de São Francisco, para quem não sabe eles são aqueles bondinhos que sobem e descem as ladeiras de São Francisco.O seu funcionamento é bem "simples". Eles ficam em um trilho que por dentro passa um cabo, o bonde então se agarra nesse cabo para se locomover, e quando quer parar ele solta o cabo.
 
@@ -65,7 +76,7 @@ O Ferry's Building Place é de onde saem as balsas de São Francisco para xxxxxx
 
 Nossa dica é comer algo no xxxx e depois tomar um café maravilhoso no yyyyy.
 
-# 7 - Fazer um na Alamo Square e admirar as Painted ladies
+# 7 - Fazer um piquenique na Alamo Square e admirar as Painted Ladies
 
 Outro cartão postal de São Francisco são as Painted Ladies, elas são casas de estilo vitorianas com a fachada identica (só muda a cor), que sobreviveram ao terremoto de xxxxx e se tornaram um icone desde então.
 
@@ -73,6 +84,20 @@ Em frente elas fica Alamo Square um pracinha toda gramada e bem legal. Lá ficam
 
 # 8 - Conhecer experiências incríveis no Exploratorium
 
-# 9 - Descer a Lombardi Street
 
-# 10 -Subir as escadarias xxxx até o Coit Tower
+
+# 9 - Descer a Lombardi Street, a rua em zigzag 
+
+A Lombardi Street é uma rua em zigzag de São Franscisco, elas fizeram ela assim por ser muito ingreme e para assim evitar acidentes. Eu não sei como né, porquê a gente ficou zonzinho dirigindo por ela.
+
+Além da rua ser super diferente, bonita e legal de se conhecer, a vista de lá de cima é bem bonita.
+
+Se possível desça ela de carro, se você não estiver de carro (ea gente não recomenda que esteja mesmo), passe lá de Uber rsrs
+
+# 10 -Subir as escadarias do Telegraph Hills até o Coit Tower
+
+O Coit Tower é aquela torre que fica no topo de São Francisco e que oferece uma das vistas mais lindas da cidade. Existem várias formas de chegar até a Coit Tower, mas nenhuma tão legal quanto subir a escadaria do Telegraph Hills.
+
+A gente entende que subir escada não é para qualquer um. Mas vamos tentar se convencer. São somente 400 degraus (tá talvez isso não ajudou), onde você passa por lindos jardins e casas charmosas dos moradores da região. Além disso durante a subida vocâ vai ouvir os famosos papagaios selvagens de São Francisco. Que eram passaros de estimação que acabaram se reproduzindo e se espalhando por certas regiões da cidade.
+
+Chegando lá em cima além da lindissima vista do topo do Coit Tower, você vai curtir (enquanto na fila), as pinturas nas paredes que contam a história da região e que são algo a se visitar a parte.
