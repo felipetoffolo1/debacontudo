@@ -40,20 +40,20 @@ Falando em história, São Francisco tem na sua baía a famosíssima prisão de 
 
 Ah, recomendamos ver antes o filme Alcatraz - Fuga Impossível (1979), com Clint Eastwood, que relata bem como o era o clima na prisão. 
 
-# 2 - Visitar o California Academy of Science
+# 4 - Visitar o California Academy of Science
 
-Quando estavamos planejando a nossa viagem a gente se perguntou. Visitar o California Academy of Science vale a pena? Se você acha que uma experiência inesquecível vale a pena, a resposta é sim.
+Quando estávamos planejando a nossa viagem, a gente se perguntou: visitar o California Academy of Science vale a pena? Se você acha que uma experiência inesquecível vale a pena, a resposta é sim.
 
-O California Academy of Science é um museu focado na natureza, e suas exposição são bem fora do comum. Só para você ter uma idéia do que você vai ver lá.
+O California Academy of Science é um museu focado na natureza, e suas exposições são bem fora do comum. Você vai ver de perto:
 
-- Um crocódilo branco muito doido
-- Uma estufa em um globo de vidro gigantesco onde você vai conhecer as florestas trópicais (com direiro a aves e borboletas)
+- Um crocodilo branco muito doido
+- Uma estufa em um globo de vidro gigantesco onde você vai conhecer as florestas tropicais (com direito a aves e borboletas)
 - Um tiranoussauro rex (só o esqueleto tá)
-- Um áquario lindo e bem completo
+- Um aquário lindo e bem completo
 
-Tem mais várias coisas, mas ai você vai lá ver, e não esquece de consultar no site deles as novas exposições add link
+Além disso, tem mais uma série de coisas legais. Mas não vamos contar tudo para não perder a graça. Não esqueça de consultar no site deles as novas exposições.
 
-# 3 - Ir de Cable Car da Union Square até a Girardeli Square
+# 5 - Ir de Cable Car da Union Square até a Girardeli Square
 Os cables cars fazem parte da identidade e história de São Francisco, para quem não sabe eles são aqueles bondinhos que sobem e descem as ladeiras de São Francisco.O seu funcionamento é bem "simples". Eles ficam em um trilho que por dentro passa um cabo, o bonde então se agarra nesse cabo para se locomover, e quando quer parar ele solta o cabo.
 
 A nossa sugestão é você pegar o Cable Car na Union Square no final da tarde e ir até a Girardeli Square. A Girardeli é uma fábrica de chocolates de São Francisco, e a praça fica no local onde sua fábrica ficava. A praça é linda, toda iluminada e enfeitada, e lógico com uma loja gigante da Girardeli, onde você pode comprar chocolates (inclusive uns para dar de presente), e tomar um chocolate quente delicioso sentado no seu pátio.
