@@ -25,19 +25,21 @@ totop: true
 
 # 1 - Andar de bicicleta pela Golden Gate
 
-A golden gate reconhecidamente o maior cartao postal de sao francisco. E nós temos duas formas muito legais de conhecer a ponte. O primeiro e de bicicleta, você pega uma bike no pier 39 e vai pedalando ate la. O caminho é lindo, você passa pelo embarcadeiro, pela Praça xxxx e pelo o principal ponto fotografico da Golden Gate. Quem estiver mais animado, pode atravessar a ponte. A gente só foi lá e voltou.
+A Golden Gate é reconhecidamente o maior cartão postal de São Francisco. E nós temos duas formas muito legais de conhecer a ponte. A primeira é de bicicleta! Você pega uma bike no Pier 39 e vai pedalando até lá. O caminho é lindo, você passa pelo embarcadeiro, pela Praça xxxx e pelo principal ponto fotográfico da Golden Gate. Quem estiver mais animado, pode atravessar a ponte. A gente só foi lá e voltou. 
+
+quote larissa: Vale ressaltar que você precisa ter um preparo físico em dia. O meu não estava lá essas coisas e eu quase não consegui andar até a ponte. :P 
 
 
+# 2 - Passear de barco pela Golden Gate
 
-# 2 - Passar de barco pela Golden Gate
-
-A outra forma é pelo mar, no pier 39também você pode adquirir um passeio de barco pela baía, nesse passeion voce passa por baixo da ponte enquanto te contam um pouco da história da baía. O que nós lrvaa nosso próximo passeio em São Francisco
+A outra forma de curtir a Golden Gate é pelo mar. Você também pode adquirir no Pier 39 um passeio de barco pela baía. Nesse passeio,  você passa por baixo da ponte enquanto te contam um pouco da história. É imperdível! Não esqueça de ir bem agasalhado, pois venta demais! 
 
 # 3 - Sentir um pouco de história ao visitar Alcatraz
 
-São Francisco tem na sua baía a famosissima prisão de alcatraz, onde ficou preso Al Capone e que ninguém conseguiu escapar, com vida ao menos.
+Falando em história, São Francisco tem na sua baía a famosíssima prisão de Alcatraz, onde ficou preso Al Capone. É possível fazer um passeio dentro da cadeia, cheio de tensão e com um clima meio macabro. Se você estiver animado, opte pela versão noturna.
 
-É possível fazer um passeio dentro da cadeia, cheio de historia, tensão e um clima meio macabro. Se você está animado opte pela versão noturna.
+Ah, recomendamos ver antes o filme Alcatraz - Fuga Impossível (1979), com Clint Eastwood, que relata bem como o era o clima na prisão. 
+
 # 2 - Visitar o California Academy of Science
 
 Quando estavamos planejando a nossa viagem a gente se perguntou. Visitar o California Academy of Science vale a pena? Se você acha que uma experiência inesquecível vale a pena, a resposta é sim.
