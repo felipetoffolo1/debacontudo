@@ -73,3 +73,4 @@ totop: true
 Fazer Udon é algo muito mais fácil do que a gente imagina. Eu sou um fã de loinga data da cozinha japonesa, e adoro comer udons, sobas e lamens por ai. Mas nunca tinha me aventurado a fazer. Acho que muitas vezes a gente fica achando que fazer os pratos japoneses é difícil por uma certa falta de intimidade com os ingredientes. Que ai deixam na gente a impressão de que são coisa muito difíceis e complexas. Mas nem é o caso.
 
 Vou passar aqui a receita de udon fácil para qualquer brasileiro sair fazendo.
+
