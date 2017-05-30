@@ -27,18 +27,28 @@ São Francisco é uma cidade cheia de coisas super interessantes e divertidas pa
 
 # 1 - Andar de bicicleta pela Golden Gate
 
-A Golden Gate é reconhecidamente o maior cartão postal de São Francisco. E nós temos duas formas muito legais de conhecer a Golden Gate. A primeira é de bicicleta! Você pega uma bike no Pier 39 e vai pedalando até lá. O caminho é lindo, você passa pelo Fisherman's Wharf, Fort Mason, Palace of Fine Arts e Crisy Field. Nessa rota, você vai ver de perto os principais pontos fotográficos da Golden Gate. Quem estiver mais animado, pode atravessar a ponte. A gente só foi lá e voltou. 
+A Golden Gate é reconhecidamente o maior cartão postal de São Francisco. E nós temos duas formas muito legais de conhecer a Golden Gate. A primeira é de bicicleta! Você pega uma bike no Pier 39 e vai pedalando até lá. 
+
+{{< img-full src="/img/2017/05/vista-golden-gate.jpg" alt="Parada para tirar foto no caminho de bicicleta para a Golden Gate"  height="628" width="1200" title="Fotinha clássica né">}}
+
+O caminho é lindo, você passa pelo Fisherman's Wharf, Fort Mason, Palace of Fine Arts e Crisy Field. Nessa rota, você vai ver de perto os principais pontos fotográficos da Golden Gate. Quem estiver mais animado, pode atravessar a ponte. A gente só foi lá e voltou. 
 
 {{quote-her "Vale ressaltar que você precisa ter um preparo físico em dia. O meu não estava lá essas coisas e eu quase não consegui andar até a ponte. :P "}}
+
+{{< img-full src="/img/2017/05/golden-gate-bike.jpg" alt="Na Golden Gate de Bicicleta"  height="628" width="1200"  title="Pensa um lugar que venta">}}
 
 
 # 2 - Passear de barco pela Golden Gate
 
 A outra forma de curtir a Golden Gate é pelo mar. Você também pode adquirir no Pier 39 um passeio de barco pela baía. Nesse passeio,  você passa por baixo da ponte enquanto te contam um pouco da história. É imperdível! Não esqueça de ir bem agasalhado, pois venta demais! 
 
+{{< img-full src="/img/2017/05/golden-gate-de-lancha.jpg" alt="Passeio de barco na baia de são francisco, golden gate no fundo"  height="628" width="1200" >}}
+
 # 3 - Sentir um pouco da história ao visitar Alcatraz
 
 Falando em história, São Francisco tem na sua baía a famosíssima prisão de Alcatraz, onde ficou preso Al Capone. É possível fazer um passeio dentro da cadeia, cheio de tensão e com um clima meio macabro. Se você estiver animado, opte pela versão noturna.
+
+{{< img-full src="/img/2017/05/placa-prisao-alcatraz.jpg" alt="Placa da Prisão de Alcatraz"  height="628" width="1200" >}}
 
 Ah, recomendamos ver antes de você ir o filme 'Alcatraz - Fuga Impossível (1979)', com Clint Eastwood, que relata bem como o era o clima na prisão. 
 
@@ -56,23 +66,33 @@ Além disso, tem mais uma série de coisas legais. Mas não vamos contar tudo pa
 # 5 - Ir de Cable Car da Union Square até a Ghirardelli Square
 Os cables cars fazem parte da identidade e história de São Francisco. Para quem não sabe, eles são aqueles bondinhos que sobem e descem as ladeiras da cidade. O seu funcionamento é bem "simples". Eles ficam em um trilho que possui um cabo por dentro. O bonde então se agarra nesse cabo para se locomover e solta o cabo quando quer parar.
 
-A nossa sugestão é você pegar o Cable Car na Union Square no final da tarde e ir até a Ghirardelli Square. A Ghirardelli é uma fábrica de chocolates de São Francisco. A praça foi adquirida nos anos 60 para ser o quartel general da empresa. Hoje, é uma região histórica, linda, toda iluminada e enfeitada. Você vai encontrar por lá também uma loja gigante da Ghirardelli, onde você pode comprar chocolates (inclusive uns para dar de presente) e tomar um chocolate quente delicioso equanto aprecisa a vista. Além da Ghirardelli, também há outros restaurantes no local.
+A nossa sugestão é você pegar o Cable Car na Union Square no final da tarde e ir até a Ghirardelli Square. A Ghirardelli é uma fábrica de chocolates de São Francisco. A praça foi adquirida nos anos 60 para ser o quartel general da empresa. Hoje, é uma região histórica, linda, toda iluminada e enfeitada. 
 
-Para saber mais sobre transporte, consulta nosso post sobre "Como se locomover em São Francisco". 
+Você vai encontrar por lá também uma loja gigante da Ghirardelli, onde você pode comprar chocolates (inclusive uns para dar de presente) e tomar um chocolate quente delicioso equanto aprecisa a vista. Além da Ghirardelli, também há outros restaurantes no local.
 
 # 4 - Explorar as lojas e restaurantes do Pier 39
 
 O Pier 39 é um centro túristico de São Francisco, onde todo turista vai para bater perna, ver as lojinhas, comer em restaurantes legais e admirar a vista.
 
+{{< img-full src="/img/2017/05/lojas-pier-39.jpg" alt="Lojas Pier 39"  height="628" width="1200" >}}
+
 O Pier 39 fica bem próximo de Alcatraz e da Golden Gate, então normalmente é de lá que saem os passeios para esses lugares. 
 
 Além disso, o Pier 39 tem alguns moradores fixos que fazem sucesso, como os leões marinhos, que passam os dias se esticando ao lado do Pier, um ótimo visual para tirar lindas fotos.
 
-O Pier 39 possui restaurantes bem famosos, como o restaurante de frutos do mar Bulba Gump (que faz referência ao filme do Forrest Gump). Por ali você também vai encontrar vários lugares que servem **Clam chowder**, que é um creme de mariscos típico da região. Por favor, experimente!
+{{< img-full src="/img/2017/05/leao-marinho-pier39.jpg" alt="Leões Marinhos no Pier 39"  height="628" width="1200" >}}
+
+O Pier 39 possui restaurantes bem famosos, como o restaurante de frutos do mar Bulba Gump (que faz referência ao filme do Forrest Gump). 
+
+{{< img-full src="/img/2017/05/bubba-gump-banco-forest.jpg" alt="Banco do Forrest Gump no Bubba GUmp"  height="628" width="1200" >}}
+
+Por ali você também vai encontrar vários lugares que servem **Clam chowder**, que é um creme de mariscos típico da região. Por favor, experimente!
 
 # 6 - Apreciar comidas diferentes no Ferry Building Marketplace
 
-Se você como a gente adora comer e principalmente coisas diferenciadas então você tem que conhecer o Ferry Building Marketlace.
+Se você como a gente adora comer e principalmente coisas diferenciadas então você tem que conhecer o Ferry Building Marketplace
+
+{{< img-full src="/img/2017/05/ferry-building-marketplace.jpg" alt="Ferry Building Marketplace"  height="628" width="1200" >}}.
 
 O Ferry Building Marketplace é de onde saem as balsas de São Francisco.  Lá também existe um mercado de comida que é simplesmente maravilhoso. Você vai encontrar todo tipo de comida: pães, queijos, vinhos, embutidos e tudo mais que seu estômago possa imaginar. Várias lojinhas oferecem degustações, então aproveite!
 
@@ -80,7 +100,11 @@ Nossa dica é comer algo no **[Delica](https://www.ferrybuildingmarketplace.com/
 
 # 7 - Fazer um piquenique na Alamo Square e admirar as Painted Ladies
 
-Outro cartão postal de São Francisco são as Painted Ladies da Alamo Square. Painted Ladies são casas de estilo vitoriano bem similares, pintadas com cores brilhantes, que podem ser observadas em vários locais do mundo. Porém as mais conhecidas são as de São Francisco, localizadas na Steiner Street, ao Lado da Alamo Square (inclusive elas foram usadas na série Full House).
+Outro cartão postal de São Francisco são as Painted Ladies da Alamo Square. Painted Ladies são casas de estilo vitoriano bem similares, pintadas com cores brilhantes, que podem ser observadas em vários locais do mundo. 
+
+Porém as mais conhecidas são as de São Francisco, localizadas na Steiner Street, ao Lado da Alamo Square (inclusive elas foram usadas na série Full House).
+
+{{< img-full src="/img/2017/05/painted-ladies-alamo-square.jpg" alt="Painted Ladies na Alamo Square"  height="628" width="1200" >}}.
 
 A Alamo Square é uma pracinha toda gramada e bem legal. Lá ficam dezenas de pessoas sentadas, fazendo um piquenique, ou só de papo mesmo enquanto ficam olhando as Painted Ladies. É um ótimo momento para tirar um tempinho para recarregar as baterias.
 
@@ -94,7 +118,9 @@ Vá com tempo para curtir cada uma das atrações. Uma das experiências que o m
 
 A Lombard Street é uma rua em zigzag de São Franscisco. Como era muito íngreme, resolveram fazê-la assim para evitar acidentes. Não sabemos se resolveu muito, já que andamos por lá e ficamos meio tontos dirigindo por ela.  
 
-Além da Lombard Streert ser super diferente, bonita e legal de se conhecer, a vista lá de cima é bem bonita.
+Além da Lombard Street ser super diferente, bonita e legal de se conhecer, a vista lá de cima é bem bonita.
+
+{{< img-full src="/img/2017/05/lombard-street-vista-do-alto.jpg" alt= Lombard Street vista do alto"  height="628" width="1200" >}}.
 
 Se possível, desça ela de carro. Se você não estiver de carro (e a gente não recomenda que esteja mesmo), passe lá de Uber rsrs. Mas não deixe de conhecer a Lombard Street.
 
