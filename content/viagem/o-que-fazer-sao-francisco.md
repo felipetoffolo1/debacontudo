@@ -72,7 +72,7 @@ O Pier 39 possui restaurantes bem famosos, como o restaurante de frutos do mar B
 
 # 6 - Apreciar comidas diferentes no Ferry Building Marketplace
 
-Se você, assim como a gente, adora experimentar pratos diferentes e típicos de cada região, você precisa conhecer o Ferry Building Marketlace.
+Se você como a gente adora comer e principalmente coisas diferenciadas então você tem que conhecer o Ferry Building Marketlace.
 
 O Ferry Building Marketplace é de onde saem as balsas de São Francisco.  Lá também existe um mercado de comida que é simplesmente maravilhoso. Você vai encontrar todo tipo de comida: pães, queijos, vinhos, embutidos e tudo mais que seu estômago possa imaginar. Várias lojinhas oferecem degustações, então aproveite!
 
