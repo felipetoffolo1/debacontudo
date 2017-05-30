@@ -23,9 +23,11 @@ title: '10 experiências que fazem de São Francisco um lugar maravilhoso para s
 totop: true
 ---
 
+São Francisco é uma cidade cheia de coisas super interessantes e divertidas para se fazer. Somos apaixonados pela cidade, e óbvio adoramos falar dela. Para facilitar que você saíba quais os principais pontos de interesse em São Francisco e passeios que você não pode perder, fizemos essa lista. Aqui você vai encontrar 10 experiências que fazem de São Francisco um lugar maravilhoso para se conhecer.
+
 # 1 - Andar de bicicleta pela Golden Gate
 
-A Golden Gate é reconhecidamente o maior cartão postal de São Francisco. E nós temos duas formas muito legais de conhecer a ponte. A primeira é de bicicleta! Você pega uma bike no Pier 39 e vai pedalando até lá. O caminho é lindo, você passa pelo fisherman wharf, fort mason, palace of fine arts e crisy field, nessa rota você passa pelos principais pontos fotográficos da Golden Gate. Quem estiver mais animado, pode atravessar a ponte. A gente só foi lá e voltou. 
+A Golden Gate é reconhecidamente o maior cartão postal de São Francisco. E nós temos duas formas muito legais de conhecer a Golden Gate. A primeira é de bicicleta! Você pega uma bike no Pier 39 e vai pedalando até lá. O caminho é lindo, você passa pelo fisherman wharf, fort mason, palace of fine arts e crisy field, nessa rota você passa pelos principais pontos fotográficos da Golden Gate. Quem estiver mais animado, pode atravessar a ponte. A gente só foi lá e voltou. 
 
 {{quote-her "Vale ressaltar que você precisa ter um preparo físico em dia. O meu não estava lá essas coisas e eu quase não consegui andar até a ponte. :P "}}
 
@@ -34,7 +36,7 @@ A Golden Gate é reconhecidamente o maior cartão postal de São Francisco. E n�
 
 A outra forma de curtir a Golden Gate é pelo mar. Você também pode adquirir no Pier 39 um passeio de barco pela baía. Nesse passeio,  você passa por baixo da ponte enquanto te contam um pouco da história. É imperdível! Não esqueça de ir bem agasalhado, pois venta demais! 
 
-# 3 - Sentir um pouco de história ao visitar Alcatraz
+# 3 - Sentir um pouco da história ao visitar Alcatraz
 
 Falando em história, São Francisco tem na sua baía a famosíssima prisão de Alcatraz, onde ficou preso Al Capone. É possível fazer um passeio dentro da cadeia, cheio de tensão e com um clima meio macabro. Se você estiver animado, opte pela versão noturna.
 
@@ -103,4 +105,3 @@ A gente entende que subir escada não é para qualquer um. Mas vamos tentar te c
 {{<quote-him "Dessa vez a Larissa nem reclamou - Felipe">}}
 
 Chegando lá em cima além da lindissima vista do topo do Coit Tower, você vai curtir (enquanto na fila), as pinturas nas paredes que contam a história da região e que são algo a se visitar a parte.
-
