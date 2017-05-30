@@ -1,15 +1,14 @@
 ---
 author:
 - felipe
-banner: /img/2017/04/highway-1-banner.jpg
+banner: /img/2017/05/pontos-interesse-sao-francisco-banner.jpg
 categories:
 - viagem
-date: 2017-04-30T18:00:47-02:00
+date: 2017-05-30T18:00:47-02:00
 description: Acompanhe o nosso roteiro de road trip pela Highway 1. Vamos falar do Big Sur, o aquário de Monterey, Google, Facebook e muito mais.
 draft: true
 images:
-- /img/2017/04/highway-1-banner.jpg
-- /img/2017/04/highway-1-thumb.jpg
+- /img/2017/05/pontos-interesse-sao-francisco-banner.jpg
 lightbox: true
 slug: sao-francisco-california-pontos-interesse
 structured:
@@ -128,7 +127,7 @@ Se possível, desça ela de carro. Se você não estiver de carro (e a gente nã
 
 O Coit Tower é uma torre que fica no topo de São Francisco e que oferece uma das vistas mais lindas da cidade. Existem várias formas de chegar até a Coit Tower, mas nenhuma tão legal quanto subir a escadaria do Telegraph Hills.
 
-A gente entende que subir escada não é para qualquer um. Mas vamos tentar te convencer. São somente 400 degraus (tá, talvez isso não te ajude muito), onde você passa por lindos jardins e casas charmosas dos moradores da região. Além disso, durante a subida vocâ vai ouvir os famosos papagaios selvagens de São Francisco, que eram pássaros de estimação que acabaram se reproduzindo e se espalhando por certas regiões da cidade. A subida é bem pitoresca e é só ir com calma que dá tudo certo.
+A gente entende que subir escada não é para qualquer um. Mas vamos tentar te convencer. São somente 400 degraus (tá, talvez isso não ajude muito o argumento), onde você passa por lindos jardins e casas charmosas dos moradores da região (agora sim hein). Além disso, durante a subida vocâ vai ouvir os famosos papagaios selvagens de São Francisco, que eram pássaros de estimação que acabaram se reproduzindo e se espalhando por certas regiões da cidade. A subida é bem pitoresca e é só ir com calma que dá tudo certo.
 
 {{<quote-him "Dessa vez a Larissa nem reclamou - Felipe">}}
 
