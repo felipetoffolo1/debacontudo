@@ -1809,51 +1809,41 @@ input[type="submit"] {
   }
 
   &.astrif_widget_popular_entries {
-    ul {
+    .list {
       list-style-type: none;
       padding: 0;
 
-      li {
-        display: block;
-        clear: left;
-        margin-bottom: 10px;
+      .item {
+        margin-bottom: 20px;
         padding: 0;
-        overflow: hidden;
-
+        width: 100%;
         &:last-child {
           margin-bottom: 0;
         }
-
-        .popular-entry-thumbnail {
-          width: 125px;
-          height: 125px;
-          float: left;
-          margin: 0 15px 0 0;
-          @media screen and (min-width: 992px) and (max-width: 1200px) {
-            width: 100px;
-            height: 100px;
-          }
-
-          img {
-            @include border-radius(50%);
-          }
+        .image {
+           position: relative;
+           width: 100%; /* for IE 6 */
         }
 
         .popular-entry-title {
-          display: block;
-          margin-top: 15px;
-          font-weight: 500;
+          border-bottom: 3px solid $theme-color;
+           position: absolute;
+           bottom: 20px;
+           left: 0;
+           padding: 10px;
+           width: 100%;
+           background-color: rgba($text-color, 0.7───);
 
+           margin-top: 15px;
+           font-weight: 500;
           .popular-entry-title-link {
-            display: block;
             @include font-family($font-secondary);
             font-size: 16px;
             text-transform: uppercase;
             letter-spacing: 1px;
-            color: $text-color;
-
+            color: $white;
             &:hover {
-              color: $grey;
+              color: lighten($theme-color, 30%);
             }
           }
 
@@ -1863,7 +1853,7 @@ input[type="submit"] {
             font-size: 10px;
             text-transform: uppercase;
             letter-spacing: 1px;
-            color: lighten($grey, 15%);
+            color: lighten($theme-color, 15%);
           }
         }
       }
