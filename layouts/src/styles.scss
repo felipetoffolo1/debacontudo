@@ -1181,6 +1181,30 @@ input[type="submit"] {
 	[6.2. ENTRY SINGLE]
 	===========================
 */
+
+.error-404,
+.page,
+.single {
+  .entry-header {
+    margin-bottom: 60px;
+  }
+
+  .entry-featured-image {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .entry-title {
+    font-size: 64px;
+    line-height: 76px;
+    letter-spacing: 2px;
+  }
+
+  .entry-content {
+    font-size: 14px;
+    line-height: 25px;
+  }
+}
 @media screen and (max-width: 667px) {
   .home {
     .post {
@@ -1201,8 +1225,8 @@ input[type="submit"] {
     &:not(.first-post):not(.post-grid) {
       .entry-area {
         text-align: left;
-        padding-left: 20px;
-        padding-right: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
       }
 
       .entry-title {
@@ -1245,6 +1269,12 @@ input[type="submit"] {
       }
     }
   }
+  .page,.single{
+    .entry-title {
+      font-size: 45px;
+      line-height: 60px;
+    }
+  }
 
   .home {
     .entry-meta {
@@ -1257,29 +1287,7 @@ input[type="submit"] {
   }
 }
 
-.error-404,
-.page,
-.single {
-  .entry-header {
-    margin-bottom: 60px;
-  }
 
-  .entry-featured-image {
-    width: 100%;
-    margin-bottom: 20px;
-  }
-
-  .entry-title {
-    font-size: 64px;
-    line-height: 76px;
-    letter-spacing: 2px;
-  }
-
-  .entry-content {
-    font-size: 14px;
-    line-height: 25px;
-  }
-}
 /*
 	===========================
 	[7. MEDIA]
