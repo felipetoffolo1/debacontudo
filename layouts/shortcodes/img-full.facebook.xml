@@ -1,0 +1,5 @@
+<figure class="img-short">
+<img
+   src="{{ .Get "src" }}" alt="{{ .Get "alt" }}">
+    <figcaption>{{.Get "title"}}</figcaption>
+</figure>

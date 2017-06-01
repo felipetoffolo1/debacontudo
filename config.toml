@@ -9,6 +9,7 @@ theme = "gohugo-amp"
 Paginate = 6
 MetaDataFormat = "yaml"
 [outputFormats.FACEBOOK]
+name="facebook"
 mediaType = "application/rss"
 baseName = "facebook"
 rel = "alternate"
@@ -27,7 +28,7 @@ NoUgly = false
 NotAlternative = false
 [outputs]
 home = [ "HTML", "FACEBOOK", "RSS" ,"INSTANT"]
-page = [ "HTML", "INSTANT"]
+page = [ "HTML", "FACEBOOK", "INSTANT"]
 [blackfriday]
 hrefTargetBlank = true
 [taxonomies]
