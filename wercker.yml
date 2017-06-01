@@ -2,7 +2,7 @@ box: golang:latest
 build:
   steps:
   - arjen/hugo-build@1.16.3:
-        version: "0.20.7"
+        version: "0.21.0"
         theme: gohugo-amp
 deploy:
   steps:
