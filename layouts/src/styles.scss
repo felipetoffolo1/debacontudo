@@ -124,25 +124,6 @@ pre {
     background-color: darken($white, 10%);
   }
 }
-// .form-bordered {
-//     height: 45px;
-//     padding: 10px 20px;
-//     font-size: 13px;
-//     font-weight: 400;
-//     border: 2px solid darken($white, 20%);
-//     @include border-radius(0);
-//     @include box-shadow-none;
-//     color: darken($grey, 5%);
-//     @include transition(all 0.1s linear);
-//
-//     &:focus {
-//         color: darken($theme-color, 12%);
-//         border-color: $text-color;
-//         @include box-shadow-none;
-//         outline: none;
-//         @include transition(all 0.1s linear);
-//     }
-// }
 
 textarea {
   height: auto;
@@ -509,28 +490,14 @@ input[type="submit"] {
   padding: 0;
   margin: 0;
   width: 100%;
-  height: 450px;
+  // height: 270px;
   overflow: hidden;
 
   #slider-thumbnail {
+    overflow: hidden;
     .item {
       position: relative;
       margin: 0;
-
-      &:focus,
-      &:hover {
-        .item-caption {
-          opacity: 1;
-          filter: alpha(opacity=100);
-          @include transition(opacity 0.2s linear);
-        }
-      }
-
-      amp-img {
-        display: block;
-        width: 100%;
-        height: auto;
-      }
 
       &-caption {
         white-space: normal;
@@ -541,10 +508,7 @@ input[type="submit"] {
         width: 100%;
         height: 100%;
         text-align: center;
-        background-color: rgba($text-color, 0.8───);
-        opacity: 0;
-        filter: alpha(opacity=0);
-        @include transition(opacity 0.2s linear);
+        background-color: rgba($text-color, 0.4───);
       }
 
       .caption {
@@ -552,9 +516,9 @@ input[type="submit"] {
           display: block;
           position: absolute;
           width: 100%;
-          // bottom: 0;
-          margin-top: 50%;
-          padding: 40px 30px 60px;
+          bottom: 30px;
+          // margin-top: 50%;
+          padding: 0px 30px 0px;
         }
 
         &-cat-links {
@@ -562,20 +526,19 @@ input[type="submit"] {
           position: relative;
           margin-right: 5px;
           @include font-family($font-secondary);
-          font-size: 28px;
+          font-size: 14px;
           font-weight: 700;
           letter-spacing: 1px;
           text-transform: uppercase;
-          // border-bottom: 3px solid $white;
-          // color: $theme-color;
-          border-bottom: 3px solid $theme-color;
-          color: $white;
+          border-bottom: 3px solid $white;
+          color:  lighten($theme-color, 15%);;
           padding-bottom: 5px;
 
           &:last-child {
             margin-right: 0;
           }
         }
+
 
         &-title {
           display: block;
@@ -590,6 +553,7 @@ input[type="submit"] {
             line-height: 24px;
             letter-spacing: 2px;
             color: $white;
+            height: 72px;
 
             &:focus,
             &:hover {
@@ -600,7 +564,8 @@ input[type="submit"] {
 
         &-more-link {
           &.button {
-            border-color: $white;
+            border: 2px $white solid;
+            @include border-radius(25px);
 
             &:active,
             &:focus,
@@ -1967,7 +1932,6 @@ input[type="submit"] {
   }
 
   .btn,
-  button,
   input[type="button"],
   input[type="submit"] {
     padding: 13px 20px;

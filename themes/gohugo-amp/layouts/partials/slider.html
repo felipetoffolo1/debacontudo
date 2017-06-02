@@ -1,112 +1,28 @@
 <!-- topbar featured slider -->
 <div class="topbar-slider">
-    <amp-carousel id="slider-thumbnail" class="owl-carousel owl-theme slider-thumbnail" height="450" controls type="carousel">
-        <div class="item">
-            <amp-img src="/img/banner/viagem.jpeg" width="350" height="450" layout="fixed" alt="an image"></amp-img>
-            <div class="item-caption">
-                <div class="caption-description">
-                    <a href="categories/viagem" class="caption-cat-links">Viagens</a>
-                    <span class="caption-title"></span>
-                    <!-- .caption-title -->
-                </div>
-                <!-- .caption-description -->
-            </div>
-            <!-- .item-caption -->
+  {{ $Site := .Site }}
+    <amp-carousel id="slider-thumbnail" class="owl-carousel owl-theme slider-thumbnail " height="400" layout="fixed-height" controls type="carousel">
+      {{ range where (.Data.Pages.ByParam "featuredorder") "Params.featured" "==" true  }}
+      <div class="item">
+        <amp-img src="{{ .Params.thumbnail }}" layout="fixed" width="400" height="400"></amp-img>
+        <div class="item-caption">
+          <div class="caption-description">
+            {{ if .Params.categories }} {{ range first 1 .Params.categories }}
+                    <a href="{{ $Site.BaseURL }}/categories/{{ . | urlize }}" class="caption-cat-links">{{ . }}</a>
+            <!-- .entry-cat -->
+            {{ end }}{{ end }}
+            <span class="caption-title">
+                  <a href="{{ .RelPermalink}}" class="caption-title-link">{{ .Title }}</a>
+                  <a href="{{ .RelPermalink}}" class="button caption-more-link">Leia Mais</a>
+                </span>
+            <!-- .caption-title -->
+          </div>
+          <!-- .caption-description -->
         </div>
-        <!-- .item -->
-        <div class="item">
-            <amp-img src="/img/banner/comida.jpeg" width="350" height="450" layout="fixed" alt="an image"></amp-img>
-            <div class="item-caption">
-                <div class="caption-description">
-                    <a href="categories/comida" class="caption-cat-links">Comida</a>
-                    <span class="caption-title">
-      </span>
-                    <!-- .caption-title -->
-                </div>
-                <!-- .caption-description -->
-            </div>
-            <!-- .item-caption -->
-        </div>
-        <!-- .item -->
-        <div class="item">
-            <amp-img src="/img/banner/estilo-de-vida.jpeg" width="350" height="450" layout="fixed" alt="an image"></amp-img>
-            <div class="item-caption">
-                <div class="caption-description">
-                    <a href="categories/estilo-de-vida" class="caption-cat-links">Estilo de Vida</a>
-                    <span class="caption-title"></span>
-                    <!-- .caption-title -->
-                </div>
-                <!-- .caption-description -->
-            </div>
-            <!-- .item-caption -->
-        </div>
-        <!-- .item -->
-        <div class="item">
-            <amp-img src="/img/banner/pop-culture.jpeg" width="350" height="450" layout="fixed" alt="an image"></amp-img>
-            <div class="item-caption">
-                <div class="caption-description">
-                    <a href="categories/pop-culture" class="caption-cat-links">Pop Culture</a>
-                    <span class="caption-title"></span>
-                    <!-- .caption-title -->
-                </div>
-                <!-- .caption-description -->
-            </div>
-            <!-- .item-caption -->
-        </div>
-        <!-- .item -->
-        <div class="item">
-            <amp-img src="/img/banner/viagem.jpeg" width="350" height="450" layout="fixed" alt="an image"></amp-img>
-            <div class="item-caption">
-                <div class="caption-description">
-                    <a href="categories/viagem" class="caption-cat-links">Viagens</a>
-                    <span class="caption-title"></span>
-                    <!-- .caption-title -->
-                </div>
-                <!-- .caption-description -->
-            </div>
-            <!-- .item-caption -->
-        </div>
-        <!-- .item -->
-        <div class="item">
-            <amp-img src="/img/banner/comida.jpeg" width="350" height="450" layout="fixed" alt="an image"></amp-img>
-            <div class="item-caption">
-                <div class="caption-description">
-                    <a href="categories/comida" class="caption-cat-links">Comida</a>
-                    <span class="caption-title">
-      </span>
-                    <!-- .caption-title -->
-                </div>
-                <!-- .caption-description -->
-            </div>
-            <!-- .item-caption -->
-        </div>
-        <!-- .item -->
-        <div class="item">
-            <amp-img src="/img/banner/estilo-de-vida.jpeg" width="350" height="450" layout="fixed" alt="an image"></amp-img>
-            <div class="item-caption">
-                <div class="caption-description">
-                    <a href="categories/estilo-de-vida" class="caption-cat-links">Estilo de Vida</a>
-                    <span class="caption-title"></span>
-                    <!-- .caption-title -->
-                </div>
-                <!-- .caption-description -->
-            </div>
-            <!-- .item-caption -->
-        </div>
-        <!-- .item -->
-        <div class="item">
-            <amp-img src="/img/banner/pop-culture.jpeg" width="350" height="450" layout="fixed" alt="an image"></amp-img>
-            <div class="item-caption">
-                <div class="caption-description">
-                    <a href="categories/pop-culture" class="caption-cat-links">Pop Culture</a>
-                    <span class="caption-title"></span>
-                    <!-- .caption-title -->
-                </div>
-                <!-- .caption-description -->
-            </div>
-            <!-- .item-caption -->
-        </div>
-        <!-- .item -->
+        <!-- .item-caption -->
+      </div>
+      {{ end }}
+
     </amp-carousel>
     <!-- #slider-thumbnail -->
 </div>

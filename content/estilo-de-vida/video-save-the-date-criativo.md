@@ -7,6 +7,7 @@ categories:
 date: 2017-05-17T12:25:19-03:00
 description: Fizemos o vídeo de Save The Date mais fofo que você já viu. Assita e entenda como foi a produção desse vídeo tão criativo, diferente e animado.
 draft: false
+featured: false
 images:
 - /img/2017/05/melhor-video-save-the-date-criativo.jpg
 notoc: true
