@@ -577,13 +577,13 @@ input[type="submit"] {
           color: $white;
         }
       }
-      @media screen and (max-width: 480px) {
-        .caption {
-          &-description {
-            bottom: 35%;
-          }
-        }
-      }
+      // @media screen and (max-width: 480px) {
+      //   .caption {
+      //     &-description {
+      //       bottom: 30px;
+      //     }
+      //   }
+      // }
     }
   }
 }
