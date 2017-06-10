@@ -15,7 +15,7 @@ structured:
   type: Article
 tags:
 - viagens
-thumbnail: /img/2017/06/dicas-viagem-casal-banner-thumb.jpg
+thumbnail: /img/2017/06/dicas-viagem-casal-thumb.jpg
 title: '10 dicas para fazer uma viagem de casal inesquecível'
 totop: true
 ---
