@@ -1,5 +1,5 @@
 <figure class="op-interactive">
-  <iframe class="column-width" src="{{ .Get "src" }}"> 
+  <iframe class="column-width" src="{{ .Get "src" }}"
   width="{{ .Get "width" }}"
   height="{{ .Get "height" }}" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </figure>
