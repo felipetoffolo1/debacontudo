@@ -5,7 +5,7 @@ banner: /img/2017/06/first-dance-dicas-banner.jpg
 categories:
 - estilo-de-vida
 date: 2017-06-20T20:55:19-03:00
-description: Fizemos o vídeo de Save The Date mais fofo que você já viu. Assita e entenda como foi a produção desse vídeo tão criativo, diferente e animado.
+description: O First Dance é a primeira dança que os noivos fazem após a cerimônia. Saiba como foi a nossa, conheça nossos preparativos e veja dicas para fazer a sua. 
 draft: false
 featured: false
 images:
