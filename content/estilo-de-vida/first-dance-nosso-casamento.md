@@ -32,13 +32,11 @@ De início, eu tinha imaginado fazer a famosa dança do filme "Dirty Dancing". M
 
 Bem, não somos dançarinos e nem temos o hábito de dançar, então nossa primeira preocupação foi buscar alguém para nos ajudar. 
 
-## Buscando um coreográfo em Brasília
+## Buscando um coreógrafo em Brasília
 
 Pesquisamos vários lugares e escolas em Brasília para aprender a coreografia e a técnica da dança do nosso casamento. Depois de muita pesquisa, encontramos o [Instituto Juliana Castro.](http://julianacastro.com.br/ijc/s/)
 
 Lá fomos apresentados ao professor Sávio. Ele bateu um papo com a gente sobre o que queríamos, nós explicamos mais ou menos a ideia e já marcamos a primeira aula.
-
-
 
 Nossa experiência com ele foi maravilhosa. Super atencioso, ele adaptou a coreografia às nossas necessidades (e capacidades) e ensinou todas as técnicas necessárias.
 
