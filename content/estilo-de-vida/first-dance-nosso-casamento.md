@@ -48,7 +48,7 @@ Triste né rsrsr
 
 ## O investimento
 
-No total, foram cinco aulas de 1 hora por R$ 100,00 cada. Fora isso treinamos sozinhos cerca de 7 horas no total.
+No total, foram cinco aulas de 1 hora por R$ 100,00 cada. Fora isso treinamos sozinhos cerca de 7 horas.
 
 # Dicas de quem fez
 
