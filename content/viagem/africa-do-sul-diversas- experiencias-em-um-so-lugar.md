@@ -1,17 +1,16 @@
 ---
 author:
   - larissa
-banner: /img/2017/05/como-locomover-em-sao-francisco-banner.jpg
-pinterest: /img/2017/05/como-locomover-em-sao-francisco-pinterest.jpg
+banner: /img/2017/07/africa-do-sul-diversas- experiencias-em-um-so-lugar-banner.jpg
 categories:
   - viagem
-date: 2017-07-15T20:30:16
+date: 2017-07-16T16:30:16
 description: Saiba mais sobre o que fizemos na África do Sul durante os 20 dias que ficamos no país curtindo a nossa lua de mel
 draft: true
 images:
   - /img/2017/07/plantacao-groot-constantia.jpg
-  - /img/2017/07/como-locomover-em-sao-francisco-banner.jpg
-  - /img/2017/07/como-locomover-em-sao-francisco-thumb.jpg
+  - /img/2017/07/encontro-elefante-safari.jpg
+  - /img/2017/07/placa-topo-lions-head.jpg
 slug: africa-do-sul-diversas- experiencias-em-um-so-lugar
 structured:
   type: Article
@@ -19,9 +18,8 @@ tags:
   - viagens
   - dicas
   - listas
-  - hoteis
 
-thumbnail: /img/2017/05/africa-do-sul-diversas- experiencias-em-um-so-lugar-thumb.jpg
+thumbnail: /img/2017/07/africa-do-sul-diversas- experiencias-em-um-so-lugar-thumb.jpg
 title: 'África do sul: diversas experiências em um só lugar'
 totop: true
 ---
