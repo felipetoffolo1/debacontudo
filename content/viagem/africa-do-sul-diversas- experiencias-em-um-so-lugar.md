@@ -6,7 +6,7 @@ categories:
   - viagem
 date: 2017-07-16T16:30:16
 description: Saiba mais sobre o que fizemos na África do Sul durante os 20 dias que ficamos no país curtindo a nossa lua de mel
-draft: true
+draft: false
 images:
   - /img/2017/07/plantacao-groot-constantia.jpg
   - /img/2017/07/encontro-elefante-safari.jpg
