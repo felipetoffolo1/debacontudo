@@ -1,7 +1,7 @@
 ---
 author:
   - larissa
-banner: /img/2017/07/africa-do-sul-diversas- experiencias-em-um-so-lugar-banner.jpg
+banner: /img/2017/07/africa-do-sul-diversas-experiencias-em-um-so-lugar-banner.jpg
 categories:
   - viagem
 date: 2017-07-16T16:30:16
@@ -11,7 +11,7 @@ images:
   - /img/2017/07/plantacao-groot-constantia.jpg
   - /img/2017/07/encontro-elefante-safari.jpg
   - /img/2017/07/placa-topo-lions-head.jpg
-slug: africa-do-sul-diversas- experiencias-em-um-so-lugar
+slug: africa-do-sul-diversas-experiencias-em-um-so-lugar
 structured:
   type: Article
 tags:
@@ -19,7 +19,7 @@ tags:
   - dicas
   - listas
 
-thumbnail: /img/2017/07/africa-do-sul-diversas- experiencias-em-um-so-lugar-thumb.jpg
+thumbnail: /img/2017/07/africa-do-sul-diversas-experiencias-em-um-so-lugar-thumb.jpg
 title: 'África do sul: diversas experiências em um só lugar'
 totop: true
 ---
