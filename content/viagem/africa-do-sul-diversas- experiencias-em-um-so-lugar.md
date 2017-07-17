@@ -11,6 +11,7 @@ images:
   - /img/2017/07/plantacao-groot-constantia.jpg
   - /img/2017/07/encontro-elefante-safari.jpg
   - /img/2017/07/placa-topo-lions-head.jpg
+  - /img/2017/07/africa-do-sul-diversas-experiencias-em-um-so-lugar-banner.jpg
 slug: africa-do-sul-diversas-experiencias-em-um-so-lugar
 structured:
   type: Article
@@ -28,7 +29,7 @@ E a nossa incrível viagem pela a **África do Sul** (infelizmente) chegou ao fi
 
 
 
-{{< img-full src="/  - /img/2017/07/plantacao-groot-constantia.jpg" alt="Vinícola Groot Constantia"  height="628" width="1200" title="" >}}
+{{< img-full src="/img/2017/07/plantacao-groot-constantia.jpg" alt="Vinícola Groot Constantia"  height="628" width="1200" title="" >}}
 
 ## Lua de mel
 
