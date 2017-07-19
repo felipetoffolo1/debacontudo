@@ -5,8 +5,8 @@ banner: /img/2017/07/como-e-fazer-safari-africa-do-sul-banner.jpg
 categories:
   - viagem
 date: 2017-07-19T12:30:16
-description: Saiba mais sobre o que fizemos na África do Sul durante os 20 dias que ficamos no país curtindo a nossa lua de mel
-draft: true
+description: Muita gente tem curiosidade sobre como é fazer um safari na África do Sul e ficar cara a cara com animais selvagens. A gente também tinha e agora contamos como é.
+draft: false
 images:
   - /img/2017/07/como-e-fazer-safari-africa-do-sul-banner.jpg
 slug: dicas-melhor-safari-africa-do-sul
@@ -18,7 +18,7 @@ tags:
   - aventura
 
 thumbnail: /img/2017/07/como-e-fazer-safari-africa-do-sul-thumb.jpg
-title: Como é fazer um safari na África do Sul'
+title: 'Conheça uma aventura imperdível: como é fazer um SAFARI na África do Sul'
 totop: true
 ---
 
@@ -37,6 +37,8 @@ Almoçamos e já partimos para o primeiro game.
 
 ### Como funciona o Safari
 
+{{< img-around-right src="/img/2017/07/safari-africa-do-sul-jipe2.jpg" alt="Larissa na cadeira do Ranger" title="Na cadeira do Ranger"  height="800" width="640" >}}
+
 Primeiro algumas explicações básicas sobre o Safari.
 
 - **Game** é como eles chamam o ato de sair atrás dos bichinhos.
@@ -46,10 +48,6 @@ Primeiro algumas explicações básicas sobre o Safari.
 - Cada jipe tem também um **tracker**, que vai na frente tentando rastrear os bichos.
 - Durante os games, do nosso lodge (e da maioria), tem um mini **intervalo** para um lanche no meio da reserva (você escolhe antes a sua bebida). Mas é super tranquilo. Um olho no vinho e outro em volta para ver se não aparece um leão né.
 - Sempre que é **avistado um animal**, o jipe para e todo mundo tira foto. Depois que cansa, segue à procura do próximo.
-
-{{< img-full src="/img/2017/07/safari-africa-do-sul-jipe.jpg" alt="Ranger e Tracker no Safari"  height="800" width="1280" >}}
-
-
 
 # Cara a cara com os big 5
 
@@ -110,7 +108,7 @@ Uma das experiências mais loucas do safari sem dúvida foi sair andando atrás 
 
 # Dicas para não errar no seu safari
 
-- Existem reservas "**públicas**" que fazem parte dos parques nacionais, como o Kruger. Lá você pode fazer o seu Safari por preços mais acessíveis.
+- Existem reservas "**públicas**" que fazem parte dos parques nacionais, como o Kruger. Lá você pode fazer o seu Safari por preços mais acessíveis, o custo para entrar no parque do Kruger é 304 rands.
 - Os lodges (hotéis normalmente mais luxuosos) ficam dentro de **reservas privadas**, e já tem toda as estrutura para os passeios montada. É mais caro, mas super legal.
 - Mesmo em um parque nacional, prefira fazer o **safari com os guias** (você pode fazer sozinho no seu carro). Eles sabem como encontrar os tão desejados animais. 
 - Vá muito bem **agasalhado**! O vento frio é de matar.
