@@ -18,7 +18,7 @@ tags:
   - aventura
 
 thumbnail: /img/2017/07/como-e-fazer-safari-africa-do-sul-thumb.jpg
-title: 'Conheça uma aventura imperdível: como é fazer um SAFARI na África do Sul'
+title: 'Uma aventura imperdível: saiba como é fazer um SAFARI na África do Sul'
 totop: true
 ---
 
