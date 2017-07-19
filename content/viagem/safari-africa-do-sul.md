@@ -29,27 +29,33 @@ Confesso que tinha um pouco de receio (ou medo) de fazer o tal do safari. Antes 
 
 {{<quote-him "Olha o nível de doidera que eu convivo rsrs -Felipe" >}}
 
-Mas quando fizemos o nosso primeiro game, que é como eles chamam o ato de sair atrás dos bichinhos, logo percebi como é tranquilo e o quanto eu deveria focar apenas em curtir a experiência. 
+Mas quando fizemos o nosso primeiro passeio, logo percebi como é tranquilo e o quanto eu deveria focar apenas em curtir a experiência. 
 
-Ficamos hospedados duas noites no Karongwe e fizemos quatro games. Chegamos por volta das 13h no lodge e fomos super bem recebidos (isso é assunto para outro post). 
+Ficamos hospedados duas noites no Karongwe. Chegamos por volta das 13h no lodge e fomos super bem recebidos (isso é assunto para outro post). 
+
+Almoçamos e já partimos para o primeiro game.
 
 ### Como funciona o Safari
 
-Almoçamos e já partimos para o primeiro game. Cada game tem **duração de três horas.** Eles são realizados no **começo da manhã, com saída às 6h**, e à tarde, **com saída às 15h30**.  O motivo disso é porque nesses horários os animais estão mais ativos.
+Primeiro algumas explicações básicas sobre o Safari.
 
-Cada jipe tem um **ranger**, que dirige o jipe e vai falando sobre os animais com a gente, e um **tracker**, que vai na frente tentando rastrear os bichos.
-
-Durante os games, do nosso lodge (e da maioria), tem um mini **intervalo** para um lanche no meio da reserva (você escolhe antes a sua bebida). Mas é super tranquilo. Um olho no vinho e outro em volta para ver se não aparece um leão né.
+- **Game** é como eles chamam o ato de sair atrás dos bichinhos
+- Cada game normalmente tem **duração de três horas.** 
+- Eles são realizados no **começo da manhã, com saída às 6h**, e à tarde, **com saída às 15h30**.  O motivo disso é porque nesses horários os animais estão mais ativos.
+- Cada jipe tem um **ranger**, que dirige o jipe e vai falando sobre os animais com a gente.
+- Cada jipe tem também um **tracker**, que vai na frente tentando rastrear os bichos.
+- Durante os games, do nosso lodge (e da maioria), tem um mini **intervalo** para um lanche no meio da reserva (você escolhe antes a sua bebida). Mas é super tranquilo. Um olho no vinho e outro em volta para ver se não aparece um leão né.
+- Sempre que é **avistado um animal** o jipe para e todo mundo tira foto, depois que cansa, segue a procura do próximo.
 
 {{< img-full src="/img/2017/07/safari-africa-do-sul-jipe.jpg" alt="Ranger e Tracker no Safari"  height="800" width="1280" >}}
 
-Sempre que é avistado um animal o jipe para e todo mundo tira foto, depois que cansa, segue a procura do próximo.
+
 
 # Cara a cara com os big 5
 
 O que a maioria das pessoas que fazem safari querem na verdade é conseguir encontrar os **Big 5** (leão, leopardo, búfalo, elefante e rinoceronte), que são os cinco animais mais **perigosos** e difíceis de serem **caçados** na África do Sul. Então, como os demais essa era a nossa meta, ver os Big 5. 
 
-Logo no nosso primeiro game já avistamos o **búfalo**., esse foi fácil.
+Logo no nosso primeiro game já avistamos o **búfalo**, esse foi fácil.
 
 {{< img-full src="/img/2017/07/safari-africa-do-sul-bufalo.jpg" alt="Antelope no Safari"  height="800" width="1280" title="Búfalo 1/5" >}}
 
@@ -69,9 +75,11 @@ No game da noite foi a vez de encontrarmos com os **leões**. Era uma família c
 
 Para completar a nossa **saga** atrás dos big 5, ainda **faltava encontrar o elefante**. Rodamos muito o parque atrás dele e nada. Já eram 8h  (o game termina às 9h) e ainda não tínhamos visto o animal. Até que, finalmente, encontramos uma família de elefantes. 
 
-Acho que tinha bem uns sete deles. Enormes e lindos! Passando pertinho dos carros. Que sensação legal! Fiz um vídeo que dá para perceber bem o quanto ficamos pertinho. 
+Acho que tinha bem uns **sete** deles. **Enormes e lindos!** Passando **pertinho** dos carros. Que sensação legal! Fiz um vídeo que dá para perceber bem o quanto ficamos pertinho. 
 
 {{< video-full width="1280" height="720" layout="fixed" video="uwm-JxPopyw" >}}
+
+Missão comprida vimos os Big 5 em 4 games (o que é difícil, demos sorte).
 
 # Nem só de big 5 vivem os safaris. 
 
@@ -103,11 +111,11 @@ Uma das experiências mais loucas do safari sem dúvida foi sair andando atrás 
 
 # Dicas
 
-- Prefira fazer o safari com os guias. Eles sabem como encontrar os tão desejados animais.
-- Vá muito bem agasalhado, o vento frio é de matar.
-- Leve um binóculo para ver os bichos melhor.
-- Tenha um pouco de paciência, porque as vezes demora encontrar um animal.
-- ​
+- Prefira fazer o **safari com os guias**. Eles sabem como encontrar os tão desejados animais.
+- Vá muito bem **agasalhado**, o vento frio é de matar.
+- Leve um **binóculo** para ver os bichos melhor.
+- Tenha um pouco de **paciência**, porque as vezes demora encontrar um animal.
+- Nem sonhe em fazer um safari sem uma **câmera fotográfica.**
 
 É isso, gente! Esse foi um resuminho do que foi a **nossa experiência fazendo safari**! Tem alguma dúvida? Pergunta nos comentários!
 
