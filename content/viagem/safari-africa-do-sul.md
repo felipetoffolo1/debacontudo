@@ -23,13 +23,13 @@ totop: true
 ---
 
 
-Muita gente tem curiosidade sobre como é fazer um safari na África do Sul e ficar cara a cara com animais selvagens. A gente também tinha. Por isso, essa experiência também fez parte da nossa viagem de lua de mel pelo país. Escolhemos o Karongwe River Lodge, uma reserva privada perto do parque nacional Kruger (o mais conhecido). 
+Muita gente tem curiosidade sobre como é fazer um **safari na África do Sul** e ficar cara a cara com animais selvagens. A gente também tinha. Por isso, essa experiência também fez parte da nossa viagem pelo país. Escolhemos o Karongwe River Lodge, uma que fica em uma **reserva privada** perto do **parque nacional Kruger** (o mais conhecido). 
 
-Confesso que tinha um pouco de receio (ou medo) de fazer o tal do safari. Antes de viajarmos já fui pesquisando no Google por ‘safaris que não deram certo’ para ficar por dentro de todas as possibilidades (sim, um pouco louca). 
+Confesso que tinha um pouco de **receio (ou medo)** de fazer o tal do safari. Antes de viajarmos já fui pesquisando no Google por ‘**safaris que não deram certo**’ para ficar por dentro de todas as possibilidades (sim, um pouco louca). 
 
 {{<quote-him "Olha o nível de doidera que eu convivo rsrs -Felipe" >}}
 
-Mas quando fizemos o nosso primeiro passeio, logo percebi como é tranquilo e o quanto eu deveria focar apenas em curtir a experiência. 
+Mas quando fizemos o nosso primeiro passeio, logo percebi como é **tranquilo** e o quanto eu deveria focar apenas em curtir a experiência. 
 
 Ficamos hospedados duas noites no Karongwe. Chegamos por volta das 13h no lodge e fomos super bem recebidos (isso é assunto para outro post). 
 
@@ -111,7 +111,9 @@ Uma das experiências mais loucas do safari sem dúvida foi sair andando atrás 
 
 # Dicas
 
-- Prefira fazer o **safari com os guias**. Eles sabem como encontrar os tão desejados animais.
+- Existem reservar "**públicas**" que fazem parte dos parques nacionais, como o Kruger. Lá você pode fazer o seu Safari por preços mais comodos.
+- Os lodges (hotéis normalmente mais luxuosos) ficam dentro de **reservas privadas**, e já tem toda as estrutura para os passeios montadas. É mais caro, mas super legal.
+- Mesmo em um parque nacional prefira fazer o **safari com os guias** (você pode fazer sozinho no seu carro). Eles sabem como encontrar os tão desejados animais.
 - Vá muito bem **agasalhado**, o vento frio é de matar.
 - Leve um **binóculo** para ver os bichos melhor.
 - Tenha um pouco de **paciência**, porque as vezes demora encontrar um animal.
