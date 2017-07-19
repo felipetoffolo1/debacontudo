@@ -75,6 +75,9 @@ Acho que tinha bem uns **sete** deles. **Enormes e lindos!** Passando **pertinho
 
 Missão cumprida! Vimos os Big 5 em 4 games (o que é difícil, demos sorte).
 
+{{<subscribe>}}
+
+
 # Nem só de big 5 vivem os safaris
 
 Alguns outros bichos a gente acaba vendo com muita frequência, como a **girafa**, a **impala** e o **cudo**. 
@@ -101,6 +104,8 @@ Uma das experiências mais loucas do safari sem dúvida foi sair andando atrás 
 {{<quote-him "Isso porque 5 minutos antes disso a Larissa tava DORMINDO no jipe no meio do Safari -Felipe" >}}
 
 {{< img-full src="/img/2017/07/safari-africa-do-sul-cheeta.jpg" alt="Antílope no Safari"  height="800" width="1280" >}}
+{{<facebook-like>}}
+
 
 # Dicas para não errar no seu safari
 
