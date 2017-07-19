@@ -4,7 +4,7 @@ author:
 banner: /img/2017/07/como-e-fazer-safari-africa-do-sul-banner.jpg
 categories:
   - viagem
-date: 2017-07-10T12:30:16
+date: 2017-07-19T12:30:16
 description: Saiba mais sobre o que fizemos na África do Sul durante os 20 dias que ficamos no país curtindo a nossa lua de mel
 draft: true
 images:
@@ -14,8 +14,8 @@ structured:
   type: Article
 tags:
   - viagens
-  - dicas
-  - listas
+  - africa do sul
+  - aventura
 
 thumbnail: /img/2017/07/como-e-fazer-safari-africa-do-sul-thumb.jpg
 title: Como é fazer um safari na África do Sul'
@@ -75,7 +75,7 @@ Acho que tinha bem uns sete deles. Enormes e lindos! Passando pertinho dos carro
 
 # Nem só de big 5 vivem os safaris. 
 
-Alguns outros bichos a gente acaba vendo com muita frequência, como a girafa, a impala e o cudo. 
+Alguns outros bichos a gente acaba vendo com muita frequência, como a **girafa**, a **impala** e o **cudo**. 
 
 Seguem alguma fotinhas.
 
@@ -111,7 +111,7 @@ Uma das experiências mais loucas do safari sem dúvida foi sair andando atrás 
 
 É isso, gente! Esse foi um resuminho do que foi a **nossa experiência fazendo safari**! Tem alguma dúvida? Pergunta nos comentários!
 
-{{< img-full src="/img/2017/07/safari-africa-do-sul-ranger-tracker.jpg" alt="Ranger e Tracker no Safari"  height="800" width="1280" title="Nosso Ranger (nome) e Tracker (nome)" >}}
+{{< img-full src="/img/2017/07/safari-africa-do-sul-ranger-tracker.jpg" alt="Ranger e Tracker no Safari"  height="800" width="1280" title="Nosso Ranger (Matthew) e Tracker (Simon) tomando um café na reserva" >}}
 
 Em breve faremos um post review sobre o Karongwe contando um pouco mais sobre o lodge e a reserva. Acompanhe a gente no  [Instagram](https://www.instagram.com/casaldebacontudo/) e [Facebook](https://www.facebook.com/debacontudo)
 
