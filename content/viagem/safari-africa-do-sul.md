@@ -109,7 +109,7 @@ Uma das experiências mais loucas do safari sem dúvida foi sair andando atrás 
 
 {{< img-full src="/img/2017/07/safari-africa-do-sul-cheeta.jpg" alt="Antelope no Safari"  height="800" width="1280" >}}
 
-# Dicas
+# Dicas para não errar no seu safari
 
 - Existem reservar "**públicas**" que fazem parte dos parques nacionais, como o Kruger. Lá você pode fazer o seu Safari por preços mais comodos.
 - Os lodges (hotéis normalmente mais luxuosos) ficam dentro de **reservas privadas**, e já tem toda as estrutura para os passeios montadas. É mais caro, mas super legal.
