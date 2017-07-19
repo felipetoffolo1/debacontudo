@@ -29,11 +29,7 @@ Confesso que tinha um pouco de **receio (ou medo)** de fazer o tal do safari. An
 
 {{<quote-him "Olha o nível de doidera que eu convivo rsrs -Felipe" >}}
 
-Mas quando fizemos o nosso primeiro passeio, logo percebi como é **tranquilo** e o quanto eu deveria focar apenas em curtir a experiência. 
-
-Ficamos hospedados duas noites no Karongwe. Chegamos por volta das 13h no lodge e fomos super bem recebidos (isso é assunto para outro post). 
-
-Almoçamos e já partimos para o primeiro game.
+Mas quando fizemos o nosso primeiro passeio, logo percebi como é **tranquilo** e o quanto eu deveria focar apenas em curtir a experiência.  Ficamos hospedados duas noites no Karongwe. Chegamos por volta das 13h no lodge e fomos super bem recebidos (isso é assunto para outro post). Almoçamos e já partimos para o primeiro game.
 
 ### Como funciona o Safari
 
