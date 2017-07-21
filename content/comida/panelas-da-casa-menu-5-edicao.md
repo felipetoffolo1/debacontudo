@@ -7,7 +7,7 @@ categories:
 - estilo-de-vida
 date: 2017-07-21T12:30:44-03:00
 description: "O evento Panelas da Casa está iniciando a sua 5ª edição. E a gente já está muito animado! Conheça os menus deliciosos que te aguardam."
-draft: true
+draft: false
 featured: false
 images:
 -  /img/2017/07/panelas-da-casa-menu-banner.jpg
@@ -18,13 +18,13 @@ tags:
 - Restaurantes
 - Brasília
 thumbnail:  "/img/2017/07/panelas-da-casa-menu-thumb.jpg"
-title: "15 menus deliciosos para você escolher no Panelas da Casa 5 Edição"
+title: "15 menus deliciosos para você escolher no Panelas da Casa"
 totop: true
 ---
 
-O evento Panelas da Casa está iniciando a sua 5ª edição. E a gente já está muito **animado**! Eventos como esse são sempre uma grande oportunidade para a gente **experimentar muita coisa nova** e **supreendente** sem ter que gastar todo o nosso dinheirinho suado  (R$49 – por pessoa – almoço e/ou jantar). E a coisa fica ainda mais legal quando você percebe que o evento é feito por **chefes locais que se uniram** para fazer algo tão bacana.Então a gente tem que prestigiar e aproveitar né! Dessa vez temos 15 restaurantes para escolher entre. Até queriamos ir em todos, mas... quem sabe né rsrs.
+O evento Panelas da Casa está iniciando a sua 5ª edição. E a gente já está muito **animado**! Eventos como esse são sempre uma grande oportunidade para a gente **experimentar muita coisa nova** e **supreendente** sem ter que gastar todo o nosso dinheirinho suado  (R$49 – por pessoa – almoço e/ou jantar). E a coisa fica ainda mais legal quando você percebe que o evento é feito por **chefes locais que se uniram** para fazer algo tão bacana.Então a gente tem que prestigiar e aproveitar né! Dessa vez temos 15 restaurantes para escolher. Até queriamos ir em todos, mas... quem sabe né rsrs.
 
-Bem, segue o menu para você já ir escolhendo. O Panelas da Casa 5ª edição começa 25 de julho a 13 de agosto.
+Bem, segue o menu para você já ir escolhendo. O Panelas da Casa 5ª edição começa 25 de julho e vai até 13 de agosto.
 
 {{<subscribe>}}
 
