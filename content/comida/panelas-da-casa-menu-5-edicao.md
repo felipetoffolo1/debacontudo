@@ -11,7 +11,7 @@ draft: true
 featured: false
 images:
 -  /img/2017/07/panelas-da-casa-menu-banner.jpg
-slug: "panelas-da-cada-menu-5-edicao"
+slug: "panelas-da-casa-menu-5-edicao"
 structured:
   type: Article
 tags:
