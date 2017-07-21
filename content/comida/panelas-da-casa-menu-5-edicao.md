@@ -1,7 +1,7 @@
 ---
 author:
 - larissa
-banner: "/img/2017/07/panelas-da-cada-menu-banner.jpeg"
+banner: "/img/2017/07/panelas-da-casa-menu-banner.jpg"
 categories:
 - comida
 - estilo-de-vida
@@ -10,14 +10,14 @@ description: "O evento Panelas da Casa está iniciando a sua 5ª edição. E a g
 draft: true
 featured: false
 images:
--  /img/2017/07/melhores-brunches-de-brasilia-banner.jpeg
-slug: "melhor-brunch-de-brasilia"
+-  /img/2017/07/panelas-da-casa-menu-banner.jpg
+slug: "panelas-da-cada-menu-5-edicao"
 structured:
   type: Article
 tags:
 - Restaurantes
 - Brasília
-thumbnail:  "/img/2017/07/panelas-da-cada-menu-thumb.jpg"
+thumbnail:  "/img/2017/07/panelas-da-casa-menu-thumb.jpg"
 title: "15 menus deliciosos para você escolher no Panelas da Casa 5 Edição"
 totop: true
 ---
