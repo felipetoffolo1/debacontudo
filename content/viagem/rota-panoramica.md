@@ -1,16 +1,14 @@
 ---
 author:
   - felipe
-banner: /img/2017/07/africa-do-sul-diversas-experiencias-em-um-so-lugar-banner.jpg
+banner: /img/2017/07/rota-panoramica-banner.jpg
 categories:
   - viagem
 date: 2017-07-18T16:30:16
 description: Saiba mais sobre o que fizemos na África do Sul durante os 20 dias que ficamos no país curtindo a nossa lua de mel
 draft: true
 images:
-  - /img/2017/07/plantacao-groot-constantia.jpg
-  - /img/2017/07/encontro-elefante-safari.jpg
-  - /img/2017/07/placa-topo-lions-head.jpg
+  - /img/2017/07/rota-panoramica-banner.jpg
 slug: rota-panoramica
 structured:
   type: Article
@@ -18,27 +16,35 @@ tags:
   - viagens
   - dicas
   - listas
-thumbnail: /img/2017/07/africa-do-sul-diversas-experiencias-em-um-so-lugar-thumb.jpg
-title: 'Rota Panorâmica: descubra as mais belas vistas da África do Sul'
+thumbnail: /img/2017/07/rota-panoramica-thumb.jpg
+title: 'As 5 melhores vista da Rota Panorâmica na África do Sul e como aproveitá-las'
 totop: true
 ---
 
-A Rota Panorâmica (panorama route) é uma caminho por onde se encontram algumas das mais belas vistas da África do Sul. A rota se encontra na região de Mpumalanga (seja lá como isso é pronunciado) que fica **entre Johannerburg e o Kruger**. Sendo então uma **opção perfeita para quem está indo de carro para o Kruger.**
+A Rota Panorâmica (panorama route) é uma caminho por onde se encontram algumas das mais belas vistas da África do Sul, deu para imaginar pelo nome  né. A rota se encontra na região de Mpumalanga (seja lá como isso é pronunciado) que fica **entre Johannerburg e o Kruger**. Sendo então uma **opção perfeita para quem está indo de carro para o Kruger.**
 
-{{< img-full src="/img/2017/07/plantacao-groot-constantia.jpg" alt="Vinícola Groot Constantia"  height="628" width="1200" title="" >}}
+
 
 # O que tem para fazer na rota panorâmica?
 
 A principal atração da rota panorâmica são as paisagens surreais, que às vezes parecem uma pintura.
 
-A rota panorâmica passa pela região do Blyde River Canyon, o terceiro maior canion do mundo. Não tá acreditando? Tudo bem, a gente tem fotos para provar.
+A rota panorâmica passa pela região do Blyde River Canyon, o terceiro maior canion do mundo. Não tá acreditando nessa beleza toda? Tudo bem, a gente tem fotos para provar.
 
 ## God's Window
 A “janela de Deus” foi a nossa primeira parada. Tinhamos altas expectátivas para um lugar com esse nome, né.
 E realmente a vista é linda. Eu espera mais? Sim, porque a janela de Deus é literalmente uma janela. Um buraquinho no meio da mata pelo qual você olha. Mas valeu a pena, e fizemos até amizade por lá.
 
+{{< img-full src="/img/2017/07/god-window.jpg" alt="Vinícola Groot Constantia"  height="800" width="1280" title="" >}}
+
+
+
+{{< img-full src="/img/2017/07/god-window-vista.jpg" alt="Vinícola Groot Constantia"  height="800" width="1280" title="" >}}
+
 ## Lisbon Fall
 A cachoeira Lisboa é outra parada linda pela rota panorâmica. É bem tranquilo de chegar lá e dar uma admirada. Mas ainda nada demais para os padrões brasileiros de cachoeira.
+
+{{< img-full src="/img/2017/07/lisbon-fall.jpg" alt="Vinícola Groot Constantia"  height="1280" width="800" title="" >}}
 
 
 
@@ -46,9 +52,23 @@ A cachoeira Lisboa é outra parada linda pela rota panorâmica. É bem tranquilo
 Esse local tão diferente é cheio de pontes que ficam sobre as formoção rochosa que dão nome ao local. As pedras tem buraco bem redondinhos que foram feitos pela água.
 Além disso, o parque em que ela se encontra é bem lindo.
 
+{{< img-full src="/img/2017/07/bourke-pothole-vista.jpg" alt="Vinícola Groot Constantia"  height="800" width="1280" title="" >}}
+
+{{< img-full src="/img/2017/07/bourke-pothole-formacao.jpg" alt="Vinícola Groot Constantia"  height="800" width="1280" title="" >}}
+
+{{< img-full src="/img/2017/07/bourke-pothole-ponte.jpg" alt="Vinícola Groot Constantia"  height="800" width="1280" title="" >}}
+
+{{< img-full src="/img/2017/07/bourke-pothole-casal.jpg" alt="Vinícola Groot Constantia"  height="800" width="1280" title="" >}}
+
 ## Three Rondavels
 Para a gente esse é o grande cartão postal da rota panoramica. Os 3 rondavels (pesquisar oq isso significa), são essas 3 formações rochosas que você pode ver, que ficam encrustadas no meio no blyde river canion. A vista é de tirar o folego literalmente.
 Se você acharam a foto bonita, tem que ir lá, porque não representa metade da real beleza do lugar.
+
+{{< img-full src="/img/2017/07/three-rondavels-vista.jpg" alt="Vinícola Groot Constantia"  height="800" width="1280" title="" >}}
+
+{{< img-full src="/img/2017/07/three-rondavels-casal.jpg" alt="Vinícola Groot Constantia"  height="800" width="1280" title="" >}}
+
+{{< img-full src="/img/2017/07/three-rondavels-panoramica.jpg" alt="Vinícola Groot Constantia"  height="269" width="1280" title="" >}}
 
 ## Abel Erasmus Pass
 Esse é um dos trechos de estrada que pegamos pela rota panoramica, mais especificamente quando estamos saindo da rota panoramica. E olha, foi uma das estradas mais lindas que já tomei conhecimento. Quando nessa estrada, depois que você passa o tunel, se prepare para muita beleza. A gente tinha tirado fotos e vídeos de lá, mas eu não sei como.. eu consegui perdê-los.
@@ -63,6 +83,10 @@ Esse restaurante fica em uma casa de vidro (duh), é um lugar bem intimistas e a
 ## Potluck bush kitchen
 Esse achado foi indicação da nossa anfitriã e olha, que indicação. O restaurante fica escondido no meio do mato. A entrada é pela nxx. O restaurante tem uma vibe bem caseira, com mesa espalhadas próximas do riacho que passa em frente e com uma vista invejável. 
 A comida é deliciosa, soul food ao estilo sul africano. A vontade é passar horas aqui.
+
+{{< img-full src="/img/2017/07/potluck-bush-kitchen.jpg" alt="Vinícola Groot Constantia"  height="800" width="1280" title="" >}}
+
+{{< img-full src="/img/2017/07/potluck-bush-kitchen-lamb.jpg" alt="Vinícola Groot Constantia"  height="800" width="1280" title="" >}}
 
 Além disse fomos no xxxx, um restaurante português que era super bem avaliado. Mas não gostamos, tinha nada demais.
 # Como chegar
