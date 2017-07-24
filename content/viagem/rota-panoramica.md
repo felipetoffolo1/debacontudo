@@ -61,7 +61,7 @@ Além disso, o parque em que ela se encontra é bem lindo.
 {{< img-full src="/img/2017/07/bourke-pothole-casal.jpg" alt="Vinícola Groot Constantia"  height="800" width="1280" title="" >}}
 
 ## Three Rondavels
-Para a gente, esse é o grande cartão postal da rota panorâmica.
+Na nossa opinio, esse é o grande cartão postal da rota panorâmica.
 
 {{< img-full src="/img/2017/07/three-rondavels-panoramica.jpg" alt="three rondavels"  height="269" width="1280" title="" >}}
 
@@ -79,16 +79,13 @@ Se você achou a foto bonita, você precisa ver de perto! A foto não representa
 Esse é um dos trechos da estrada que pegamos pela rota panorâmica, mais especificamente no fim dela. Foi uma das estradas mais lindas que já tive a oportunidade de conhecer. Quando estiver nessa estrada,  prepare-se para admirar paisagens maravilhosas. A gente tirou fotos e vídeos de lá, mas eu não sei como.. consegui perdê-los. =(
 
 
-
-{{< amp-instagram shortcode="BWAqZsMAag_" width="870" height="580" layout="responsive" >}}
-
 {{< amp-instagram shortcode="BQYHjhWjLMo" width="870" height="580" layout="responsive" >}}
 
 # Como visitar a rota panorâmica
 
 Espero já ter convencido você de fazer a rota panorâmica durante a sua viagem pela África do Sul. Agora é hora de algumas dicas para visitar esse pedaço de paraíso.
 
-- ​
+
 - A cidade mais próxima e prática para você se hospedar enquanto visita a rota panorâmica é Graskop.
 - A estrada entre Joanesburgo e Graskop é ótima. A gente usou o caminho do Google Maps mesmo. Pegando a N12 até a N4. A maior parte é duplicada e, quando acaba a duplicação, é porque a vista é estonteante.
 - De Graskop para os pontos que indicamos é bem pertinho. Nesse mapa aqui dá para ver os principais pontos.
@@ -124,6 +121,6 @@ Também fomos ao **Canimambo**, um restaurante português que foi bem indicado e
 
 ------
 
-Add conclusão
+
 
 Acompanhe nosso [Instagram](https://www.instagram.com/casaldebacontudo/) e [Facebook](https://www.facebook.com/debacontudo) e veja mais fotos da nossa viagem!
