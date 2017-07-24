@@ -61,7 +61,7 @@ Além disso, o parque em que ela se encontra é bem lindo.
 {{< img-full src="/img/2017/07/bourke-pothole-casal.jpg" alt="Vinícola Groot Constantia"  height="800" width="1280" title="" >}}
 
 ## Three Rondavels
-Na nossa opinio, esse é o grande cartão postal da rota panorâmica.
+Na nossa opinião, esse é o grande cartão postal da rota panorâmica.
 
 {{< img-full src="/img/2017/07/three-rondavels-panoramica.jpg" alt="three rondavels"  height="269" width="1280" title="" >}}
 
