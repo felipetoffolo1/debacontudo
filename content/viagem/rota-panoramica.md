@@ -38,7 +38,7 @@ E realmente a vista é linda. Confesso que eu esperava mais, já que a janela de
 
 {{< img-full src="/img/2017/07/god-window.jpg" alt="Janela de Deus"  height="800" width="1280" title="Janela de Deus" >}}
 
-Para conhecer a janela de Deus você vai ter que subir uma escadaria e caso queira ir até o segundo view point, fazer uma trilhazinha. Mas nada demais.
+Para conhecer a janela de Deus você vai ter que subir uma escadaria e, caso queira ir até o segundo view point, fazer uma trilhazinha. Mas nada demais.
 
 {{< img-full src="/img/2017/07/god-window-vista.jpg" alt="Larissa na Janela de Deus"  height="800" width="1280" title="Larissa dando uma espiada pela janela" >}}
 
@@ -48,7 +48,7 @@ Para conhecer a janela de Deus você vai ter que subir uma escadaria e caso quei
 
 A cachoeira Lisboa é outra parada imperdível pela rota panorâmica. É bem tranquilo de chegar lá e dar uma admirada. Mas nada demais para os padrões brasileiros de cachoeira. Aqui você pode ir de carro até a porta.
 
-{{< img-full src="/img/2017/07/lisbon-fall.jpg" alt="Vinícola Groot Constantia"  height="1280" width="800" title="" >}}
+{{< img-full src="/img/2017/07/lisbon-fall.jpg" alt="Lisbon Fall"  height="1280" width="800" title="" >}}
 
 
 
@@ -64,7 +64,7 @@ Esse local tão diferente é cheio de pontes que ficam sobre as formações roch
 
 Além disso, o parque em que ela se encontra é bem lindo.
 
-{{< img-full src="/img/2017/07/bourke-pothole-vista.jpg" alt="Casala bourkes pothole"  height="800" width="1280" title="Parece que eu tô abraçando a Larissa, mas na verdade eu queria era meu casaco de volta." >}}
+{{< img-full src="/img/2017/07/bourke-pothole-vista.jpg" alt="Casala bourkes pothole"  height="800" width="1280" title="Parece que eu tô abraçando a Larissa, mas na verdade eu queria era meu casaco de volta" >}}
 
 {{< img-full src="/img/2017/07/bourke-pothole-casal.jpg" alt="Felipe e Larissa sentados no bourke pothole"  height="800" width="1280" title="" >}}
 
@@ -82,7 +82,7 @@ Os **três rondavels** são três formações rochosas que você pode ver na fot
 
 Se você achou a foto bonita, você precisa ver de perto! A foto não representa nem a metade da real beleza do lugar.
 
-O acesso aqui também é tranquilo, você estaciona o carro e andar alguns poucos metros.
+O acesso aqui também é tranquilo, você estaciona o carro e anda alguns poucos metros.
 
 {{< img-full src="/img/2017/07/three-rondavels-casal.jpg" alt="posando no three rondavels"  height="800" width="1280" title="Eu obrigando a Larissa a subir nas pedras para tirar foto" >}}
 
@@ -133,8 +133,8 @@ Também fomos ao **Canimambo**, um restaurante português que foi bem indicado e
 
 ------
 
-Bem, isso é o que temos a dizer da rota panorâmica.Existem outros locais bem legais por lá, mas acabamos não tendo tempo, já que ficamos lá praticamente só meios dia. Então se quiser conhecer tudo, você vai precisar de ao menos um dia inteiro, ou vános princípais como fizemos.
+Bem, isso é o que temos a dizer da rota panorâmica. Existem outros locais bem legais por lá, mas acabamos não tendo tempo, já que ficamos lá praticamente só meio dia. Então se quiser conhecer tudo, você vai precisar de ao menos um dia inteiro, ou vá apenas nos princípais como fizemos.
 
-O importante é não deixar de ir ;)
+O importante é não deixar de ir! ;)
 
-Para ficar sempre por dentro vai lá no nosso [Instagram](https://www.instagram.com/casaldebacontudo/) e [Facebook](https://www.facebook.com/debacontudo) e veja tudo que a gente apronta!
+Para ficar sempre por dentro, siga a gente no [Instagram](https://www.instagram.com/casaldebacontudo/) e no [Facebook](https://www.facebook.com/debacontudo) e veja tudo que a gente apronta!
