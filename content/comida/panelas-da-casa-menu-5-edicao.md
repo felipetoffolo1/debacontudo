@@ -191,7 +191,7 @@ Condomínio Quintas do Sol, Qd. 2 lote 50
 
 **Harmonização:** Colombina Pepper
 
- ## Genghis Khan 
+## Genghis Khan
 214 Norte
 
 ## Jantar
