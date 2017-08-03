@@ -9,7 +9,7 @@ description : 'Já pensou em pular de bungee jump?? E do maior bungee jump de po
 draft: false
 images:
   - /img/2017/08/bungee-jump-face-adrenaline-africa-dos-sul-banner.jpg
-slug: bungee-jump-face-adrenaline-africa-dos-sul
+slug: bungee-jump-face-adrenaline-africa-do-sul
 structured:
   type: Article
 tags:
