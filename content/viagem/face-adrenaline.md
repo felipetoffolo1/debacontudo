@@ -1,15 +1,15 @@
 ---
 author:
   - felipe
-banner: /img/2017/08/bungee-jump-face-adrenaline-africa-dos-sul-banner.jpg
+banner: /img/2017/08/bungee-jump-face-adrenalin-africa-dos-sul-banner.jpg
 categories:
   - viagem
 date: 2017-08-03T13:30:16
-description : 'Já pensou em pular de bungee jump?? E do maior bungee jump de ponte do mundo?? O Face Adrenaline fica na África do Sul na ponte Bloukrans. Lá você... '
+description : 'Já pensou em pular de bungee jump?? E do maior bungee jump de ponte do mundo?? O Face Adrenalin fica na África do Sul na ponte Bloukrans. Lá você... '
 draft: false
 images:
-  - /img/2017/08/bungee-jump-face-adrenaline-africa-dos-sul-banner.jpg
-slug: bungee-jump-face-adrenaline-africa-do-sul
+  - /img/2017/08/bungee-jump-face-adrenalin-africa-dos-sul-banner.jpg
+slug: bungee-jump-face-adrenalin-africa-do-sul
 structured:
   type: Article
 tags:
@@ -17,17 +17,17 @@ tags:
   - dicas
   - aventura
   - Africa do Sul
-thumbnail: /img/2017/08/bungee-jump-face-adrenaline-africa-dos-sul-thumb.jpg
+thumbnail: /img/2017/08/bungee-jump-face-adrenalin-africa-dos-sul-thumb.jpg
 title: 'Sinta a adrelina de pular do maior Bungee Jump de ponte do mundo!'
 totop: true
 ---
 
-A África do Sul oferece uma **experiência incrível** atrás da outra. E eu sempre tento não perder nenhuma delas. E dessa vez o que veio pela frente é somente o **maior bungee jump** de uma ponte do mundo: o Face Adrenaline. 
+A África do Sul oferece uma **experiência incrível** atrás da outra. E eu sempre tento não perder nenhuma delas. E dessa vez o que veio pela frente é somente o **maior bungee jump** de uma ponte do mundo: o Face Adrenalin. 
 
 {{< img-full src="/img/2017/08/larissa-ponte-bloukrans.jpg" alt="Larissa ponte Bloukrans"  height="800" width="1280" title="Sorrindo porque ela não vai pular" >}}
 
 # Como é que é isso?
-O **Face Adrenaline** fica na região do Park **Tsitsikama**, na **Bloukrans Bridge** (entre o Storm River e Plettenberg Bay). E é local imperdível para quem está fazendo o caminho da **Garden Route** (uma rota entre Port Elizabeth e Cape Town). 
+O **Face Adrenalin** fica na região do Park **Tsitsikama**, na **Bloukrans Bridge** (entre o Storm River e Plettenberg Bay). E é local imperdível para quem está fazendo o caminho da **Garden Route** (uma rota entre Port Elizabeth e Cape Town). 
 
 Funciona da seguinte maneira: você chega, paga e agenda seu pulo para o próximo grupo, que é sai a cada meia-hora. O **preço** é de **950 Rands** (R$ 237,50) para pular e **150 Rands** (R$ 37,50)para acompanhar alguém até a ponte sem pular. (Mas se chegando lá a pessoa resolve pular é só pagar mais 850 Rands)
 
@@ -39,7 +39,7 @@ Quando chega a hora de ir, uma pessoa da equipe leva você até a ponte. Sabe co
 
 Depois que você chega até o meio da ponte, eles definem a ordem dos saltos e vão preparando uma pessoa enquanto a outra vai pulando. 
 
-{{< img-full src="/img/2017/08/equipe-face-adrenaline.jpg" alt="Larissa ponte Bloukrans"  height="800" width="1280" title="A equipe esperando para te jogar de lá de cima" >}}
+{{< img-full src="/img/2017/08/equipe-face-adrenalin.jpg" alt="Larissa ponte Bloukrans"  height="800" width="1280" title="A equipe esperando para te jogar de lá de cima" >}}
 
 # Hora da verdade!
 Eu **nunca tinha saltado** de bungee jump na minha vida e tudo para mim era novo. Eu não estava preocupado com a minha segurança (eu já tinha pesquisado sobre o local para checar o profissionalismo), mas sempre dá um **friozinho na barriga** né, já a Larissa que nem ia saltar estava preocupadíssima de **perder o marido** rsrs.
@@ -71,7 +71,7 @@ Pegou a ideia? Se não, tem um **vídeo** também, curte aí!
 
 Se você viu o vídeo, você já entendeu que **valeu a pena** né. Acho que a experiência é simplesmente **única** e **imperdível**. O vale, o mar, a ponte, o **medo de morrer**, o vento no rosto, tudo isso se mistura e …só vivendo para entender.
 
-{{< img-full src="/img/2017/08/face-adrenaline-ponte.jpg" alt="Beirada da ponte Bloukrans"  height="800" width="1280" title="Encarrando o desafio" >}}
+{{< img-full src="/img/2017/08/face-adrenalin-ponte.jpg" alt="Beirada da ponte Bloukrans"  height="800" width="1280" title="Encarrando o desafio" >}}
 
 {{<subscribe>}}
 
