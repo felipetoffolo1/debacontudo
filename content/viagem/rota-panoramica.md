@@ -91,7 +91,7 @@ O acesso aqui também é tranquilo, você estaciona o carro e anda alguns poucos
 ## Abel Erasmus Pass
 Esse é um dos trechos da estrada que pegamos pela **rota panorâmica**, mais especificamente no fim dela. Foi uma das estradas mais lindas que já tive a oportunidade de conhecer. Quando estiver nessa estrada,  prepare-se para admirar **paisagens maravilhosas**. A gente tirou fotos e vídeos de lá, mas eu não sei como.. consegui perdê-los. =(
 
-{{< amp-instagram shortcode="BQYHjhWjLMo" width="870" height="580" layout="responsive" >}}
+{{<instagram shortcode="BQYHjhWjLMo" width="870" height="580" >}}
 
 # Como visitar a rota panorâmica
 

@@ -42,7 +42,7 @@
                     <article>
                       <header>
                         <figure>
-                          <img src="{{ .Params.banner }}"/>
+                          <img src="http://debacontudo.com.br/{{ .Params.banner }}"/>
                         </figure>
                         <h1 class="entry-title">{{ .Params.title }}</h1>
 

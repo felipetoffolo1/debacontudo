@@ -1,0 +1,9 @@
+<p>
+<b>Horário:</b> {{ .Get "work-time" }} -
+<b>Preço:</b> {{ .Get "price" }} -
+<b>Tempo de Visita:</b> {{ .Get "visit-time" }}
+{{if .Get "link"}}
+        <a class="" href="{{ .Get "link" }}" target="_blank">
+          Site</a>
+          {{end}}
+</p>
