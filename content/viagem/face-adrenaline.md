@@ -18,7 +18,7 @@ tags:
   - aventura
   - Africa do Sul
 thumbnail: /img/2017/08/bungee-jump-face-adrenalin-africa-dos-sul-thumb.jpg
-title: 'Sinta a adrelina de pular do maior Bungee Jump de ponte do mundo!'
+title: 'Sinta a adrenalina de pular do maior Bungee Jump de ponte do mundo!'
 totop: true
 ---
 
