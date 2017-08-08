@@ -1,5 +1,7 @@
 <figure class="img-short">
 <img
    src="http://debacontudo.com.br/{{ .Get "src" }}" alt="{{ .Get "alt" }}">
+   {{if .Get "title"}}
     <figcaption>{{.Get "title"}}</figcaption>
+    {{end}}
 </figure>

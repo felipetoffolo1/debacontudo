@@ -9,8 +9,10 @@
       <span class="entry-place">
         <i class="fa fa-clock-o"></i>
         {{ .Get "visit-time" }}</span>
+        {{if .Get "link"}}
         <a class="" href="{{ .Get "link" }}" target="_blank">
           <i class="fa fa-external-link"></i>
           Site</a>
+          {{end}}
       </div>
 </div>

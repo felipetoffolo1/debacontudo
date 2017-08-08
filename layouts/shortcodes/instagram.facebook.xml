@@ -1,0 +1,3 @@
+<figure class="op-interactive">
+<iframe width="{{ .Get "width" }}" height="{{ .Get "width" }}" src="http://instagram.com/p/{{ .Get "shortcode" }}/embed" frameborder="0"></iframe>
+</figure>

@@ -1235,6 +1235,9 @@ input[type="submit"] {
     }
   }
   .page,.single{
+    .entry-header{
+      margin-bottom: 0px;
+    }
     .entry-title {
       font-size: 45px;
       line-height: 60px;
