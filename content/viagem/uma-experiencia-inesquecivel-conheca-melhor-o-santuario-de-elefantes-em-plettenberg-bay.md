@@ -1,7 +1,7 @@
 ---
 author:
   - larissa
-banner: /img/2017/07/africa-do-sul-diversas-experiencias-em-um-so-lugar-banner.jpg
+banner: /img/2017/07/santuario-elefante-plettenberg-bay-banner.jpg
 categories:
   - viagem
 date: 2017-08-08T16:30:16
@@ -39,7 +39,7 @@ O santuário em si é um lugar bem arrumadinho. Como os passeios são realizados
 
 A parte mais legal (ou não) de todo o passeio é a caminhada com os bichos. A gente sai andando com a **tromba do elefante** pendurada em nossa mão. E olha que o caminho é até compridinho. Ao final da caminhada, os elefantes demonstram alguns movimentos naturais, como o que eles fazem para poder comer ou o que fazem quando estão se sentindo ameaçados. Depois disso, os instrutores nos ensinam um pouco sobre a anatomia do elefante, com direito a passar a mão em cada parte do animal. É bem legal sentir a textura da pele deles, que é bem diferente em cada parte do corpo. Ainda tivemos a oportunidade de alimentá-los. Os instrutores nos deram uma bacia cheia de maçãs para colocarmos na tromba deles (já que eles que levam o alimento até a boca).
 
-{{< quote-him "E é claro que a Larissa chutou essa bacia e todas as maçãs rolaram pel chão - Felipe">}}
+{{< quote-him "E é claro que a Larissa chutou essa bacia e todas as maçãs rolaram pelo chão - Felipe">}}
 
 
 
@@ -57,7 +57,8 @@ Se você, assim como a gente, estiver preocupado com quem vai tirar suas fotos, 
 - **Leve uma câmera fotográfica.** Um dos instrutores fica com a sua câmera e registra todos os momentos. E o melhor, sem custo algum.
 
 - **Compre o vídeo do santuário**! Como quem faz as fotos é o instrutor, pode ser que você não tenha aquela foto legal que gostaria. Por isso, o vídeo é uma ótima recordação do momento.
-- ​
+
+  ​
 
 
 
