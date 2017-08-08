@@ -6,6 +6,7 @@ DefaultContentLanguage = "pt"
 disqusShortname = "debacontudo-com-br"
 enableRobotsTXT = true
 theme = "gohugo-amp"
+enableEmoji = true 
 Paginate = 6
 MetaDataFormat = "yaml"
 [outputFormats.FACEBOOK]
