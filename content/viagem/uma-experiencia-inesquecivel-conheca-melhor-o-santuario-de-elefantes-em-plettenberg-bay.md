@@ -6,7 +6,7 @@ categories:
   - viagem
 date: 2017-08-08T16:30:16
 description: Descubra como é passear segurando a tromba do elefante no Santuário de Plettenberg Bay, na África do Sul.
-draft: false
+draft: true
 images:
   - /img/2017/07/plantacao-groot-constantia.jpg
   - /img/2017/07/encontro-elefante-safari.jpg
