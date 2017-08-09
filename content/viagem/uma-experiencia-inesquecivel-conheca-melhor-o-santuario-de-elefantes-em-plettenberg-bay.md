@@ -1,7 +1,7 @@
 ---
 author:
   - larissa
-banner: /img/2017/08/africa-do-sul-diversas-experiencias-em-um-so-lugar-banner.jpg
+banner: /img/2017/08/santuario-elefante-plettenberg-bay-banner.jpg
 categories:
   - viagem
 date: 2017-08-08T16:30:16
@@ -38,8 +38,6 @@ O santuário em si é um lugar bem arrumadinho. Como os passeios são realizados
 ## Sobre o passeio
 
 {{< img-full src="/img/2017/08/felipe-santuario-elefante.jpg" alt="Felipe no Santuário de Elefantes de Plettenberg Bay"  height="628" width="1200" title="" >}}
-
-
 
 A parte mais legal (ou não) de todo o passeio é a caminhada com os bichos. A gente sai andando com a **tromba do elefante** pendurada em nossa mão. E olha que o caminho é até compridinho. Ao final da caminhada, os elefantes demonstram alguns movimentos naturais, como o que eles fazem para poder comer ou o que fazem quando estão se sentindo ameaçados. 
 
