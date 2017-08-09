@@ -37,21 +37,30 @@ O santuário em si é um lugar bem arrumadinho. Como os passeios são realizados
 
 ## Sobre o passeio
 
-A parte mais legal (ou não) de todo o passeio é a caminhada com os bichos. A gente sai andando com a **tromba do elefante** pendurada em nossa mão. E olha que o caminho é até compridinho. Ao final da caminhada, os elefantes demonstram alguns movimentos naturais, como o que eles fazem para poder comer ou o que fazem quando estão se sentindo ameaçados. Depois disso, os instrutores nos ensinam um pouco sobre a anatomia do elefante, com direito a passar a mão em cada parte do animal. É bem legal sentir a textura da pele deles, que é bem diferente em cada parte do corpo. Ainda tivemos a oportunidade de alimentá-los. Os instrutores nos deram uma bacia cheia de maçãs para colocarmos na tromba deles (já que eles que levam o alimento até a boca).
+{{< img-full src="/img/2017/08/felipe-santuario-elefante.jpg" alt="Felipe no Santuário de Elefantes de Plettenberg Bay"  height="628" width="1200" title="" >}}
+
+
+
+A parte mais legal (ou não) de todo o passeio é a caminhada com os bichos. A gente sai andando com a **tromba do elefante** pendurada em nossa mão. E olha que o caminho é até compridinho. Ao final da caminhada, os elefantes demonstram alguns movimentos naturais, como o que eles fazem para poder comer ou o que fazem quando estão se sentindo ameaçados. 
+
+{{< img-full src="/img/2017/08/movimento-natural-elefante.jpg" alt="Elefante no Santuário de Elefantes de Plettenberg Bay"  height="628" width="1200" title="" >}}
+
+
+
+Depois disso, os instrutores nos ensinam um pouco sobre a anatomia do elefante, com direito a passar a mão em cada parte do animal. É bem legal sentir a textura da pele deles, que é bem diferente em cada parte do corpo. Ainda tivemos a oportunidade de alimentá-los. Os instrutores nos deram uma bacia cheia de maçãs para colocarmos na tromba deles (já que eles que levam o alimento até a boca).
 
 {{< quote-him "E é claro que a Larissa chutou essa bacia e todas as maçãs rolaram pelo chão - Felipe">}}
-
-
 
 ## Sobre registrar o momento
 
 Se você, assim como a gente, estiver preocupado com quem vai tirar suas fotos, não se preocupe. O instrutor principal do passeio fica responsável pelos cliques. É claro que não vão ser aquelas fotos super profissionais, mas quebram o galho. Por isso, não esqueça de levar uma câmera. Além disso, eles filmam todo o passeio e vendem um vídeo ao final. A gente curtiu e resolveu comprar. No filme você percebe que, enquanto eu estava morrendo de medo, o Felipe estava todo sorridente. Hahahaha O filme custou xx reais. Ah, e eles vão querer que você compre um pedaço de papel com as pegadas do elefante para ajudar o santuário. Se você estiver indo com a grana apertada, já vai pensando na desculpa para não comprar.
 
-
+{{< img-full src="/img/2017/08/felipe-e-larissa-santuario.jpeg" alt="Felipe e Larissa no Santuário de Elefantes de Plettenberg Bay"  height="628" width="1200" title="" >}}
 
 ## Dicas 
 
 - **Vá com uma roupa que você possa sujar.** No primeiro contato que tive com o elefante ele já cuspiu uma água cheia de lama na minha calça. Sem falar nas tentativas de morder o meu tênis. 
+
 - **Vá com o coração aberto e sem medo para a experiência.** Eu fiquei um pouco tensa no começo (como você pode ver no vídeo acima) e acho que poderia ter curtido melhor o momento. 
 
 - **Leve uma câmera fotográfica.** Um dos instrutores fica com a sua câmera e registra todos os momentos. E o melhor, sem custo algum.
@@ -60,9 +69,13 @@ Se você, assim como a gente, estiver preocupado com quem vai tirar suas fotos, 
 
   ​
 
+  {{< img-full src="/img/2017/08/larissa-andando-santuario-elefante.jpg" alt="Larissa no Santuário de Elefantes de Plettenberg Bay"  height="628" width="1200" title="" >}}
+
+  ​
 
 
-Eaí, gostou? Tem alguma dúvida sobre esse passeio? Escreve pra gente! 
+
+E aí, gostou? Tem alguma dúvida sobre esse passeio? Escreve pra gente! 
 Para continuar acompanhando nossas aventuras, siga a gente no [Instagram](https://www.instagram.com/casaldebacontudo/) e no [Facebook](https://www.facebook.com/debacontudo).
 
 Beijos e até a próxima!
