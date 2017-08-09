@@ -8,10 +8,10 @@ date: 2017-08-08T16:30:16
 description: Descubra como é passear segurando a tromba do elefante no Santuário de Plettenberg Bay, na África do Sul.
 draft: true
 images:
-  - /img/2017/07/plantacao-groot-constantia.jpg
-  - /img/2017/07/encontro-elefante-safari.jpg
-  - /img/2017/07/placa-topo-lions-head.jpg
-  - /img/2017/07/africa-do-sul-diversas-experiencias-em-um-so-lugar-banner.jpg
+  - /img/2017/08/felipe-santuario-elefante.jpg
+  - /img/2017/08/movimento-natural-elefante.jpg
+  - /img/2017/08/felipe-e-larissa-santuario.jpg
+  - /img/2017/08/larissa-andando-santuario-elefante.jpg
 slug: conheca-melhor-o-santuario-de-elefantes-em-plettenberg-bay
 structured:
   type: Article
@@ -53,7 +53,7 @@ Depois disso, os instrutores nos ensinam um pouco sobre a anatomia do elefante, 
 
 Se você, assim como a gente, estiver preocupado com quem vai tirar suas fotos, não se preocupe. O instrutor principal do passeio fica responsável pelos cliques. É claro que não vão ser aquelas fotos super profissionais, mas quebram o galho. Por isso, não esqueça de levar uma câmera. Além disso, eles filmam todo o passeio e vendem um vídeo ao final. A gente curtiu e resolveu comprar. No filme você percebe que, enquanto eu estava morrendo de medo, o Felipe estava todo sorridente. Hahahaha O filme custou xx reais. Ah, e eles vão querer que você compre um pedaço de papel com as pegadas do elefante para ajudar o santuário. Se você estiver indo com a grana apertada, já vai pensando na desculpa para não comprar.
 
-{{< img-full src="/img/2017/08/felipe-e-larissa-santuario.jpeg" alt="Felipe e Larissa no Santuário de Elefantes de Plettenberg Bay"  height="628" width="1200" title="" >}}
+{{< img-full src="/img/2017/08/felipe-e-larissa-santuario.jpg" alt="Felipe e Larissa no Santuário de Elefantes de Plettenberg Bay"  height="628" width="1200" title="" >}}
 
 ## Dicas 
 
