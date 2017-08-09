@@ -12,7 +12,7 @@ images:
   - /img/2017/08/movimento-natural-elefante.jpg
   - /img/2017/08/felipe-e-larissa-santuario.jpg
   - /img/2017/08/larissa-andando-santuario-elefante.jpg
-slug: descubra-como-e-caminhar-com-elefantes-na-africa-do-sul
+slug: descubra-por-que-e-inesquecivel-caminhar-com-elefantes-na-africa-do-sul
 structured:
   type: Article
 tags:
@@ -21,7 +21,7 @@ tags:
   - listas
 
 thumbnail: /img/2017/07/africa-do-sul-diversas-experiencias-em-um-so-lugar-thumb.jpg
-title: 'Descubra como é  caminhar com elefantes na África do Sul'
+title: 'Descubra por que é inesquecível caminhar com elefantes na África do Sul'
 totop: false
 ---
 
