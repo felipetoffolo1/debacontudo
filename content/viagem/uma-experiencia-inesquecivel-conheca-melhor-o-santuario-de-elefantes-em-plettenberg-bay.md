@@ -12,7 +12,7 @@ images:
   - /img/2017/08/movimento-natural-elefante.jpg
   - /img/2017/08/felipe-e-larissa-santuario.jpg
   - /img/2017/08/larissa-andando-santuario-elefante.jpg
-slug: conheca-melhor-o-santuario-de-elefantes-em-plettenberg-bay
+slug: descubra-como-e-caminhar-com-elefantes-na-africa-do-sul
 structured:
   type: Article
 tags:
@@ -21,15 +21,15 @@ tags:
   - listas
 
 thumbnail: /img/2017/07/africa-do-sul-diversas-experiencias-em-um-so-lugar-thumb.jpg
-title: 'Veja a experiência inesquecível de caminhar com elefantes na Àfrica do Sul'
+title: 'Descubra como é  caminhar com elefantes na África do Sul'
 totop: false
 ---
 
 Uma das experiências mais interessantes da nossa viagem para a **África do Sul** foi, sem dúvida nenhuma, a visita ao **Santuário de Elefantes**, em Plettenberg Bay. Caminhar **carregando** a tromba do elefante é algo realmente inexplicável. Se você estiver pensando em fazer a **rota do jardim**, vale muito a pena dar uma parada por lá.
 
-Chegamos lá por volta das 15h e resolvemos fazer o passeio que consiste em **caminhar com os elefantes** (walk trunk in hand with Elephants tour). O passeio saiu por **R500** por pessoa (mais ou menos R$ 125). Há outras opções, como **andar em cima do animal,** mas preferimos fazer apenas a caminhada. Cada passeio dura em torno de uma hora e consiste em conhecer um pouco melhor a história dos **elefantes** que moram no santuário. O lugar não é chamado de santuário atoa. Eles existe apra cuidar de elefantes que não teriam sobrevivido em seu habitat natural. Alguns estão ali porque ficaram órfãos bem pequenininhos. Outros sofreram algum ferimento, como a tromba cortada e possuem dificuldade para poder se alimentar. Dessa forma, eles **cuidam dos animais** e oferecem a oportunidade da gente conhecê-los melhor.
+Chegamos lá por volta das 15h e resolvemos fazer o passeio que consiste em **caminhar com os elefantes** (walk trunk in hand with Elephants tour). O passeio saiu por **R500** por pessoa (mais ou menos R$ 125). Há outras opções, como **andar em cima do animal,** mas preferimos fazer apenas a caminhada. Cada passeio dura em torno de uma hora e consiste em conhecer um pouco melhor a história dos **elefantes** que moram no santuário. O lugar não é chamado de santuário à toa. Ele existe para cuidar de elefantes que não teriam sobrevivido em seu habitat natural. Alguns estão ali porque ficaram órfãos bem pequenininhos. Outros sofreram algum ferimento, como a tromba cortada, e possuem dificuldade para poder se alimentar. Dessa forma, eles **cuidam dos animais** e oferecem a oportunidade da gente conhecê-los melhor.
 
-O santuário em si é um lugar bem bonitiho. Como os passeios são realizados **a cada uma hora**, você provavelmente terá que esperar um pouco até que o seu passeio inicie. O local conta com uma boa loja com todo tipo de souvenir que você possa imaginar. Vale a pena dar uma olhadinha. Você também pode aguardar lá fora, tomando um café, um leite ou um chá. E o melhor, de graça.
+O santuário em si é um lugar bem bonitinho. Como os passeios são realizados **a cada uma hora**, você provavelmente terá que esperar um pouco até que o seu passeio inicie. O local conta com uma boa loja com todo tipo de souvenir que você possa imaginar. Vale a pena dar uma olhadinha. Você também pode aguardar lá fora, tomando um café, um leite ou um chá. E o melhor, de graça.
 
 
 
@@ -49,7 +49,7 @@ Depois disso, os instrutores nos ensinam um pouco sobre a anatomia do elefante, 
 
 ## Sobre registrar o momento
 
-Se você, assim como a gente, estiver preocupado com quem vai tirar suas fotos, não se preocupe. O instrutor principal do passeio fica responsável pelos cliques. É claro que não vão ser aquelas fotos super profissionais, mas quebram o galho. Por isso, não esqueça de levar uma câmera. Além disso, eles filmam todo o passeio e vendem um vídeo ao final. A gente curtiu e resolveu comprar. No filme você percebe que, enquanto eu estava **morrendo de medo**, o Felipe estava todo **sorridente**. Hahahaha (veja abaixo uma edição mais curta desse vídeo)
+Se você, assim como a gente, estiver preocupado com quem vai tirar suas fotos, não se preocupe. O instrutor principal do passeio fica responsável pelos cliques. É claro que não vão ser aquelas fotos super profissionais, mas quebram o galho. Por isso, não esqueça de levar uma câmera. Além disso, eles filmam todo o passeio e vendem um vídeo ao final. A gente curtiu e resolveu comprar. No filme você percebe que, enquanto eu estava **morrendo de medo**, o Felipe estava todo **sorridente**. Hahahaha (veja abaixo uma edição mais curta desse vídeo).
 
 {{< video-full width="1280" height="720" layout="fixed" video="nzcaxDsgVKo" >}}
 
@@ -63,7 +63,7 @@ O filme custou **R200 (R$ 50)**. Ah, e eles vão querer que você compre um peda
 
 ## Dicas 
 
-- **Vá com uma roupa que você possa sujar.** No primeiro contato que tive com o elefante ele já cuspiu uma água cheia de lama na minha calça. Sem falar nas tentativas de morder o meu tênis. 
+- **Vá com uma roupa que você possa sujar.** No primeiro contato que tive com o elefante, ele já cuspiu uma água cheia de lama na minha calça. Sem falar nas tentativas de morder o meu tênis. 
 
 - **Vá com o coração aberto e sem medo para a experiência.** Eu fiquei um pouco tensa no começo (como você pode ver no vídeo acima) e acho que poderia ter curtido melhor o momento. 
 
