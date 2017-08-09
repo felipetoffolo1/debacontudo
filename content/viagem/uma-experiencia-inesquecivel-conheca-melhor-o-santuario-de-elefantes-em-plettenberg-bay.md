@@ -1,7 +1,7 @@
 ---
 author:
   - larissa
-banner: /img/2017/07/santuario-elefante-plettenberg-bay-banner.jpg
+banner: /img/2017/08/africa-do-sul-diversas-experiencias-em-um-so-lugar-banner.jpg
 categories:
   - viagem
 date: 2017-08-08T16:30:16
