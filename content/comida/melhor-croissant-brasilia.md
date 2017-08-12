@@ -7,7 +7,7 @@ categories:
 - comida
 - estilo-de-vida
 date: 2017-08-12T08:30:44-03:00
-description: "Gente, quem naõ gosta de croissant? Pois é, ninguém. Ou pelos menos ninguém que clicou nesse link. Já deu pra ver que a gente ama. Ama tanto que a gente resolveu sair comendo todos que encontramos em Brasília e aqui vão os nossos croissants favoritos da nossa Brasília."
+description: "Gente, quem não gosta de croissant? Pois é, ninguém. Nós amamos. Amamos tanto que resolvemos sair comendo todos que encontramos por aqui tentando achar o melhor croissant de Brasília."
 draft: false
 featured: false
 featuredorder: 2
