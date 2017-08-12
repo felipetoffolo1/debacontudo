@@ -6,9 +6,9 @@ banner: "/img/2017/08/melhor-croissant-brasilia-banner.jpg"
 categories:
 - comida
 - estilo-de-vida
-date: 2017-08-11T21:30:44-03:00
+date: 2017-08-12T08:30:44-03:00
 description: "Gente, quem naõ gosta de croissant? Pois é, ninguém. Ou pelos menos ninguém que clicou nesse link. Já deu pra ver que a gente ama. Ama tanto que a gente resolveu sair comendo todos que encontramos em Brasília e aqui vão os nossos croissants favoritos da nossa Brasília."
-draft: true
+draft: false
 featured: false
 featuredorder: 2
 images:
@@ -44,6 +44,8 @@ Relativamente jovem, a Castália já **conquistou muitos corações** em Brasíl
 
 {{<restaurant-simple address="CLN 102 Bloco D"  face="https://www.facebook.com/CastaliaPadariaArtesanal/">}}
 
+{{<facebook-like>}}
+
 # Daniel Briand
 
 {{< img-full src="/img/2017/08/daniel-briand-croissant.jpg" alt="Croissant Daniel Briand"  height="1200" width="1200" >}}
@@ -66,6 +68,8 @@ A La Paniere é mais uma padaria francesa na Asa Sul. Super **charmosinha** e co
 A Laika fica dentro do Gilberto Salomão num cantinho bem gostoso. A casa além de um **delicioso café** serve uma grande variedade de **croissants**. Você pode escolher entre comer ele normal ou recheado com várias opções. Além disso, tem a opção super legal do **croissant integral**, que também é uma delícia e já tira um pesinho da consciência né.
 
 {{<restaurant-simple address="SHIS QI 5 Bloco E Comercial GILBERTO SALOMÃO -Stand 18 - ao lado da Caixa "  face="https://www.facebook.com/laikacafe">}}
+
+{{<subscribe>}}
 
 # Crô
 
@@ -90,3 +94,11 @@ A Croissanterie tem um proposta um pouco **diferente do restante da lista**, poi
 A La Boulangerie é outra padaria já **clássica** de Brasília. E, obviamente, faz um croissant para lá de **gostoso**. Além do clássico, que é demais, a versão **aux amandes** (com amêndoas) é sensacional. A La Boulangerie está na Asa Norte, Asa Sul e recentemente abriu no Casa Park.  
 
 {{<restaurant-simple address="A primeira fica na 306 Sul bloco B loja 10"  face="https://www.facebook.com/laboulangerie306/">}}
+
+------
+
+Esperamos que vocês tenham gostado. E se não gostaram ainda, é por que não experimentaram ;)
+
+Voltem sempre por aqui , e vejam as nossa novidades. Aproveita e segue no Insta e Face
+
+{{<subscribe>}}
