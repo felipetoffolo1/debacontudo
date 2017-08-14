@@ -1,0 +1,5 @@
+<p>
+  <b>Endereço:</b> {{ .Get "address" }} - {{if .Get "face"}}
+  <a class="" href="{{ .Get " face " }}" target="_blank">
+          Facebook</a> {{end}}
+</p>
