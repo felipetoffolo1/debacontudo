@@ -18,7 +18,7 @@ tags:
   - listas
   - Africa do Sul
 thumbnail: /img/2017/07/joanesburgo-thumb.jpg
-title: '7 passeios imperdíveis para você fazer em Joanesburgo'
+title: 'x experiências na garden route'
 totop: true
 ---
 
