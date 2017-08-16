@@ -21,5 +21,4 @@ title: Como é mergulhar com tubaroes brancos na africa do sul
 ---
 As praias da África do Sul são famosas por suas ondas e pelos tubarões! Esse criaturinhas tão meigas
 
-{{<img-full src="/img/2017/08/la-paniere-croissant.jpg" alt=Moedas Derramadas"  height="800" width="1200" title="">}}
-
+{{<img-full src="/img/2017/08/la-paniere-croissant.jpg" alt="Moedas Derramadas"  height="800" width="1200" title="">}}
