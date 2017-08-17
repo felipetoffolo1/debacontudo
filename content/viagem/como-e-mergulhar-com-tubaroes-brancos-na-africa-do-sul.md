@@ -58,6 +58,6 @@ Entramos no barco, bem arrumadinho, com lanche e tal(que caimos de boca porque n
 
 Olha isso! É uma ilhazinha pequena coberta de focas. Que por acaso fede muito. Felizmente o barco parou contra o vento.
 
-{{<img-full src="/img/2017/08/la-paniere-croissant.jpg" alt="Moedas Derramadas"  height="800" width="1280" title="442">}}
+{{<img-full src="/img/2017/08/ilha-das-focas-tubarao-branco.jpg" alt="Ilha das focas"  height="442" width="1280" title="">}}
 
 ## O mergulho com tubarões em si
