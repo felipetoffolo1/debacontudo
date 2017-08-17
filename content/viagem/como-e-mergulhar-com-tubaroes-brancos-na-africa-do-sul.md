@@ -23,7 +23,7 @@ As praias da África do Sul são famosas por suas ondas e pelos tubarões! Essas
 
 Bem e como eu não sei surfar, resolvemos aproveitar os tubarões.
 
-{{<img-full src="/img/2017/08/la-paniere-croissant.jpg" alt="Moedas Derramadas"  height="800" width="1200" title="">}}
+
 
 # Onde mergulhar com os tubarões
 Existem duas regiões principais para mergulhar com tubarões brancos na África do Sul. A primeira é Gaansbai (xx km de Cape Town, cerca de xx minutos), onde inicialmente planejamos nosso mergulho. A outra é em False Bay, mais especificamente xxxx Town (xx km de Cape Town, cerca de xx minutos), onde acabamos fazendo o nosso mergulho. O motivo da mudança foi que na época haviam baleias orcas na região de Gaansbai e elas espantaram os tubarões brancos (pra você ver né);
@@ -58,5 +58,6 @@ Entramos no barco, bem arrumadinho, com lanche e tal(que caimos de boca porque n
 
 Olha isso! É uma ilhazinha pequena coberta de focas. Que por acaso fede muito. Felizmente o barco parou contra o vento.
 
-## O mergulho com tubarões em si
+{{<img-full src="/img/2017/08/la-paniere-croissant.jpg" alt="Moedas Derramadas"  height="800" width="1280" title="442">}}
 
+## O mergulho com tubarões em si
