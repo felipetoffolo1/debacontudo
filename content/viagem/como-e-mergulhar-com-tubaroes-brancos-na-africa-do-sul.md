@@ -61,3 +61,10 @@ Olha isso! É uma ilhazinha pequena coberta de focas. Que por acaso fede muito. 
 {{<img-full src="/img/2017/08/ilha-das-focas-tubarao-branco.jpg" alt="Ilha das focas"  height="442" width="1280" title="">}}
 
 ## O mergulho com tubarões em si
+
+Depois de colocar a gaiola na água o pessoal perguntou quem queria começar. Eu que já não tava me aguentando de ansiedade me candidatei (arrastando a Larissa comigo). Vestimos a roupa de mergulho e pulamos dentro da gaiola.
+
+Bem na hora que entrei dei de cara com um tubarão branco! Eu nem tinha ligado a camera ainda (vacilo).
+
+Tudo bem, pois apesar de não ser tão de perto eu ainda iria ver eles bem. Dá uma olhada no vídeo.
+
