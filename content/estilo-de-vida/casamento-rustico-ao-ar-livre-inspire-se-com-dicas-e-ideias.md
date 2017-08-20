@@ -20,6 +20,8 @@ thumbnail: "/img/2017/08/melhor-croissant-brasilia-thumb.jpg"
 title: 'Casamento rústico e moderno: inspire-se com dicas e ideias'
 
 ---
+
+
 Esse post é para você que: está planejando o seu **casamento** e quer ideias e dicas; já casou, mas ainda continua lendo coisas sobre casamento porque simplesmente adora; ou simplesmente gosta da gente e veio conferir algumas fotos do nosso #CasamentoDeBaconTudo. (lá no Instagram você confere várias fotos desse dia pela #).
 
 Vamos lá. Já aviso: #alertatextao
@@ -28,17 +30,17 @@ Casar nunca foi um grande sonho meu. É claro que sempre pensei em ter alguém d
 
 Foram meses de pesquisa por **decoração** e tipos de festa. A primeira coisa que decidimos é que queríamos um casamento ao ar livre, com estilo mais rústico e com muitas luzes por todo o lado. A ideia era começar a cerimônia no fim da tarde, pegando o pôr do sol. Como não queríamos cerimônia religiosa, optamos por fazer a cerimônia e a festa no mesmo lugar. Achamos que assim ficaria mais fácil para nossos convidados. Depois disso, foi a vez de decidir as cores:** marsala, azul marinho e rosa chá**.
 
-Todo o planejamento foi muito tranquilo, pois a gente contou com profissionais de primeira que souberam organizar tudo sem muito estresse. O nosso cerimonialista, Carlos, da Chuva de Arroz, tomou conta de quase tudo, não tivemos que fazer praticamente nada. Apenas indicar aquilo que queríamos e da forma como a gente imaginava. Escolhemos casar em **Pará de Minas **(MG), cidade do Felipe. Como temos família em duas cidades diferentes, uma teria que se deslocar de qualquer forma. Optamos pela cidade onde o casamento sairia mais em conta para o nosso bolsos. =P
-
 ### **Decoração**
 
 Como já falei ali em cima, queríamos algo mais **rústico, simples e bonito**. Mostramos várias referências para a Gra, nossa decoradora, e o resultado mais do que nos surpreendeu. Confesso que assim que cheguei ao local e vi a mesa de bolo, comecei a chorar na hora. Estava tudo lindo demais!
 
-Fotos da decoração
+![](/img/2017/08/_JP33515.jpg)
 
 ### **Mesa do bolo (e doces)**
 
 Não é porque é o meu casamento, mas essa mesa de bola é simplesmente uma das mais lindas que eu já vi. Eu queria muito que o bolo principal fosse **naked cake**. Mas como era ao ar livre, ficamos com medo de não aguentar. Daí surgiu a ideia de fazer mini bolos naked cake e espalhar por toda a mesa. E ficou maravilhoso! Os bolos e os docinhos foram feitos pela **Colorê**, fábrica de doces da minha sogra, Izaura.
+
+![](/img/2017/08/_JP33163.jpg)
 
 ### **Noiva**
 
@@ -84,8 +86,7 @@ Uma das coisas mais legais do nosso casamento foi a kombi de chopp que colocamos
 
 Quando decidimos que iríamos nos casar, logo pensamos na ideia de ensaiar uma coreografia para a nossa First Dance, aquela primeira dança que os noivos fazem após a cerimônia. Escolhemos a música Thinking Out Loud, do Ed. Sheeran. Foram alguns dias de ensaio, com coreógrafo e tudo mais. Mas o importante é que deu certo e tudo saiu como a gente imaginava. Você pode conferir mais sobre a nossa First Dance [aqui.](http://debacontudo.com.br/estilo-de-vida/first-dance-dicas-brasilia/)
 
-![](/img/2017/06/first-dance-dicas-banner.jpg)
-
 E não esquece de nos seguir no [Instagram](www.instagram.com/casaldebacontudo) e no [Facebook](https://www.facebook.com/debacontudo).
 
 Bjs.
+
