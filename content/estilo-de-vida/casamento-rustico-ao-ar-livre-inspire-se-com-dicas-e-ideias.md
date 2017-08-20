@@ -55,7 +55,7 @@ Antes de casar eu já sabia mais ou menos como eu queria estar vestida no dia: u
 ![](/img/2017/08/_JP33020.jpg)
 
 
-{{< img-full src=/img/2017/08/_JP33108.jpg" alt="Larissa perfil"  height="628" width="1200" title="" >}}
+{{< img-full src="/img/2017/08/_JP33108.jpg" alt="Larissa perfil"  height="628" width="1200" title="" >}}
 
 Ps. Se alguém tiver interesse, estou vendendo o vestido e a sandália. Visto e calço 38. ;)
 
