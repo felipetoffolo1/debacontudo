@@ -46,6 +46,10 @@ Não é porque é o meu casamento, mas essa mesa de bola é simplesmente uma das
 
 Antes de casar eu já sabia mais ou menos como eu queria estar vestida no dia: um vestido bonito, que valorizasse o corpo, e um coque com uma tiara de trança. Não sei bem o porquê, mas eu nunca quis usar aquelas tiaras de prata. O vestido foi inspirado em um que eu vi na internet e um pouco adaptado ao meu gosto. Eu não queria mangas, pois queria me sentir à vontade para dançar e sabia que eu ficaria com muito calor. Olha que estava fazendo muito frio no dia, todos estavam super agasalhados, e eu fiquei praticamente a festa inteira sem nenhum casaquinho, já que eu acho que a gente fica tão elétrica que o corpo nem lembra de sentir frio. Só coloquei porque minha mãe me obrigou. Sabe como é, né. Então, acho que o vestido sem mangas foi uma decisão super acertada. O cabelo ficou maravilhoso. O Bebeto acertou em cheio nos mínimos detalhes. E a maquiagem, feita pelo Wagner, também ficou linda. Os brincos foram emprestados da minha prima, Isabelle. E a sandália eu comprei na Mariana Machado.
 
+![](/img/2017/08/_JP33045.jpg)
+
+![](/img/loading.gif)
+
 Ps. Se alguém tiver interesse, estou vendendo o vestido e a sandália. Visto e calço 38. ;)
 
 Clique aqui para saber mais!
@@ -57,8 +61,6 @@ Pesquisamos vários estilos de ternos e acabamos optando por um azul marinho, co
 ### **Madrinhas e padrinhos**
 
 Para as madrinhas, a regra era vestido marsala. Para os padrinhos, calça azul, blusa branca e suspensório azul. As madrinhas e padrinhos estavam usando o presente que demos quando convidamos-os para ser nossos padrinhos: uma pulseirinha marsala para as mulheres e uma gravata borboleta marsala para os homens. Ficou super lindo!
-
-![](/img/2017/08/_JP33045.jpg)
 
 ![](/img/2017/08/JPC_0001-420.jpg)
 
@@ -76,8 +78,7 @@ Uma das coisas mais legais do nosso casamento foi a kombi de chopp que colocamos
 
 Quando decidimos que iríamos nos casar, logo pensamos na ideia de ensaiar uma coreografia para a nossa First Dance, aquela primeira dança que os noivos fazem após a cerimônia. Escolhemos a música Thinking Out Loud, do Ed. Sheeran. Foram alguns dias de ensaio, com coreógrafo e tudo mais. Mas o importante é que deu certo e tudo saiu como a gente imaginava. Você pode conferir mais sobre a nossa First Dance [aqui.](http://debacontudo.com.br/estilo-de-vida/first-dance-dicas-brasilia/)
 
-É isso, gente. Acho que já falei demais.
-<span style="font-size: 1rem;">Gostou? Tem alguma dúvida? Conta pra gente!</span>
+![](/img/2017/06/first-dance-dicas-banner.jpg)
 
 E não esquece de nos seguir no [Instagram](www.instagram.com/casaldebacontudo) e no [Facebook](https://www.facebook.com/debacontudo).
 
