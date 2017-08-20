@@ -1,0 +1,20 @@
+<p>
+        <div class="img-short">
+            <!-- get metadata from 1st two params 0=galleryname, 1=caption -->
+            {{ $meta :=  first 2 .Params }}
+            <!-- everything after 1st two params is an image -->
+            {{ $images :=  after 2 .Params }}
+            <amp-carousel id="slider-thumbnail" class="owl-carousel owl-theme slider-thumbnail"
+            height="668" layout="fixed-height" controls type="carrousel">
+                {{range $images}}
+                <amp-img src="{{.}}"
+                width="1000"
+                height="668"
+                alt="a sample image"></amp-img>
+                
+                {{ end }}
+                
+            </amp-carousel>
+        </div>                
+            <!-- #slider-thumbnail -->
+</p>
