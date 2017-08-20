@@ -20,8 +20,6 @@ thumbnail: "/img/2017/08/melhor-croissant-brasilia-thumb.jpg"
 title: 'Casamento rústico e moderno: inspire-se com dicas e ideias'
 
 ---
-
-
 Esse post é para você que: está planejando o seu **casamento** e quer ideias e dicas; já casou, mas ainda continua lendo coisas sobre casamento porque simplesmente adora; ou simplesmente gosta da gente e veio conferir algumas fotos do nosso #CasamentoDeBaconTudo. (lá no Instagram você confere várias fotos desse dia pela #).
 
 Vamos lá. Já aviso: #alertatextao
@@ -46,9 +44,10 @@ Não é porque é o meu casamento, mas essa mesa de bola é simplesmente uma das
 
 Antes de casar eu já sabia mais ou menos como eu queria estar vestida no dia: um vestido bonito, que valorizasse o corpo, e um coque com uma tiara de trança. Não sei bem o porquê, mas eu nunca quis usar aquelas tiaras de prata. O vestido foi inspirado em um que eu vi na internet e um pouco adaptado ao meu gosto. Eu não queria mangas, pois queria me sentir à vontade para dançar e sabia que eu ficaria com muito calor. Olha que estava fazendo muito frio no dia, todos estavam super agasalhados, e eu fiquei praticamente a festa inteira sem nenhum casaquinho, já que eu acho que a gente fica tão elétrica que o corpo nem lembra de sentir frio. Só coloquei porque minha mãe me obrigou. Sabe como é, né. Então, acho que o vestido sem mangas foi uma decisão super acertada. O cabelo ficou maravilhoso. O Bebeto acertou em cheio nos mínimos detalhes. E a maquiagem, feita pelo Wagner, também ficou linda. Os brincos foram emprestados da minha prima, Isabelle. E a sandália eu comprei na Mariana Machado.
 
-![](/img/2017/08/_JP33045.jpg)
+{{< img-full src=/img/2017/08/_JP33045.jpg" alt="Larissa se arrumando"  height="628" width="1200" title="" >}}
 
-![](/img/loading.gif)
+{{< img-full src="/img/2017/08/_JP32803.jpg" alt="Vestido Larissa"  height="628" width="1200" title="" >}}
+
 
 Ps. Se alguém tiver interesse, estou vendendo o vestido e a sandália. Visto e calço 38. ;)
 
@@ -83,4 +82,3 @@ Quando decidimos que iríamos nos casar, logo pensamos na ideia de ensaiar uma c
 E não esquece de nos seguir no [Instagram](www.instagram.com/casaldebacontudo) e no [Facebook](https://www.facebook.com/debacontudo).
 
 Bjs.
-
