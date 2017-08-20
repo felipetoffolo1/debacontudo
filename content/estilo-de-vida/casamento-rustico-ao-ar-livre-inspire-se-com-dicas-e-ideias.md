@@ -46,15 +46,13 @@ Antes de casar eu já sabia mais ou menos como eu queria estar vestida no dia: u
 
 {{< img-full src="/img/2017/08/_JP33045.jpg" alt="Larissa se arrumando"  height="628" width="1200" title="" >}}
 
-
 {{< img-full src="/img/2017/08/_JP32803.jpg" alt="Vestido Larissa"  height="628" width="1200" title="" >}}
 
-![](/img/2017/08/_JP33051.jpg)
+{{< img-full src="/img/2017/08/_JP33051.jpg" alt="Madrinhas vestido"  height="628" width="1200" title="" >}}
 
-![](/img/2017/08/_JP32853.jpg)
+{{< img-full src="/img/2017/08/_JP32853.jpg" alt="Larissa sandália"  height="628" width="1200" title="" >}}
 
-![](/img/2017/08/_JP33020.jpg)
-
+{{< img-full src="/img/2017/08/_JP33020.jpg" alt="Larissa espelho"  height="628" width="1200" title="" >}}
 
 {{< img-full src="/img/2017/08/_JP33108.jpg" alt="Larissa perfil"  height="628" width="1200" title="" >}}
 
