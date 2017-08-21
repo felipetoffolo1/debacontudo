@@ -1,6 +1,6 @@
 ---
 author: []
-banner: "/img/2017/08/JPC_0001-204-1.jpg"
+banner: "/img/2017/08/WhatsApp Image 2017-06-18 at 15.02.59.jpeg"
 categories: []
 date: 2017-08-21 00:00:00 -0300
 description: 'Confira dicas para fazer um casamento rústico, chic e moderno ao ar
@@ -34,9 +34,6 @@ Foram meses de pesquisa por **decoração** e tipos de festa. A primeira coisa q
 
 Como já falei ali em cima, queríamos algo mais **rústico, simples e bonito**. Mostramos várias referências para a Gra, nossa decoradora, e o resultado mais do que nos surpreendeu. Confesso que assim que cheguei ao local e vi a mesa de bolo, comecei a chorar na hora. Estava tudo lindo demais!
 
-{{<img-carousel "1280" "855" "/img/2017/08/_JP33515.jpg" "/img/2017/08/_JP33163.jpg" >}}
-![](/img/2017/08/_JP33515.jpg)![](/img/2017/08/_JP33515.jpg)
-
 ### **Mesa do bolo (e doces)**
 
 Não é porque é o meu casamento, mas essa mesa de bola é simplesmente uma das mais lindas que eu já vi. Eu queria muito que o bolo principal fosse **naked cake**. Mas como era ao ar livre, ficamos com medo de não aguentar. Daí surgiu a ideia de fazer mini bolos naked cake e espalhar por toda a mesa. E ficou maravilhoso! Os bolos e os docinhos foram feitos pela **Colorê**, fábrica de doces da minha sogra, Izaura.
@@ -59,13 +56,13 @@ Antes de casar eu já sabia mais ou menos como eu queria estar vestida no dia: u
 
 {{< img-full src="/img/2017/08/_JP33108.jpg" alt="Larissa perfil"  height="628" width="1200" title="" >}}
 
-Ps. Se alguém tiver interesse, estou vendendo o vestido e a sandália. Visto e calço 38. ;)
-
-Clique aqui para saber mais!
-
 ### **Noivo**
 
 Pesquisamos vários estilos de ternos e acabamos optando por um azul marinho, com colete cinza e gravata marsala. Para o sapato e o cinto, optamos pela cor caramelo. Como para homem tudo é mais fácil, esse parágrafo já acabou aqui. =P
+
+![](/img/2017/08/IMG_2774.jpg)
+
+![](/img/2017/08/IMG_0350.jpg)
 
 ### **Madrinhas e padrinhos**
 
