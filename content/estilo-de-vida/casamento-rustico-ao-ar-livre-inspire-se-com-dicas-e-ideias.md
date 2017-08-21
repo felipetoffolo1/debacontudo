@@ -34,7 +34,7 @@ Foram meses de pesquisa por **decoração** e tipos de festa. A primeira coisa q
 
 Como já falei ali em cima, queríamos algo mais **rústico, simples e bonito**. Mostramos várias referências para a Gra, nossa decoradora, e o resultado mais do que nos surpreendeu. Confesso que assim que cheguei ao local e vi a mesa de bolo, comecei a chorar na hora. Estava tudo lindo demais!
 
-{{<img-carrousel "1280" "855" "/img/2017/08/_JP33515.jpg" "/img/2017/08/_JP33163.jpg" >}}
+{{<img-carousel "1280" "855" "/img/2017/08/_JP33515.jpg" "/img/2017/08/_JP33163.jpg" >}}
 ![](/img/2017/08/_JP33515.jpg)![](/img/2017/08/_JP33515.jpg)
 
 ### **Mesa do bolo (e doces)**
