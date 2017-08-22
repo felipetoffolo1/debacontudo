@@ -20,6 +20,8 @@ thumbnail: "/img/2017/08/melhor-croissant-brasilia-thumb.jpg"
 title: 'Casamento rústico e moderno: inspire-se com dicas e ideias'
 
 ---
+
+
 Esse post é para você que: está planejando o seu **casamento** e quer ideias e dicas; já casou, mas ainda continua lendo coisas sobre casamento porque simplesmente adora; ou simplesmente gosta da gente e veio conferir algumas fotos do nosso #CasamentoDeBaconTudo. (lá no Instagram você confere várias fotos desse dia pela #).
 
 Vamos lá. Já aviso: #alertatextao
@@ -34,11 +36,9 @@ Como já falei ali em cima, queríamos algo mais **rústico, simples e bonito**.
 
 {{<img-carousel "1280" "855""/img/2017/08/_JP33515.jpg" "/img/2017/08/IMG_0253.jpg" "/img/2017/08/IMG_2934.jpg" "/img/2017/08/IMG_2906.jpg" "/img/2017/08/_JP33148.jpg" "/img/2017/08/IMG_2885.jpg" "/img/2017/08/IMG_2890.jpg" "/img/2017/08/IMG_2922.jpg" "/img/2017/08/IMG_2895.jpg" "/img/2017/08/IMG_2940.jpg" "/img/2017/08/IMG_2900.jpg" "/img/2017/08/IMG_0263.jpg" "/img/2017/08/IMG_0255.jpg"  >}}
 
-
-**Mesa do bolo (e doces)**
+### **Mesa do bolo (e doces)**
 
 Não é porque é o meu casamento, mas essa mesa de bola é simplesmente uma das mais lindas que eu já vi. Eu queria muito que o bolo principal fosse naked cake. Mas como era ao ar livre, ficamos com medo de não aguentar. Daí surgiu a ideia de fazer mini bolos naked cake e espalhar por toda a mesa. E ficou maravilhoso! Os bolos e os docinhos foram feitos pela Colorê, fábrica de doces da minha sogra, Izaura.
-
 
 {{<img-carousel "1280" "855""/img/2017/08/_JP33163.jpg" "/img/2017/08/IMG_2953.jpg" "/img/2017/08/_JP33182.jpg" "/img/2017/08/IMG_2956.jpg" "img/2017/08/IMG_2945.jpg" "img/2017/08/IMG_2943.jpg" "/img/2017/08/IMG_2957.jpg" "img/2017/08/_JP33171.jpg" "/img/2017/08/_JP33184.jpg" >}}
 
@@ -70,10 +70,6 @@ Pesquisamos vários estilos de ternos e acabamos optando por um azul marinho, co
 
 Para as madrinhas, a regra era vestido marsala. Para os padrinhos, calça azul, blusa branca e suspensório azul. As madrinhas e padrinhos estavam usando o presente que demos quando convidamos-os para ser nossos padrinhos: uma pulseirinha marsala para as mulheres e uma gravata borboleta marsala para os homens. Ficou super lindo!
 
-![](/img/2017/08/JPC_0001-420.jpg)
-
-![](/img/2017/08/JPC_0001-417.jpg)
-
 ### **Buffet**
 
 Para mim, comida em casamento não pode faltar! Nem demorar a passar! E isso foi um dos requisitos quando contratamos o nosso buffet. Teve coquetel volante, com diferentes tipos de salgados, caldos e o jantar. E todos duraram a noite inteira. Para quem quiser sugestão do que servir, optamos por paella mineira e de frutos do mar no jantar. Ah, ainda teve o mini festival de coxinha! Sim, porque a melhor coxinha de Pará de Minas não poderia faltar no nosso casamento.
@@ -88,4 +84,11 @@ Quando decidimos que iríamos nos casar, logo pensamos na ideia de ensaiar uma c
 
 E não esquece de nos seguir no [Instagram](www.instagram.com/casaldebacontudo) e no [Facebook](https://www.facebook.com/debacontudo).
 
-Bjs.
+![](/img/2017/08/_JP33247.jpg)
+
+![](/img/2017/08/JPC_0001-167.jpg)
+
+![](/img/2017/08/JPC_0001-420.jpg)
+
+![](/img/2017/08/JPC_0001-417.jpg)
+
