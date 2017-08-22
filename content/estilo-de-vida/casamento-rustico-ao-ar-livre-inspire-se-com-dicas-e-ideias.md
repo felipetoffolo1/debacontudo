@@ -4,7 +4,7 @@ author:
 banner: "/img/2017/08/JPC_0001-234.jpg"
 categories:
  - estilo-de-vida
-date: 2017-08-21 00:00:00 -0300
+date: 2017-08-21 23:00:00 -0300
 description: 'Confira dicas para fazer um casamento rústico, chic e moderno ao ar
   livre '
 draft: false
@@ -121,7 +121,9 @@ Se tiver alguma dúvida, basta perguntar aqui ou nas nossas redes sociais.
 
 - **Consultoria**: [Carllos Nogueira](https://www.facebook.com/chuvadearrozcc/)
 - **Cerimonial**: [Chuva de Arroz](https://www.facebook.com/chuvadearrozcc/)
+- **Fotografia**: [João Paulo de Castro](https://www.instagram.com/jpcastro_wedding/)
 - **Decoração**: [Gra Ferreira](https://www.facebook.com/graferreiradecoracao/)
+- **Filmagem**: [History FIlmes](https://www.instagram.com/historyfilmes/)
 - **Buffet**: [Ieda](https://www.facebook.com/Iedabuffet/)
 - **Celebrante**: [Kleber Kalvan](https://www.facebook.com/celebrantehumanista)
 - **Banda**: [Tiago SIlva](https://www.facebook.com/soulvoz)
