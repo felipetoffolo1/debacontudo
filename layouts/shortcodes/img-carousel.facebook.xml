@@ -1,0 +1,12 @@
+<!-- get metadata from 1st two params 0=galleryname, 1=caption -->
+{{ $meta := first 2 .Params }}
+<!-- everything after 1st two params is an image -->
+{{ $images := after 2 .Params }} {{ $number := 0 }}
+<figure class="op-slideshow">
+    {{range $images}}
+    <figure>
+        <img src="{{.}}" />
+    </figure>
+    {{ end }}
+    <figcaption>Galeria de Imagens</figcaption>
+</figure>
