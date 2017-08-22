@@ -20,8 +20,6 @@ thumbnail: "/img/2017/08/melhor-croissant-brasilia-thumb.jpg"
 title: 'Casamento rústico e moderno: inspire-se com dicas e ideias'
 
 ---
-
-
 Esse post é para você que: está planejando o seu **casamento** e quer ideias e dicas; já casou, mas ainda continua lendo coisas sobre casamento porque simplesmente adora; ou simplesmente gosta da gente e veio conferir algumas fotos do nosso #CasamentoDeBaconTudo. (lá no Instagram você confere várias fotos desse dia pela #).
 
 Vamos lá. Já aviso: #alertatextao
@@ -34,7 +32,7 @@ Foram meses de pesquisa por **decoração** e tipos de festa. A primeira coisa q
 
 Como já falei ali em cima, queríamos algo mais **rústico, simples e bonito**. Mostramos várias referências para a Gra, nossa decoradora, e o resultado mais do que nos surpreendeu. Confesso que assim que cheguei ao local e vi a mesa de bolo, comecei a chorar na hora. Estava tudo lindo demais!
 
-{{<img-carousel "1280" "855""/img/2017/08/_JP33515.jpg" "/img/2017/08/IMG_0253.jpg" "/img/2017/08/IMG_2900.jpg" "/img/2017/08/IMG_2906.jpg" "/img/2017/08/_JP33148.jpg" "/img/2017/08/IMG_2885.jpg" "/img/2017/08/IMG_2890.jpg" "/img/2017/08/IMG_2922.jpg" "/img/2017/08/IMG_2895.jpg" "/img/2017/08/IMG_2940.jpg" "/img/2017/08/IMG_0263.jpg" "/img/2017/08/IMG_0255.jpg" "/img/2017/08/IMG_0272.jpg" "/img/2017/08/IMG_2934.jpg" >}}
+{{<img-carousel "1280" "855""/img/2017/08/_JP33515.jpg" "/img/2017/08/IMG_0253.jpg" "/img/2017/08/IMG_2900.jpg" "/img/2017/08/IMG_2906.jpg" "/img/2017/08/_JP33148.jpg" "/img/2017/08/IMG_2885.jpg" "/img/2017/08/IMG_2890.jpg" "/img/2017/08/IMG_2922.jpg" "/img/2017/08/IMG_2895.jpg" "/img/2017/08/IMG_2940.jpg" "/img/2017/08/IMG_0263.jpg" "/img/2017/08/IMG_0255.jpg" "/img/2017/08/IMG_0272.jpg" "/img/2017/08/IMG_2934.jpg" "/img/2017/08/JPC_0001-555.jpg" >}
 
 ### **Mesa do bolo (e doces)**
 
@@ -99,4 +97,3 @@ Como a ideia era fazer um casamento mais rústico, não queríamos aquela famosa
 Quando decidimos que iríamos nos casar, logo pensamos na ideia de ensaiar uma coreografia para a nossa First Dance, aquela primeira dança que os noivos fazem após a cerimônia. Escolhemos a música Thinking Out Loud, do Ed. Sheeran. Foram alguns dias de ensaio, com coreógrafo e tudo mais. Mas o importante é que deu certo e tudo saiu como a gente imaginava. Você pode conferir mais sobre a nossa First Dance [aqui.](http://debacontudo.com.br/estilo-de-vida/first-dance-dicas-brasilia/)
 
 E não esquece de nos seguir no [Instagram](www.instagram.com/casaldebacontudo) e no [Facebook](https://www.facebook.com/debacontudo).
-
