@@ -20,6 +20,8 @@ thumbnail: "/img/2017/08/melhor-croissant-brasilia-thumb.jpg"
 title: 'Casamento rústico e moderno: inspire-se com dicas e ideias'
 
 ---
+
+
 Esse post é para você que: está planejando o seu **casamento** e quer ideias e dicas; já casou, mas ainda continua lendo coisas sobre casamento porque simplesmente adora; ou simplesmente gosta da gente e veio conferir algumas fotos do nosso #CasamentoDeBaconTudo. (lá no Instagram você confere várias fotos desse dia pela #).
 
 Vamos lá. Já aviso: #alertatextao
@@ -86,7 +88,7 @@ Uma das coisas mais legais do nosso casamento foi a kombi de chopp que colocamos
 
 ![](/img/2017/08/IMG_0293.jpg)
 
-### ****Pista de dança ****
+### **Pista de dança**
 
 Como a ideia era fazer um casamento mais rústico, não queríamos aquela famosa estrutura de pista de dança, com globos e fumaça. Nós queríamos um casamento cheio de luzes e uma pista bem iluminada. Por isso, optamos por essa gambiarra cheia de luzes e por essa pista de dança que pisca. O resultado foi mais legal do que eu imaginava!
 
