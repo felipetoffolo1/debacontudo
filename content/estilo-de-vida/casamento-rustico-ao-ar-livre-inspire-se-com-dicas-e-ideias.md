@@ -92,10 +92,16 @@ Uma das coisas mais legais do nosso casamento foi a kombi de chopp que colocamos
 
 Como a ideia era fazer um casamento mais rústico, não queríamos aquela famosa estrutura de pista de dança, com globos e fumaça. Nós queríamos um casamento cheio de luzes e uma pista bem iluminada. Por isso, optamos por essa gambiarra cheia de luzes e por essa pista de dança que pisca. O resultado foi mais legal do que eu imaginava!
 
-![](/img/2017/08/_JP34528.jpg)
-
 ### **First Dance**
 
-Quando decidimos que iríamos nos casar, logo pensamos na ideia de ensaiar uma coreografia para a nossa First Dance, aquela primeira dança que os noivos fazem após a cerimônia. Escolhemos a música Thinking Out Loud, do Ed. Sheeran. Foram alguns dias de ensaio, com coreógrafo e tudo mais. Mas o importante é que deu certo e tudo saiu como a gente imaginava. Você pode conferir mais sobre a nossa First Dance [aqui.](http://debacontudo.com.br/estilo-de-vida/first-dance-dicas-brasilia/)
+Quando decidimos que iríamos nos casar, logo pensamos na ideia de ensaiar uma coreografia para a nossa First Dance, aquela primeira dança que os noivos fazem após a cerimônia. Escolhemos a música Thinking Out Loud, do Ed. Sheeran. Foram alguns dias de ensaio, com coreógrafo e tudo mais. Mas o importante é que deu certo e tudo saiu como a gente imaginava. Você pode conferir mais sobre a nossa First Dance aqui.
 
-E não esquece de nos seguir no [Instagram](www.instagram.com/casaldebacontudo) e no [Facebook](https://www.facebook.com/debacontudo).
+É isso! Espero que tenham gostado das ideias!
+<span style="font-size: 1rem;">Se tiver alguma dúvida, basta perguntar aqui ou nas nossas redes sociais.</span>
+
+E não esquece de nos seguir no Instagram e no Facebook.
+
+![](/img/2017/08/_JP34528.jpg)
+
+###
+
