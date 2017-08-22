@@ -34,7 +34,6 @@ Como já falei ali em cima, queríamos algo mais **rústico, simples e bonito**.
 
 {{<img-carousel "1280" "855""/img/2017/08/_JP33515.jpg" "/img/2017/08/IMG_0253.jpg" "/img/2017/08/IMG_2934.jpg" "/img/2017/08/IMG_2906.jpg" "/img/2017/08/_JP33148.jpg" "/img/2017/08/IMG_2885.jpg" "/img/2017/08/IMG_2890.jpg" "/img/2017/08/IMG_2922.jpg" "/img/2017/08/IMG_2895.jpg" "/img/2017/08/IMG_2940.jpg" "/img/2017/08/IMG_2900.jpg" "/img/2017/08/IMG_0263.jpg" "/img/2017/08/IMG_0255.jpg"  >}}
 
-###
 
 **Mesa do bolo (e doces)**
 
