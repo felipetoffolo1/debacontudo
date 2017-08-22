@@ -20,6 +20,8 @@ thumbnail: "/img/2017/08/melhor-croissant-brasilia-thumb.jpg"
 title: 'Casamento rústico e moderno: inspire-se com dicas e ideias'
 
 ---
+
+
 Esse post é para você que: está planejando o seu **casamento** e quer ideias e dicas; já casou, mas ainda continua lendo coisas sobre casamento porque simplesmente adora; ou simplesmente gosta da gente e veio conferir algumas fotos do nosso #CasamentoDeBaconTudo. (lá no Instagram você confere várias fotos desse dia pela #).
 
 Vamos lá. Já aviso: #alertatextao
@@ -43,7 +45,6 @@ Não é porque é o meu casamento, mas essa mesa de bola é simplesmente uma das
 ### **Noiva**
 
 Antes de casar eu já sabia mais ou menos como eu queria estar vestida no dia: um vestido bonito, que valorizasse o corpo, e um coque com uma tiara de trança. Não sei bem o porquê, mas eu nunca quis usar aquelas tiaras de prata. O vestido foi inspirado em um que eu vi na internet e um pouco adaptado ao meu gosto. Eu não queria mangas, pois queria me sentir à vontade para dançar e sabia que eu ficaria com muito calor. Olha que estava fazendo muito frio no dia, todos estavam super agasalhados, e eu fiquei praticamente a festa inteira sem nenhum casaquinho, já que eu acho que a gente fica tão elétrica que o corpo nem lembra de sentir frio. Só coloquei porque minha mãe me obrigou. Sabe como é, né. Então, acho que o vestido sem mangas foi uma decisão super acertada. O cabelo ficou maravilhoso. O Bebeto acertou em cheio nos mínimos detalhes. E a maquiagem, feita pelo Wagner, também ficou linda. A sandália eu comprei na Mariana Machado.
-
 
 ### **Noivo**
 
@@ -76,6 +77,10 @@ Uma das coisas mais legais do nosso casamento foi a kombi de chopp que colocamos
 ![](/img/2017/08/IMG_2961.jpg)
 
 ![](/img/2017/08/IMG_0293.jpg)
+
+### **Pista de dança **
+
+Como a ideia era fazer um casamento mais rústico, não queríamos aquela famosa estrutura de pista de dança, com globos e fumaça. Nós queríamos um casamento cheio de luzes e uma pista bem iluminada. Por isso, optamos por essa gambiarra cheia de luzes e por essa pista de dança que pisca. O resultado foi mais legal do que eu imaginava!
 
 ### **First Dance**
 
