@@ -39,7 +39,7 @@ Como já falei ali em cima, queríamos algo mais **rústico, simples e bonito**.
 
 Não é porque é o meu casamento, mas essa mesa de bola é simplesmente uma das mais lindas que eu já vi. Eu queria muito que o bolo principal fosse naked cake. Mas como era ao ar livre, ficamos com medo de não aguentar. Daí surgiu a ideia de fazer mini bolos naked cake e espalhar por toda a mesa. E ficou maravilhoso! Os bolos e os docinhos foram feitos pela Colorê, fábrica de doces da minha sogra, Izaura.
 
-{{<img-carousel "1280" "855""/img/2017/08/_JP33163.jpg" "/img/2017/08/IMG_2953.jpg" "/img/2017/08/_JP33182.jpg" "/img/2017/08/IMG_2956.jpg" "img/2017/08/IMG_2945.jpg" "img/2017/08/IMG_2943.jpg" "/img/2017/08/IMG_2957.jpg" "img/2017/08/_JP33171.jpg" "/img/2017/08/_JP33184.jpg" "/img/2017/08/IMG_2974.jpg" >}}
+{{<img-carousel "1280" "855""/img/2017/08/_JP33163.jpg" "/img/2017/08/IMG_2953.jpg" "/img/2017/08/_JP33182.jpg" "/img/2017/08/IMG_2956.jpg" "/img/2017/08/IMG_2945.jpg" "/img/2017/08/IMG_2943.jpg" "/img/2017/08/IMG_2957.jpg" "/img/2017/08/_JP33171.jpg" "/img/2017/08/_JP33184.jpg" "/img/2017/08/IMG_2974.jpg" >}}
 
 ### **Noiva**
 
