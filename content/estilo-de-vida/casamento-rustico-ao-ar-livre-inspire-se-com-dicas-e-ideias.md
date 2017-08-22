@@ -20,6 +20,8 @@ thumbnail: "/img/2017/08/melhor-croissant-brasilia-thumb.jpg"
 title: 'Casamento rústico e moderno: inspire-se com dicas e ideias'
 
 ---
+
+
 Esse post é para você que: está planejando o seu **casamento** e quer ideias e dicas; já casou, mas ainda continua lendo coisas sobre casamento porque simplesmente adora; ou simplesmente gosta da gente e veio conferir algumas fotos do nosso #CasamentoDeBaconTudo. (lá no Instagram você confere várias fotos desse dia pela #).
 
 Vamos lá. Já aviso: #alertatextao
@@ -54,7 +56,6 @@ Antes de casar eu já sabia mais ou menos como eu queria estar vestida no dia: u
 
 ![](/img/2017/08/_JP32876.jpg)
 
-
 ### **Noivo**
 
 Pesquisamos vários estilos de ternos e acabamos optando por um azul marinho, com colete cinza e gravata marsala. Para o sapato e o cinto, optamos pela cor caramelo. Como para homem tudo é mais fácil, esse parágrafo já acabou aqui. =P
@@ -87,12 +88,15 @@ Uma das coisas mais legais do nosso casamento foi a kombi de chopp que colocamos
 
 ![](/img/2017/08/IMG_0293.jpg)
 
-### **Pista de dança **
+### ****Pista de dança ****
 
 Como a ideia era fazer um casamento mais rústico, não queríamos aquela famosa estrutura de pista de dança, com globos e fumaça. Nós queríamos um casamento cheio de luzes e uma pista bem iluminada. Por isso, optamos por essa gambiarra cheia de luzes e por essa pista de dança que pisca. O resultado foi mais legal do que eu imaginava!
+
+![](/img/2017/08/_JP34528.jpg)
 
 ### **First Dance**
 
 Quando decidimos que iríamos nos casar, logo pensamos na ideia de ensaiar uma coreografia para a nossa First Dance, aquela primeira dança que os noivos fazem após a cerimônia. Escolhemos a música Thinking Out Loud, do Ed. Sheeran. Foram alguns dias de ensaio, com coreógrafo e tudo mais. Mas o importante é que deu certo e tudo saiu como a gente imaginava. Você pode conferir mais sobre a nossa First Dance [aqui.](http://debacontudo.com.br/estilo-de-vida/first-dance-dicas-brasilia/)
 
 E não esquece de nos seguir no [Instagram](www.instagram.com/casaldebacontudo) e no [Facebook](https://www.facebook.com/debacontudo).
+
