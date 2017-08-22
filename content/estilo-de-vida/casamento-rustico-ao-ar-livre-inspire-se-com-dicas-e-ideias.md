@@ -70,6 +70,14 @@ Pesquisamos vários estilos de ternos e acabamos optando por um azul marinho, co
 
 Para as madrinhas, a regra era vestido marsala. Para os padrinhos, calça azul, blusa branca e suspensório azul. As madrinhas e padrinhos estavam usando o presente que demos quando convidamos-os para ser nossos padrinhos: uma pulseirinha marsala para as mulheres e uma gravata borboleta marsala para os homens. Ficou super lindo!
 
+![](/img/2017/08/JPC_0001-417.jpg)
+
+![](/img/2017/08/JPC_0001-420.jpg)
+
+![](/img/2017/08/JPC_0001-167.jpg)
+
+![](/img/2017/08/_JP33247.jpg)
+
 ### **Buffet**
 
 Para mim, comida em casamento não pode faltar! Nem demorar a passar! E isso foi um dos requisitos quando contratamos o nosso buffet. Teve coquetel volante, com diferentes tipos de salgados, caldos e o jantar. E todos duraram a noite inteira. Para quem quiser sugestão do que servir, optamos por paella mineira e de frutos do mar no jantar. Ah, ainda teve o mini festival de coxinha! Sim, porque a melhor coxinha de Pará de Minas não poderia faltar no nosso casamento.
@@ -83,12 +91,4 @@ Uma das coisas mais legais do nosso casamento foi a kombi de chopp que colocamos
 Quando decidimos que iríamos nos casar, logo pensamos na ideia de ensaiar uma coreografia para a nossa First Dance, aquela primeira dança que os noivos fazem após a cerimônia. Escolhemos a música Thinking Out Loud, do Ed. Sheeran. Foram alguns dias de ensaio, com coreógrafo e tudo mais. Mas o importante é que deu certo e tudo saiu como a gente imaginava. Você pode conferir mais sobre a nossa First Dance [aqui.](http://debacontudo.com.br/estilo-de-vida/first-dance-dicas-brasilia/)
 
 E não esquece de nos seguir no [Instagram](www.instagram.com/casaldebacontudo) e no [Facebook](https://www.facebook.com/debacontudo).
-
-![](/img/2017/08/_JP33247.jpg)
-
-![](/img/2017/08/JPC_0001-167.jpg)
-
-![](/img/2017/08/JPC_0001-420.jpg)
-
-![](/img/2017/08/JPC_0001-417.jpg)
 
