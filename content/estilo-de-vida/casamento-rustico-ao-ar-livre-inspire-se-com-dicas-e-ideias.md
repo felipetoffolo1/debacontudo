@@ -21,9 +21,11 @@ thumbnail: "/img/2017/08/melhor-croissant-brasilia-thumb.jpg"
 title: 'Casamento rústico e moderno: inspire-se com dicas e ideias'
 
 ---
+
+
 Esse post é para você que: está planejando o seu **casamento** e quer ideias e dicas; já casou, mas ainda continua lendo coisas sobre casamento porque simplesmente adora; ou simplesmente gosta da gente e veio conferir algumas fotos do nosso #CasamentoDeBaconTudo. (lá no Instagram você confere várias fotos desse dia pela #).
 
-Vamos lá. Já aviso: #alertatextao
+Vamos lá. Já aviso: **#alertatextao**
 
 Casar nunca foi um grande sonho meu. É claro que sempre pensei em ter alguém do meu lado, em construir uma **família**, mas a festa em si não era algo que eu tratava como um objetivo de vida. Mas, quando eu e Felipe decidimos fazer uma cerimônia e uma festa, confesso que acabamos nos empolgando com a ideia. Mas de cara a gente já tinha uma coisa em comum: fazer um casamento simples, bonito e para os familiares e amigos mais próximos. Sem exageros. Com uma decoração legal, boa música, boa comida e muita bebida, claro. E o nosso casamento acabou superando todas as nossas expectativas.
 
@@ -43,7 +45,7 @@ Não é porque é o meu casamento, mas essa mesa de bola é simplesmente uma das
 
 ### **Noiva**
 
-Antes de casar eu já sabia mais ou menos como eu queria estar vestida no dia: um vestido bonito, que valorizasse o corpo, e um coque com uma tiara de trança. Não sei bem o porquê, mas eu nunca quis usar aquelas tiaras de prata. O vestido foi inspirado em um que eu vi na internet e um pouco adaptado ao meu gosto. Eu não queria mangas, pois queria me sentir à vontade para dançar e sabia que eu ficaria com muito calor. Olha que estava fazendo muito frio no dia, todos estavam super agasalhados, e eu fiquei praticamente a festa inteira sem nenhum casaquinho, já que eu acho que a gente fica tão elétrica que o corpo nem lembra de sentir frio. Só coloquei porque minha mãe me obrigou. Sabe como é, né. Então, acho que o vestido sem mangas foi uma decisão super acertada. O cabelo ficou maravilhoso. O Bebeto acertou em cheio nos mínimos detalhes. E a maquiagem, feita pelo Wagner, também ficou linda. A sandália eu comprei na Mariana Machado.
+Antes de casar eu já sabia mais ou menos como eu queria estar vestida no dia: um vestido bonito, que valorizasse o corpo, e um coque com uma tiara de trança. Não sei bem o porquê, mas eu nunca quis usar aquelas tiaras de prata. O **vestido** foi inspirado em um que eu vi na internet e um pouco adaptado ao meu gosto. Eu não queria mangas, pois queria me sentir à vontade para dançar e sabia que eu ficaria com muito calor. Olha que estava fazendo muito frio no dia, todos estavam super agasalhados, e eu fiquei praticamente a festa inteira sem nenhum casaquinho, já que eu acho que a gente fica tão elétrica que o corpo nem lembra de sentir frio. Só coloquei porque minha mãe me obrigou. Sabe como é, né. Então, acho que o vestido sem mangas foi uma decisão super acertada. O cabelo ficou maravilhoso. O Bebeto acertou em cheio nos mínimos detalhes. E a maquiagem, feita pelo Wagner, também ficou linda. A sandália eu comprei na Mariana Machado.
 
 ![](/img/2017/08/_JP32803.jpg)
 
@@ -57,7 +59,7 @@ Antes de casar eu já sabia mais ou menos como eu queria estar vestida no dia: u
 
 ### **Noivo**
 
-Pesquisamos vários estilos de ternos e acabamos optando por um azul marinho, com colete cinza e gravata marsala. Para o sapato e o cinto, optamos pela cor caramelo. Como para homem tudo é mais fácil, esse parágrafo já acabou aqui. =P
+Pesquisamos vários estilos de ternos e acabamos optando por um azul marinho, com colete cinza e **gravata marsala**. Para o sapato e o cinto, optamos pela cor caramelo. Como para homem tudo é mais fácil, esse parágrafo já acabou aqui. =P
 
 ![](/img/2017/08/IMG_2774.jpg)
 
@@ -65,7 +67,7 @@ Pesquisamos vários estilos de ternos e acabamos optando por um azul marinho, co
 
 ### **Madrinhas e padrinhos**
 
-Para as madrinhas, a regra era vestido marsala. Para os padrinhos, calça azul, blusa branca e suspensório azul. As madrinhas e padrinhos estavam usando o presente que demos quando convidamos-os para ser nossos padrinhos: uma pulseirinha marsala para as mulheres e uma gravata borboleta marsala para os homens. Ficou super lindo!
+Para as madrinhas, a regra era** vestido marsala.** Para os padrinhos, calça azul, blusa branca e **suspensório azul**. As madrinhas e padrinhos estavam usando o presente que demos quando convidamos-os para ser nossos padrinhos: uma pulseirinha marsala para as mulheres e uma gravata borboleta marsala para os homens. Ficou super lindo!
 
 ![](/img/2017/08/JPC_0001-417.jpg)
 
@@ -95,11 +97,10 @@ Como a ideia era fazer um casamento mais rústico, não queríamos aquela famosa
 
 ![](/img/2017/08/JPC_0001-28.jpg)
 
-
-
 É isso! Espero que tenham gostado das ideias!
 <span style="font-size: 1rem;">Se tiver alguma dúvida, basta perguntar aqui ou nas nossas redes sociais.</span>
 
 E não esquece de nos seguir no [Instagram](https://www.instagram.com/casaldebacontudo/) e no [Facebook](https://www.facebook.com/debacontudo).
 
 ![](/img/2017/08/_JP34528.jpg)
+
