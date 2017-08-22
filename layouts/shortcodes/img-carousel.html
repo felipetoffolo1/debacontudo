@@ -4,7 +4,7 @@
         {{ $meta := first 2 .Params }}
         <!-- everything after 1st two params is an image -->
         {{ $images := after 2 .Params }} {{ $number := 0 }}
-        <amp-carousel id="selected-slide" class="owl-carousel owl-theme slider-thumbnail" height="{{index $meta 1}}" [[slide]="selectedSlide"
+        <amp-carousel id="selected-slide" class="owl-carousel owl-theme slider-thumbnail" height="{{index $meta 1}}"
             on="slideChange:AMP.setState({selectedSlide: event.index}" width="{{index $meta 0}}" layout="responsive" type="slides">
             {{range $images}}
             <amp-img src="{{.}}" width="{{index $meta 0}}" height="{{index $meta 1}}" layout="responsive" alt="a sample image"></amp-img>

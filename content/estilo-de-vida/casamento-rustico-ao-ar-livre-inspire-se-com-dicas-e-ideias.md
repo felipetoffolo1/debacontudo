@@ -18,7 +18,7 @@ tags:
 - casamento
 - dicas
 - casamento-rústico
-thumbnail: "/img/2017/08/_JP33421.jpg"
+thumbnail: "/img/2017/08/JP33421.jpg"
 title: 'Casamento rústico e moderno: inspire-se com dicas e ideias'
 
 ---
@@ -46,13 +46,13 @@ Foram meses de pesquisa por **decoração** e tipos de festa. A primeira coisa q
 
 Como já falei ali em cima, queríamos algo mais **rústico, simples e bonito**. Mostramos várias referências para a [**Gra Ferreia**](https://www.facebook.com/graferreiradecoracao/), nossa decoradora, e o resultado mais do que nos surpreendeu. Confesso que assim que cheguei ao local e vi a mesa de bolo, comecei a chorar na hora. **Estava tudo lindo demais**!
 
-{{<img-carousel "1280" "855""/img/2017/08/_JP33515.jpg" "/img/2017/08/IMG_0253.jpg" "/img/2017/08/IMG_2900.jpg" "/img/2017/08/IMG_2906.jpg" "/img/2017/08/_JP33148.jpg" "/img/2017/08/IMG_2885.jpg" "/img/2017/08/IMG_2890.jpg" "/img/2017/08/IMG_2922.jpg" "/img/2017/08/IMG_2895.jpg" "/img/2017/08/IMG_2940.jpg" "/img/2017/08/IMG_0263.jpg" "/img/2017/08/IMG_0255.jpg" "/img/2017/08/IMG_0272.jpg" "/img/2017/08/IMG_2934.jpg" "/img/2017/08/JPC_0001-555.jpg" >}}
+{{<img-carousel "1280" "855""/img/2017/08/JP33515.jpg" "/img/2017/08/IMG_0253.jpg" "/img/2017/08/IMG_2900.jpg" "/img/2017/08/IMG_2906.jpg" "/img/2017/08/JP33148.jpg" "/img/2017/08/IMG_2885.jpg" "/img/2017/08/IMG_2890.jpg" "/img/2017/08/IMG_2922.jpg" "/img/2017/08/IMG_2895.jpg" "/img/2017/08/IMG_2940.jpg" "/img/2017/08/IMG_0263.jpg" "/img/2017/08/IMG_0255.jpg" "/img/2017/08/IMG_0272.jpg" "/img/2017/08/IMG_2934.jpg" "/img/2017/08/JPC_0001-555.jpg" >}}
 
 ### **Mesa do bolo (e doces)**
 
 Não é porque é o meu casamento, mas essa mesa é simplesmente uma das **mais lindas que eu já vi**. Eu queria muito que o bolo principal fosse **naked cake**. Mas como era ao ar livre, ficamos com medo de não aguentar. Daí surgiu a ideia do cerimonial de fazer mini bolos naked cake e espalhar por toda a mesa. E ficou maravilhoso! Os bolos e os docinhos foram feitos pela **Colorê**, fábrica de doces e salgados da familia do Felipe.
 
-{{<img-carousel "1280" "855""/img/2017/08/_JP33163.jpg" "/img/2017/08/IMG_2953.jpg" "/img/2017/08/_JP33182.jpg" "/img/2017/08/IMG_2956.jpg" "/img/2017/08/IMG_2945.jpg" "/img/2017/08/IMG_2943.jpg" "/img/2017/08/IMG_2957.jpg" "/img/2017/08/_JP33171.jpg" "/img/2017/08/_JP33184.jpg" "/img/2017/08/IMG_2974.jpg" >}}
+{{<img-carousel "1280" "855""/img/2017/08/JP33163.jpg" "/img/2017/08/IMG_2953.jpg" "/img/2017/08/JP33182.jpg" "/img/2017/08/IMG_2956.jpg" "/img/2017/08/IMG_2945.jpg" "/img/2017/08/IMG_2943.jpg" "/img/2017/08/IMG_2957.jpg" "/img/2017/08/JP33171.jpg" "/img/2017/08/JP33184.jpg" "/img/2017/08/IMG_2974.jpg" >}}
 
 {{<facebook-like>}}
 
@@ -60,15 +60,15 @@ Não é porque é o meu casamento, mas essa mesa é simplesmente uma das **mais 
 
 Antes de casar eu já sabia mais ou menos como eu queria estar vestida no dia: um vestido bonito, que valorizasse o corpo, e um coque com uma tiara de trança. Não sei bem o porquê, mas eu nunca quis usar aquelas tiaras de prata. O **vestido** foi inspirado em um que eu vi na internet e um pouco adaptado (pelo Carllos, nosso consultor, que também entende muito de vestidos e costura) . Eu não queria mangas, pois queria me sentir à vontade para dançar e sabia que eu ficaria com muito calor. Olha que estava fazendo muito frio no dia, todos estavam super agasalhados, e eu fiquei praticamente a festa inteira sem nenhum casaquinho, já que eu acho que a gente fica tão elétrica que o corpo nem lembra de sentir frio. Só coloquei porque **minha mãe me obrigou**. Sabe como é, né. Então, acho que o vestido sem mangas foi uma decisão super acertada. O cabelo ficou maravilhoso. O **Bebeto** acertou em cheio nos mínimos detalhes. E a maquiagem, feita pelo **Wagner**, também ficou linda. A sandália eu comprei na **Mariana Machado**.
 
-{{<img-full src="/img/2017/08/_JP32803.jpg"  height="855" width="1280" title="">}}
+{{<img-full src="/img/2017/08/JP32803.jpg"  height="855" width="1280" title="">}}
 
-{{<img-full src="/img/2017/08/_JP33045.jpg"  height="855" width="1280" title="">}}
+{{<img-full src="/img/2017/08/JP33045.jpg"  height="855" width="1280" title="">}}
 
-{{<img-full src="/img/2017/08/_JP33108.jpg"  height="855" width="1280" title="">}}
+{{<img-full src="/img/2017/08/JP33108.jpg"  height="855" width="1280" title="">}}
 
-{{<img-full src="/img/2017/08/_JP32848.jpg"  height="855" width="1280" title="">}}
+{{<img-full src="/img/2017/08/JP32848.jpg"  height="855" width="1280" title="">}}
 
-{{<img-full src="/img/2017/08/_JP32876.jpg"  height="855" width="1280" title="">}}
+{{<img-full src="/img/2017/08/JP32876.jpg"  height="855" width="1280" title="">}}
 
 ### **Noivo**
 
@@ -88,7 +88,7 @@ Para as madrinhas, a regra era **vestido marsala**. Para os padrinhos, calça az
 
 {{<img-full src="/img/2017/08/JPC_0001-167.jpg"  height="855" width="1280" title="">}}
 
-{{<img-full src="/img/2017/08/_JP33247.jpg"  height="855" width="1280" title="">}}
+{{<img-full src="/img/2017/08/JP33247.jpg"  height="855" width="1280" title="">}}
 
 {{<subscribe>}}
 
@@ -136,5 +136,5 @@ Se tiver alguma dúvida, basta perguntar aqui ou nas nossas redes sociais.
 
 E não esquece de nos seguir no [Instagram](https://www.instagram.com/casaldebacontudo/) e no [Facebook](https://www.facebook.com/debacontudo).
 
-{{<img-full src="/img/2017/08/_JP34528.jpg"  height="855" width="1280" title="">}}
+{{<img-full src="/img/2017/08/JP34528.jpg"  height="855" width="1280" title="">}}
 
