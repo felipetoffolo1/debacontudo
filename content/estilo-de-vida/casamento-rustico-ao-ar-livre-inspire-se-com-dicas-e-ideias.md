@@ -1,6 +1,6 @@
 ---
 author: []
-banner: "/img/2017/08/JPC_0001-204-1.jpg"
+banner: "/img/2017/08/WhatsApp Image 2017-06-18 at 15.02.59.jpeg"
 categories: []
 date: 2017-08-21 00:00:00 -0300
 description: 'Confira dicas para fazer um casamento rústico, chic e moderno ao ar
@@ -20,8 +20,6 @@ thumbnail: "/img/2017/08/melhor-croissant-brasilia-thumb.jpg"
 title: 'Casamento rústico e moderno: inspire-se com dicas e ideias'
 
 ---
-
-
 Esse post é para você que: está planejando o seu **casamento** e quer ideias e dicas; já casou, mas ainda continua lendo coisas sobre casamento porque simplesmente adora; ou simplesmente gosta da gente e veio conferir algumas fotos do nosso #CasamentoDeBaconTudo. (lá no Instagram você confere várias fotos desse dia pela #).
 
 Vamos lá. Já aviso: #alertatextao
@@ -34,46 +32,38 @@ Foram meses de pesquisa por **decoração** e tipos de festa. A primeira coisa q
 
 Como já falei ali em cima, queríamos algo mais **rústico, simples e bonito**. Mostramos várias referências para a Gra, nossa decoradora, e o resultado mais do que nos surpreendeu. Confesso que assim que cheguei ao local e vi a mesa de bolo, comecei a chorar na hora. Estava tudo lindo demais!
 
-{{<img-carousel "1280" "855" "/img/2017/08/_JP33515.jpg" "/img/2017/08/_JP33163.jpg" >}}
-![](/img/2017/08/_JP33515.jpg)![](/img/2017/08/_JP33515.jpg)
+{{<img-carousel "1280" "855""/img/2017/08/_JP33515.jpg" "/img/2017/08/IMG_0253.jpg" "/img/2017/08/IMG_2900.jpg" "/img/2017/08/IMG_2906.jpg" "/img/2017/08/_JP33148.jpg" "/img/2017/08/IMG_2885.jpg" "/img/2017/08/IMG_2890.jpg" "/img/2017/08/IMG_2922.jpg" "/img/2017/08/IMG_2895.jpg" "/img/2017/08/IMG_2940.jpg" "/img/2017/08/IMG_0263.jpg" "/img/2017/08/IMG_0255.jpg" "/img/2017/08/IMG_0272.jpg" "/img/2017/08/IMG_2934.jpg" >}}
 
 ### **Mesa do bolo (e doces)**
 
-Não é porque é o meu casamento, mas essa mesa de bola é simplesmente uma das mais lindas que eu já vi. Eu queria muito que o bolo principal fosse **naked cake**. Mas como era ao ar livre, ficamos com medo de não aguentar. Daí surgiu a ideia de fazer mini bolos naked cake e espalhar por toda a mesa. E ficou maravilhoso! Os bolos e os docinhos foram feitos pela **Colorê**, fábrica de doces da minha sogra, Izaura.
+Não é porque é o meu casamento, mas essa mesa de bola é simplesmente uma das mais lindas que eu já vi. Eu queria muito que o bolo principal fosse naked cake. Mas como era ao ar livre, ficamos com medo de não aguentar. Daí surgiu a ideia de fazer mini bolos naked cake e espalhar por toda a mesa. E ficou maravilhoso! Os bolos e os docinhos foram feitos pela Colorê, fábrica de doces da minha sogra, Izaura.
 
-![](/img/2017/08/_JP33163.jpg)
+{{<img-carousel "1280" "855""/img/2017/08/_JP33163.jpg" "/img/2017/08/IMG_2953.jpg" "/img/2017/08/_JP33182.jpg" "/img/2017/08/IMG_2956.jpg" "img/2017/08/IMG_2945.jpg" "img/2017/08/IMG_2943.jpg" "/img/2017/08/IMG_2957.jpg" "img/2017/08/_JP33171.jpg" "/img/2017/08/_JP33184.jpg" "/img/2017/08/IMG_2974.jpg" >}}
 
 ### **Noiva**
 
-Antes de casar eu já sabia mais ou menos como eu queria estar vestida no dia: um vestido bonito, que valorizasse o corpo, e um coque com uma tiara de trança. Não sei bem o porquê, mas eu nunca quis usar aquelas tiaras de prata. O vestido foi inspirado em um que eu vi na internet e um pouco adaptado ao meu gosto. Eu não queria mangas, pois queria me sentir à vontade para dançar e sabia que eu ficaria com muito calor. Olha que estava fazendo muito frio no dia, todos estavam super agasalhados, e eu fiquei praticamente a festa inteira sem nenhum casaquinho, já que eu acho que a gente fica tão elétrica que o corpo nem lembra de sentir frio. Só coloquei porque minha mãe me obrigou. Sabe como é, né. Então, acho que o vestido sem mangas foi uma decisão super acertada. O cabelo ficou maravilhoso. O Bebeto acertou em cheio nos mínimos detalhes. E a maquiagem, feita pelo Wagner, também ficou linda. Os brincos foram emprestados da minha prima, Isabelle. E a sandália eu comprei na Mariana Machado.
+Antes de casar eu já sabia mais ou menos como eu queria estar vestida no dia: um vestido bonito, que valorizasse o corpo, e um coque com uma tiara de trança. Não sei bem o porquê, mas eu nunca quis usar aquelas tiaras de prata. O vestido foi inspirado em um que eu vi na internet e um pouco adaptado ao meu gosto. Eu não queria mangas, pois queria me sentir à vontade para dançar e sabia que eu ficaria com muito calor. Olha que estava fazendo muito frio no dia, todos estavam super agasalhados, e eu fiquei praticamente a festa inteira sem nenhum casaquinho, já que eu acho que a gente fica tão elétrica que o corpo nem lembra de sentir frio. Só coloquei porque minha mãe me obrigou. Sabe como é, né. Então, acho que o vestido sem mangas foi uma decisão super acertada. O cabelo ficou maravilhoso. O Bebeto acertou em cheio nos mínimos detalhes. E a maquiagem, feita pelo Wagner, também ficou linda. A sandália eu comprei na Mariana Machado.
 
-{{< img-full src="/img/2017/08/_JP33045.jpg" alt="Larissa se arrumando"  height="628" width="1200" title="" >}}
-
-{{< img-full src="/img/2017/08/_JP32803.jpg" alt="Vestido Larissa"  height="628" width="1200" title="" >}}
-
-{{< img-full src="/img/2017/08/_JP33051.jpg" alt="Madrinhas vestido"  height="628" width="1200" title="" >}}
-
-{{< img-full src="/img/2017/08/_JP32853.jpg" alt="Larissa sandália"  height="628" width="1200" title="" >}}
-
-{{< img-full src="/img/2017/08/_JP33020.jpg" alt="Larissa espelho"  height="628" width="1200" title="" >}}
-
-{{< img-full src="/img/2017/08/_JP33108.jpg" alt="Larissa perfil"  height="628" width="1200" title="" >}}
-
-Ps. Se alguém tiver interesse, estou vendendo o vestido e a sandália. Visto e calço 38. ;)
-
-Clique aqui para saber mais!
 
 ### **Noivo**
 
 Pesquisamos vários estilos de ternos e acabamos optando por um azul marinho, com colete cinza e gravata marsala. Para o sapato e o cinto, optamos pela cor caramelo. Como para homem tudo é mais fácil, esse parágrafo já acabou aqui. =P
 
+![](/img/2017/08/IMG_2774.jpg)
+
+![](/img/2017/08/IMG_0350.jpg)
+
 ### **Madrinhas e padrinhos**
 
 Para as madrinhas, a regra era vestido marsala. Para os padrinhos, calça azul, blusa branca e suspensório azul. As madrinhas e padrinhos estavam usando o presente que demos quando convidamos-os para ser nossos padrinhos: uma pulseirinha marsala para as mulheres e uma gravata borboleta marsala para os homens. Ficou super lindo!
 
+![](/img/2017/08/JPC_0001-417.jpg)
+
 ![](/img/2017/08/JPC_0001-420.jpg)
 
-![](/img/2017/08/JPC_0001-417.jpg)
+![](/img/2017/08/JPC_0001-167.jpg)
+
+![](/img/2017/08/_JP33247.jpg)
 
 ### **Buffet**
 
@@ -83,11 +73,12 @@ Para mim, comida em casamento não pode faltar! Nem demorar a passar! E isso foi
 
 Uma das coisas mais legais do nosso casamento foi a kombi de chopp que colocamos ao lado da pista de dança. Isso facilitou muito para quem gosta de beber, já que não precisava esperar o garçom passar com a bebida. Fora que super colaborou com a decoração, deixando o espaço mais descolado. Além de chopp, ainda servimos caipi e whisky.
 
+![](/img/2017/08/IMG_2961.jpg)
+
+![](/img/2017/08/IMG_0293.jpg)
+
 ### **First Dance**
 
 Quando decidimos que iríamos nos casar, logo pensamos na ideia de ensaiar uma coreografia para a nossa First Dance, aquela primeira dança que os noivos fazem após a cerimônia. Escolhemos a música Thinking Out Loud, do Ed. Sheeran. Foram alguns dias de ensaio, com coreógrafo e tudo mais. Mas o importante é que deu certo e tudo saiu como a gente imaginava. Você pode conferir mais sobre a nossa First Dance [aqui.](http://debacontudo.com.br/estilo-de-vida/first-dance-dicas-brasilia/)
 
 E não esquece de nos seguir no [Instagram](www.instagram.com/casaldebacontudo) e no [Facebook](https://www.facebook.com/debacontudo).
-
-Bjs.
-
