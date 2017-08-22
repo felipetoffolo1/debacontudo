@@ -54,8 +54,6 @@ Antes de casar eu já sabia mais ou menos como eu queria estar vestida no dia: u
 
 {{< img-full src="/img/2017/08/_JP32853.jpg" alt="Larissa sandália"  height="628" width="1200" title="" >}}
 
-{{< img-full src="/img/2017/08/_JP33020.jpg" alt="Larissa espelho"  height="628" width="1200" title="" >}}
-
 {{< img-full src="/img/2017/08/_JP33108.jpg" alt="Larissa perfil"  height="628" width="1200" title="" >}}
 
 ### **Noivo**
@@ -91,4 +89,3 @@ Uma das coisas mais legais do nosso casamento foi a kombi de chopp que colocamos
 Quando decidimos que iríamos nos casar, logo pensamos na ideia de ensaiar uma coreografia para a nossa First Dance, aquela primeira dança que os noivos fazem após a cerimônia. Escolhemos a música Thinking Out Loud, do Ed. Sheeran. Foram alguns dias de ensaio, com coreógrafo e tudo mais. Mas o importante é que deu certo e tudo saiu como a gente imaginava. Você pode conferir mais sobre a nossa First Dance [aqui.](http://debacontudo.com.br/estilo-de-vida/first-dance-dicas-brasilia/)
 
 E não esquece de nos seguir no [Instagram](www.instagram.com/casaldebacontudo) e no [Facebook](https://www.facebook.com/debacontudo).
-
