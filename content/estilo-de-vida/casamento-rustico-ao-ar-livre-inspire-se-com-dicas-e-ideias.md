@@ -92,6 +92,10 @@ Uma das coisas mais legais do nosso casamento foi a kombi de chopp que colocamos
 
 Como a ideia era fazer um casamento mais rústico, não queríamos aquela famosa estrutura de pista de dança, com globos e fumaça. Nós queríamos um casamento cheio de luzes e uma pista bem iluminada. Por isso, optamos por essa gambiarra cheia de luzes e por essa pista de dança que pisca. O resultado foi mais legal do que eu imaginava!  E para a nossa First Dance, escolhemos a música Thinking Out Loud, do Ed. Sheeran. Quer saber o resultado? Clica [aqui](http://debacontudo.com.br/estilo-de-vida/first-dance-dicas-brasilia/)!
 
+![](/img/2017/08/JPC_0001-28.jpg)
+
+![](/img/2017/08/JPC_0001-10.jpg)
+
 É isso! Espero que tenham gostado das ideias!
 <span style="font-size: 1rem;">Se tiver alguma dúvida, basta perguntar aqui ou nas nossas redes sociais.</span>
 
@@ -100,3 +104,4 @@ E não esquece de nos seguir no [Instagram](https://www.instagram.com/casaldebac
 ![](/img/2017/08/_JP34528.jpg)
 
 ###
+
