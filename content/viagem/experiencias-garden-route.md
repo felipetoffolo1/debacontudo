@@ -22,76 +22,25 @@ title: 'x experiências na garden route'
 totop: true
 ---
 
-Joanesburgo é uma cidade diferente das outras que conhecemos na África do Sul. Ao contrário da maior parte das cidades que visitamos, essa metrópole não é conhecida por suas belezas naturais. Isso não quer dizer que não tem muito o que fazer em Joburg (como é chamada pelos locais), mas que a cidade apresenta uma grande oportunidade de aprender sobre a cultura e a história da África do Sul, além de oferecer muita comida boa.
+# Atravessar as pontes suspensas do Storm River
+O Storm River é uma região do parque Tsitsitikama e uma das mais lindas. Lá acontece a junção do rio Storm River com o mar. Num junção de mar, rios, canions, floresta é muita coisa bonita m um só lugar.
+Não bastasse a beleza natural ainda fizeram umas pontes suspensas que tornama paisagem toda ainda mais impressionante.
+Precisa de mais motivos ainda? Que tal então uma refeição deliciosa em um restaurante em cima das pedra coladinho no mar?
+# Caminhar com Elefantes no Santuário
+Elefantes são quase uma unanimidade, todo mundo gosta do bichão. E ai na África do Sul é lógico que vamos querer ver váaaarios né. Ver eles em Safaris com certeza é único. Mas quer saber o que é tão único quanto? ANdar de mãos dadas com os elefantes em um santuário que cuida deles. É tão legal que fizemos um post só sobre isso, confere aqui.
+# Pular de Bungee Jump no Face Adrenalin
+Se caminhar pelas pontes e andar de mão dadas com elefantes ainda não elevou sua emoção, agora é a hora. Na Garden Route também fica o maior bungee jump de ponte de TODO mundo. É sério, é lindo e é emocionante. Também contamos essa aventura em detalhes aqui.
+# Fazer um cruzeiro no lago de Knysna (com ostras)
+Knysna [e uma cidade com uma pegada meio californiana assim. A cidade é capital mundial da ostra, o que para quem gosta já é o suficiente para ir até lá. Mas além disso lá fica o XXXXX um lago enorme que se espalha por toda a cidade e se conecta ao mar numa passagem conhecida como Knysna Heads. 
+O principal programa do lago (pra quem não quer se jogar na água) é fazer um cruzeiro e assistir o por do sol MAGNIFICO de lá enquanto aprecia ostras fresquinhas da cidade junto a um vinho da região. Nós fomos com essa empresa e super indicamos,além de super atencioso o dono deu uma aula de Knysna para a gente.
+# Explorar as Cangoo Caves
+As Cangoo Caves é um passeio não tão conhecido da África do Sul e da Garden Route. Talvez por ser em Othshron uma cidade que se distância um pouco da região litoranea. Mas é uma volta que vale a pena dar e o primeiro motivo é exatamente as Cangoo Canves, conjunto de caverna bla bla bla. O passeio é super organizado e seguro. Lá dentro é lindo e de brinde a guia faz um monte de piadinhas ao bom e velho estilo tiozão.
+# Visitar uma fazenda de avestruzes
+Esse é o segundo motivo para ir até Outshorn, os avestruzes. A cidade é a capital do avestruz na África do Sul. Lá você pode visitar várias fazendas para conhecer melhor como é a criação dessa galinha gigante. E acredite, o passeio é bem mais legal que parece,com direito a alimentar os avestruzes e, dependendo do seu peso, montar em um.
+# Ver as baleias em Hermanus
 
-# Conhecer a casa do Mandela
+A África do Sul tem seu litoral na rota de várias especies de baleias, especialmente no inverno de xxx até xxxx.
 
-Um dos passeios que vale a pena fazer em Joanesburgo é conhecer a casa onde morou o **líder sul-africano** Nelson Mandela. Ali ele passou boa parte da sua vida. Há diversos itens pessoais, como cartas que ele escreveu durante o tempo em que ficou preso, **sapatos**, **fotos**, **placas**, entre outros. Na casa também está a árvore onde ele enterrou o **cordão umbilical de seus filhos** e onde até hoje filhos e netos também enterram os cordões de seus respectivos filhos. 
-
-{{< img-full src="/img/2017/07/mandela-house.jpg" alt="Mandela House"  height="800" width="1280" title="" >}}
-
-Outra coisa impressionante são os **buracos de tiro** na parede e uma tampa de lixo usada como escudo. A casa te faz viajar pela vida de Mandela e revela o que ele representou para a África do Sul. No dia em que fomos visitar, fomos surpreendidos por uma **excursão de alunos** que também estavam visitando a casa. Muito contentes, eles começaram a nos cumprimentar com um aperto de mão e vários sorrisos. Foi muito **fofo**!
-
-{{< img-full src="/img/2017/07/african-kids.jpg" alt="African Kids"  height="800" width="1280" title="" >}}
-
-{{<facebook-like>}}
-
-# Visitar o museu do Apartheid
-
-Se você está indo para a África do Sul, saiba que você vai ouvir falar muito do **Apartheid**, o regime de segregação racial que durou **46 anos** e que negava aos **não brancos** da África do Sul direitos sociais, econômicos e políticos.  E se você quiser compreender melhor o que foi essa política racial, você precisa visitar o museu do Apartheid.
-
-{{< img-full src="/img/2017/07/people-apartheid-museum.jpg" alt="Museu do Apartheid "  height="800" width="800" title="" >}}
-
-É uma aula de história riquíssima que nos mostra o que esse **regime** representou para o país. É muito triste imaginar que até tão pouco tempo isso era uma realidade. Além disso, o museu mostra como foi a batalha do povo africano, liderada por **Mandela**, contra esse regime. 
-
-{{< img-full src="/img/2017/07/museum-apartheid-color.jpg" alt="Museu do Apartheid "  height="800" width="1280" title="" >}}
-
-# 
-
-# Dar um rolê na Mandela Square e no Sandton City
-
-A **Mandela Square** nada mais é que uma praça com uma **estátua gigante do Nelson Mandela**, rodeada de bons restaurantes. Você com certeza vai querer uma foto lá e vai ter que lutar muito para ninguém aparecer na sua foto fazendo uma **selfie**. Ela fica no Sandton City, um complexo enorme com várias lojas locais e de grifes. 
-
-{{< img-full src="/img/2017/07/mandela-square.jpg" alt="Mandela Square"  height="800" width="1280" title="Consegui um ângulo sem ninguém no fundo! \o/" >}}
-
-Se você estiver pensando em fazer umas **comprinhas**, o local é ideal para isso. Se não, você deve ir apenas para tirar a foto com a estátua e, claro, comer muito bem em um dos diversos restaurantes do complexo.
-
-{{<subscribe>}}
-
-# Passear pelo bairro de Maboneng
-
-Se você curte caminhar nas ruas, observar as lojinhas locais e comer em **bons restaurantes**, você precisa passear pelo bairro de **Maboneng**. O bairro tem uma vibe super moderna e **cool**, cheio de lugares com um ar de **hipster** e lojas alternativas.
-
-{{< img-full src="/img/2017/07/manboneng-larissa.jpg" alt="Maboneng Joanesburgo"  height="800" width="1280" title="" >}}
-
-Nós ficamos hospedados nesse bairro e achamos que super **valeu a pena.** Para quem curte uma balada, vai encontrar um bairro bem agitado, com vários **barzinhos** e **boates** por ali. Algumas sugestões de restaurantes são o **Living Room** e o **Eat Your Heart Out**.
-
-{{< img-full src="/img/2017/07/living-room.jpg" alt="Living Room Joanesburgo"  height="800" width="1280" title="Vista do Living Room" >}}
-
-# Ficar cara a cara com leões no Lion Park
-
-Para quem gosta de leões, o **Lion Park** é um passeio obrigatório. Você tem a oportunidade de fazer um “**safari**” e ver vários leões de pertinho e com uma facilidade que você não encontra em um safari de verdade. 
-
-{{< img-full src="/img/2017/07/lion-park.jpg" alt="Lion Park 1"  height="800" width="1280" title="" >}}
-
-Diferentemente do safari que fizemos em uma reserva privada (leia como foi [aqui](http://debacontudo.com.br/viagem/dicas-melhor-safari-africa-do-sul/)), o carrinho do Lion Park é completamente fechado. Só há espaço para você encaixar a câmera e tirar umas fotinhas. Mas mesmo assim vale muito a pena! Agora o mais legal é tirar fotos com os **filhotinhos de leões** e poder passar a mão neles. São bem **fofinhos** (apesar de que um me mordeu). Também há opções de tirar foto com a chita e alimentar a girafa.
-
-{{< img-full src="/img/2017/07/lion-cub.jpg" alt="Lion Park"  height="800" width="1280" title="" >}}
-
-# Gold Reef City
-
-O Gold Reef City é um complexo que conta com um **cassino, hotel, restaurantes e um parque de diversão**. Caso você tenha um dia livre, vale a pena incluí-lo na sua programação. Como a gente estava com o tempo um pouco apertado, não conseguimos ir ao **parque** e apenas passamos rapidamente pelo local, que por sinal é muito lindo e acabou rendendo **boas fotos**.
-
-{{< img-full src="/img/2017/07/gold-reef-city.jpg" alt="Gold Reef City"  height="800" width="1280" title="" >}} 
-
-# Comer deliciosas tapas no Urbanologi
-
-Um dos restaurantes em **Joanesburgo** que não pode ficar de fora da sua lista é o Urbanologi. Sério! A casa é linda. Ela fica dentro da cervejaria Mad Giant. 
-
-{{< img-full src="/img/2017/07/urbanologi.jpg" alt="Urbanologi"  height="800" width="1280" title="" >}}
-
-Cheia de barris de chopps enormes e com um estilo super legal. Para comer, você pode escolher entre diferentes tapas. A que a gente mais gostou foi um tempurá de shimeji que estava simplesmente sensacional. Os chopps que eles mesmo fazem também são  **deliciosos**. Não deixe de incluir na sua programação! ;)
-
-{{< img-full src="/img/2017/07/tempura-shimeji.jpg" alt="Tempurá de Shimeji"  height="800" width="1280" title="" >}}
+# Mergulhar com tubarões brancos em Gaansbai
 
 Para ficar sempre por dentro, siga a gente no [Instagram](https://www.instagram.com/casaldebacontudo/) e no [Facebook](https://www.facebook.com/debacontudo) e veja tudo que a gente apronta!
