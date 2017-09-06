@@ -17,7 +17,7 @@ tags:
   - dicas
   - listas
   - Africa do Sul
-thumbnail: /img/2017/07/melhores-garden-route-thumb.jpg
+thumbnail: /img/2017/08/melhores-garden-route-thumb.jpg
 title: '8 experiências incríveis para vivenciar na Garden Route'
 totop: true
 ---
