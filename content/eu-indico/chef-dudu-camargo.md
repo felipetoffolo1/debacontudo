@@ -6,6 +6,7 @@ banner: "/img/2017/09/dudu-camargo-banner.jpg"
 categories:
 - comida
 - estilo-de-vida
+- DeBemCom-Brasilia
 date: 2017-09-05T12:30:44-03:00
 description: "No DeBemCom Brasilia você descobre as coisas mais legais para comer e fazer em Brasília, indicado por quem saca tudo da capital. Na primeira edição Chef Dudu Camargo"
 draft: true
@@ -18,6 +19,7 @@ structured:
 tags:
 - Restaurantes
 - Brasília
+- DeBemCom-Brasilia
 thumbnail:  "/img/2017/09/dudu-camargo-thumb.jpg"
 title: "DeBemCom Brasília: Dudu Camargo"
 totop: true
@@ -37,37 +39,37 @@ Dudu, como você já deve saber, dá nome e comanda a gastronomia dos restaurant
 
 {{<quote-him "Me identifiquei, mas que eu queria ser chef sem querer também - Felipe">}}
 
-##As indicações
+## As indicações
 
-###O que fazer para ficar De Bacon Tudo?
+### O que fazer para ficar De Bacon Tudo?
 
 Levar a vida Simples Assim. Tirar proveito de tudo, olhar o lado bom e não ruim, pois sempre tem um lado bom.
 
-###Onde ir para...
+### Onde ir para...
 
-#####Café da Manhã
+##### Café da Manhã
 
 O Daniel Briand, pela qualidade do que é servido, e o Jardim Botânico, em função do espaço, do clima de piquenique.
 
-##### Almoço
+#####  Almoço
 
 Indico a Quituart, o Bsb Gril e o Otro Parilla. Mas eu como pouco fora de casa, vou mais quando o restaurante abre. Quando eu posso, faço na minha casa, almoço com os meus amigos e com a minha família.
 
-##### Cafeteria
+#####  Cafeteria
 
 Não tenho costume de ir.
 
-##### Happy Hour
+#####  Happy Hour
 
 O Dudu Bar, em função da variedade de aperitivos, pratos, carta de drinques maravilhosa. Também temos uma grande carta de vinhos e é um local agradável, o pessoal gosta de ficar na varanda.
 
-##### Jantar Romântico
+#####  Jantar Romântico
 
 No pergolado da minha casa! Hahah
 
 
 
-###Programinhas em bsb
+### Programinhas em bsb
 
 ##### O que fazer em um sábado de manhã?
 
