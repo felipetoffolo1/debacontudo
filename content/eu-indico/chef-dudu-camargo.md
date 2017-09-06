@@ -49,11 +49,13 @@ Levar a vida Simples Assim. Tirar proveito de tudo, olhar o lado bom e não ruim
 
 ##### Café da Manhã
 
-O Daniel Briand, pela qualidade do que é servido, e o Jardim Botânico, em função do espaço, do clima de piquenique.
+O **Daniel Briand**, pela qualidade do que é servido, e o **Jardim Botânico**, em função do espaço, do clima de piquenique.
+
+**DicaDeBaconTudo:** A gente também ama o Daniel Briand, e está entre as nossas [dicas de brunch](http://debacontudo.com.br/comida/melhor-brunch-de-brasilia/)
 
 #####  Almoço
 
-Indico a Quituart, o Bsb Gril e o Otro Parilla. Mas eu como pouco fora de casa, vou mais quando o restaurante abre. Quando eu posso, faço na minha casa, almoço com os meus amigos e com a minha família.
+Indico a **Quituart**, o **Bsb Gril** e o **Otro Parilla**. Mas eu como pouco fora de casa, vou mais quando o restaurante abre. Quando eu posso, faço na minha casa, almoço com os meus amigos e com a minha família.
 
 #####  Cafeteria
 
@@ -61,13 +63,13 @@ Não tenho costume de ir.
 
 #####  Happy Hour
 
-O Dudu Bar, em função da variedade de aperitivos, pratos, carta de drinques maravilhosa. Também temos uma grande carta de vinhos e é um local agradável, o pessoal gosta de ficar na varanda.
+O **Dudu Bar**, em função da variedade de aperitivos, pratos, carta de drinques maravilhosa. Também temos uma grande carta de vinhos e é um local agradável, o pessoal gosta de ficar na varanda.
 
 #####  Jantar Romântico
 
 No pergolado da minha casa! Hahah
 
-
+{{<facebook-like>}}
 
 ### Programinhas em bsb
 
@@ -102,7 +104,7 @@ Fomos no do **Lago Sul**, já que ainda não conheciamos. A casa é **linda** e 
 
 {{< img-full src="/img/2017/09/dudu-bar-maya-bay.jpg"  height="800" width="1280" title="" >}}
 
-Depois de sermos bem recebidos, começamos a olhar os petiscos no cardápio (já que a ideia era H**appy Hour**). Começamos pelo **Maya Bay** (R$ 59,90): camarões refogados com cogumelos, molho oriental, pimenta dedo-de-moça e lascas de manga. Ou seja, tudo de bom! Camarão delicioso e a manga dá um frescor agridoce perfeito no prato.
+Depois de sermos bem recebidos, começamos a olhar os petiscos no cardápio (já que a ideia era **Happy Hour**). Começamos pelo **Maya Bay** (R$ 59,90): camarões refogados com cogumelos, molho oriental, pimenta dedo-de-moça e lascas de manga. Ou seja, tudo de bom! Camarão delicioso e a manga dá um frescor agridoce perfeito no prato.
 
 {{< img-full src="/img/2017/09/dudu-bar-pastel-pato.jpg"  height="800" width="1280" title="" >}}
 
@@ -114,6 +116,8 @@ Então, o que podemos dizer? A indicação do Dudu Camargo foi excelente e nos p
 Esperamos que vocês tenham gostado e que voltem para ler outras dicas legais.
 
 Para acompanhar,  inscreva-se aqui no site e siga a gente no Facebook e no Instagram.
+
+{{<subscribe>}}
 
 
 
