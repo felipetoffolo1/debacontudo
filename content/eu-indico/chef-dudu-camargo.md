@@ -6,9 +6,9 @@ banner: "/img/2017/09/dudu-camargo-banner.jpg"
 categories:
 - comida
 - estilo-de-vida
-- DeBemCom-Brasilia
+- De-Bem-Com-Brasilia
 date: 2017-09-05T12:30:44-03:00
-description: "No DeBemCom Brasilia você descobre as coisas mais legais para comer e fazer em Brasília, indicado por quem saca tudo da capital. Na primeira edição Chef Dudu Camargo"
+description: "No De Bem Com Bsb você descobre as coisas mais legais para comer e fazer em Brasília, indicado por quem saca tudo da capital. Na primeira edição Chef Dudu Camargo"
 draft: true
 featured: false
 images:
@@ -21,17 +21,17 @@ tags:
 - Brasília
 - DeBemCom-Brasilia
 thumbnail:  "/img/2017/09/dudu-camargo-thumb.jpg"
-title: "DeBemCom Brasília: Dudu Camargo"
+title: "De Bem Com Bsb: Dudu Camargo"
 totop: true
 ---
 
 A gastronomia tem crescido muito em Brasília. A capital já é considerada o terceiro polo gastronômico do Brasil. Além disso, a cidade ainda oferece diversos programas legais. A gente sempre quer saber qual o melhor restaurante para ir com a galera, uma sugestão diferente para um jantar a dois ou o melhor programa para um sábado de manhã.
 
-Sempre tentamos dar dicas interessantes, mas por que se limitar somente as nossas opiniões, né?! Sendo assim, reservamos um pedacinho do nosso blog para divulgar os lugares e programas favoritos de pessoas legais da nossa cidade.  Esperamos que você aproveite muito o De Bem Com Brasília.
+Sempre tentamos dar dicas interessantes, mas por que se limitar somente as nossas opiniões, né?! Sendo assim, reservamos um pedacinho do nosso blog para divulgar os lugares e programas favoritos de pessoas legais da nossa cidade.  Esperamos que você aproveite muito o De Bem Com Bsb.
 
 #Chef Dudu Camargo
 
-Para começar, entrevistamos o **chef Dudu Camargo**. O paulista, de 45 anos, que já soma 22 anos em Brasília, destaca as pessoas e o céu azul (paixão regional) como a parte que mais gosta dessse quadradinho. “As pessoas de Brasília vieram de todos os estados do Brasil, todo mundo chegou aberto a fazer amizades, a formar novas famílias”. 
+Para começar, entrevistamos o **chef Dudu Camargo**. O paulista, de 45 anos, que já soma 22 anos em Brasília, destaca as pessoas e o céu azul (paixão regional) como a parte que mais gosta desse quadradinho. “As pessoas de Brasília vieram de todos os estados do Brasil, todo mundo chegou aberto a fazer amizades, a formar novas famílias”. 
 
 {{< img-full src="/img/2017/09/ChefDuduCamargo_Foto_DianaBracaraense.jpg"  height="800" width="1280" title="" >}}
 
@@ -71,7 +71,7 @@ No pergolado da minha casa! Hahah
 
 {{<facebook-like>}}
 
-### Programinhas em bsb
+### Programinhas em BSB
 
 ##### O que fazer em um sábado de manhã?
 
