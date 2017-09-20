@@ -1,0 +1,201 @@
+---
+pages:
+- comida/como-fazer-receitas-de-forma-pratica-e-ser-saudavel.md
+hide_body: false
+fields:
+- name: author
+  label: Author
+  type: field_group
+  fields:
+  - name: name
+    label: Name
+    type: text
+    hidden: false
+    default: ''
+  - name: image
+    label: Image
+    type: text
+    hidden: false
+    default: ''
+  - name: bio
+    label: Bio
+    type: text
+    hidden: false
+    default: ''
+  - name: homepage
+    label: Homepage
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: 
+- name: banner
+  label: Banner
+  type: file
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: description
+  label: Description
+  type: text
+  hidden: false
+  default: ''
+- name: images
+  label: Images
+  type: image_gallery
+  hidden: false
+  default: ''
+- name: keywords
+  label: Keywords
+  type: list
+  hidden: false
+  default: ''
+- name: lightbox
+  label: Lightbox
+  type: boolean
+  hidden: false
+  default: ''
+- name: slug
+  label: Slug
+  type: text
+  hidden: false
+  default: ''
+- name: structured
+  label: Structured
+  type: field_group
+  fields:
+  - name: type
+    label: Type
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: []
+- name: thumbnail
+  label: Thumbnail
+  type: file
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: totop
+  label: Totop
+  type: boolean
+  hidden: false
+  default: ''
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: ''
+- name: publishdate
+  label: Publishdate
+  type: text
+  hidden: false
+  default: ''
+- name: amp
+  label: Amp
+  type: field_group
+  fields:
+  - name: elements
+    label: Elements
+    type: list
+    hidden: false
+    default: ''
+  hidden: false
+  default: 
+- name: article
+  label: Article
+  type: field_group
+  fields:
+  - name: lead
+    label: Lead
+    type: text
+    hidden: false
+    default: ''
+  - name: category
+    label: Category
+    type: text
+    hidden: false
+    default: ''
+  - name: related
+    label: Related
+    type: list
+    hidden: false
+    default: ''
+  hidden: false
+  default: 
+- name: image
+  label: Image
+  type: field_group
+  fields:
+  - name: src
+    label: Src
+    type: text
+    hidden: false
+    default: ''
+  - name: title
+    label: Title
+    type: text
+    hidden: false
+    default: ''
+  - name: author
+    label: Author
+    type: text
+    hidden: false
+    default: ''
+  - name: link
+    label: Link
+    type: text
+    hidden: false
+    default: ''
+  - name: license
+    label: License
+    type: text
+    hidden: false
+    default: ''
+  - name: licenseLink
+    label: Licenselink
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: 
+- name: sitemap
+  label: Sitemap
+  type: field_group
+  fields:
+  - name: changefreq
+    label: Changefreq
+    type: text
+    hidden: false
+    default: ''
+  - name: priority
+    label: Priority
+    type: text
+    hidden: false
+    default: ''
+  - name: filename
+    label: Filename
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: 

@@ -1,0 +1,82 @@
+---
+pages:
+- estilo-de-vida/casamento-rustico-ao-ar-livre-inspire-se-com-dicas-e-ideias.md
+- viagem/campos-do-jordao-em-tres-dias-confira-nosso-roteiro-com-varias-dicas.md
+- viagem/como-e-mergulhar-com-tubaroes-brancos-na-africa-do-sul.md
+hide_body: false
+fields:
+- name: banner
+  label: Banner
+  type: file
+  hidden: false
+  default: "/img/2017/08/melhor-croissant-brasilia-banner.jpg"
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: []
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: 2017-08-12 11:30:44 +0000
+- name: description
+  label: Description
+  type: text
+  hidden: false
+  default: ''
+- name: draft
+  label: Draft
+  type: boolean
+  hidden: false
+  default: true
+- name: featured
+  label: Featured
+  type: boolean
+  hidden: false
+  default: false
+- name: featuredorder
+  label: Featuredorder
+  type: text
+  hidden: false
+  default: 0
+- name: images
+  label: Images
+  type: list
+  hidden: false
+  default: []
+- name: slug
+  label: Slug
+  type: text
+  hidden: false
+  default: ''
+- name: structured
+  label: Structured
+  type: field_group
+  fields:
+  - name: type
+    label: Type
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: 
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default:
+  - Restaurantes
+  - Brasília
+  - Review
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- type: tag_list
+  name: author
+  label: author
+- type: file
+  name: thumbnail
+  label: thumbnail
