@@ -71,7 +71,7 @@ E sempre que eu experimento algo que eu gosto, a diversão passa a ser tentar re
 
 Dessa vez eu experimentei fazer uma receita de Bobotie!
 
-{{<recipe name="Bobotie" prep-time="30m" cook-time="2h" total-time="2h30m">}}</recipe>
+{{%recipe name="Bobotie" prep-time="30m" cook-time="2h" total-time="2h30m" %}}
 
 O Bobotie é uma torta de carne da Africa do Sul. Esse prato típico tem um tempero à base de especiarias e um sabor agridoce de frutas. Nós experimentamos durante a nossa viagem por lá. Primeiro porque é um prato que costuma ser mais barato e segundo porque a gente adorou mesmo.
 
