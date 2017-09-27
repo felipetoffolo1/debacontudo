@@ -70,7 +70,7 @@ Aqui vão umas fotos do originais da África do Sul
 
 Bem, então agora é hora de fazer o nosso Bobotie! A receita na real é bem fácil! Mas quando ficar pronto você vai sentir aquele gostinho de comida diferente que você ainda não conhecia. Confia e vamos lá.
 
-{{subscribe}}
+{{<subscribe>}}
 
 
 ## Ingredientes
@@ -108,7 +108,7 @@ Bem, então agora é hora de fazer o nosso Bobotie! A receita na real é bem fá
 
 Pronto,  você fez um Bobotie! Falei que você conseguia.
 
-{{facebook-like}}
+{{<facebook-like>}}
 
 O ideal é servir com arroz (amarelo se possível) ou batata, e um chutney de banana ou cebola. Fica simplesmente um paraiso agridoce esse prato! Olha ai o resultado final,
 
