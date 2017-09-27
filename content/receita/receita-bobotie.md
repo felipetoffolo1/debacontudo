@@ -23,8 +23,8 @@ recipe:
   - 'Suco de Limão: 1/2 limão'
   - 'Pão de forma: 2 fatias'
   - 'Ovos: 3'
-  - 'Maça verde: 1'
-  - 'Pessêgo seco: 100g (eu substitui por damasco) picadas'
+  - 'Maçã verde: 1'
+  - 'Pêssego seco: 100g (eu substitui por damasco) picadas'
   - 'Amêndoas tostadas: 1 xícara'
   - 'Uvas passas brancas: 1/4 xícara'
   - 'Folhas de louro'
@@ -32,7 +32,7 @@ recipe:
   instructions:
   - 1. Pré aqueça o forno a 160º. (até aqui fácil né)
   - 2. Em uma tigela misture 1 ovo, o pêssego seco (ou damasco, porque pêssego seco
-    é bem caro), maça verde, passas brancas , o 1/4 de copo de leite, amêndoas e o
+    é bem caro), maçã verde, passas brancas , o 1/4 de copo de leite, amêndoas e o
     suco de limão. Misture e bem tudo e tempere com sal e pimenta do reino. Reserve.
     Não vai ficar bonito isso, mas calma.
   - '3. Em uma caçarola coloque manteiga (e azeite ou óleo de girassol para não queimar)
@@ -105,9 +105,9 @@ Bem, então agora é hora de fazer o nosso Bobotie! A receita na real é bem fá
 
 * Ovos: 3
 
-* Maça verde: 1 picada em cubos
+* Maçã verde: 1 picada em cubos
 
-* Pessêgo seco: 100g (eu substitui por damasco) picadas
+* Pêssego seco: 100g (eu substitui por damasco) picadas
 
 * Amêndoas tostadas: 1 xícara
 
@@ -121,19 +121,21 @@ Bem, então agora é hora de fazer o nosso Bobotie! A receita na real é bem fá
 
 1. Pré aqueça o forno a 160º. (até aqui fácil né)
 
-2. Em uma tigela misture 1 ovo, o pêssego seco (ou damasco, porque pêssego seco é bem caro), maça verde, passas brancas , o 1/4 de copo de leite, amêndoas e o suco de limão. Misture e bem tudo e tempere com sal e pimenta do reino. Reserve. Não vai ficar bonito isso, mas calma.
+2. Em uma tigela misture 1 ovo, o pêssego seco (ou damasco, porque pêssego seco é bem caro), maçã verde, passas brancas , o 1/4 de copo de leite, amêndoas e o suco de limão. Misture e bem tudo e tempere com sal e pimenta do reino. Reserve. Não vai ficar bonito isso, mas calma.
 
-3. Em uma caçarola coloque manteiga (e azeite ou óleo de girassol, para não queimar) e refogue a cebola e o alho. Quando começarem a ficar transparentes coloque o curry e o açafrão e mexa até o cheirinho subir (e ele vai subir).
+3. Em uma caçarola coloque manteiga (e azeite ou óleo de girassol, para não queimar) e refogue a cebola e o alho. Quando começarem a ficar transparentes coloque o curry e o açafrão e mexa até o cheirinho subir (e ele vai subir). 
 
-1.
+4. Adicione a carne e deixe ela pegar uma cor, quando a água começar a secar. Adicione a mistureba que você tinha reservado. Acerte o sal da carne. 
 
-1. Passe tudo para uma forma e adicione algumas folhas de loiro enfiadas aleatoriamente.
+      {{< img-full src="/img/2017/09/bobotie-3.jpg" alt=""  height="800" width="1280" >}} 
 
-2. Cubra com papel aluminio e asse por 1h 15m.
+5. Passe tudo para uma forma e adicione algumas folhas de loiro enfiadas aleatoriamente.
 
-3. Misture em outra tigela (ou pode usar a mesma se você preferir) 2 ovos, 1 copo de leite e tempere com sal.
+6. Cubra com papel aluminio e asse por 1h 15m.
 
-4. Tire a forma do forno, cubra com a mistura e devolva por forno por 15 minutos (ou até ficar douradinho por cima) à 200º.
+7. Misture em outra tigela (ou pode usar a mesma se você preferir) 2 ovos, 1 copo de leite e tempere com sal.
+
+8. Tire a forma do forno, cubra com a mistura e devolva por forno por 15 minutos (ou até ficar douradinho por cima) à 200º.
 
 {{< img-full src="/img/2017/09/bobotie-4.jpg" alt=""  height="800" width="1280" >}}
 
