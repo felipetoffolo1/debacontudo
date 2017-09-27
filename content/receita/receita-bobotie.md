@@ -48,7 +48,7 @@ tags:
   - internacional
   - jantarADois
 thumbnail: /img/2017/09/receita-bobotie-thumb.jpg
-title: 'Bobotie: Uma receita típica da África cheia de sabor agridoce'
+title: 'Bobotie: Uma deliciosa receita típica sul-africana cheia de sabor agridoce'
 totop: true
 ---
 
