@@ -15,7 +15,7 @@ recipe:
   category: prato principal
   ingredients:
   - 'Carne moída (mais magra como patinho): 1 kg'
-  - Manteiga
+  - 'Manteiga'
   - 'Cebola: 2'
   - 'Alho: 4 dentes'
   - 'Curry Amarelo: 1colher de sopa'
@@ -27,7 +27,7 @@ recipe:
   - 'Pessêgo seco: 100g (eu substitui por damasco) picadas'
   - 'Amêndoas tostadas: 1 xícara'
   - 'Uvas passas brancas: 1/4 xícara'
-  - Folhas de louro
+  - 'Folhas de louro'
   - 'Leite: 1 e 1/4 copos'
   instructions:
   - 1. Pré aqueça o forno a 160º. (até aqui fácil né)
@@ -60,7 +60,7 @@ tags:
 thumbnail: "/img/2017/09/receita-bobotie-thumb.jpg"
 title: 'Bobotie: Uma deliciosa receita típica sul-africana cheia de sabor agridoce'
 totop: true
-draft: true
+draft: false
 
 ---
 
@@ -83,7 +83,7 @@ Aqui vão umas fotos dos Boboties originais da África do Sul.
 
 Bem, então agora é hora de fazer o nosso Bobotie! A receita na real é bem fácil! Mas quando ficar pronta você vai sentir aquele gostinho de comida diferente que você ainda não conhecia. Confira e vamos lá.
 
-{{<subscribe>}}</subscribe>
+{{%subscribe%}}
 
 ## Ingredientes
 
@@ -121,25 +121,25 @@ Bem, então agora é hora de fazer o nosso Bobotie! A receita na real é bem fá
 
 1. Pré aqueça o forno a 160º. (até aqui fácil né)
 
-1. Em uma tigela misture 1 ovo, o pêssego seco (ou damasco, porque pêssego seco é bem caro), maça verde, passas brancas , o 1/4 de copo de leite, amêndoas e o suco de limão. Misture e bem tudo e tempere com sal e pimenta do reino. Reserve. Não vai ficar bonito isso, mas calma.
+2. Em uma tigela misture 1 ovo, o pêssego seco (ou damasco, porque pêssego seco é bem caro), maça verde, passas brancas , o 1/4 de copo de leite, amêndoas e o suco de limão. Misture e bem tudo e tempere com sal e pimenta do reino. Reserve. Não vai ficar bonito isso, mas calma.
 
-1. Em uma caçarola coloque manteiga (e azeite ou óleo de girassol, para não queimar) e refogue a cebola e o alho. Quando começarem a ficar transparentes coloque o curry e o açafrão e mexa até o cheirinho subir (e ele vai subir).
+3. Em uma caçarola coloque manteiga (e azeite ou óleo de girassol, para não queimar) e refogue a cebola e o alho. Quando começarem a ficar transparentes coloque o curry e o açafrão e mexa até o cheirinho subir (e ele vai subir).
 
 1.
 
 1. Passe tudo para uma forma e adicione algumas folhas de loiro enfiadas aleatoriamente.
 
-1. Cubra com papel aluminio e asse por 1h 15m.
+2. Cubra com papel aluminio e asse por 1h 15m.
 
-1. Misture em outra tigela (ou pode usar a mesma se você preferir) 2 ovos, 1 copo de leite e tempere com sal.
+3. Misture em outra tigela (ou pode usar a mesma se você preferir) 2 ovos, 1 copo de leite e tempere com sal.
 
-1. Tire a forma do forno, cubra com a mistura e devolva por forno por 15 minutos (ou até ficar douradinho por cima) à 200º.
+4. Tire a forma do forno, cubra com a mistura e devolva por forno por 15 minutos (ou até ficar douradinho por cima) à 200º.
 
 {{< img-full src="/img/2017/09/bobotie-4.jpg" alt=""  height="800" width="1280" >}}
 
 Pronto,  você fez um Bobotie! Falei que você conseguia.
 
-{{<facebook-like>}}</facebook-like>
+{{%facebook-like%}}
 
 O ideal é servir com arroz (amarelo se possível) ou batata, e um chutney de banana ou cebola. Fica simplesmente um paraiso agridoce esse prato! Olha ai o resultado final,
 
