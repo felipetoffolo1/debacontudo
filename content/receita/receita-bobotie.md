@@ -129,13 +129,15 @@ Bem, então agora é hora de fazer o nosso Bobotie! A receita na real é bem fá
 
       {{< img-full src="/img/2017/09/bobotie-3.jpg" alt=""  height="800" width="1280" >}} 
 
-5. Passe tudo para uma forma e adicione algumas folhas de loiro enfiadas aleatoriamente.
+5. Molhe as fatias de pão com leite, rasge em pedaços e misture bem até ficar homogêneo.
 
-6. Cubra com papel aluminio e asse por 1h 15m.
+6. Passe tudo para uma forma e adicione algumas folhas de loiro enfiadas aleatoriamente.
 
-7. Misture em outra tigela (ou pode usar a mesma se você preferir) 2 ovos, 1 copo de leite e tempere com sal.
+7. Cubra com papel aluminio e asse por 1h 15m.
 
-8. Tire a forma do forno, cubra com a mistura e devolva por forno por 15 minutos (ou até ficar douradinho por cima) à 200º.
+8. Misture em outra tigela (ou pode usar a mesma se você preferir) 2 ovos, 1 copo de leite e tempere com sal.
+
+9. Tire a forma do forno, cubra com a mistura e devolva por forno por 15 minutos (ou até ficar douradinho por cima) à 200º.
 
 {{< img-full src="/img/2017/09/bobotie-4.jpg" alt=""  height="800" width="1280" >}}
 
