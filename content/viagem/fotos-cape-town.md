@@ -18,7 +18,7 @@ tags:
 - dicas
 - listas
 - Africa do Sul
-thumbnail: "/img/2017/10/rota-panoramica-thumb.jpg"
+thumbnail: "/img/2017/10/fotos-cape-town-banner.jpg"
 title: 10 lindas fotos para você se apaixonar pela Cidade do Cabo
 totop: true
 draft: false
