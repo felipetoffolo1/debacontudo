@@ -21,7 +21,6 @@ tags:
 thumbnail: "/img/2017/10/fotos-cape-town-banner.jpg"
 title: 10 lindas fotos para você se apaixonar pela Cidade do Cabo
 totop: true
-draft: false
 
 ---
 
@@ -42,9 +41,9 @@ A Table Mountain (Montanha da Mesa) é **onipresente** na Cidade do Cabo. Em qua
 
 # Robben Island, a ilha prisão
 
-{{< img-full src="/img/2017/10/robben-island.jpg" alt=""  height="800" width="1280" title="A gente não sorriu muito porquê é meio triste." >}}
+{{< img-full src="/img/2017/10/robben-island.jpg" alt=""  height="800" width="1280" title="A gente não sorriu muito porque é meio triste né." >}}
 
-Um dos grandes pontos turísticos da Cidade do Cabo, a **Robben Island **(nome de origem holandês, que significa **ilha das focas**) é a famosa prisão onde **Nelson Mandela** ficou preso durante 27 anos.  Apesar da tristeza de toda a história, a ilha é muito linda.
+Um dos grandes pontos turísticos da Cidade do Cabo, a **Robben Island** (nome de origem holandês, que significa **ilha das focas**) é a famosa prisão onde **Nelson Mandela** ficou preso durante 27 anos.  Apesar da tristeza de toda a história, a ilha é muito linda.
 
 # Comida em Cape Town
 
@@ -62,7 +61,7 @@ O Bo-Kaap é um **bairro bem lindo**, cheio de casinhas coloridas e onde tem uma
 
 {{< img-full src="/img/2017/10/constantia.jpg" alt=""  height="800" width="1280" title="" >}}
 
-A **Groot Constantia ** é a vinícola mais **antiga** da África do Sul. Um dos seus vinhos foi apreciado por Napoleão Bonaparte, que, inclusive, solicitou a bebida enquanto estava preso. A **degustação** de vinhos é uma delícia e o local, que é lindo, rendeu umas boas fotos entre as **videiras**.
+A **Groot Constantia** é a vinícola mais **antiga** da África do Sul. Um dos seus vinhos foi apreciado por Napoleão Bonaparte, que, inclusive, solicitou a bebida enquanto estava preso. A **degustação** de vinhos é uma delícia e o local, que é lindo, rendeu umas boas fotos entre as **videiras**.
 
 # Cabo da Boa Esperança, vistas de tirar o fôlego
 
@@ -96,7 +95,7 @@ Além disso, você pode subir lá e ter a **vista mais maravilhosa** de todas de
 
 {{< img-full src="/img/2017/10/lions-head-2.jpg" alt=""  height="1024" width="1280" title="Aqui não deu, tive que colocar duas fotos" >}}
 
-------
+<hr>
 
 Gostou? Esse post é só para você ter **um gostinho** da Cidade do Cabo. Em breve, vamos publicar alguns posts beeemmm mais detalhados.
 
