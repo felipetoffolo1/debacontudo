@@ -142,3 +142,9 @@ Nós ficamos 2 dias e queríamos ter ficado mais. Mas aí vai depender do quanto
 Cada vinícola possui ao menos dois tipos de degustação para você escolher. Algumas com vinhos mais em conta, outra com vinhos mais caro, outra acompanhada de algum belisquete. Você escolhe a que mais te interessa e recebe um pouco de cada vinho para degustar. Há uma apresentação básica e rápida de cada vinho. Depois, é só curtir!
 
 {{% quote-him "Muito importante fazer cara de que está entendendo, mesmo sem estar entendo nada - Felipe" %}}
+
+
+
+Gostou? Tem alguma dúvida? Escreve pra gente! ;)
+
+Para ficar sempre por dentro, siga a gente no [Instagram](https://www.instagram.com/casaldebacontudo/) e no [Facebook](https://www.facebook.com/debacontudo). 
