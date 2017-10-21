@@ -19,7 +19,7 @@ tags:
 - dicas
 - listas
 - Africa do Sul
-thumbnail: "/img/2017/10/delaire-graff-banner.jpg"
+thumbnail: "/img/2017/10/delaire-graff-thumb.jpg"
 title:  7 vinícolas com paisagens maravilhosas para você conhecer na África do Sul
 totop: true
 draft: false
@@ -56,6 +56,8 @@ Uma das mais tradicionais da região, a **Waterford** foi a primeira vinícola q
 ### Spier
 
 Nossa próxima parada foi a **Spier**, uma vinícola com uma pegada mais moderna e com ótimo preços. Lá também oferecia degustação com chocolate, e por que não experimentar, né? Foram cinco vinhos por R 70 (R$ 17,50). Os vinhos são deliciosos e o local é lindo (inclusive foi onde tiramos uma das nossas fotos prediletas). Além disso, tem um restaurante de comida orgânica que foi onde almoçamos e que vale super a pena!
+
+{{% img-full src="/img/2017/10/spier2.jpg" alt=""  height="800" width="1280" title=""  %}}
 
 {{% img-full src="/img/2017/10/spier.jpg" alt=""  height="800" width="1280" title=""  %}}
 
