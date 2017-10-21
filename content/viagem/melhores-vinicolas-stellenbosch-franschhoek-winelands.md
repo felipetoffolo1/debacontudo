@@ -21,7 +21,7 @@ author: []
 ---
 
 
-Para quem não sabe, a **África do Sul** é umas das grandes produtoras de vinhos do mundo. Lá você encontra uma grande variedade dessa bebida tão amada. E o melhor é que você pode conhecer as vinícolas e ter a experiência de degustar um bom vinho diante de paisagens maravilhosas. Existem dois locais no país que precisam entrar no seu roteiro: **Stellenbosch**, uma cidadezinha pequena e charmosa com mais de 300 vinícolas; e **Franschhoek**, também conhecida como ‘esquina da França’, uma cidadezinha menor e com pouco mais de 50 vinícolas. A região dessas duas cidades é conhecida como **Winelands**, e ela fica a pouco mais de 1 hora da** Cidade do Cabo**.
+Para quem não sabe, a **África do Sul** é umas das grandes produtoras de vinhos do mundo. Lá você encontra uma grande variedade dessa bebida tão amada. E o melhor é que você pode conhecer as vinícolas e ter a experiência de degustar um bom vinho diante de paisagens maravilhosas. Existem dois locais no país que precisam entrar no seu roteiro: **Stellenbosch**, uma cidadezinha pequena e charmosa com mais de 300 vinícolas; e **Franschhoek**, também conhecida como ‘esquina da França’, uma cidadezinha menor e com pouco mais de 50 vinícolas. A região dessas duas cidades é conhecida como **Winelands**, e ela fica a pouco mais de 1 hora da **Cidade do Cabo.**
 
 # Onde ficar
 
