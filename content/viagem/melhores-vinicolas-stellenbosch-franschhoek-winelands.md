@@ -67,7 +67,7 @@ Nossa próxima parada foi a **Spier**, uma vinícola com uma pegada mais moderna
 
 Eu sei que a gente só fica falando que os lugares são lindos, mas poxa, eles são…
 A **Spice Route** fica um pouco mais distante, mas vale a pena. Nela existe tipo um complexo com lojas, sorveteria, chocolateria, delicatessen com temperos, carnes e, óbvio, muito vinho.
-Aqui não tinha chocolate, mas bitong, que são as carnes secas que o sul-africanos comem e que possuem grande variedade. Optamos por essa degustação, que saiu por R 85 (R$ 21,25). 
+Aqui não tinha chocolate, mas biltong, que são as carnes secas que o sul-africanos comem e que possuem grande variedade. Optamos por essa degustação, que saiu por R 85 (R$ 21,25). 
 
 {{% img-full src="/img/2017/10/spice-route.jpg" alt=""  height="800" width="1280" title=""  %}}
 
@@ -77,7 +77,7 @@ Aqui não tinha chocolate, mas bitong, que são as carnes secas que o sul-africa
 
 ### Delaire Graff Estate
 
-A **Dellaire Graff State** tem uma das localizações mais privilegiadas da região, o que faz com que muitas vezes ela seja considerada a vinícola com a vista mais bonita de todas. O restaurante de l[a é considerado um dos melhores da **África do Sul**. Também há a opção de hospedagem no local, mas você vai precisar desembolsar bons dinheiros. Por isso, os preços dos vinhos da Delaire Graff Estate são um pouco mais salgados, mas nada que nos impeça fazer ao menos uma degustação, não é mesmo?!
+A **Dellaire Graff State** tem uma das localizações mais privilegiadas da região, o que faz com que muitas vezes ela seja considerada a vinícola com a vista mais bonita de todas. O restaurante de lá é considerado um dos melhores da **África do Sul**. Também há a opção de hospedagem no local, mas você vai precisar desembolsar bons dinheiros. Por isso, os preços dos vinhos da Delaire Graff Estate são um pouco mais salgados, mas nada que nos impeça fazer ao menos uma degustação, não é mesmo?!
 
 
 
@@ -101,7 +101,7 @@ Essa foi a vinícola que escolhemos para ficar hospedados. Ficamos no **Table Mo
 
 ### Grande Provence
 
-Uma vinícola com um estilo bem clássico e que mais parece um museu ao céu aberto, essa é a **Grande Provence**. Assim que chegamos, ficamos com a impressão de que era uma vinícola chique demais, mas logo a impressão passou. Fomos super bem atendidos, e para a nossa surpresa, os preços eram bem acessíveis. Adoramos o vinho, o ambiente e tudo mais. Fizemos a degustação premium, que saiu por 50 rands por pessoa (R$12,50), com direito a experimentar quatro vinhos.
+Uma vinícola com um estilo bem clássico e que mais parece um museu ao céu aberto, essa é a **Grande Provence**. Assim que chegamos, ficamos com a impressão de que era uma vinícola chique demais, mas logo a impressão passou. Fomos super bem atendidos e, para a nossa surpresa, os preços eram bem acessíveis. Adoramos o vinho, o ambiente e tudo mais. Fizemos a degustação premium, que saiu por 50 rands por pessoa (R$12,50), com direito a experimentar quatro vinhos.
 
 {{% img-full src="/img/2017/10/grand-provence.jpg" alt=""  height="800" width="1280" title=""  %}}
 
@@ -111,7 +111,7 @@ Uma vinícola com um estilo bem clássico e que mais parece um museu ao céu abe
 
 ### Leopards Leap
 
-A **Leopards Leap** é uma vinícola jovem, que vem crescendo bastante e conquistando seu espaço. No entanto, foi a vinícola que menos gostamos da visita em si. Não nos entenda mal, o vinho estava ótimo e fomos super bem atendidos, mas a sala de degustação era enorme e estava vazia e um pouco escura. Parecia até que estava fechada. Talvez porque fomos na época de baixa temporada né, vai saber. A degustação de cinco vinhos saiu por R 25 (R$6.25).
+A **Leopards Leap** é uma vinícola jovem, que vem crescendo bastante e conquistando seu espaço. No entanto, foi a vinícola que menos gostamos da visita em si. Não nos entenda mal, o vinho é delicioso e fomos super bem atendidos, mas a sala de degustação era enorme e estava vazia e um pouco escura. Parecia até que estava fechada. Talvez porque fomos na época de baixa temporada né, vai saber. A degustação de cinco vinhos saiu por R 25 (R$6.25).
 
 {{% img-full src="/img/2017/10/leopard-leap.jpg" alt=""  height="800" width="1280" title=""  %}}
 
@@ -139,7 +139,7 @@ Nós ficamos 2 dias e queríamos ter ficado mais. Mas aí vai depender do quanto
 
 **Como funciona a degustação?**
 
-Cada vinícola possui ao menos dois tipos de degustação para você escolher. Algumas com vinhos mais em conta, outra com vinhos mais caro, outra acompanhada de algum belisquete. Você escolhe a que mais te interessa e recebe um pouco de cada vinho para degustar. Há uma apresentação básica e rápida de cada vinho. Depois, é só curtir!
+Cada vinícola possui ao menos dois tipos de degustações para você escolher. Algumas com vinhos mais em conta, outra com vinhos mais caro, outra acompanhada de algum belisquete. Você escolhe a que mais te interessa e recebe um pouco de cada vinho para degustar. Há uma apresentação básica e rápida de cada vinho. Depois, é só curtir!
 
 {{% quote-him "Muito importante fazer cara de que está entendendo, mesmo sem estar entendo nada - Felipe" %}}
 
