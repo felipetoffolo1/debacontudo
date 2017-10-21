@@ -89,7 +89,7 @@ Uma praia linda, cheia de **casinhas coloridas** (e, às vezes, tubarões rs). M
 
 {{< img-full src="/img/2017/10/lions-head-1.jpg" alt=""  height="1280" width="1280" title="Em um lugar desse a gente fica até mais romântico." >}}
 
-**Lions Head** está para a **Table Mountain** assim como o **Cordovado**está para o **Pão de Açúcar, **uma montanha que torna o **horizonte** da Cidade do Cabo ainda mais belo.
+**Lions Head** está para a **Table Mountain** assim como o **Cordovado **está para o **Pão de Açúcar**, uma montanha que torna o **horizonte** da Cidade do Cabo ainda mais belo.
 
 Além disso, você pode subir lá e ter a **vista mais maravilhosa** de todas de Cape Town.
 
@@ -97,6 +97,6 @@ Além disso, você pode subir lá e ter a **vista mais maravilhosa** de todas de
 
 <hr>
 
-Gostou? Esse post é só para você ter **um gostinho** da Cidade do Cabo. Em breve, vamos publicar alguns posts beeemmm mais detalhados.
+Gostou? Esse post é só para você ter um gostinho da **Cidade do Cabo**. Em breve, vamos publicar alguns posts beeemmm mais detalhados.
 
 Para ficar sempre por dentro, siga a gente no [Instagram](https://www.instagram.com/casaldebacontudo/) e no [Facebook](https://www.facebook.com/debacontudo).
