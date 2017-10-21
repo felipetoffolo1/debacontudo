@@ -73,7 +73,7 @@ Uma vinícola com um estilo bem clássico e que mais parece um museu ao céu abe
 
 A **Leopards Leap** é uma vinícola jovem, que vem crescendo bastante e conquistando seu espaço. No entanto, foi a vinícola que menos gostamos da visita em si. Não nos entenda mal, o vinho estava ótimo e fomos super bem atendidos, mas a sala de degustação era enorme e estava vazia e um pouco escura. Parecia até que estava fechada. Talvez porque fomos na época de baixa temporada né, vai saber.
 
-## FAQ das visitas às vinícolas
+## O que você precisa saber antes de visitar as Vinícolas
 
 **Vale a pena comprar os vinhos lá nas vinícolas?**
 
