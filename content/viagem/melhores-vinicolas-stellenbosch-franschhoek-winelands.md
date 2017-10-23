@@ -82,11 +82,7 @@ Aqui não tinha chocolate, mas biltong, que são as carnes secas que o sul-afric
 
 A **Dellaire Graff State** tem uma das localizações mais privilegiadas da região, o que faz com que muitas vezes ela seja considerada a vinícola com a vista mais bonita de todas. O restaurante de lá é considerado um dos melhores da **África do Sul**. Também há a opção de hospedagem no local, mas você vai precisar desembolsar bons dinheiros. Por isso, os preços dos vinhos da Delaire Graff Estate são um pouco mais salgados, mas nada que nos impeça fazer ao menos uma degustação, não é mesmo?!
 
-
-
-{{% img-full src="/img/2017/10/delaire-graff-vinho.jpg" alt="A mais linda das vistas"  height="800" width="1280" title="A mais linda das vistas"  %}}
-
-{{% img-full src="/img/2017/10/delaire-graff-vista.jpg" alt=""  height="800" width="1280" title=""  %}}
+{{% img-full src="/img/2017/10/delaire-graff-vista.jpg" alt=""  height="800" width="1280" title="A mais linda das vistas"  %}}
 
 ### Marianne Wine State
 
@@ -98,7 +94,7 @@ Essa foi a vinícola que escolhemos para ficar hospedados. Ficamos no **Table Mo
 
 {{% img-full src="/img/2017/10/marianne-wine-state.jpg" alt=""  height="800" width="1280" title="Sala de degustação"  %}}
 
-
+{{% img-full src="/img/2017/10/delaire-graff-vinho.jpg" alt=""  height="800" width="1280" title=""  %}}
 
 ## Vinícolas de Franschhoek
 
