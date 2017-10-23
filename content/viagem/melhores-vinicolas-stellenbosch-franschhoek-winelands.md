@@ -9,7 +9,8 @@ date: 2017-10-21 11:30:16 +0000
 description:  "A África do Sul reúne centenas de vinícolas maravilhosas nas regiões de Stellenbosch e Franshhoek. 
 Conheça 7 delas que possuem paisagens incríveis e vinhos deliciosos."
 images:
-- "/img/2017/10/fotos-cape-town-banner.jpg"
+- "/img/2017/10/spier.jpg"
+- "/img/2017/10/delaire-graff-thumb.jpg"
 slug: melhores-vinicolas-stellenbosch-franschhoek-winelands
 structured:
   type: Article
@@ -20,7 +21,7 @@ tags:
 - listas
 - Africa do Sul
 thumbnail: "/img/2017/10/delaire-graff-thumb.jpg"
-title:  7 vinícolas com paisagens maravilhosas para você conhecer na África do Sul
+title:  7 vinícolas com paisagens e vinhos maravilhosos para conhecer na África do Sul
 totop: true
 draft: false
 
@@ -43,23 +44,23 @@ Em **Franschhoek** existe um trenzinho bem bonitinho que vai passando nas viníc
 
 Como escolher as melhores vinícolas? Bem, essa talvez seja a parte mais difícil do passeio, já que toda a região abriga várias vinícolas. Nós acabamos escolhendo algumas que tinham boas referências, e vamos compartilhar um pouco da nossa experiência com vocês. Quem sabe a gente não te ajuda a definir as que você vai querer ir, né?! Vamos lá!
 
-## Stellenbosch
+## Vinícolas de Stellenbosch
 
 ### Waterford
 
 Uma das mais tradicionais da região, a **Waterford** foi a primeira vinícola que visitamos. Fizemos a degustação com chocolate e adoramos, já que foi uma experiência nova para a gente. Quem não curte um chocolatinho, né?! A Waterford foi a primeira vinícola da África do Sul a fazer esse tipo de degustação (pelo menos foi o que eles disseram). Foram três vinhos (existem opções com mais) com três chocolates, que saiu por 75 rands por pessoa (R$ 18,75). Além dos vinhos maravilhosos, vale destacar também o chocolate com sal. Uma delícia! Lá também é possível conhecer o processo de produção dos vinhos, que é bem legal.
 
-{{% img-full src="/img/2017/10/waterford-explicacao.jpg" alt=""  height="800" width="1280" title=""  %}}
+{{% img-full src="/img/2017/10/waterford-explicacao.jpg" alt=""  height="800" width="1280" title="Recebendo uma aula sobre os vinhos da Waterford"  %}}
 
-{{% img-full src="/img/2017/10/waterford-producao.jpg" alt=""  height="800" width="1280" title=""  %}}
+{{% img-full src="/img/2017/10/waterford-producao.jpg" alt=""  height="800" width="1280" title="Passeio pelo processo de produção"  %}}
 
 ### Spier
 
 Nossa próxima parada foi a **Spier**, uma vinícola com uma pegada mais moderna e com ótimo preços. Lá também oferecia degustação com chocolate, e por que não experimentar, né? Foram cinco vinhos por R 70 (R$ 17,50). Os vinhos são deliciosos e o local é lindo (inclusive foi onde tiramos uma das nossas fotos prediletas). Além disso, tem um restaurante de comida orgânica que foi onde almoçamos e que vale super a pena!
 
-{{% img-full src="/img/2017/10/spier2.jpg" alt=""  height="800" width="1280" title=""  %}}
+{{% img-full src="/img/2017/10/spier2.jpg" alt="Larissa sentindo o bouquet"  height="800" width="1280" title="Larissa sentindo o bouquet"  %}}
 
-{{% img-full src="/img/2017/10/spier.jpg" alt=""  height="800" width="1280" title=""  %}}
+{{% img-full src="/img/2017/10/spier.jpg" alt="Paisagem que mais parece uma pintura"  height="800" width="1280" title="Paisagem que mais parece uma pintura"  %}}
 
 
 
@@ -71,9 +72,9 @@ Eu sei que a gente só fica falando que os lugares são lindos, mas poxa, eles s
 A **Spice Route** fica um pouco mais distante, mas vale a pena. Nela existe tipo um complexo com lojas, sorveteria, chocolateria, delicatessen com temperos, carnes e, óbvio, muito vinho.
 Aqui não tinha chocolate, mas biltong, que são as carnes secas que o sul-africanos comem e que possuem grande variedade. Optamos por essa degustação, que saiu por R 85 (R$ 21,25). 
 
-{{% img-full src="/img/2017/10/spice-route.jpg" alt=""  height="800" width="1280" title=""  %}}
+{{% img-full src="/img/2017/10/spice-route.jpg" alt="Curte a vista"  height="800" width="1280" title="Curte a vista"  %}}
 
-{{% img-full src="/img/2017/10/spice-route-biltongs.jpg" alt=""  height="800" width="1280" title=""  %}}
+{{% img-full src="/img/2017/10/spice-route-biltongs.jpg" alt="Desgustação com biltongs"  height="800" width="1280" title="Desgustação com biltongs"  %}}
 
 {{% quote-him "E eu ainda comprei uns temperinhos para trazer para casa - Felipe " %}}
 
@@ -83,7 +84,7 @@ A **Dellaire Graff State** tem uma das localizações mais privilegiadas da regi
 
 
 
-{{% img-full src="/img/2017/10/delaire-graff-vinho.jpg" alt=""  height="800" width="1280" title=""  %}}
+{{% img-full src="/img/2017/10/delaire-graff-vinho.jpg" alt="A mais linda das vistas"  height="800" width="1280" title="A mais linda das vistas"  %}}
 
 {{% img-full src="/img/2017/10/delaire-graff-vista.jpg" alt=""  height="800" width="1280" title=""  %}}
 
@@ -91,23 +92,23 @@ A **Dellaire Graff State** tem uma das localizações mais privilegiadas da regi
 
 Essa foi a vinícola que escolhemos para ficar hospedados. Ficamos no **Table Mountain Loft**, que tinha vista para a Table Mountain (obviamente), um quarto bem aconchegante e com uma varandinha bem legal. O café da manhã também foi bem honesto. Um excelente custo x benefício!  O bom de dormir em uma vinícola é que você fica mais perto para visitar o máximo de vinícolas que conseguir no dia.
 
-{{% img-full src="/img/2017/10/marianne-table-mountain-loft.jpg" alt=""  height="800" width="1280" title=""  %}}
+{{% img-full src="/img/2017/10/marianne-table-mountain-loft.jpg" alt="Por do sol no nosso quarto"  height="800" width="1280" title=""  %}}
 
  Como ficamos hospedados na **Marianne Wine State**, não tivemos que pagar a degustação. Os vinhos dessa vinícola são deliciosos e o destaque entre os que provamos foi o vinho que foi servido no aniversário de 90 anos do Mandela, em Buckham, que foi produzido por eles. (Esse é um dos poucos que a gente encontra sempre para comprar na wine.com)
 
-{{% img-full src="/img/2017/10/marianne-wine-state.jpg" alt=""  height="800" width="1280" title=""  %}}
+{{% img-full src="/img/2017/10/marianne-wine-state.jpg" alt=""  height="800" width="1280" title="Sala de degustação"  %}}
 
 
 
-## Franschhoek
+## Vinícolas de Franschhoek
 
 ### Grande Provence
 
 Uma vinícola com um estilo bem clássico e que mais parece um museu ao céu aberto, essa é a **Grande Provence**. Assim que chegamos, ficamos com a impressão de que era uma vinícola chique demais, mas logo a impressão passou. Fomos super bem atendidos e, para a nossa surpresa, os preços eram bem acessíveis. Adoramos o vinho, o ambiente e tudo mais. Fizemos a degustação premium, que saiu por 50 rands por pessoa (R$12,50), com direito a experimentar quatro vinhos.
 
-{{% img-full src="/img/2017/10/grand-provence.jpg" alt=""  height="800" width="1280" title=""  %}}
+{{% img-full src="/img/2017/10/grand-provence.jpg" alt="Entrada linda, que você já chega feliz"  height="800" width="1280" title="Entrada linda, que você já chega feliz"  %}}
 
-{{% img-full src="/img/2017/10/grand-provence-2.jpg" alt=""  height="800" width="1280" title=""  %}}
+{{% img-full src="/img/2017/10/grand-provence-2.jpg" alt=""  height="800" width="1280" title="A sala de degustação mais parece um museu"  %}}
 
 
 
@@ -145,7 +146,7 @@ Cada vinícola possui ao menos dois tipos de degustações para você escolher. 
 
 {{% quote-him "Muito importante fazer cara de que está entendendo, mesmo sem estar entendo nada - Felipe" %}}
 
-
+{{% img-full src="/img/2017/10/spice-route-montanhas.jpg" alt="Desgustação com biltongs"  height="800" width="1280" title="Acabou, é hora de partir. Mas levando um vinhozinho."  %}}
 
 Gostou? Tem alguma dúvida? Escreve pra gente! ;)
 
