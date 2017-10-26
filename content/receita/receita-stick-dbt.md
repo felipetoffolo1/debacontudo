@@ -7,7 +7,7 @@ categories:
 date: 2017-10-26 11:00:26 -0300
 description: Receber amigos em casa é ótimo. Fazer comida para eles também, ainda mais se for algo delicioso, que nem deu tanto trabalho assim. Ess receita faz isso para você emum prato surpreendente.
 images:
-- "/img/2017/09/receita-bobotie-banner.jpg"
+- "/img/2017/10/stick-dbt-banner.jpg"
 recipe:
   category: prato principal
   ingredients:
@@ -31,7 +31,7 @@ recipe:
   prepTime: PT30m
   recipeYield: 6
   totalTime: PT50m
-slug: receia-bacon-peixe-abacate
+slug: receita-bacon-peixe-abacate
 structured:
   type: Recipe
 tags:
