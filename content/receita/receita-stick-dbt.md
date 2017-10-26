@@ -38,7 +38,7 @@ tags:
 - jantarComAmigos
 - receitas
 thumbnail: "/img/2017/10/stick-dbt-thumb.jpg"
-title: 'Bacon, peixe e abacate: receba seus amigos com o Stick DeBaconTudo'
+title: 'Stick de bacon, peixe e abacate: receba seus amigos com essa surpresa'
 totop: true
 draft: false
 ---
@@ -47,7 +47,7 @@ Receber amigos em casa é ótimo. Fazer comida para eles também, ainda mais se 
 
 # Bacon, peixe e abacate?
 
-Depois de muito pesquisar, acabei resolvendo inovar, meio que inventando uma nova receita. Basicamente, peguei três coisas deliciosas que amo: bacon, peixe e abacate e resolvi juntar os três. Nem tem como dar errado né.  Assim nasce o Stick De Bacon Tudo (até alguém vir me contar que a receita já existe com outro nome rsrs).
+Depois de muito pesquisar, acabei resolvendo **inovar**, meio que **inventando** uma nova receita. Basicamente, peguei três coisas deliciosas que amo: bacon, peixe e abacate e resolvi juntar os três. Nem tem como dar errado né.  Assim nasce o **Stick De Bacon Tudo** (até alguém vir me contar que a receita já existe com outro nome rsrs).
 
 {{%recipe name="Stick De Bacon Tudo" prep-time="30m" cook-time="20m" total-time="50m" %}}
 
@@ -71,29 +71,29 @@ A ideia é basicamente enrolar uma fatia de abacate e de peixe branco no bacon. 
 
 1. Pré aqueça o forno a 180º.
 
-2. Em uma tigela, misture o shoyu, o mel, 1 pedacinho de gengibre picado e 2 colheres de chá de pápríca (ou de acordo com o seu paladar). Separe.
+2. Em uma tigela, **misture** o **shoyu**, o **mel**, 1 pedacinho de **gengibre** picado e 2 colheres de chá de **pápríca** (ou de acordo com o seu paladar). Separe.
 
-3. Fatie o peixe e o abacate em tiras de 1 cm.
+3. **Fatie** o peixe e o abacate em tiras de 1 cm.
 
       {{% quote-him "Eu devia parar de beber enquanto cozinho para lembrar de tirar foto do processo. ;)" %}}
 
-4. Passe as fatias de peixe na mistura de shoyu.
+4. **Passe** as fatias de **peixe** na mistura de **shoyu**.
 
 5. Agora pegue um pedaço de abacate e um de peixe e enrole o bacon neles.
 
-6. Use palitinhos para fixar o bacon.
+6. Use palitinhos para fixar o **bacon**.
 
-7. Coloque os sticks em uma travessa mais baixa e com espaço entre cada stick.  (ou seja, não faça igual eu fiz.)
+7. Coloque os sticks em uma **travessa** mais baixa e com **espaço** entre cada stick.  (ou seja, não faça igual eu fiz.)
 
       {{< img-full src="/img/2017/10/stick-dbt-preparo.jpg" alt=""  height="800" width="1280" >}}
 
-8. Pincele os sticks com a mistura de shoyu e mel.
+8. **Pincele** os sticks com a mistura de shoyu e mel.
 
-9. Asse no forno por cerca de 15-20 minutos, até estar com uma cor bonita.
+9. Asse no forno por cerca de **15-20** minutos, até estar com uma cor **bonita**.
 
 {{< img-full src="/img/2017/10/stick-dbt-pronto.jpg" alt=""  height="800" width="1280" >}}
 
-Pronto! Uma porção de Stick De Bacon Tudo para você servir para seus amigos, com aquela cervejinha ou vinho. Combina com tudo! 
+Pronto! Uma porção de Stick De Bacon Tudo para você servir para seus amigos, com aquela cervejinha ou vinho. Combina com **tudo**! 
 
 {{%facebook-like%}}
 
