@@ -1,7 +1,6 @@
 ---
 author:
 - larissa
-- felipe
 banner: "/img/2017/09/dudu-camargo-banner.jpg"
 categories:
 - comida
@@ -10,7 +9,7 @@ categories:
 date: 2017-09-05T12:30:44-03:00
 description: "No De Bem Com Bsb você descobre as coisas mais legais para comer e fazer em Brasília, indicado por quem conhece bem a capital"
 draft: true
-featured: false
+featured: true
 images:
 -  /img/2017/09/dudu-camargo-banner.jpg
 slug: "renata-monnerat-o-que-fazer-brasilia"
