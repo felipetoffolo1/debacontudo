@@ -76,8 +76,8 @@ name = "Estilo de Vida"
 url = "/categories/estilo-de-vida"
 weight = 3
 [[menu.main]]
-name = "Pop Culture"
-url = "/categories/pop-culture"
+name = "De Bem Com Bsb"
+url = "/categories/de-bem-com-bsb"
 weight = 4
 [[menu.social]]
 pre = "<i class='fa fa-twitter'></i>"
