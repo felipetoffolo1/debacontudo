@@ -6,10 +6,10 @@ categories:
 - comida
 - estilo-de-vida
 - De-Bem-Com-Bsb
-date: 2017-09-05T12:30:44-03:00
+date: 2017-10-29 11:00:26 -0300
 description: "No De Bem Com Bsb você descobre as coisas mais legais para comer e fazer em Brasília, indicado por quem conhece bem a capital"
 draft: true
-featured: true
+featured: false
 images:
 -  /img/2017/09/dudu-camargo-banner.jpg
 slug: "renata-monnerat-o-que-fazer-brasilia"
@@ -18,19 +18,19 @@ structured:
 tags:
 - Restaurantes
 - Brasília
-- De-Bem-Com-Brasilia
+- De Bem Com Brasilia
 thumbnail:  "/img/2017/09/dudu-camargo-thumb.jpg"
 title: "De Bem Com Bsb: Renata Monnerat"
 totop: true
 ---
 
-Hojé é dia de mais um De Bem Com BsB! Se você perdeu o primeiro, clique [aqui](http://debacontudo.com.br/de-bem-com-bsb/dudu-camargo-o-que-fazer-brasilia/) e confira as dicas do chef Dudu Camargo. 
+Hojé é dia de mais um **De Bem Com BsB**! Se você perdeu o primeiro, clique [aqui](http://debacontudo.com.br/de-bem-com-bsb/dudu-camargo-o-que-fazer-brasilia/) e confira as dicas do chef Dudu Camargo. 
 
-#Renata Monnerat
+# Renata Monnerat
 
-Quem fala hoje com a gente é a gerente de marketing do Brasília Shopping, Renata Monnerat. 
+Quem participa de mais um De Bem Com BsB é a gerente de marketing do **Brasília Shopping**, Renata Monnerat. 
 
-Brasiliense, ela conta que o que mais ama na capital é o céu, as linhas modernistas da construção de Brasília e como ela “conversa” com o verde e as flores da cidade. “Somos mesmo uma cidade monumento a céu aberto. Adoro a nossa diversidade”, elogia. ]No entanto, ela ressalta duas coisas que precisam melhorar: a manutenção da cidade, já que tudo anda muito destruído, sucateado e sujo; e o transporte público.
+Brasiliense, ela conta que o que mais ama na capital é o céu, as linhas modernistas da construção de Brasília e como ela “conversa” com o verde e as flores da cidade. “Somos mesmo uma cidade monumento a céu aberto. Adoro a nossa diversidade”, elogia. No entanto, ela ressalta duas coisas que precisam melhorar: a manutenção da cidade, já que tudo anda muito destruído, sucateado e sujo; e o transporte público.
 
 Vamos às dicas da Renata?
 
@@ -48,11 +48,15 @@ Nossa Cozinha Bistrô, Universal, Villa Tevere, Coco Bambu e Faisão Dourado.
 
 #####  Cafeteria
 
-Ernesto
+Ernesto Cafés especiais.
+
+**DicaDeBaconTudo:** Nós também amamos essa cafeteria. Inclusive ela faz parte do [post](http://debacontudo.com.br/comida/melhor-brunch-de-brasilia/) com os melhores brunches de Brasília.
 
 #####  Happy Hour
 
 Dudu Bar
+
+**DicaDeBaconTudo:** Também experimentamos esse Happy Hour e adoramos! Confira [aqui](http://debacontudo.com.br/de-bem-com-bsb/dudu-camargo-o-que-fazer-brasilia/)!
 
 #####  Jantar Romântico
 
@@ -68,9 +72,11 @@ Ixi, não sei. O marido é super baladeiro. Zero lugares românticos.
 
 Café da manhã em uma padaria.
 
+Também amo tomar café da manhã em uma padaria, nada melhor para começar bem o dia.
+
 ##### Aproveitando um dia de semana à noite.
 
-Cinema
+Cinema.
 
 ##### Programa a dois no final de semana.
 
@@ -94,29 +100,29 @@ Viajar com a família!!!
 
 O convidado indica e a gente experimenta. Vamos sempre escolher um dos lugares ou programas sugeridos pelo convidado para conhecer e contar para vocês como foi. 
 
-Nesta edição, escolhemos almoçar no restaurante Universal. Fomos em uma sexta-feira e escolhemos o menu zécutivo, que vem com uma entrada, prato principal e sobremesa. Tudo isso por R$ 51. Bom, né?!  A chef do restaurante, Mara Alckmin, foi super atenciosa com a gente e até nos ajudou a arrumar o prato para as fotos. =P
+Nesta edição, escolhemos almoçar no restaurante **Universal Dinner**. Fomos em uma sexta-feira e escolhemos o **menu zécutivo**, que vem com uma entrada, prato principal e sobremesa. Tudo isso por R$ 51. Bom, né?!  A chef do restaurante, Mara Alckmin, foi super atenciosa com a gente e até nos ajudou a arrumar o prato para as fotos. =P
 
-De entrada, duas opções: uma mini saladinha ou uma pamonha frita. 
+De **entrada**, duas opções: uma mini saladinha ou uma pamonha frita. 
 
+{{< img-full src="/img/2017/10/DSC_0329.jpg" alt="Zécutivo Universal Dinner"  height="628" width="1200" title="" >}}
 
+O prato do dia era **feijoada**, que estava super bem servida.
 
-O prato do dia era feijoada, que estava super bem servida.
+{{< img-full src="/img/2017/10/DSC_0340.jpg" alt="Zécutivo Universal Dinner"  height="628" width="1200" title="" >}}
 
+Para a **sobremesa,** outras duas opções: pudim de leite e pavê de abacaxi. Ambos estavam deliciosos.
 
-
-Para a sobremesa, outras duas opções: pudim de leite e pavê de abacaxi. Ambos estavam deliciosos.
-
-
+{{< img-full src="/img/2017/10/DSC_0354.jpg" alt="Zécutivo Universal Dinner"  height="628" width="1200" title="" >}}
 
 Podemos dizer que a indicação da Renata foi certeira! Adoramos! 
 
 
 
-E aí, gostou? Quem você gostaria de ver aqui no De Bem Com BsB? Em breve, muito mais dicas legais para vocês!
+E aí, gostou? Quem você gostaria de ver aqui no **De Bem Com BsB**? Em breve, muito mais dicas legais para vocês!
 
 
 
-Continue nos acompanhando! Inscreva-se aqui no site e siga a gente no Facebook e no Instagram. ;)
+Continue nos acompanhando! Inscreva-se aqui no site e siga a gente no [Facebook](https://www.facebook.com/debacontudo) e no [Instagram](https://www.instagram.com/casaldebacontudo/). ;)
 
 
 
