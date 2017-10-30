@@ -2,6 +2,8 @@
 author:
 - felipe
 banner: "/img/2017/09/receita-bobotie-banner.jpg"
+featured: true
+featuredorder: 6
 categories:
 - comida
 date: 2017-09-27 11:00:26 -0300

@@ -4,8 +4,8 @@ categories:
 - viagem
 date: 2017-09-21T18:30:44-03:00 
 description: 'Campos do Jordão é um cantinho europeu em São Paulo. Saiba tudo que tem de legal para fazer lá nesse nosso roteiro de 3 dias'
-featured: false
-featuredorder: ''
+featured: true
+featuredorder: 1
 images: []
 slug: 'melhor-roteiro-campos-do-jordao'
 structured:
@@ -15,7 +15,7 @@ tags:
 - Dicas
 - Campos do Jordão
 - São Paulo
-thumbnail: "/img/2017/09/roteiro-campos-do-jordao-thumb.jpg"
+thumbnail: "/img/2017/09/pico-itapeva-2.jpg"
 title: 'Campos do Jordão em 3 dias: confira nosso roteiro com várias dicas'
 draft: false
 author:

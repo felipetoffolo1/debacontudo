@@ -8,7 +8,7 @@ categories:
 date: 2017-09-16T15:00:44-03:00
 description: " Brasília, que é conhecida pelas suas secas, felizmente tem muitas opções para se refrescar da forma mais deliciosa que conhecemos: tomando um bom gelato. COnheça as principais..."
 draft: false
-featured: false
+featured: true
 featuredorder: 2
 images:
 -  /img/2017/09/melhor-gelato-brasilia-banner.jpg

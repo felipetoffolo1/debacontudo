@@ -7,6 +7,8 @@ categories:
 date: 2017-08-30T22:30:16
 description : 'Mergulho com tubarões brancos, pulo do maior bungee jump de ponte do mundo, visita à fazenda de avestruzes e caminhar de mãos dadas com elefantes são algumas das aventuras que a Garden Route oferece.'
 draft: false
+featured: true
+featuredorder: 2
 images:
   - /img/2017/08/melhores-garden-route-banner.jpg
 slug: o-que-fazer-garden-route

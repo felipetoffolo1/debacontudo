@@ -1,17 +1,17 @@
 ---
 author:
 - larissa
-banner: "/img/2017/09/dudu-camargo-banner.jpg"
+banner: "/img/2017/10/universal-dinner-banner.jpg"
 categories:
 - comida
 - estilo-de-vida
 - De-Bem-Com-Bsb
 date: 2017-10-29 11:00:26 -0300
 description: "No De Bem Com Bsb você descobre as coisas mais legais para comer e fazer em Brasília, indicado por quem conhece bem a capital"
-draft: true
+draft: false
 featured: false
 images:
--  /img/2017/09/dudu-camargo-banner.jpg
+-  /img/2017/10/universal-dinner-banner.jpg
 slug: "renata-monnerat-o-que-fazer-brasilia"
 structured:
   type: Article
@@ -19,7 +19,7 @@ tags:
 - Restaurantes
 - Brasília
 - De Bem Com Brasilia
-thumbnail:  "/img/2017/09/dudu-camargo-thumb.jpg"
+thumbnail:  "/img/2017/10/universal-dinner-thumb.jpg"
 title: "De Bem Com Bsb: Renata Monnerat"
 totop: true
 ---
@@ -96,11 +96,11 @@ Viajar com a família!!!
 
 
 
-### Seguindo a Sugestão
+### Seguindo a Sugestão: Universal Dinner
 
 O convidado indica e a gente experimenta. Vamos sempre escolher um dos lugares ou programas sugeridos pelo convidado para conhecer e contar para vocês como foi. 
 
-Nesta edição, escolhemos almoçar no restaurante **Universal Dinner**. Fomos em uma sexta-feira e escolhemos o **menu zécutivo**, que vem com uma entrada, prato principal e sobremesa. Tudo isso por R$ 51. Bom, né?!  A chef do restaurante, Mara Alckmin, foi super atenciosa com a gente e até nos ajudou a arrumar o prato para as fotos. =P
+Nesta edição, escolhemos almoçar no restaurante **Universal Dinner**. Fomos em uma sexta-feira e escolhemos o **menu zécutivo**, que vem com uma entrada, prato principal e sobremesa. Tudo isso por R$ 51. Bom, né?!  A chef do restaurante, **Mara Alckmin**, foi super simpática e atenciosa (inclusive vai ser a próxima entrevistada dessa coluna) com a gente e até nos ajudou a arrumar o prato para as fotos. =P
 
 De **entrada**, duas opções: uma mini saladinha ou uma pamonha frita. 
 

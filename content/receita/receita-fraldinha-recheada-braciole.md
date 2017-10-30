@@ -10,7 +10,7 @@ description: O Braciole é uma receita espetacular de origem italiana que é del
   brilhar e ganhar uns créditos culinários com os amigos ou a paquera, sem ter
   muito trabalho.
 draft: false
-featured: true
+featured: false
 images:
   - /img/2017/04/receita-fraldinha-recheada-braciole-thumb.jpg
   - /img/2017/04/receita-fraldinha-recheada-braciole-banner.jpg

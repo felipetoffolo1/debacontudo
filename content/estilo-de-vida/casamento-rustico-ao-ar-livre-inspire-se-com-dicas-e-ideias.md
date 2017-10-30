@@ -8,8 +8,8 @@ date: 2017-08-21 23:00:00 -0300
 description: 'Confira dicas para fazer um casamento rústico, chic e moderno ao ar
   livre '
 draft: false
-featured: false
-featuredorder: ''
+featured: true
+featuredorder: '3'
 images: []
 slug: ''
 structured:
