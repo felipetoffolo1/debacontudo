@@ -30,6 +30,8 @@ Hojé é dia de mais um **De Bem Com BsB**! Se você perdeu o primeiro, clique [
 
 Quem participa de mais um De Bem Com BsB é a gerente de marketing do **Brasília Shopping**, Renata Monnerat. 
 
+{{< img-full src="/img/2017/10/renata.jpg"  height="816" width="1223" title="" >}}
+
 Brasiliense, ela conta que o que mais ama na capital é o céu, as linhas modernistas da construção de Brasília e como ela “conversa” com o verde e as flores da cidade. “Somos mesmo uma cidade monumento a céu aberto. Adoro a nossa diversidade”, elogia. No entanto, ela ressalta duas coisas que precisam melhorar: a manutenção da cidade, já que tudo anda muito destruído, sucateado e sujo; e o transporte público.
 
 Vamos às dicas da Renata?
