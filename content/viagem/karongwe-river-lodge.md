@@ -37,9 +37,9 @@ O Karongwe River Lodge
 
 Ficamos duas noites hospedados no Karongwe River Lodge. Assim que chegamos já fomos recepcionados pela simpática gerente do hotel com um drinque de boas-vindas. Ela nos explicou todo o funcionamento do lodge e nos levou até a nossa cabaninha.
 
-O quarto
+# O quarto
 
-{{%img-carousel "1280" "800" "/img/2017/10/karongwe-river-lodge-vista-quarto.jpg" "/img/2017/10/karongwe-river-lodge-quarto.jpg" "/img/2017/10/karongwe-river-lodge-banheira.jpg"  "/img/2017/10/karongwe-river-lodge-banheira-2.jpg"%}}
+{{%img-carousel "1280" "800" "/img/2017/11/karongwe-river-lodge-vista-quarto.jpg" "/img/2017/11/karongwe-river-lodge-quarto.jpg" "/img/2017/11/karongwe-river-lodge-banheira.jpg"  "/img/2017/11/karongwe-river-lodge-banheira-2.jpg"%}}
 
 A cabana foi apresentada com detalhes pela gerente. São todas muito lindas, de madeira e com uma ótima estrutura. Super limpas e organizadas. Chuveiro ótimo e uma banheira delícia. Além disso, enquanto você está no safári, ao final do dia, a equipe vai até o seu quarto e liga o aquecedor, para o quarto estar na temperatura ideal para quando você chegar. Isso no inverno, né. Rs
 
@@ -51,7 +51,7 @@ São dois games por dia. Um saindo às 6h e outro às 15h30. Cada game dura trê
 
 Alimentação
 
-{{% img-carousel "1280" "800" "/img/2017/10/karongwe-river-lodge-cafe-larissa.jpg" "/img/2017/10/karongwe-river-lodge-restaurante.jpg"  "/img/2017/10/karongwe-river-lodge-ovo.jpg" "/img/2017/10/karongwe-river-lodge-almoço.jpg" %}}
+{{% img-carousel "1280" "800" "/img/2017/11/karongwe-river-lodge-cafe-larissa.jpg" "/img/2017/11/karongwe-river-lodge-restaurante.jpg"  "/img/2017/11/karongwe-river-lodge-ovo.jpg" "/img/2017/11/karongwe-river-lodge-almoço.jpg" %}}
 
 A nossa reserva dava direito a pensão completa, que inclui café da manhã, almoço, lanche da tarde, jantar, além de lanches durante os games. Ou seja, muita comida! O esquema é a la carte, com algumas exceções. Como assim? Você escolhe um prato de café da manhã, mas pode se servir num pequeno buffet com outras opções. Já no café da manhã você escolhe o prato do almoço e no almoço escolhe o prato do jantar. Super simples. A bebida alcoólica não está inclusa no pacote. Mas eles vendem vinhos a bons preços.
 
@@ -63,9 +63,9 @@ Outras coisas legais que você precisa saber
 - Como estávamos em nossa lua de mel, ganhamos um jantar completo e uma garrafa de vinho. Se você também foi curtir a sua lua de mel por lá, não esqueça de avisar logo na reserva.
 
 - Você vê vários bichos passeando pelo lodge o tempo inteiro. Não pode ter medo (como eu). Tem javali, impala e kubu. Você também pode dar a sorte de dar de cara com um elefante que fica solto pelo lodge (não foi o nosso caso), ou ser surpreendido por um macaquinho tentando entrar no seu quarto.
-  {{% img-carousel "1280" "800" "/img/2017/10/karongwe-river-lodge-cafe-javali.jpg" "/img/2017/10/karongwe-river-lodge-janela.jpg" %}}
+  {{% img-carousel "1280" "800" "/img/2017/11/karongwe-river-lodge-cafe-javali.jpg" "/img/2017/11/karongwe-river-lodge-janela.jpg" %}}
 - O lodge intercala um dia de jantar tradicional, no restaurante, com um dia de jantar no jardim do lodge, à beira de uma fogueira. A equipe do hotel dança e canta músicas típicas do país. É uma verdadeira festa! E o legal é que eles servem comidas diferentes, como carnes exóticas, e tudo num esquema coma à vontade. 
-  {{% img-carousel "1280" "800" "/img/2017/10/karongwe-river-lodge-cafe-fogueira-1.jpg" "/img/2017/10/karongwe-river-lodge-fogueira-2.jpg"  "/img/2017/10/karongwe-river-lodge-danca.jpg" "/img/2017/10/karongwe-river-lodge-prato-kubu.jpg" %}}
+  {{% img-carousel "1280" "800" "/img/2017/11/karongwe-river-lodge-cafe-fogueira-1.jpg" "/img/2017/11/karongwe-river-lodge-fogueira-2.jpg"  "/img/2017/11/karongwe-river-lodge-danca.jpg" "/img/2017/11/karongwe-river-lodge-prato-kubu.jpg" %}}
 - Há opções pagas de massagens no lodge. Nós fizemos uma massagem para as costas, que saiu por R 500, cada. Algo em torno de R$ 125.
 - A wifi só funciona no lobby, o que não é necessariamente ruim se você estiver querendo se desligar um pouco durante esses dias.
 
