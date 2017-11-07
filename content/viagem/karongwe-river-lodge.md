@@ -20,7 +20,7 @@ tags:
 thumbnail: "/img/2017/11/karongwe-river-lodge-thumb.jpg"
 title:  "Karongwe River Lodge: como é ficar hospedado na savana africana"
 totop: true
-draft: true
+draft: false
 
 ---
 
@@ -38,7 +38,7 @@ Ficamos duas noites hospedados no **Karongwe River Lodge**. Assim que chegamos j
 
 ## O quarto
 
-{{%img-carousel "1280" "800" "/img/2017/11/karongwe-river-lodge-vista-quarto.jpg" "/img/2017/11/karongwe-river-lodge-quarto.jpg" "/img/2017/11/karongwe-river-lodge-banheira.jpg"  "/img/2017/11/karongwe-river-lodge-banheira-2.jpg"%}}
+{{%img-carousel "1280" "800" "/img/2017/11/karongwe-river-lodge-vista-quarto-2.jpg" "/img/2017/11/karongwe-river-lodge-quarto.jpg" "/img/2017/11/karongwe-river-lodge-banheira.jpg"  "/img/2017/11/karongwe-river-lodge-banheira-2.jpg"%}}
 
 A cabana foi apresentada com detalhes pela gerente. São todas muito **lindas**, de **madeira** e com uma ótima **estrutura**. Super **limpas** e organizadas. Chuveiro ótimo e uma banheira delícia. Além disso, enquanto você está no **safári**, ao final do dia, a equipe vai até o seu quarto e **liga o aquecedor**, para o quarto estar na temperatura ideal para quando você chegar. Isso no inverno, né. Rs
 
