@@ -33,11 +33,11 @@ Uma experiência imperdível na África do Sul são os safaris. Não tem como ir
 
 Mas, uma das dúvidas que surgem com a ideia é: onde ficar hospedado? Como já falamos, há vários tipos de hospedagens na região do Kruger para realizar um safári, mas a que escolhemos foi ficar em um lodge. E o que é o tal do lodge? O lodge nada mais é do que um hotel ou uma pousada, que fica dentro de uma reserva e que tem várias “casinhas” ou chalés que onde ficam os hóspedes. Há opções mais chiques, outras mais acessíveis e outras ainda mais simples, com esquema de acampamento. Nós ficamos em um meio termo, mas incrivelmente bom. A maioria deles oferece pensão completa (café, almoço e jantar), além dos games (que é o ato de ir atrás dos bichinhos). Além disso os lodges ficam em dentro de reservas privadas.
 
-O Karongwe River Lodge
+# O Karongwe River Lodge
 
 Ficamos duas noites hospedados no Karongwe River Lodge. Assim que chegamos já fomos recepcionados pela simpática gerente do hotel com um drinque de boas-vindas. Ela nos explicou todo o funcionamento do lodge e nos levou até a nossa cabaninha.
 
-# O quarto
+## O quarto
 
 {{%img-carousel "1280" "800" "/img/2017/11/karongwe-river-lodge-vista-quarto.jpg" "/img/2017/11/karongwe-river-lodge-quarto.jpg" "/img/2017/11/karongwe-river-lodge-banheira.jpg"  "/img/2017/11/karongwe-river-lodge-banheira-2.jpg"%}}
 
@@ -63,9 +63,9 @@ Outras coisas legais que você precisa saber
 - Como estávamos em nossa lua de mel, ganhamos um jantar completo e uma garrafa de vinho. Se você também foi curtir a sua lua de mel por lá, não esqueça de avisar logo na reserva.
 
 - Você vê vários bichos passeando pelo lodge o tempo inteiro. Não pode ter medo (como eu). Tem javali, impala e kubu. Você também pode dar a sorte de dar de cara com um elefante que fica solto pelo lodge (não foi o nosso caso), ou ser surpreendido por um macaquinho tentando entrar no seu quarto.
-  {{% img-carousel "1280" "800" "/img/2017/11/karongwe-river-lodge-cafe-javali.jpg" "/img/2017/11/karongwe-river-lodge-janela.jpg" %}}
+  {{% img-carousel "1280" "800" "/img/2017/11/karongwe-river-lodge-javali.jpg" "/img/2017/11/karongwe-river-lodge-janela.jpg" %}}
 - O lodge intercala um dia de jantar tradicional, no restaurante, com um dia de jantar no jardim do lodge, à beira de uma fogueira. A equipe do hotel dança e canta músicas típicas do país. É uma verdadeira festa! E o legal é que eles servem comidas diferentes, como carnes exóticas, e tudo num esquema coma à vontade. 
-  {{% img-carousel "1280" "800" "/img/2017/11/karongwe-river-lodge-cafe-fogueira-1.jpg" "/img/2017/11/karongwe-river-lodge-fogueira-2.jpg"  "/img/2017/11/karongwe-river-lodge-danca.jpg" "/img/2017/11/karongwe-river-lodge-prato-kubu.jpg" %}}
+  {{% img-carousel "1280" "800" "/img/2017/11/karongwe-river-lodge-fogueira-1.jpg" "/img/2017/11/karongwe-river-lodge-fogueira-2.jpg"  "/img/2017/11/karongwe-river-lodge-danca.jpg" "/img/2017/11/karongwe-river-lodge-prato-kubu.jpg" %}}
 - Há opções pagas de massagens no lodge. Nós fizemos uma massagem para as costas, que saiu por R 500, cada. Algo em torno de R$ 125.
 - A wifi só funciona no lobby, o que não é necessariamente ruim se você estiver querendo se desligar um pouco durante esses dias.
 
