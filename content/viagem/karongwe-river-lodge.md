@@ -42,6 +42,8 @@ Ficamos duas noites hospedados no **Karongwe River Lodge**. Assim que chegamos j
 
 A cabana foi apresentada com detalhes pela gerente. São todas muito **lindas**, de **madeira** e com uma ótima **estrutura**. Super **limpas** e organizadas. Chuveiro ótimo e uma banheira delícia. Além disso, enquanto você está no **safári**, ao final do dia, a equipe vai até o seu quarto e **liga o aquecedor**, para o quarto estar na temperatura ideal para quando você chegar. Isso no inverno, né. Rs
 
+{{%subscribe%}}
+
 ## Os games
 
 {{% img-full src="/img/2017/11/karongwe-river-lodge-jipe.jpg" alt=""  height="800" width="1280" title=""  %}}
@@ -53,6 +55,8 @@ São dois games por dia. Um saindo às **6h** e outro às **15h30**. Cada game d
 {{% img-carousel "1280" "800" "/img/2017/11/karongwe-river-lodge-cafe-larissa.jpg" "/img/2017/11/karongwe-river-lodge-restaurante.jpg"  "/img/2017/11/karongwe-river-lodge-ovo.jpg" "/img/2017/11/karongwe-river-lodge-almoço.jpg" %}}
 
 A nossa reserva dava direito a **pensão completa**, que inclui c**afé da manhã, almoço, lanche da tarde**, jantar, além de lanches durante os games. Ou seja, muita comida! O esquema é a la carte, com algumas exceções. Como assim? Você escolhe um prato de café da manhã, mas pode se servir num pequeno buffet com outras opções. Já no café da manhã você escolhe o prato do almoço e no almoço escolhe o prato do jantar. Super simples. A bebida alcoólica não está inclusa no pacote. Mas eles vendem vinhos a bons preços.
+
+{{%facebook-like%}}
 
 
 ## Outras coisas legais que você precisa saber
