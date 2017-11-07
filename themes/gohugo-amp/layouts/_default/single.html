@@ -111,10 +111,11 @@
               <div class="section-title">
                 <h3>Você também vai curtir</h3>
               </div>
-              {{ range first 1 .Params.categories }} {{ $term := . }} {{ $taxonomy := index $Site.Taxonomies.categories $term }}
+              {{ $related := .Site.RegularPages.Related . | first 3 }} 
+              {{ with $related }}
               <div class="related-posts">
                 <div class="pure-g">
-                  {{ range first 3 $taxonomy.Pages }}
+                  {{ range . }}
                   <div class="pure-u-1 pure-u-md-8-24 padding-side">
                     <div class="post-container">
                       <div class="post-thumbnail">
