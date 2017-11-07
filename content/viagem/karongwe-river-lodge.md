@@ -29,12 +29,13 @@ draft: true
 
 
 Uma experiência imperdível na **África do Sul** são os safáris. Não tem como ir e não fazer. Foi uma das experiências mais incríveis que já vivenciamos em uma viagem. Inclusive fizemos um post somente sobre isso. Leia mais aqui.
+http://debacontudo.com.br/viagem/dicas-melhor-safari-africa-do-sul/
 
-Mas, uma das dúvidas que surgem com a ideia é: onde ficar hospedado? Como já falamos, há vários tipos de hospedagens na região do Kruger para realizar um safári, mas a que escolhemos foi ficar em um lodge. E o que é o tal do lodge? O lodge nada mais é do que um hotel ou uma pousada, que fica dentro de uma reserva e que tem várias “casinhas” ou chalés que onde ficam os hóspedes. Há opções mais chiques, outras mais acessíveis e outras ainda mais simples, com esquema de acampamento. Nós ficamos em um meio termo, mas incrivelmente bom. A maioria deles oferece pensão completa (café, almoço e jantar), além dos games (que é o ato de ir atrás dos bichinhos). Além disso os lodges ficam em dentro de reservas privadas.
+Mas, uma das dúvidas que surgem com a ideia é: onde ficar hospedado? Como já falamos, há vários tipos de hospedagens na região do **Kruger** para realizar um safári, mas a que escolhemos foi ficar em um lodge. E o que é o tal do lodge? O lodge nada mais é do que um hotel ou uma pousada, que fica dentro de uma reserva e que tem várias “casinhas” ou chalés que são onde ficam os hóspedes. Há opções mais chiques, outras mais acessíveis e outras ainda mais simples, com esquema de acampamento. Nós ficamos em um meio termo, mas incrivelmente bom. A maioria deles oferece pensão completa (café, almoço e jantar), além dos games (que é o ato de ir atrás dos bichinhos). Além disso os lodges ficam dentro de reservas privadas.
 
 # O Karongwe River Lodge
 
-Ficamos duas noites hospedados no Karongwe River Lodge. Assim que chegamos já fomos recepcionados pela simpática gerente do hotel com um drinque de boas-vindas. Ela nos explicou todo o funcionamento do lodge e nos levou até a nossa cabaninha.
+Ficamos duas noites hospedados no **Karongwe River Lodge**. Assim que chegamos já fomos recepcionados pela simpática gerente do hotel com um drinque de boas-vindas. Ela nos explicou todo o funcionamento do lodge e nos levou até a nossa cabaninha.
 
 ## O quarto
 
@@ -55,11 +56,9 @@ São dois games por dia. Um saindo às 6h e outro às 15h30. Cada game dura trê
 A nossa reserva dava direito a pensão completa, que inclui café da manhã, almoço, lanche da tarde, jantar, além de lanches durante os games. Ou seja, muita comida! O esquema é a la carte, com algumas exceções. Como assim? Você escolhe um prato de café da manhã, mas pode se servir num pequeno buffet com outras opções. Já no café da manhã você escolhe o prato do almoço e no almoço escolhe o prato do jantar. Super simples. A bebida alcoólica não está inclusa no pacote. Mas eles vendem vinhos a bons preços.
 
 
-
-
 ## Outras coisas legais que você precisa saber
 
-- Como estávamos em nossa lua de mel, ganhamos um jantar completo e uma garrafa de vinho. Se você também foi curtir a sua lua de mel por lá, não esqueça de avisar logo na reserva.
+- Como estávamos em nossa lua de mel, ganhamos um jantar completo e uma garrafa de vinho. Se você também for curtir a sua lua de mel por lá, não esqueça de avisar logo na reserva.
 
 - Você vê vários bichos passeando pelo lodge o tempo inteiro. Não pode ter medo (como eu). Tem javali, impala e kubu. Você também pode dar a sorte de dar de cara com um elefante que fica solto pelo lodge (não foi o nosso caso), ou ser surpreendido por um macaquinho tentando entrar no seu quarto.
   {{% img-carousel "1280" "800" "/img/2017/11/karongwe-river-lodge-javali.jpg" "/img/2017/11/karongwe-river-lodge-janela.jpg" %}}
