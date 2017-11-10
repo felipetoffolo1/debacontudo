@@ -25,7 +25,7 @@ body {
   margin: 0;
   padding: 0;
   @include font-family($font-primary);
-  font-size: 13px;
+  font-size: 15px;
   line-height: 24px;
   color: $grey;
   background: $white;
@@ -130,7 +130,7 @@ textarea {
 }
 
 label {
-  font-size: 12px;
+  font-size: 14px;
   letter-spacing: 1px;
   text-transform: uppercase;
 }
@@ -150,12 +150,16 @@ label {
 h1 {
   font-size: 36px;
   line-height: 36px;
+  border-bottom: 1px solid $dark-white;
+  // width:100%;
 }
 
 h2 {
   font-size: 30px;
   line-height: 34px;
   font-weight: 500;
+  border-bottom: 1px solid $dark-white;
+  // width:100%;
 }
 
 h3 {
@@ -212,7 +216,7 @@ hr {
 
     &:first-letter {
       margin-right: 7px;
-      padding: 5px 12px;
+      padding: 5px 14px;
       font-size: 16px;
       letter-spacing: 0;
       color: $white;
@@ -248,7 +252,7 @@ hr {
 }
 
 .taxonomy-description {
-  font-size: 13px;
+  font-size: 15px;
 }
 
 .text-capitalize {
@@ -285,7 +289,7 @@ hr {
     @include border-radius(28px);
     padding-left: 25px;
     padding-right: 25px;
-    padding-bottom: 12px;
+    padding-bottom: 14px;
   }
 
   &,
@@ -302,7 +306,7 @@ hr {
   }
 
   &-xs {
-    @include border-radius(12px);
+    @include border-radius(14px);
     padding-left: 10px;
     padding-right: 10px;
   }
@@ -532,7 +536,7 @@ input[type="submit"] {
           position: relative;
           margin-right: 5px;
           @include font-family($font-secondary);
-          font-size: 14px;
+          font-size: 16px;
           font-weight: 700;
           letter-spacing: 1px;
           text-transform: uppercase;
@@ -642,7 +646,7 @@ input[type="submit"] {
   a {
     display: block;
     padding: 14px 18px 16px;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 700;
     text-decoration: none;
     text-transform: uppercase;
@@ -789,7 +793,7 @@ input[type="submit"] {
 */
 #content {
   width: 100%;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 26px;
   color: darken($grey, 2%);
 }
@@ -906,7 +910,7 @@ input[type="submit"] {
   &-meta {
     display: block;
     text-align: center;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 21px;
     font-style: italic;
     color: darken($white, 25%);
@@ -981,7 +985,7 @@ input[type="submit"] {
   }
 
   &-content {
-    font-size: 13px;
+    font-size: 15px;
     line-height: 24px;
     color: $text-color;
 
@@ -1035,7 +1039,7 @@ input[type="submit"] {
     display: block;
     margin-top: 20px;
     margin-bottom: 20px;
-    font-size: 12px;
+    font-size: 14px;
     text-transform: uppercase;
 
     .tags-links {
@@ -1045,7 +1049,7 @@ input[type="submit"] {
       a {
         display: inline-block;
         margin-right: 5px;
-        font-size: 14px;
+        font-size: 16px;
         text-transform: none;
         color: lighten($grey, 25%);
 
@@ -1094,7 +1098,7 @@ input[type="submit"] {
       }
 
       p {
-        font-size: 13px;
+        font-size: 15px;
         line-height: 22px;
       }
     }
@@ -1138,7 +1142,7 @@ input[type="submit"] {
   .moretext {
     display: inline-block;
     padding: 6px 18px;
-    font-size: 12px;
+    font-size: 14px;
     text-transform: uppercase;
     border: 2px solid $text-color;
     @include border-radius(25px);
@@ -1172,7 +1176,7 @@ input[type="submit"] {
   }
 
   .entry-content {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 25px;
   }
 }
@@ -1397,7 +1401,7 @@ input[type="submit"] {
         &::before {
           content: '\f177';
           @include font-family($font-awesome);
-          font-size: 12px;
+          font-size: 14px;
           margin-right: 15px;
         }
       }
@@ -1416,7 +1420,7 @@ input[type="submit"] {
         &::after {
           content: '\f178';
           @include font-family($font-awesome);
-          font-size: 12px;
+          font-size: 14px;
           margin-left: 15px;
         }
       }
@@ -1497,7 +1501,7 @@ input[type="submit"] {
     clip: auto;
     color: darken($theme-color, 15%);
     display: block;
-    font-size: 14px;
+    font-size: 16px;
     font-size: 0.875rem;
     font-weight: bold;
     height: auto;
@@ -1580,7 +1584,7 @@ input[type="submit"] {
     display: block;
     padding-top: 20px;
     margin-bottom: 40px;
-    font-size: 13px;
+    font-size: 15px;
     line-height: 24px;
     letter-spacing: 1px;
     font-weight: 700;
@@ -1594,7 +1598,7 @@ input[type="submit"] {
 
       &:first-letter {
         margin-right: 7px;
-        padding: 5px 12px;
+        padding: 5px 14px;
         font-size: 16px;
         letter-spacing: 0;
         color: $white;
@@ -1720,13 +1724,13 @@ input[type="submit"] {
 
       a {
         display: inline-block;
-        padding: 5px 12px;
+        padding: 5px 14px;
         margin-right: 5px;
         margin-bottom: 8px;
         border: 1px solid $grey;
         @include border-radius(3px);
         @include box-sizing;
-        font-size: 12px;
+        font-size: 14px;
         line-height: 22px;
         text-transform: capitalize;
         color: $grey;
@@ -1771,7 +1775,7 @@ input[type="submit"] {
   &_text {
     .textwidget {
       @include font-family($font-secondary);
-      font-size: 13px;
+      font-size: 15px;
       line-height: 28px;
       color: darken($grey, 15%);
 
@@ -1890,7 +1894,7 @@ input[type="submit"] {
       height: 50px;
       border: 1px solid $text-color;
       border-right-width: 0px;
-      font-size:12px;
+      font-size:14px;
       // background-color: darken($white, 05%);
 
     }
@@ -1933,7 +1937,7 @@ input[type="submit"] {
     width: 280px;
     padding: 15px 20px;
     letter-spacing: 1px;
-    font-size: 12px;
+    font-size: 14px;
     border: 0;
     @include border-radius(0);
     @include box-shadow-none;
@@ -1944,7 +1948,7 @@ input[type="submit"] {
   input[type="button"],
   input[type="submit"] {
     padding: 13px 20px;
-    font-size: 12px;
+    font-size: 14px;
     text-transform: uppercase;
     border: 2px solid $text-color;
     @include border-radius(0);
@@ -1998,7 +2002,7 @@ input[type="submit"] {
       }
 
       .instagram-subtitle {
-        font-size: 12px;
+        font-size: 14px;
         text-transform: uppercase;
         letter-spacing: 2px;
         color: lighten($grey, 15%);
