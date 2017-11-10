@@ -111,6 +111,6 @@ A Fragola é um daqueles **achados** que a gente guarda com **carinho**. Essa do
 
 ------
 
-E ai? Gostaram das dicas? Aqui a gente tem mais um monte, vai conferindo.
+E ai? Você concorda? Discorda? Acha que faltou algum? Ou ama algum desses? Conta pra gente pelo [**Instagram**](https://www.instagram.com/casaldebacontudo/) ou pelo [**Facebook**](https://www.facebook.com/debacontudo/)..
 
 {{<subscribe>}}
