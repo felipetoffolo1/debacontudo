@@ -102,7 +102,7 @@ Outro lugar que **não poderia ficar de fora** dessa lista é o Nossa Cozinha Bi
 
 {{< img-full src="/img/2017/11/cheesecake-fragola.jpg" alt="Cheesecake Fragola"  height="800" width="1280" >}}
 
-A Fragola é um daqueles **achados** que a gente guarda com **carinho**. Essa doceria, criada por **duas irmãs**, ainda não tem local fixo, somente no nosso coração. Você pode encontra-lá em **eventos** e feiras pela cidade ou pelas **redes sociais**. E você precisa fazer isso. Esse cheesecake é a explendida e um dos **nossos favorito**s (é difícil escolher um só). Para encomendar você pode pedir uma torta inteira, ou o cheesecake no pote. Quer uma sugestão? **Compre esse potinho** e deixe um tempo no freezer antes de comer, confie.
+A Fragola é um daqueles **achados** que a gente guarda com **carinho**. Essa doceria, criada por **duas irmãs**, ainda não tem local fixo, somente no nosso coração. Você pode encontra-lá em **eventos** e feiras pela cidade ou pelas **redes sociais**. E você precisa fazer isso. Esse cheesecake é uma delícia e um dos **nossos favoritos** (é difícil escolher um só). Para encomendar, você pode pedir uma torta inteira ou o cheesecake no pote. Quer uma sugestão? **Compre esse potinho** e deixe um tempo no freezer antes de comer. Fica maravilhoso!
 
 - **Sabores**: Frutas vermelhas e vegano
 - **Preço**:  R$16,00 o pote e o cheesecake inteiro R$ 100,00.
