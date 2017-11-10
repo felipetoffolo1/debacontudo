@@ -150,16 +150,12 @@ label {
 h1 {
   font-size: 36px;
   line-height: 36px;
-  border-bottom: 1px solid $dark-white;
-  // width:100%;
 }
 
 h2 {
   font-size: 30px;
   line-height: 34px;
   font-weight: 500;
-  border-bottom: 1px solid $dark-white;
-  // width:100%;
 }
 
 h3 {
@@ -1178,6 +1174,10 @@ input[type="submit"] {
   .entry-content {
     font-size: 16px;
     line-height: 25px;
+    h1, h2{
+        border-bottom: 1px solid $dark-white;
+
+    }
   }
 }
 @media screen and (max-width: 667px) {
