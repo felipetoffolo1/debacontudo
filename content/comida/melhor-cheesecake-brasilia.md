@@ -69,8 +69,8 @@ Quem é fã de cheesecake já sabe que o Objeto Encontrado **entende do assunto*
 
 ps: A cheesecake é do Objeto, mas a foto foi no [Acervo Café](https://www.instagram.com/acervocafe/), outro lugar que amamos
 
-- **Sabores**: Frutas Vermelhas
-- **Preço**:  Esquecemos de anotar, mas já vamos atualizar
+- **Sabores**: Morango e Framboesa
+- **Preço**:  R$ 15,00
 
 {{<restaurant-simple address="CLN 102 Bloco B Loja 56"  face="https://www.facebook.com/objetoencontrado.galeriadearte/">}}
 
