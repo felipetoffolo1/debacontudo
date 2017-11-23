@@ -7,6 +7,7 @@ categories:
 - comida
 - estilo-de-vida
 date: 2017-08-12T08:30:44-03:00
+lastmod: 2017-11-21
 description: "Gente, quem não gosta de croissant? Pois é, ninguém. Nós amamos. Amamos tanto que resolvemos sair comendo todos que encontramos por aqui tentando achar o melhor croissant de Brasília."
 draft: false
 featured: false
@@ -21,7 +22,7 @@ tags:
 - Brasília
 - Review
 thumbnail:  "/img/2017/08/melhor-croissant-brasilia-thumb.jpg"
-title: "8 deliciosos croissants em Brasília que você não pode perder"
+title: "9 deliciosos croissants em Brasília que você não pode perder"
 totop: true
 ---
 Gente, quem não gosta de **croissant**? Pois é, acho que ninguém. Ou pelos menos **ninguém** que clicou nesse link. Já deu pra ver que a **gente ama**. Amamos tanto que resolvemos sair **comendo todos** que encontramos por aqui tentando achar o **melhor croissant** de Brasília.
@@ -97,6 +98,18 @@ A La Boulangerie é outra padaria já **clássica** de Brasília. E, obviamente,
 
 {{<restaurant-simple address="A primeira fica na 306 Sul bloco B loja 10"  face="https://www.facebook.com/laboulangerie306/">}}
 
+# Varanda Pães Artesanais
+
+{{< img-full src="/img/2017/11/varanda-croissant.jpg" alt="Varanda Pães Artesanais"  height="1200" width="1200" >}}
+
+A **Varanda Pães Especiais** foi superindicada, tanto que fomos lá conhecer e atualizamos o post com ela.
+
+E não é de se admirar tanta **indicação**. O croissant (R$ 6) de lá é simplesmente **maravilhoso**. Feito com muito carinho, ele mostra porque o Varanda tem tantos **fãs** (entre eles a **Chef Mara Alcimin** que falou pra gente ir lá). Quando você morde o croissant  do Varanda Pães Artesanais você sente a crocancia de cada camada da sua massa folhada. Em uma massa leve e super saborosa, como deve ser. 
+
+Além de tudo isso o ambiente é muito acochegante, as pessoas sorridentes e com um climinha de "**sinta-se em casa**" no ar. Corre lá para comer o seu, que eles são disputadissimos e se você demorar fica sem.
+
+{{<restaurant-simple address="CLN 215 Bloco D"  face="https://www.facebook.com/varandapaesartesanais/">}}
+
 ------
 
 Esperamos que vocês tenham gostado. E se não gostaram ainda, é por que não experimentaram ;)
@@ -104,3 +117,11 @@ Esperamos que vocês tenham gostado. E se não gostaram ainda, é por que não e
 Voltem sempre por aqui , e vejam as nossa novidades. Aproveita e segue no Insta e Face
 
 {{<subscribe>}}
+
+
+
+------
+
+Atualizações:
+
+**21/11/2017**: adicionando o Varanda Pães Especiais
