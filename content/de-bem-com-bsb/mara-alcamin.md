@@ -6,7 +6,7 @@ categories:
 - comida
 - estilo-de-vida
 - De-Bem-Com-Bsb
-date: 2017-11-23 11:00:26 -0300
+date: 2017-11-23
 description: ""
 draft: true
 featured: false
@@ -32,7 +32,7 @@ E para dar dicas de lugares e restaurantes legais em Brasília, convidamos Mara 
 
 Vamos às dicas? 
 
-{{< img-full src="/img/2017/10/renata.jpg"  height="816" width="1223" title="" >}}
+{{< img-full src="/img/2017/11/mara-alcamin.jpg"  height="800" width="1280" title="" >}}
 
 ## As indicações
 
@@ -94,9 +94,9 @@ Comida regional, rabada e galinhada e sarapetel.
 
 
 
-{{< img-full src="/img/2017/10/DSC_0329.jpg" alt="Zécutivo Universal Dinner"  height="628" width="1200" title="" >}}
+{{< img-full src="/img/2017/11/varanda-paes-especiais.jpg" alt=""  height="800" width="1280" title="" >}}
 
-
+{{< img-full src="/img/2017/11/campos-comida-nordestina.jpg" alt=""  height="800" width="1280" title="" >}}
 
 
 
