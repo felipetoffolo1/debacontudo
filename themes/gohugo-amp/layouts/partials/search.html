@@ -1,0 +1,11 @@
+<div class="search-form pure-form">
+    <!-- <div class="pure-form"> -->
+        <label for="search" class="sr-only">Pesquisar</label>
+        <input type="text" id="searchinput"  name="searchinput" class=" pure-input-rounded search-field"  on="change:AMP.setState({query: event.value })" placeholder="Pesquisar">
+        <!-- .form-group -->
+        <a [href]="'/search?query=' + query" class="btn btn-default search-submit pure-button">
+            <i class="fa fa-search"></i>
+        </a>
+    <!-- </div> -->
+    
+    </div>

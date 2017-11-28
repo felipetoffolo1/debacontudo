@@ -467,23 +467,30 @@ input[type="submit"] {
 */
 .search-form {
   position: relative;
+  .form-group {
+    display: inline-block;
+  }
 
   .search-field {
     padding-left: 20px;
     padding-right: 30px;
     @include border-radius(20px);
-    border-color: darken($white, 5%);
+    border: 1px solid darken($white, 5%);
     @include box-shadow-none;
     background-color: darken($white, 5%);
+    @include font-family($font-primary);
+    font-size: 14px;
   }
 
   .search-submit {
-    position: absolute;
-    right: 0;
+    position: relative;
+    right: 25px;
     top: 0;
+    padding: 0;
     @include border-radius(20px);
     background-color: transparent;
     border: none;
+
   }
 }
 /*

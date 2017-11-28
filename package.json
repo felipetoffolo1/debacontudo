@@ -23,10 +23,14 @@
   "devDependencies": {
     "autoprefixer": "^6.7.6",
     "cssnano": "^3.10.0",
+    "grunt": "^1.0.1",
     "html-minifier": "^3.4.0",
     "node-sass": "^3.13.1",
     "nodemon": "^1.11.0",
-    "postcss": "^5.2.15"
+    "postcss": "^5.2.15",
+    "string": "^3.3.3",
+    "toml": "^2.3.3",
+    "yamljs": "^0.3.0"
   },
   "repository": {
     "type": "git",
