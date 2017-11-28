@@ -124,7 +124,7 @@
 
 
 
-            return lunrIndex.search(query + "*").map(function (result) {
+            return lunrIndex.search(query.normalize('NFD').replace(/[\u0300-\u036f]/g, "") + "*").map(function (result) {
                 return pagesIndex.filter(function (page) {
                     return page.href === result.ref;
                 })[0];
@@ -145,7 +145,6 @@
                 //     href: result.href,
                 //     text: "» " + result.title
                 // }));
-                console.log(result);
                 $results.append($('<div class="pure-u-md-12-24 pure-u-1"> <article class= "post post-grid format-standard hentry" >' +
                     '<div class="entry-featured-image"><amp-img src="'+ result.thumb +'" layout="responsive" width="337.5" height="337.5" alt=""></amp-img></div> ' +
 
@@ -178,7 +177,8 @@
             $results = $("#results");
             $search = $("#search");
             var query;
-            var urlQuery = new RegExp('[\?&]query=([^]*)').exec(window.location.href);
+            var uri_dec = decodeURIComponent(window.location.href);
+            urlQuery = new RegExp('[\?&]query=([^]*)').exec(uri_dec);
             console.log(urlQuery);
             if (urlQuery !== null) {
                 query = urlQuery[1];
