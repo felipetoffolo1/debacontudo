@@ -102,11 +102,11 @@ A La Boulangerie é outra padaria já **clássica** de Brasília. E, obviamente,
 
 {{< img-full src="/img/2017/11/varanda-croissant.jpg" alt="Varanda Pães Artesanais"  height="1200" width="1200" >}}
 
-A **Varanda Pães Especiais** foi superindicada, tanto que fomos lá conhecer e atualizamos o post com ela.
+A **Varanda Pães Especiais** foi super bem indicada, tanto que fomos lá conhecer e tivemos que atualizar o post.
 
-E não é de se admirar tanta **indicação**. O croissant (R$ 6) de lá é simplesmente **maravilhoso**. Feito com muito carinho, ele mostra porque o Varanda tem tantos **fãs** (entre eles a **Chef Mara Alcimin** que falou pra gente ir lá). Quando você morde o croissant  do Varanda Pães Artesanais você sente a crocancia de cada camada da sua massa folhada. Em uma massa leve e super saborosa, como deve ser. 
+E não é de se admirar tanta **indicação**. O croissant (R$ 6) de lá é simplesmente **maravilhoso**. Feito com muito carinho, ele mostra porque o Varanda tem tantos **fãs** (entre eles, a **Chef Mara Alcamim** que falou para a gente ir lá). Quando você morde o croissant  do **Varanda Pães Artesanais**, você sente a crocância de cada camada da sua massa folhada, uma massa leve e super saborosa, como deve ser. 
 
-Além de tudo isso o ambiente é muito acochegante, as pessoas sorridentes e com um climinha de "**sinta-se em casa**" no ar. Corre lá para comer o seu, que eles são disputadissimos e se você demorar fica sem.
+Além de tudo, o ambiente é muito aconchegante, as pessoas sorridentes e um climinha de "**sinta-se em casa**" no ar. Corre lá para comer o seu já que eles são disputadíssimos. ;)
 
 {{<restaurant-simple address="CLN 215 Bloco D"  face="https://www.facebook.com/varandapaesartesanais/">}}
 
