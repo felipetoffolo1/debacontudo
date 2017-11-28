@@ -480,12 +480,15 @@ input[type="submit"] {
     background-color: darken($white, 5%);
     @include font-family($font-primary);
     font-size: 14px;
+    line-height: 20px;
+    height: 30px;
+    width:80%;
   }
 
   .search-submit {
     position: relative;
-    right: 25px;
-    top: 0;
+    right: 28px;
+    bottom: 2px;
     padding: 0;
     @include border-radius(20px);
     background-color: transparent;
@@ -893,7 +896,7 @@ input[type="submit"] {
   &-title {
     display: block;
     max-width: 90%;
-    margin: 0 auto;
+    margin: 0 auto 10px;
     @include font-family($font-secondary);
     font-size: 28px;
     line-height: 34px;
@@ -913,7 +916,7 @@ input[type="submit"] {
   &-meta {
     display: block;
     text-align: center;
-    font-size: 14px;
+    font-size: 12px;
     line-height: 21px;
     font-style: italic;
     color: darken($white, 25%);
@@ -1008,6 +1011,7 @@ input[type="submit"] {
     p {
       padding-top: 10px;
       padding-bottom: 5px;
+      margin-top: 0; 
     }
 
     strong {
@@ -1218,6 +1222,7 @@ input[type="submit"] {
       }
 
       .entry-meta {
+        font-size: 12px;
         text-align: center;
       }
     }
