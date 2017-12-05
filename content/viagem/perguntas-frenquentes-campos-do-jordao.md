@@ -24,7 +24,7 @@ title: '9 perguntas frequentes sobre Campos do Jordão'
 totop: true
 ---
 
-Campos do Jordão é uma linda cidade e ótima de se conhecer. Mas turista bom é turista planejado. Então conheças a principais perguntas que quem vai para Campos do Jordão precisa saber
+Campos do Jordão é uma linda cidade e ótima para se conhecer. Mas turista bom é turista planejado, não é mesmo?! Então conheça as principais dúvidas de quem vai para Campos do Jordão e confira nossas dicas. 
 
 # 1 - Campos do Jordão é muito frio? Preciso levar muita roupa?
 
@@ -40,7 +40,7 @@ Isso vai **depender**, claro, da época em que você está pensando em ir. Mas p
 
 {{<img-full src="/img/2017/09/la-galia.jpg" alt=""  height="800" width="1280" title="Entrada de linguiça de Javali">}}
 
-Não sabemos se foi a época em que a gente foi, mas achamos os **preços** dos restaurantes em Campos do Jordão bem **salgados**. E olha que a comida não tinha **nada demais**. O prato que teve o **melhor custo benefício** foi o fondue, já que você consegue aproveitar a noite toda e paga somente um valor **fixo**. Tem rodízio a partir de **R$ 59**. No almoço, você consegue encontrar restaurantes mais afastados com preços mais acessíveis. Mas, se você quiser jantar na praça do Capivari, por exemplo, prepare-se para abrir um pouco o bolso.
+Não sabemos se foi a época em que a gente foi, mas achamos os **preços** dos restaurantes em Campos do Jordão bem **salgados**. E olha que a comida não tinha **nada demais**. O prato que teve o **melhor custo benefício** foi o fondue, já que você consegue aproveitar a noite toda e paga somente um valor **fixo**. Tem rodízio a partir de R$ 59. No almoço, você consegue encontrar restaurantes mais afastados com preços mais acessíveis. Mas, se você quiser jantar na **Vila Capivari**, por exemplo, prepare-se para abrir um pouco o bolso.
 
 {{%quote-him "Os restaurantes Krokodillo também tem bons preços - Felipe"%}}
 
@@ -48,13 +48,13 @@ Não sabemos se foi a época em que a gente foi, mas achamos os **preços** dos 
 
 {{<img-full src="/img/2017/12/love-itapeva.jpg" alt=""  height="800" width="1280" title="Love is in the air!" >}}
 
-Dá para fazer os dois, é claro. Mas, não podemos negar que a cidade tem um **climinha romântico** (o que pode ser vantagem para os solteiros também), principalmente à noite. A praça do **Capivari** tem vários restaurantes legais para jantar a dois, mas nada impede você de ir e curtir com seus amigos. Inclusive vimos nos bares bastantes mesas aparentemente de solteiros. 
+Dá para fazer os dois, é claro. Mas, não podemos negar que a cidade tem um **climinha romântico**, principalmente à noite (o que pode ser vantagem para os solteiros também). A Vila **Capivari** tem vários restaurantes legais para jantar a dois, mas nada impede você de ir e curtir com seus amigos. Inclusive vimos nos bares bastantes mesas aparentemente de solteiros. 
 
 # 4 - É difícil encontrar hotel em Campos do Jordão?
 
-Não é que difícil achar **hotel**, mas é difícil achar bom custo benefício, os hotéis em Campos do Jordão não são **nada baratos**. Nós alugamos uma casa pelo **AirBnB** e achamos que super **vale a pena**. 
+Não é que difícil achar **hotel**, mas é difícil achar bom custo benefício. Os hotéis em Campos do Jordão não são **nada baratos**. Nós alugamos uma casa pelo **AirBnB** e achamos que super **vale a pena**. 
 
-**Dica**: Não tem muitos lugares bons para tomar café da manhã na cidade (tirando o **[Sans Souci](http://www.sanssoucibistro.com.br/)** mas que é caro), leve em consideração na hora de escolher uma hospedagem. 
+**Dica**: Não tem muitos lugares bons para tomar café da manhã na cidade (tirando o **[Sans Souci](http://www.sanssoucibistro.com.br/)** mas que é caro). Leve isso em consideração na hora de escolher uma hospedagem. 
 
 {{<img-full src="/img/2017/12/cafe-da-manha.jpg" alt=""  height="800" width="1280" title="" >}}
 
@@ -62,15 +62,15 @@ Não é que difícil achar **hotel**, mas é difícil achar bom custo benefício
 
 {{<img-full src="/img/2017/12/baden-baden.jpg" alt=""  height="800" width="1280" title="" >}}
 
-Sim, **vale a pena**! Antes de irmos, lemos vários comentários de pessoas dizendo que não valeria. Mas o preçoé apenas R$ 30 (valor referente à setembro de 2017), você faz o tour, experimenta **três cervejas** (descubra **[aqui](http://debacontudo.com.br/viagem/melhor-roteiro-campos-do-jordao/)** como descolar mais uma) e ainda leva uma **taça** da Baden Baden para a casa. (só a taça custa esse valor). E o que você encontra no tour? Bom, aí não vamos contar para não perder a graça, né. 
+Sim, **vale a pena**! Antes de irmos, lemos vários comentários de pessoas dizendo que não valeria. Mas por apenas R$ 30 (valor do tour referente à setembro de 2017), você faz o tour, experimenta **três cervejas** (descubra **[aqui](http://debacontudo.com.br/viagem/melhor-roteiro-campos-do-jordao/)** como descolar mais uma) e ainda leva uma **taça** da Baden Baden para a casa. (só a taça custa esse valor). E o que você encontra no tour? Bom, aí não vamos contar para não perder a graça, né. 
 
 # 6 - É mais barato comprar a cerveja Baden Baden na fábrica de Campos do Jordão? 
 
-É mais barato comprar na fábrica do que nos restaurantes em Campos do Jordão. Mas as vezes encontramos cervejas Baden Baden aqui em Brasília pelo mesmo valor que encontramos na fábrica. Ou seja,  não compensa comprar muita cerveja para levar para casa.
+É mais barato comprar na fábrica do que nos restaurantes em Campos do Jordão. Mas às vezes encontramos cervejas **Baden Baden** aqui em Brasília pelo mesmo valor que encontramos na fábrica. Ou seja,  não compensa comprar muita cerveja para levar para casa.
 
 # 7 - Quantos dias preciso para conhecer bem Campos do Jordão?
 
-Nós conseguimos incluir todos os programas que a gente queria fazer em três dias. Mas, a quantidade ideal vai depender do tempo que você tem disponível. É claro que com mais dias você consegue aproveitar melhor cada lugar, mas super dá para fazer um roteiro que engloba os principais pontos turísticos de Campos do Jordão em três dias. Para saber mais, leia o post que fizemos: [Campos do Jordão em 3 dias: confira nosso roteiro com várias dicas.](http://debacontudo.com.br/viagem/melhor-roteiro-campos-do-jordao/) 
+Nós conseguimos incluir todos os programas que a gente queria fazer em três dias. Mas, a quantidade ideal vai depender do tempo que você tem disponível. É claro que com mais dias você consegue aproveitar melhor cada lugar, mas super dá para fazer um roteiro que engloba os principais pontos turísticos de **Campos do Jordão** em três dias. Para saber mais, leia o post que fizemos: [Campos do Jordão em 3 dias: confira nosso roteiro com várias dicas.](http://debacontudo.com.br/viagem/melhor-roteiro-campos-do-jordao/) 
 
 # 8 - Quais são os passeios imperdíveis em Campos do Jordão?
 
@@ -91,8 +91,10 @@ O Felícia Leirner é um museu a céu aberto muito bonito, mas que não tem nada
 Como já falamos no nosso post, a Ducha de Prata não tem NADA demais. São vários canos caindo uma aguinha e parece mais que você está visitando uma rede de tratamento de esgoto. Pule esse programa. Já o borboletário é um passeio caro que não chamou nossa atenção. Primeiro pelo tempo que a gente ia ficar ali, depois porque a própria recepcionista do local disse que não tinham muitas borboletas para ver.
 {{% quote-him "Maior decepção de todas - Felipe"%}}
 
-# 9 - Preciso de carro em Campos de Jordão? 
+# 9 - Preciso ir de carro  para Campos de Jordão? 
 
-A gente estava de carro e foi **essencial**. As coisas são bem distantes e ia ficar difícil usar transporte público ou vans. A gente não pesquisou muito sobre essa possibilidade. Mas também não vimos muita gente usando. 
+A gente estava de carro e super facilitou nossa vida. Os locais que você provavelmente vai querer visitar são bem distantes um do outro, o que dificulta ter que usar transporte público ou van. Mas também não pesquisamos muito sobre essa possibilidade e nem vimos muita gente usando. 
+
+É isso! Esperamos que esse FAQ te ajude a planejar a sua viagem para **Campos do Jordão**. 
 
 Para ficar sempre por dentro, siga a gente no [Instagram](https://www.instagram.com/casaldebacontudo/) e no [Facebook](https://www.facebook.com/debacontudo) e veja tudo que a gente apronta!
