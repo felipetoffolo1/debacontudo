@@ -88,7 +88,7 @@ Decidimos então ir direto para a cervejaria **Caras de Malte**, que pertence ao
 
 {{<img-full src="/img/2017/09/ducha-de-prata.jpg" alt=""  height="800" width="1280" title="Carinha de quem tá gostando demais" >}}
 
-{{facebook-like}}
+{{%facebook-like%}}
 
 ## Pico do Itapeva
 
@@ -154,9 +154,9 @@ Particularmente, achei que foi **bem legal o tour**, já que não é daqueles to
 
 **Dica**: No tour o guia vai dizer dar cevada para todos experimentarem e vai dizer que tem o Lupulo lá para quem quiser experimentar, mas que é super ruim o gosto. Depois que termina isso, quem experimentou o lúpulo vai ganhar um choop extra!!!
 
-{{quote-him "Ainda bem que eu saio experimentando tudo que posso ;)"}}
+{{%quote-him "Ainda bem que eu saio experimentando tudo que posso ;)"%}}
 
-{{subscribe}}
+{{%subscribe%}}
 
 ## Um pouco de massa e fritura
 
