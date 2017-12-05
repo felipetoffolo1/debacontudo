@@ -54,7 +54,7 @@ Jantamos no restaurante **La Gália**, que possui algumas **carnes exóticas**, 
 
 Aliás, comer em Campos do Jordão **não sai nada barato**. As porções não são bem servidas e o preço é bem salgado. A comida é boa, mas não é nada de outro mundo. Se você for beber vinho como a gente, nem se fala. Já prepare o bolso!
 
-{{subscribe}}
+{{<subscribe>}}
 
 ## DIa 2
 
@@ -122,7 +122,7 @@ Além disso ele é super bem organizado, limpo e bem feito. É de dar orgulho. A
 
 {{<img-full src="/img/2017/09/amantikir-5.jpg" alt=""  height="1280" width="1280" title="" >}}
 
-{{quote-him "Que no nosso caso foram muitas, cada moitinha era um (ou vários) click - Felipe"}}
+{{%quote-him "Que no nosso caso foram muitas, cada moitinha era um (ou vários) click - Felipe"%}}
 
 ## Krokodillo, onipresente em Campos
 
