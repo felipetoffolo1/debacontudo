@@ -42,7 +42,7 @@ Isso vai **depender**, claro, da época em que você está pensando em ir. Mas p
 
 Não sabemos se foi a época em que a gente foi, mas achamos os **preços** dos restaurantes em Campos do Jordão bem **salgados**. E olha que a comida não tinha **nada demais**. O prato que teve o **melhor custo benefício** foi o fondue, já que você consegue aproveitar a noite toda e paga somente um valor **fixo**. Tem rodízio a partir de R$ 59. No almoço, você consegue encontrar restaurantes mais afastados com preços mais acessíveis. Mas, se você quiser jantar na **Vila Capivari**, por exemplo, prepare-se para abrir um pouco o bolso.
 
-{{%quote-him "Os restaurantes Krokodillo também tem bons preços - Felipe"%}}
+{{%quote-him "Os restaurantes do Krokodillo também têm bons preços - Felipe"%}}
 
 # 3 - Campos do Jordão é uma cidade para viagens de casal ou amigos?
 
