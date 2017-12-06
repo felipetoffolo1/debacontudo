@@ -5,10 +5,10 @@ banner: /img/2017/12/faq-campos-banner.jpg
 categories:
   - viagem
 date: 2017-12-05
-description : 'Campos do Jordão é uma linda cidade e ótima de se conhecer. Mas turista bom é turista planejado. Então conheças a principais perguntas que quem vai para Campos do Jordão precisa saber.'
+description : 'Campos do Jordão é uma linda cidade e ótima para se conhecer. Mas turista bom é turista planejado, não é mesmo?! Então conheça as principais dúvidas de quem vai para Campos do Jordão e confira nossas dicas.'
 draft: false
 images:
-  - /img/2017/11/faq-campos-banner.jpg
+  - /img/2017/12/faq-campos-banner.jpg
 slug: perguntas-frequentes-campos-do-jordao
 structured:
   type: Article
