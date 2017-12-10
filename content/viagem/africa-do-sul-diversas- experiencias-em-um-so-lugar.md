@@ -19,6 +19,7 @@ tags:
   - viagens
   - dicas
   - listas
+  - Africa do Sul
 
 thumbnail: /img/2017/07/africa-do-sul-diversas-experiencias-em-um-so-lugar-thumb.jpg
 title: 'África do sul: diversas experiências em um só lugar'
