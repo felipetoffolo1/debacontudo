@@ -23,7 +23,7 @@ totop: true
 ---
 
 # Um Bistrô tupiniquim
-O **Santo Zé** nasceu com uma proposta de Bistrô, porém com uma pegada bem brasileira. Essa brasilidade é percebida tanto no nome quanto no menu do restaurante. Outra característica importante do Santo Zé são os **drinks**. Apesar de não ter sido parte da ideia inicial, os drinks foram ficando cada vez mais conhecidos, parte por um dos sócios ter um background de barman.
+O **Santo Zé** nasceu com uma proposta de Bistrô, porém com uma pegada bem brasileira. Essa brasilidade é percebida tanto no nome quanto no menu do restaurante (criado por Gabriel um dos sócios do restaurante). Outra característica importante do Santo Zé são os **drinks**. Apesar de não ter sido parte da ideia inicial, os drinks foram ficando cada vez mais conhecidos, parte por um dos sócios ter um background de barman.
 
 ## Nossas impressões
 
