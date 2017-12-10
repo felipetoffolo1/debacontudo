@@ -65,5 +65,5 @@ Para finalizar a noite, escolhemos o **Nhoque Maria Bonita**.  Todos os nhoques 
 
 **De Bacon Tudo indica?** Sim, com certeza! Pode ir lá conhecer.
 
-Continue nos acompanhando! Siga o blog no Instagram e no Facebook. ;)
+Continue nos acompanhando! Siga o blog no (Instagram)["https://www.instagram.com/casaldebacontudo/"] e no (Facebook)["https://www.facebook.com/debacontudo"]. ;)
 
