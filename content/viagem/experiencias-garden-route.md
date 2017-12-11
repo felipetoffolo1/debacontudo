@@ -51,8 +51,8 @@ O principal programa do lago (pra quem não quer se jogar na água) é fazer um 
 
 {{<img-carousel "1280" "800" "/img/2017/08/por-do-sol-lago-knysna.jpg" "/img/2017/08/casal-lago-knysna.jpg" "/img/2017/08/casal-por-do-sol-knysna.jpg" "/img/2017/08/fishline-knysna.jpg">}}
 
-# Explorar as Cangoo Caves
-Visitar as **Cangoo Caves** é um passeio não tão conhecido da África do Sul e da Garden Route. Talvez por ser em **Oudtshoorn**, uma cidade que se distancia um pouco da região litorânea. Mas é uma volta que vale a pena dar, já que conhecer as Cangoo Caves é uma experiência única. O passeio é super organizado e seguro. Lá dentro é muito lindo e você vai querer tirar milhares de fotos. 
+# Explorar as Cango Caves
+Visitar as **Cango Caves** é um passeio não tão conhecido da África do Sul e da Garden Route. Talvez por ser em **Oudtshoorn**, uma cidade que se distancia um pouco da região litorânea. Mas é uma volta que vale a pena dar, já que conhecer as Cango Caves é uma experiência única. O passeio é super organizado e seguro. Lá dentro é muito lindo e você vai querer tirar milhares de fotos. 
 
 {{<img-carousel "1280" "800" "/img/2017/08/cangoo-cave-1.jpg"  "/img/2017/08/cangoo-cave-2.jpg" >}}
 
@@ -70,7 +70,7 @@ A África do Sul possui em seu litoral várias espécies de baleias, especialmen
 
 A gente não postou foto da baleia porque nenhuma ficou decente. Só dá pra ver um vulto :( #chatiados
 
-# Mergulhar com tubarões brancos em Gaansbai
+# Mergulhar com tubarões brancos
 Uma das melhores regiões do mundo para mergulhar com tubarões brancos é **Gansbaii**. No entanto, por conta das orcas que devoram os bichinhos, os tubarões brancos não estavam sendo vistos na semana em que a gente iria fazer o mergulho. Sendo assim, adiamos o nosso encontro e ficamos cara a cara com os tubarões em **False Bay**. Você também pode ler melhor sobre essa experiência [aqui](http://debacontudo.com.br/viagem/mergulhando-tubarao-branco-africa-do-sul/).
 
 {{< img-full src="/img/2017/08/tubarao-branco-mergulho-false-bay.jpg"  height="800" width="1280" title="" >}}
