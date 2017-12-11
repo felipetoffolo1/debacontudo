@@ -47,7 +47,7 @@ Se caminhar pelas pontes e andar de mãos dadas com elefantes ainda não elevou 
 
 # Fazer um cruzeiro no lago de Knysna (com ostras)
 Knysna é uma cidade com uma pegada meio californiana. A cidade é a capital mundial da ostra. Se você gosta do alimento, esse motivo já é suficiente para você ir até lá. Mas, se ainda assim você precisa de mais motivos, saiba que em Knysna tem um lago enorme que se espalha por toda a cidade e se conecta ao mar numa passagem conhecida como **Knysna Heads**. 
-O principal programa do lago (pra quem não quer se jogar na água) é fazer um cruzeiro e assistir ao pôr do sol magnífico enquanto aprecia ostras fresquinhas da cidade com um bom vinho da região. Nós fomos com a empresa XX e super indicamos. Além de super atencioso, o motorista e guia nos deu uma aula sobre **Knysna**.
+O principal programa do lago (pra quem não quer se jogar na água) é fazer um cruzeiro e assistir ao pôr do sol magnífico enquanto aprecia ostras fresquinhas da cidade com um bom vinho da região. 
 
 {{<img-carousel "1280" "800" "/img/2017/08/por-do-sol-lago-knysna.jpg" "/img/2017/08/casal-lago-knysna.jpg" "/img/2017/08/casal-por-do-sol-knysna.jpg" "/img/2017/08/fishline-knysna.jpg">}}
 
