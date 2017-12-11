@@ -30,7 +30,7 @@ O Storm River é uma das mais lindas regiões do **parque Tsitsikamma**. Lá aco
 {{<img-carousel "1280" "800" "/img/2017/08/casal-pedra-storm-river.jpg" "/img/2017/08/casal-atravessa-ponte.jpg" "/img/2017/08/praia-storm-river.jpg" "/img/2017/08/restaurante-storm-river.jpg">}}
 
 # Caminhar com Elefantes no Santuário de Plettenberg Bay
-Elefantes são quase uma unanimidade: todo mundo gosta. E já que eles estão em vários locais na **África do Sul**, é lógico que a vontade é de ver vários deles. Ter contato com os elefantes no safari é algo único. Mas caminhar com eles de "maõs dadas" é algo mais inesquecível ainda. E você pode vivenciar essa experiência no **Santuário de Elefantes de Pletenberg Bay**. É tão legal que fizemos um post somente sobre isso. Confira [aqui!](http://debacontudo.com.br/viagem/conheca-melhor-o-santuario-de-elefantes-em-plettenberg-bay). 
+Elefantes são quase uma unanimidade: todo mundo gosta. E já que eles estão em vários locais na **África do Sul**, é lógico que a vontade é de ver vários deles. Ter contato com os elefantes no safari é algo único. Mas caminhar com eles de "maõs dadas" é algo mais inesquecível ainda. E você pode vivenciar essa experiência no **Santuário de Elefantes de Pletenberg Bay**. É tão legal que fizemos um post somente sobre isso. Confira [aqui](http://debacontudo.com.br/viagem/conheca-melhor-o-santuario-de-elefantes-em-plettenberg-bay).
 
 {{<img-carousel "1280" "800" "/img/2017/08/felipe-andando-com-elefantes.jpg" "/img/2017/08/larissa-andando-santuario-elefante.jpg" "/img/2017/08/larissa-alimentando-os-elefantes.jpg" >}}
 
@@ -41,7 +41,7 @@ Elefantes são quase uma unanimidade: todo mundo gosta. E já que eles estão em
 
 
 # Pular de Bungee Jump no Face Adrenalin
-Se caminhar pelas pontes e andar de mãos dadas com elefantes ainda não elevou sua emoção, agora é a hora. O **maior bungee jump de uma ponte do mundo** fica na Garden Route. É sério! É uma experiência incrível e muito emocionante. Você também pode conferir mais sobre essa aventura [aqui.] (http://debacontudo.com.br/viagem/bungee-jump-face-adrenalin-africa-do-sul/)
+Se caminhar pelas pontes e andar de mãos dadas com elefantes ainda não elevou sua emoção, agora é a hora. O **maior bungee jump de uma ponte do mundo** fica na Garden Route. É sério! É uma experiência incrível e muito emocionante. Você também pode conferir mais sobre essa aventura [aqui] (http://debacontudo.com.br/viagem/bungee-jump-face-adrenalin-africa-do-sul/).
 
 {{< img-full src="/img/2017/08/pulando-da-ponte-bloukrans.jpg"  height="800" width="1280" title="" >}}
 
@@ -71,7 +71,7 @@ A África do Sul possui em seu litoral várias espécies de baleias, especialmen
 A gente não postou foto da baleia porque nenhuma ficou decente. Só dá pra ver um vulto :( #chatiados
 
 # Mergulhar com tubarões brancos em Gaansbai
-Uma das melhores regiões do mundo para mergulhar com tubarões brancos é **Gansbaii**. No entanto, por conta das orcas que devoram os bichinhos, os tubarões brancos não estavam sendo vistos na semana em que a gente iria fazer o mergulho. Sendo assim, adiamos o nosso encontro e ficamos cara a cara com os tubarões em **False Bay**. Você também pode ler melhor sobre essa experiência [aqui.](http://debacontudo.com.br/viagem/mergulhando-tubarao-branco-africa-do-sul/)
+Uma das melhores regiões do mundo para mergulhar com tubarões brancos é **Gansbaii**. No entanto, por conta das orcas que devoram os bichinhos, os tubarões brancos não estavam sendo vistos na semana em que a gente iria fazer o mergulho. Sendo assim, adiamos o nosso encontro e ficamos cara a cara com os tubarões em **False Bay**. Você também pode ler melhor sobre essa experiência [aqui](http://debacontudo.com.br/viagem/mergulhando-tubarao-branco-africa-do-sul/).
 
 {{< img-full src="/img/2017/08/tubarao-branco-mergulho-false-bay.jpg"  height="800" width="1280" title="" >}}
 
