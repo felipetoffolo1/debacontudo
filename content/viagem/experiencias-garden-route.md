@@ -57,18 +57,18 @@ Visitar as **Cangoo Caves** é um passeio não tão conhecido da África do Sul 
 {{<img-carousel "1280" "800" "/img/2017/08/cangoo-cave-1.jpg"  "/img/2017/08/cangoo-cave-2.jpg" >}}
 
 # Visitar uma fazenda de avestruzes
-Outro bom motivo para você querer ir até Oudtshoorn são os avestruzes. A cidade é a capital do avestruz na **África do Sul**. No local, você encontra várias fazendas que explicam como é a criação dessa galinha gigante. E, acredite: o passeio é bem mais legal que parece, com direito a alimentar os avestruzes e, dependendo do seu peso, montar em um.  Foi lá também que comemos nosso primeiro filé de avestruz. A carne é muito deliciosa, vermelha e parece um filé, só que mais suave.
+Outro bom motivo para você querer ir até **Oudtshoorn** são os avestruzes. A cidade é a capital do avestruz na **África do Sul**. No local, você encontra várias fazendas que explicam como é a criação dessa galinha gigante. E, acredite: o passeio é bem mais legal que parece, com direito a alimentar os avestruzes e, dependendo do seu peso, montar em um.  Foi lá também que comemos nosso primeiro filé de avestruz. A carne é muito deliciosa, vermelha e parece um filé, só que mais suave.
 
 {{<img-carousel "1280" "800" "/img/2017/08/avestrus-larissa.jpg"  "/img/2017/08/file-avestruz.jpg" >}}
 
 Dica Bônus: O melhor restaurante da cidade para comer avestruz é o **Bella Cibo**. O chef é o cozinheiro oficial da associação de criadores de avestruz e um cara super gente boa.
 
 # Ver as baleias em Hermanus
-A África do Sul possui em seu litoral várias espécies de baleias, especialmente no inverno de xxx até xxxx. E **Hermanus** é considerado um dos melhores locais para conseguir ver a baleia de perto (ou nem tão de perto assim, como no nosso caso). Para isso, você pode fazer alguns passeios de barco, além de admirá-las em alguns pontos da cidade. Isso se você tiver sorte, é claro.
+A África do Sul possui em seu litoral várias espécies de baleias, especialmente no inverno. E **Hermanus** é considerado um dos melhores locais para conseguir ver a baleia de perto (ou nem tão de perto assim, como no nosso caso). Para isso, você pode fazer alguns passeios de barco, além de admirá-las em alguns pontos da cidade. Isso se você tiver sorte, é claro.
 
 {{<img-carousel "1280" "800" "/img/2017/08/larissa-hermanus.jpg" "/img/2017/08/bientang-cave-hermanus.jpg" "/img/2017/08/bientang-cave-hermanus-2.jpg" >}}
 
-A gente não postou foto da baleia porque nenhuma ficou decent. Só dá pra ver um vulto :( #chatiados
+A gente não postou foto da baleia porque nenhuma ficou decente. Só dá pra ver um vulto :( #chatiados
 
 # Mergulhar com tubarões brancos em Gaansbai
 Uma das melhores regiões do mundo para mergulhar com tubarões brancos é **Gansbaii**. No entanto, por conta das orcas que devoram os bichinhos, os tubarões brancos não estavam sendo vistos na semana em que a gente iria fazer o mergulho. Sendo assim, adiamos o nosso encontro e ficamos cara a cara com os tubarões em **False Bay**. Você também pode ler melhor sobre essa experiência [aqui.](http://debacontudo.com.br/viagem/mergulhando-tubarao-branco-africa-do-sul/)
