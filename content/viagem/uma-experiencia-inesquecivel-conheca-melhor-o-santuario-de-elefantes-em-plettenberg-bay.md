@@ -19,7 +19,7 @@ tags:
   - viagens
   - dicas
   - listas
-  - África do Sul
+  - africa do Sul
 
 thumbnail: /img/2017/08/santuario-elefante-plettenberg-bay-thumb.jpg
 title: 'Descubra por que é inesquecível caminhar com elefantes na África do Sul'
