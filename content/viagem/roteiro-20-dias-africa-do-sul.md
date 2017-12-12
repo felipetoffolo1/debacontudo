@@ -91,13 +91,23 @@ Contamos em mais detalhes sobre programas que mais gostamos no post [**7 passeio
 
 
 
+# Dias 3 e 4
 
-Dias 3 e 4
-Rota panorâmica
-No terceiro dia de viagem, acordamos cedo com destino a Rota Panorâmica, um percurso onde encontram-se algumas das mais belas vistas da África do Sul. A rota se encontra na região de Mpumalanga (seja lá como isso é pronunciado) que fica entre Joanesburgo e o Kruger, uma opção perfeita para quem está indo de carro para fazer o safari. Também fizemos um post contando tudo o que você precisa saber antes de fazer a rota panorâmica. 
+## Rota panorâmica
 
+No terceiro dia de viagem, acordamos cedo com destino a Rota Panorâmica, um percurso onde encontram-se algumas das mais belas vistas da África do Sul. A rota se encontra na região de Mpumalanga (seja lá como isso é pronunciado) que fica entre Joanesburgo e o Kruger, uma opção perfeita para quem está indo de carro para fazer o safari. 
 
-Dias 4, 5 e 6
+### Dia 3
+
+* God's Window - Superestimado
+* London Falls - Dá pra pular também
+* Bourke’s Luck Potholes - 
+* Three Rondavels
+
+Também fizemos um post com os detalhes contando tudo o que você precisa saber antes de fazer a rota panorâmica. 
+
+#Dias 4, 5 e 6
+
 Safari no Karongwe Game Reserve
 No quarto dia de viagem, logo após o almoço maravilhoso que fizemos no Potluck Bush Kitchen, seguimos em direção ao Karongwe Game Reserve, local que escolhemos para ficar hospedados e fazer o safari. A vista até o lodge é algo surreal de lindo. Você não acredita que tá passando por ali. Sugerimos que não vá com pressa para poder apreciar cada momento. Quer saber como é fazer um safari? Nós contamos tudo nesse post aqui. Já sobre a experiência de ficar hospedado no Karongwe Game Reserve, nós contamos nesse outro post aqui. 
 
