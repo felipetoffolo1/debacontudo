@@ -26,7 +26,7 @@ draft: true
 
 Se você quando vai planejar a sua viagem, gosta de olhar vários posts detalhados que contam o dia a dia da viagem, esse post é especialmente para você.Como ficamos 20 dias na África do Sul, esse post vai ser um pouco comprido, mas separamos por localidade para facilitar a leitura. Se você está chegando agora no nosso blog, confira aqui todos os posts que já fizemos sobre esse país encantador que vai fazer você querer voltar para lá o quanto antes.
 
-Foram onze hotéis, dois carros alugados, três viagens de avião e muitos quilômetros rodados para fazermos o nosso roteiro dos sonhos. Começando por Joanesburgo, passando pela rota panorâmica e os safáris do Kruger, percorrendo a linda Garden Route, conhecendo a rota dos vinhos e terminando a viagem com chace de ouro na encantadora Cidade do Cabo. 
+Foram onze hotéis, dois carros alugados, três viagens de avião e muitos quilômetros rodados para fazermos o nosso roteiro dos sonhos. Começando por Joanesburgo, passando pela rota panorâmica e os safáris do Kruger, percorrendo a linda Garden Route, conhecendo a rota dos vinhos e terminando a viagem com chave de ouro na encantadora Cidade do Cabo. 
 
 Leia também: 10 dicas para fazer uma viagem de casal inesquecível
 
@@ -38,56 +38,56 @@ Saímos de Brasília pela manhã com destino a São Paulo. O nosso voo, com dest
 
 Fomos de South African Airlines e achamos a companhia muito boa. Não tivemos nenhum problema. O voo tem duração de 9 horas, mais ou menos, e o bom de ir nesse horário é que você pode ir dormindo e já chega na cidade pronto para começar o dia.  E foi o que fizemos.
 
-Ao chegarmos no aeroporto tivemos nossas primeiras tarefas:
+Ao chegarmos no aeroporto, tivemos nossas primeiras tarefas:
 
-- **Trocar Dolár por Rands**: Façam isso depois de sair da área de desembarque. Bem na saida tem as casas de câmbio com prelo melhor que do lado de dentro.
-- **Comprar chip de internet:** Dentro do áeroporto compramos os chips na xxxx
-- **Buscar o carro que reservamos:** Na locadora logo na saída do aeroporto.
+- **Trocar Dolár por Rands**: Façam isso depois de sair da área de desembarque. Bem na saída têm as casas de câmbio com preço melhor que do lado de dentro.
+- **Comprar chip de internet:** Dentro do aeroporto compramos os chips na loja xxxx. O pacote durou xx dias.
+- **Buscar o carro que reservamos:** A locadora fica logo na saída do aeroporto.
 
  O Felipe esqueceu a **CNH** no Brasil e tentamos alugar apenas com a **PID** (Permissão Internacional para Dirigir), mas o atendente disse que eles mais levam em consideração a CNH do país de origem do que a PID. 
 
 {{%quoute-him "20 dias de viagem pela frente precisando do carro, imagina meu desespero - Felipe"%}}
 
-Então, fica a dica aí. Mas não deixe de **levar as duas**, pois podem cobrar a PID a qualquer momento. Tivemos que alugar o carro no meu nome (eu estava com a minha CNH). Depois disso lá vem mais emoção dirigir na **mão inglesa**. Foi a primeira vez que o Felipe dirigiu nesse tipo de carro e foi uma aventura só.
+Então, fica a dica aí. Mas não deixe de **levar as duas**, pois podem cobrar a PID a qualquer momento. Tivemos que alugar o carro no meu nome (eu estava com a minha CNH). Depois disso, mais emoção: dirigir na **mão inglesa**. Foi a primeira vez que o Felipe dirigiu esse tipo de carro e foi uma aventura só.
 
 {{%quote-him "No começo é muito tenso, você não sabe para onde vai e de onde vem"%}}
 
 Mas depois de algum tempo, e várias ruas na contra mão, você acaba se acostumando (pelo menos foi o que ele falou).
 
-Nós ficamos dois dias em **Joanesburgo** que é uma cidade maravilhosa. 
+Nós ficamos dois dias em **Joanesburgo**, que é uma cidade maravilhosa. 
 
- Ficamos hospedados no bairro de Maboneng, em um apartamento que alugamos pelo AirBnB. 
+Ficamos hospedados no bairro de Maboneng, em um apartamento que alugamos pelo AirBnB. 
 
 #### Dia 1
 
-O dia um foi mais curto, pois foi o dia que chegamos.
+O primeiro dia foi mais curto, pois foi o dia que chegamos.
 
-* Maboneg Precinct (onde ficamos hospedados)
-* Constituion Hill - Só vá se der tempo
+* Maboneng Precinct (onde ficamos hospedados)
+* Constitution Hill - Só vá se der tempo
 * Nelson Mandela Square - Um shopping gigante
 
 #### Dia 2
 
 * Casa do Mandela - Imperdível
 * Apartheid Museum - Imperdível
-* Gold Reef City
+* Gold Reef City - Nem tão imperdível assim
 * Lion Park - Imperdível
 
-Contamos em mais detalhes sobre programas que mais gostamos no post [**7 passeios imperdíveis para você fazer em Joanesburgo**](http://debacontudo.com.br/viagem/o-que-fazer-joanesburgo/). 
+Contamos mais detalhes sobre os programas que mais gostamos em Joanesburgo no post [**7 passeios imperdíveis para você fazer em Joanesburgo**](http://debacontudo.com.br/viagem/o-que-fazer-joanesburgo/). 
 
 ### Restaurantes
 
 #### Café da Manhã
 
-**Eat your Heart Out:** Fica no bairro das artes Maboneg. Bem com uma pegada hipster, é um café com alguns pratos bem diferentes. Comemos um panelas com ovos e molho de tomate deliciosa.
+**Eat your Heart Out:** Fica no bairro das artes Maboneng. Bem com uma pegada hipster, é um café com alguns pratos bem diferentes. Comemos um prato chamado 'panelas com ovos e molho de tomate' que estava delicioso.
 
-**Tashas:** Lugar com estilo mais requintado, com uma decoração clássica. Comemos o clássico e delicioso English Breakfast.
+**Tashas:** Lugar com estilo mais requintado, com uma decoração clássica. Escolhemos o clássico e delicioso English Breakfast.
 
 #### Almoço e Jantar:
 
-**Living Room:** Restaurante descolado que fica no topo de um prédio em Maboneg. Lugar lindo, vale a pena ir. Comemos uns mini-hamburgueres delis.
+**Living Room:** Restaurante descolado que fica no topo de um prédio em Maboneng. Lugar lindo! Vale a pena ir. Comemos uns mini-hambúrgueres delis.
 
-**Urbanologi:** Restaurante de tapas DE-LI-CI-O-SO. Tem um tempurá de shimeji que é imperdível. Além do mais o restaurante fica dentro de uma cervejaria local em um espaço muito legal.
+**Urbanologi:** Restaurante de tapas MA-RA-VI-LHO-SO. Tem um tempurá de shimeji que é SURREAL de bom. Além disso, o restaurante fica dentro de uma cervejaria local em um espaço muito legal.
 
 
 
@@ -95,7 +95,7 @@ Contamos em mais detalhes sobre programas que mais gostamos no post [**7 passeio
 
 ## Rota panorâmica
 
-No terceiro dia de viagem, acordamos cedo com destino a Rota Panorâmica, um percurso onde encontram-se algumas das mais belas vistas da África do Sul. A rota se encontra na região de Mpumalanga (seja lá como isso é pronunciado) que fica entre Joanesburgo e o Kruger, uma opção perfeita para quem está indo de carro para fazer o safari. 
+No terceiro dia de viagem, acordamos cedo com destino a Rota Panorâmica, um percurso onde encontram-se algumas das mais belas vistas da África do Sul. A rota se encontra na região de Mpumalanga (seja lá como isso é pronunciado), que fica entre Joanesburgo e o Kruger, uma opção perfeita para quem está indo de carro para fazer o safari. 
 
 ### Dia 3
 
@@ -104,11 +104,11 @@ No terceiro dia de viagem, acordamos cedo com destino a Rota Panorâmica, um per
 * Bourke’s Luck Potholes - 
 * Three Rondavels
 
-Também fizemos um post com os detalhes contando tudo o que você precisa saber antes de fazer a rota panorâmica. 
+Também fizemos um post com os detalhes contando tudo o que você precisa saber antes de fazer a rota panorâmica. Veja mais aqui.
 
-#Dias 4, 5 e 6
+# Dias 4, 5 e 6
 
-Safari no Karongwe Game Reserve
+* Safari no Karongwe Game Reserve
 No quarto dia de viagem, logo após o almoço maravilhoso que fizemos no Potluck Bush Kitchen, seguimos em direção ao Karongwe Game Reserve, local que escolhemos para ficar hospedados e fazer o safari. A vista até o lodge é algo surreal de lindo. Você não acredita que tá passando por ali. Sugerimos que não vá com pressa para poder apreciar cada momento. Quer saber como é fazer um safari? Nós contamos tudo nesse post aqui. Já sobre a experiência de ficar hospedado no Karongwe Game Reserve, nós contamos nesse outro post aqui. 
 
 
