@@ -75,7 +75,7 @@ O primeiro dia foi mais curto, pois foi o dia que chegamos.
 
 Contamos mais detalhes sobre os programas que mais gostamos em Joanesburgo no post [**7 passeios imperdíveis para você fazer em Joanesburgo**](http://debacontudo.com.br/viagem/o-que-fazer-joanesburgo/). 
 
-## Hospedagem
+### Hospedagem
 
 Ficamos hospedados no bairro de Maboneng, em um apartamento que alugamos pelo AirBnB, e foi uma experiência super legal. 
 
@@ -134,7 +134,7 @@ No terceiro dia de viagem, acordamos cedo com destino a **Rota Panorâmica**, um
 {{< img-full src="/img/2017/12/bush-kitchen.jpg" alt=""  height="800" width="1280" title="" >}}
 
 
-##Hospedagem
+### Hospedagem
 
 Ficamos em um B&B (Bed and Breakfast) muito bom e atencioso.
 
@@ -142,7 +142,7 @@ Para os detalhes dos **passeios**, como **dirigir** por lá, **restaurantes** e 
 
 | Custo                                    | Valor  |
 | ---------------------------------------- | ------ |
-| **Rota Panorámica:** B&B - Roustique - 1 diária | R$ 205 |
+| **Rota Panorâmica:** B&B - Roustique - 1 diária | R$ 205 |
 
 # Dias 4, 5 e 6
 
