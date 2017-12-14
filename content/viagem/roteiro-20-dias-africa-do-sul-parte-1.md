@@ -24,7 +24,7 @@ draft: true
 
 ---
 
-Se você quando vai planejar a sua viagem, gosta de olhar vários posts detalhados que contam o dia a dia da viagem, esse post é especialmente para você.Como ficamos 20 dias na África do Sul, esse post vai ser um pouco comprido, mas separamos por localidade para facilitar a leitura. Se você está chegando agora no nosso blog, confira aqui todos os posts que já fizemos sobre esse país encantador que vai fazer você querer voltar para lá o quanto antes.
+Se você é daquelas pessoas que adora olhar posts detalhados que contam o dia a dia da viagem, esse post é especialmente para você! Como ficamos 20 dias na África do Sul, esse post vai ser um pouco comprido. Por isso, separamos por localidade e em três partes para facilitar a leitura. Se você está chegando agora no nosso blog, confira aqui todos os posts que já fizemos sobre esse país encantador que vai fazer você querer voltar para lá o quanto antes.
 
 Foram onze hotéis, dois carros alugados, três viagens de avião e muitos quilômetros rodados para fazermos o nosso roteiro dos sonhos. Começando por Joanesburgo, passando pela rota panorâmica e os safáris do Kruger, percorrendo a linda Garden Route, conhecendo a rota dos vinhos e terminando a viagem com chave de ouro na encantadora Cidade do Cabo. 
 
