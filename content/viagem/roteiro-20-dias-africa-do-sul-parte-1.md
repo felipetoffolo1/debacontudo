@@ -120,13 +120,16 @@ No terceiro dia de viagem, acordamos cedo com destino a Rota Panorâmica, um per
 * London Falls - Dá pra pular também
 * Bourke’s Luck Potholes - Imperdível
 * Three Rondavels - Simplesmente a melhor vista
+
   {{< img-full src="/img/2017/12/pot.jpg" alt=""  height="800" width="1280" title="" >}}
+  
 {{% facebook-like %}}
+
 ### Restaurantes
 
 **Jantar:** The Glass House
-
 **Almoço:** Potluck Bush Kitchen - Totalmente imperdível
+
 {{< img-full src="/img/2017/12/bush-kitchen.jpg" alt=""  height="800" width="1280" title="" >}}
 
 
