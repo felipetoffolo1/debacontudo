@@ -77,7 +77,7 @@ Contamos mais detalhes sobre os programas que mais gostamos em Joanesburgo no po
 
 ## Hospedagem
 
-Ficamos hospedados no bairro de Maboneng, em um apartamento que alugamos pelo AirBnB.  Achamos que séria uma experiência mais legal. Super indico esse apartamento
+Ficamos hospedados no bairro de Maboneng, em um apartamento que alugamos pelo AirBnB.  Achamos que séria uma experiência mais legal. Super indico esse apartamento.
 
 ### Restaurantes
 
@@ -94,7 +94,6 @@ Ficamos hospedados no bairro de Maboneng, em um apartamento que alugamos pelo Ai
 
 **Living Room:** Restaurante descolado que fica no topo de um prédio em Maboneng. Lugar lindo! Vale a pena ir. Comemos uns mini-hambúrgueres delis.
 {{< img-full src="/img/2017/12/living-room.jpg" alt=""  height="800" width="1280" title="" >}}
-
 
 **Urbanologi:** Restaurante de tapas MA-RA-VI-LHO-SO. Tem um tempurá de shimeji que é SURREAL de bom. Além disso, o restaurante fica dentro de uma cervejaria local em um espaço muito legal.
 
@@ -121,14 +120,16 @@ No terceiro dia de viagem, acordamos cedo com destino a Rota Panorâmica, um per
 * Bourke’s Luck Potholes - Imperdível
 * Three Rondavels - Simplesmente a melhor vista
 
-  {{< img-full src="/img/2017/12/pot.jpg" alt=""  height="800" width="1280" title="" >}}
-  
+{{< img-full src="/img/2017/12/pot.jpg" alt=""  height="800" width="1280" title="" >}}
+
 {{% facebook-like %}}
 
 ### Restaurantes
 
 **Jantar:** The Glass House
 **Almoço:** Potluck Bush Kitchen - Totalmente imperdível
+{{%quote-him "O problema desse restaurante é só que você não vai querer ir embora."%}}
+
 
 {{< img-full src="/img/2017/12/bush-kitchen.jpg" alt=""  height="800" width="1280" title="" >}}
 
@@ -151,9 +152,12 @@ Para os detalhes dos **passeios**, como **dirigir** por lá, **restaurantes** e 
 
 No quarto dia de viagem, logo após o almoço maravilhoso que fizemos no Potluck Bush Kitchen, seguimos em direção ao Karongwe Game Reserve, local que escolhemos para ficar hospedados e fazer o safari.
 
-Mas antes mesmo de chegar lá tivemos um passeio maravilhoso pelo caminho na **Abel Erasmus Pass** simplesmente o trecho de estrada mais lindo que vimos na África do Sul. Você não acredita que tá passando por ali. Sugerimos que não vá com pressa para poder apreciar cada momento. 
+Mas antes mesmo de chegar lá tivemos um passeio maravilhoso pelo caminho na **Abel Erasmus Pass** simplesmente o trecho de estrada mais lindo que vimos na África do Sul. Você não acredita que tá passando por ali. Sugerimos que não vá com pressa para poder apreciar cada momento.
 
-Quer saber como é fazer um **SAFARI**? Nós contamos tudo nesse **[post aqui](http://debacontudo.com.br/viagem/dicas-melhor-safari-africa-do-sul/)**. Já sobre a experiência de ficar hospedado no **Karongwe Game Reserve**, nós contamos nesse **[outro post aqui.](http://debacontudo.com.br/viagem/onde-ficar-safari-kruger-karongwe/)** 
+Quer saber como é fazer um **SAFARI**? Nós contamos tudo nesse **[post aqui](http://debacontudo.com.br/viagem/dicas-melhor-safari-africa-do-sul/)**.
+{{%quote-him "Com direito à vídeo da Larissa com medo dos bichos."%}}
+
+Já sobre a experiência de ficar hospedado no **Karongwe Game Reserve**, nós contamos nesse **[outro post aqui.](http://debacontudo.com.br/viagem/onde-ficar-safari-kruger-karongwe/)**
 
 | Custo                                    | Valor   |
 | ---------------------------------------- | ------- |
@@ -164,7 +168,11 @@ Quer saber como é fazer um **SAFARI**? Nós contamos tudo nesse **[post aqui](h
 
 ## Joanesburgo
 
-Você deve estar se perguntando: como assim **Joanesburgo** de novo? No sexto dia de viagem, logo após fazermos o safari, voltamos para Joanesburgo porque precisaríamos pegar um voo até Port Elizabeth para dar início a Garden Route. Dizem que a viagem de carro entre o Kruger e Port Elizabeth não tem nada demais, por isso escolhemos ir de avião. Chegamos em Joanesburgo já no fim do dia e optamos por dormir em um hotel bem perto do aeroporto (cerca de cinco minutos). Como já tínhamos conhecido a cidade, o máximo que fizemos foi ir até um shopping para jantar e para comprar um tripé para tirar nossas fotos (o que levamos acabou quebrando). 
+Você deve estar se perguntando: como assim **Joanesburgo** de novo? No sexto dia de viagem, logo após fazermos o safari, voltamos para Joanesburgo porque precisaríamos pegar um voo até Port Elizabeth para dar início a **Garden Route**. Dizem que a viagem de carro entre o Joanesburgo e Port Elizabeth não tem nada demais (além de ser longe), por isso escolhemos ir de **avião**. 
+Chegamos em Joanesburgo já no fim do dia e optamos por dormir em um hotel bem perto do aeroporto (cerca de cinco minutos).
+Como já tínhamos conhecido a cidade, o máximo que fizemos foi ir até um shopping para jantar e para comprar um tripé para tirar nossas fotos (o que levamos acabou quebrando).
+{{%quote-him "Larrisa, entregando o nosso segredo de como fazemos as nossas fotos nas viagens."%}}
+
 
 | Custo                                    | Valor  |
 | ---------------------------------------- | ------ |
