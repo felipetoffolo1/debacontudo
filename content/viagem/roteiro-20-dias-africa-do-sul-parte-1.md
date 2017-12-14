@@ -90,7 +90,7 @@ Ficamos hospedados no bairro de Maboneng, em um apartamento que alugamos pelo Ai
 
 {{% facebook-like %}}
 
-#### Almoço e Jantar:
+#### Almoço e Jantar
 
 **Living Room:** Restaurante descolado que fica no topo de um prédio em Maboneng. Lugar lindo! Vale a pena ir. Comemos uns mini-hambúrgueres que estavam deliciosos!
 {{< img-full src="/img/2017/12/living-room.jpg" alt=""  height="800" width="1280" title="" >}}
