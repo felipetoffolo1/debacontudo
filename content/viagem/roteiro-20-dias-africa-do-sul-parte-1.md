@@ -20,7 +20,7 @@ tags:
 thumbnail: "/img/2017/12/melhor-roteiro-20-dias-africa-do-sul-parte-1-thumb.jpg"
 title:  "Conheça o melhor roteiro de viagem da África do Sul - Parte 1"
 totop: true
-draft: true
+draft: false
 
 ---
 
@@ -99,7 +99,7 @@ Ficamos hospedados no bairro de Maboneng, em um apartamento que alugamos pelo Ai
 
 | Custo                               | Valor   |
 | ----------------------------------- | ------- |
-| **Chip** de Celular - 5gb           | XX Rand |
+| **Chip** de Celular - 5gb           | R$ 138  |
 | **Carro**: Ecosport - 6 dias        | R$ 560  |
 | **Joanesburgo**: AirBnb - 2 diárias | R$ 241  |
 | **Museu Casa do Mandela**           | R$ 15   |
@@ -142,6 +142,10 @@ Para os detalhes dos **passeios**, como **dirigir** por lá, **restaurantes** e 
 
 | Custo                                    | Valor  |
 | ---------------------------------------- | ------ |
+| **God Window** | R$ 5 |
+| **Lisbon Fall** | R$ 2,5 |
+| **Bourke’s Luck Potholes** | R$ 13 |
+| **Three Rondavels** | R$ 5 |
 | **Rota Panorâmica:** B&B - Roustique - 1 diária | R$ 205 |
 
 # Dias 4, 5 e 6
