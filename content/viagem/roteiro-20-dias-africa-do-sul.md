@@ -5,7 +5,7 @@ banner: "/img/2017/11/karongwe-river-lodge-banner.jpg"
 categories:
 - viagem
 date: 2017-12-12
-description: "xxxx"
+description: "Descubra o que fizemos durante os 20 dias que ficamos na África do Sul e confira o nosso roteiro dos sonhos."
 images:
 - "/img/2017/11/karongwe-river-lodge-vista-quarto.jpg"
 structured:
@@ -44,7 +44,7 @@ Ao chegarmos no aeroporto, tivemos nossas primeiras tarefas:
 - **Comprar chip de internet:** Dentro do aeroporto compramos os chips na loja xxxx. O pacote durou xx dias.
 - **Buscar o carro que reservamos:** A locadora fica logo na saída do aeroporto.
 
- O Felipe esqueceu a **CNH** no Brasil e tentamos alugar apenas com a **PID** (Permissão Internacional para Dirigir), mas o atendente disse que eles mais levam em consideração a CNH do país de origem do que a PID. 
+O Felipe esqueceu a **CNH** no Brasil e tentamos alugar apenas com a **PID** (Permissão Internacional para Dirigir), mas o atendente disse que eles mais levam em consideração a CNH do país de origem do que a PID. 
 
 {{%quoute-him "20 dias de viagem pela frente precisando do carro, imagina meu desespero - Felipe"%}}
 
