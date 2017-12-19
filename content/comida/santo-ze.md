@@ -17,7 +17,7 @@ tags:
 - Restaurantes
 - Brasília
 - Review
-thumbnail: /img/2017/12/santo-ze-thumb.png
+thumbnail: /img/2017/12/santo-ze-thumb.jpg
 title: 'Santo Zé: um bistrô brasileiro para incluir na sua lista'
 totop: true
 ---
