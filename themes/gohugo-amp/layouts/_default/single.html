@@ -165,14 +165,10 @@
 
                 <!-- .related-posts -->
 
-                <!-- <div id="comments" class="comments-area">
                   {{ if not .Params.nocomment }}
-                  <amp-iframe width="600" height="140" layout="responsive" sandbox="allow-scripts allow-same-origin allow-modals allow-popups allow-forms" resizable src="https://s3-sa-east-1.amazonaws.com/felipetoffolo/disqus2.html#{{ .RelPermalink}}">
-                    <div overflow tabindex=0 role=button aria-label="Read more">Read more!</div>
-                  </amp-iframe>
-
+                    <amp-facebook-comments width=486 height=657 layout="responsive" data-numposts="5" data-href="{{ .Permalink}}">
+                    </amp-facebook-comments>
                   {{ end }}
-                </div> -->
               </div>
               <!-- .site-entry -->
             </div>
@@ -226,29 +222,12 @@
     <!-- entry-author-bio -->
     {{ end }}
     {{ end }}
-      <amp-facebook-comments width=486 height=657 layout="responsive" data-numposts="5" data-href="{{ .Permalink}}">
-      </amp-facebook-comments>
   </div>
 </div>
     </div>
     <!-- #primary -->
   </div>
   <!-- #content -->
-  <!-- <script type="text/javascript">
-      onscroll = function() {
-        var toTopVisible = false;
-        var scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
-        if (scrollTop > 1000) {
-          if (!toTopVisible) {
-            document.getElementById('nav-to-top').style.display = 'block';
-          }
-        } else {
-          if (scrollTop < 1000 || toTopVisible) {
-            document.getElementById('nav-to-top').style.display = 'none';
-          }
-        }
-      };
-      </script> -->
 </main>
 
 {{ partial "structure/foot" . }}
