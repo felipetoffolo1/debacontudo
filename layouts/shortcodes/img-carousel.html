@@ -8,14 +8,15 @@
         <amp-carousel id="selected-slide-{{$seq}}" class="owl-carousel owl-theme" height="{{index $meta 1}}"
             width="{{index $meta 0}}" layout="responsive" type="slides">
             {{range $images}}
-            <amp-img src="{{.}}" width="{{index $meta 0}}" height="{{index $meta 1}}" layout="responsive"></amp-img>
+<amp-img src="{{.}}" width="{{index $meta 0}}" height="{{index $meta 1}}" layout="responsive"></amp-img>
 
             {{ end }}
 
         </amp-carousel>
         <amp-carousel class="carousel-preview" height="65" layout="fixed-height" type="carousel">
             {{range $index, $pic := $images}}
-            <amp-img src="{{.}}" width="100" height="75"  on="tap:selected-slide-{{$seq}}.goToSlide(index={{ $index }})" role="button"></amp-img>
+<amp-img src="{{.}}" width="100" height="75" tabindex="{{ $index }}" on="tap:selected-slide-{{$seq}}.goToSlide(index={{ $index }})"
+    role="button"></amp-img>
             {{ end }}
         </amp-carousel>
     </div>
