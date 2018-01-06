@@ -6,11 +6,12 @@ banner: "/img/2017/05/melhor-hamburguer-de-brasilia-banner.jpg"
 categories:
 - comida
 - estilo-de-vida
-date: 2017-05-25T08:30:44-03:00
+date: 2017-05-25
+lastmod: 2018-01-06
 description: "Existem várias opções legais para apreciar um bom hambúrguer artesanal em Brasília. Decidimos experimentar alguns dos melhores hambúrgueres artesanais de Brasília e fazer uma lista para você."
 draft: false
 featured: true
-featuredorder: 4
+featuredorder: 1
 images:
 -  /img/2017/05/melhor-hamburguer-de-brasilia-banner.jpg
 slug: "melhor-hamburguer-artesanal-de-brasilia"
@@ -59,7 +60,7 @@ No Parrilla Madrid, experimentamos o **Jack Burger** (R$ 33), que vem com creme 
 
 E também o **Burrata Burger** (R$ 39), que vem com queijo burrata artesanal, crispy de bacon, tomate e pão de brioche.
 
-Todos os dois estavam **deliciosos**. O destaque vai para o bife de hambúrguer de **carne black angus** de 180g feito na parrilla. Sério, o bife de lá é muito **saboroso** e preparado no ponto rosadinho que amamos. O molho estava um pouco excessivo e acabou escondendo um pouco o sabor dos outros ingredientes. Mas aquele bife....<3
+Todos os dois estavam **deliciosos**. O destaque vai para o bife de hambúrguer de **carne black angus** de 180g feito na parrilla. Sério, o bife de lá é muito **saboroso** e preparado no ponto rosadinho que amamos. O molho estava um pouco excessivo e acabou [escondendo](https://felipetoffolo1.github.io/url-shortener-challenge/) um pouco o sabor dos outros ingredientes. Mas aquele bife....<3
 
 {{<restaurant-simple address="Comércio Local Sul 408 Bloco D Loja 1 - Asa Sul, Brasília - DF"  face="https://www.facebook.com/restauranteparrillamadrid/">}}
 
@@ -79,21 +80,21 @@ A carne estava **suculenta**, no ponto correto e com sabor defumado. Todos os in
 Para quem estiver de **dieta** e quiser uma opção de hambúrguer **mais saúdavel**, o Universal Dinner oferece também o **Burguer Fit** (R$ 30), que substitui o pão por uma omelete. Não comemos esse porque não era o nosso foco de pesquisa do dia, mas vamos voltar para experimentar.
 
 {{<restaurant-simple address="Asa Sul 210 C 18 - Brasília, DF" face="https://www.facebook.com/restauranteuniversaldiner/">}}
-## Ancho Bistrô de Fogo
+## Ricco Burguer
 
-### Delicioso e você ainda pode levar a paquera lá
+### Muita modernidade e criatividade para o seu prazer
 
-Quem disse que comer hambúrguer é só programa de casado ou para fazer com os amigos? No **Ancho Bistrô de Fogo**, você pode comer um delicioso hambúrguer no seu encontro sem perder o **romantismo**. Esse lindo bistrô oferece ótimos hambúrgueres no seu cardápio (além de outras opções de pratos).
+Existe um número crescente de hamburguerias artesanais surgindo em Brasília. Então, como se destacar? O Ricco Burguer fez isso muito bem. Primeiro, oferecendo um produto de extrema qualidade. Depois, inovando nas opções do cardápio.
 
-{{< img-full src="/img/2017/05/hamburguer-artesanal-ancho-bistro-de-fogo.jpg" alt="Hamburguer do Ancho Bistrô de Fogo"  height="628" width="1200" >}}
+{{< img-full src="/img/2018/01/hamburguer-ricco-burguer.jpg" alt="Hamburguer do Ricco"  height="670" width="1280" >}}
 
-Escolhemos o **Hambúrguer Ancho** (R$ 32), com um generoso bife de 300g, cebola caramelizada, pesto de tomate, queijo búfala, alface frisée e creme de cebolinha.
+Experimentamos dois hambúrgueres da casa. O **Ricco Bacon** (R$ 34), com um bife de Angus Wagyu de 160g,  **bacon** crocante, molho à base de vinho branco, queijo minas, mix de folhas e tomate defumado. E o **Especial da Rê - Trufado** (R$ 34), que vem com o mesmo bife, maionese trufada, chips de parma, tela de parmesão e ruculetas.
 
-Vamos ser sinceros: o hambúrguer artesanal do **Ancho Bistrô de Fogo** nos surpreendeu. A gente ainda não conhecia o restaurante e, quando imaginamos comer hambúrguer em um bistrô, pensamos que seria algo mais simples e caro. Para nossa **FELIZ** surpresa, estávamos totalmente enganados. O hambúrguer é **muito bem servido** e ainda acompanha batata rústíca. O preço foi bastante justo.
+Todos os dois estavam **deliciosos** e super bem **equilibrados**. Você sente a **carne** (que estava no ponto ideal), o tomate, os molhos, o **bacon** e tudo mais. O Especial da Rê estava **mais gostoso**, o chips de **parma** e a tela de **parmesão** completaram de forma perfeita o sabor **defumado** do hamburguer feito na **parrilla**.  **Amamos** o lugar e já queremos voltar! 
 
-{{< quote-her "Além disso, tem uma sangria tinta maravilhosa! - Larissa">}}
+{{< quote-her "Tá ficando cada vez mais difícil escolher o hambúrguer mais gostoso de Brasília.- Larissa">}}
 
-{{<restaurant-simple address="306 Bloco C Loja 28 - Asa Sul, Brasília, DF" face="https://www.facebook.com/anchobistrodefogo/">}}
+{{<restaurant-simple address="306 Bloco C Loja 28 - Asa Sul, Brasília, DF" face="https://www.facebook.com/riccoburgerdf">}}
 # Águas Claras
 
 ------
@@ -266,3 +267,9 @@ Já ficamos com vontade de comer tudo de novo só vendo essas fotos. Esperamos q
 E se você tem outra dicas conta pra gente no Face ou no Insta :)
 
 {{<subscribe>}}
+
+
+
+**Atualizações:** 
+
+* 06/01/2018: Remoção do Bistrô Ancho de Fogo e adição do Ricco Burguer
