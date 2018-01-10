@@ -28,7 +28,7 @@ Embora eu seja brasiliense, tenho que confessar que ainda não conhecia a **Chap
 
 # Onde ficamos
 
-Decidimos ficar hospedados na vila de **São Jorge**, bem pertinho do [Parque Nacional Chapada dos Veadeiros](http://www.icmbio.gov.br/parnachapadadosveadeiros) e do **Vale da Lua**. A maioria das pessoas se hospeda em **Alto Paraíso**, que fica a uns 30 minutos da vila. A principal diferença é que Alto Paraíso é bem mais estruturado que São Jorge e possui um comércio melhor, como restaurantes, posto de gasolina, agência bancária e supermercados. Mas se a sua ideia for explorar o parque, por exemplo, é melhor ficar em São Jorge. As outras cachoeiras mais famosas ficam, em média, a uns 40 minutos da vila. A **exceção** é a cachoeira Santa Bárbara, que falaremos logo mais abaixo.
+Decidimos ficar hospedados na vila de **São Jorge**, bem pertinho do [Parque Nacional Chapada dos Veadeiros](http://www.icmbio.gov.br/parnachapadadosveadeiros) e do **Vale da Lua**. A maioria das pessoas se hospeda em **Alto Paraíso de Goiás**, que fica a uns 30 minutos da vila. A principal diferença é que Alto Paraíso de Goiás é bem mais estruturado que São Jorge e possui um comércio melhor, como restaurantes, posto de gasolina, agência bancária e supermercados. Mas se a sua ideia for explorar o parque, por exemplo, é melhor ficar em São Jorge. As outras cachoeiras mais famosas ficam, em média, a uns 40 minutos da vila. A **exceção** é a cachoeira Santa Bárbara, que falaremos logo mais abaixo.
 
 # O que conhecemos
 
@@ -79,7 +79,7 @@ As **cachoeiras Almécegas I e II** ficam localizadas dentro da [Pousada Fazenda
 {{<img-full src="/img/2018/01/santa-barbara.jpg" alt="Casal De Bacon Tudo - Santa Bárbara"  height="800" width="1280" title="">}}
 
 
-Além de São Jorge e Alto Paraíso, outro destino que merece a sua atenção é **Cavalcante**. O local também conta com várias cachoeiras de **tirar o fôlego**, sem falar na mais bonita de todas: a **cachoeira Santa Bárbara**. Vale reservar de dois a três dias do seu roteiro para conhecer as principais atrações do local. Mas, no nosso caso, só tivemos um dia e optamos por conhecer Santa Bárbara e Capivara. 
+Além de São Jorge e Alto Paraíso de Goiás, outro destino que merece a sua atenção é **Cavalcante**. O local também conta com várias cachoeiras de **tirar o fôlego**, sem falar na mais bonita de todas: a **cachoeira Santa Bárbara**. Vale reservar de dois a três dias do seu roteiro para conhecer as principais atrações do local. Mas, no nosso caso, só tivemos um dia e optamos por conhecer Santa Bárbara e Capivara. 
 
 Chegar na cachoeira de Santa Bárbara é uma aventura e tanto, inclusive de carro. Apesar de todo o esforço, vale muito a pena quando você fica cara a cara com essa maravilha da natureza. Com uma água azulzinha e deliciosa, a cachoeira Santa Bárbara é **uma das mais bonitas** que já vimos. Ainda por cima, é ótima para nadar e dá para chegar facilmente embaixo da queda d’água. Em breve, faremos um post contando mais detalhes do que você precisa saber antes de visitar a cachoeira **Santa Bárbara**.
 
