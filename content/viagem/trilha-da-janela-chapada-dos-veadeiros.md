@@ -4,9 +4,9 @@ author:
 banner: /img/2018/01/trilha-da-janela-casal-debacontudo.jpg
 categories:
   - viagem
-date: 2018-01-07
+date: 2018-01-20
 description: Descubra tudo o que você precisa antes de fazer a trilha do Mirante da Janela
-draft: true
+draft: false
 images:
   - /img/2018/01/trilha-da-janela-casal-debacontudo.jpg
 slug: trilha-da-janela-chapada-dos-veadeiros
