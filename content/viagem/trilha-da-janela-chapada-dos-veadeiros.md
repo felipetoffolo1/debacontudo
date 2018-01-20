@@ -36,8 +36,6 @@ O Mirante da Janela fica dentro do **Parque Nacional da Chapada dos Veadeiros**.
 
 A trilha possui **nível médio de dificuldade**, com algumas partes bem fáceis e outras mais difíceis. A distância total é de **8km** (ida e volta). O tempo pode variar, dependendo da sua disposição. Nós levamos **4 horas** no total (com paradas para fotos e lanche). É claro que dá para fazer em menos tempo, mas a gente indica ir com calma e aproveitar o passeio sem muita pressa.
 
-{{<img-full src="/img/2018/01/trilha-da-janela-vista.jpg" alt="Casal De Bacon Tudo - Mirante da Janela"  height="800" width="1280" title="">}}
-
 ## Preciso de guia para a ir até o Mirante da Janela?
 
 Vai depender muito do quão **aventureiro** você é. Nós até pensamos em **contratar um guia**, mas conhecemos um casal assim que chegamos por lá e optamos por ir juntos sem guia. Durante a maior parte do trajeto existem **setas laranjas que guiam o caminho**. Você vai vai ver uma a cada **100 metros** mais ou menos. Somente duas partes não tem setas: o início (mas aí tem uma trilha sem mistério) e mais perto do fim, quando você já está bem próximo do Mirante da Janela. Ele é meio escondido e corre o risco de você não achá-lo. Nós tivemos que procurar bem até chegar nele. Por isso, a nossa resposta é: não, você não precisa de guia. Mas não é uma má ideia contratar um.
