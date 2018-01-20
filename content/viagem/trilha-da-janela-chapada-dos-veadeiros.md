@@ -24,26 +24,23 @@ totop: true
 
 # Como é fazer a trilha do Mirante da Janela
 
-O Mirante da Janela é um daqueles **caprichos** da natureza que impressionam por existir. Localizado na **Chapada do Veadeiros - GO**, o mirante da janela tem esse nome pois tem uma **formação rochosa** que forma uma **janela** com vista para a **cachoeira dos saltos**.
-A vista é **inacreditável**, daquelas que temos poucas oportunidades de ver igual na vida.
+O **Mirante da Janela** é um daqueles caprichos da natureza que impressionam logo à primeira vista. Localizado na Chapada do Veadeiros, em Goiás, o Mirante da Janela tem esse nome por causa de sua formação rochosa que forma uma janela com vista para a cachoeira dos saltos. A vista é inacreditável, daquelas que temos poucas oportunidades de ver igual na vida.
 
-Mas, como tudo que é bom na vida. Chegar lá vai dar um trabalhinho. Calma gente, nada demais (talvez um pouco). O que eu posso garantir é que **vale a pena**. Para facilitar a sua jornada até o mirante da janela, a gente vai **explicar como fizemos para chegar** até lá.
+Mas, como tudo que é bom na vida não vem fácil, chegar lá vai dar um trabalhinho. Calma gente, nada demais (talvez um pouco). O que eu posso garantir é que vale a pena. Para facilitar a sua jornada até o mirante da janela, a gente vai explicar como fizemos para chegar até lá.
 
 ## Onde fica o Mirante da Janela?
 
-O Mirante da Janela é parte do **Parque Nacional da Chapada do Veadeiros**. Sendo assim, a sua entrada fica em **São Jorge - GO** (30km de Alto Paraíso do Góias).
+O Mirante da Janela é parte do **Parque Nacional da Chapada dos Veadeiros**. A entrada fica em São Jorge, a 30km de Alto Paraíso do Goiás.
 
-## Quão díficil é a Trilha do Mirante da Janela?
+## É difícil fazer a trilha do Mirante da Janela?
 
-A trilha é de **nível médio**, sendo que tem partes bem fáceis e alguma bem difíceis (mais detalhes em seguida). A distância total é de **8km** indo e voltando. O tempo vai variar,nos levamos **4 horas** no total (com paradas para fotos e tudo). Para quem não está ocioso, dá para fazer tranquilo. Para quem está bastante ocioso, eu não indico muito não.
+A trilha possui nível médio de dificuldade, com algumas partes bem fáceis e outras bem difíceis. A distância total é de 8km (ida e volta). O tempo pode variar, depende da sua disposição. Nós levamos 4 horas no total (com paradas para fotos e lanche). É claro que dá para fazer em menos tempo, mas a gente indica ir com calma e aproveitar o passeio sem muita pressa.
 
 {{<img-full src="/img/2018/01/trilha-da-janela-vista.jpg" alt="Casal De Bacon Tudo - Mirante da Janela"  height="800" width="1280" title="">}}
 
-## Preciso de guia para a ir ao Mirante da Janela?
+## Preciso de guia para a ir até o Mirante da Janela?
 
-Vai depender muito do quão **aventureiro** você está se sentindo. A gente foi meio pensando em **contratar um guia**. Mas chegando lá, conhecemos um casal e decidimos irmos juntos sem guia.
-Durante a maior parte do trajeto existem **setas laranjas** que guiam o seu caminho. Você vai vai ver uma a cerca de cada **100 metros.** Somente duas partes não tem setas, o início (mas é uma parte sem mistério) e quando você está próximo da Janela. A Janela é meio escondida e corre o perigo de **você não achar**.
-Por essa e outras a nossa resposta é, não, você não precisa de guia. Mas não é uma má ideia ir com um. Caso decida contratar um guia, vá no **CAT** (Centro de Atendimento ao Turista) de São Jorge.
+Vai depender muito do quão aventureiro você é. Nós até pensamos em contratar um guia, mas conhecemos um casal assim que chegamos por lá e optamos por ir juntos sem guia. Durante a maior parte do trajeto existem setas laranjas que guiam o caminho. Você vai vai ver uma a cada 100 metros mais ou menos. Somente duas partes não tem setas: o início (mas aí tem uma trilha sem mistério) e quando você já está bem próximo da Janela. Ela é meio escondida e corre o risco de você não achar. Nós tivemos que procurar bem até chegar nele. Por isso, a nossa resposta é: não, você não precisa de guia. Mas não é uma má ideia contratar um.
 {{<img-full src="/img/2018/01/trilha-da-janela-seta.jpg" alt="Casal De Bacon Tudo - Mirante da Janela"  height="800" width="1280" title="">}}
 
 # A trilha
@@ -52,22 +49,19 @@ A primeira parte da trilha vai de São Jorge até o estacionameto da **Cachoeira
 
 ## O estacionamento
 
-Para chegar até lá você vai na direção do Parque Nacional e fica de **olho nas placas**, quando ver uma placa apontando para a **Cachoeira do Abismo,** você segue para lá.
-Eu não sei **porquê** eu achei que era super pertinho de São Jorge e que não precisava ir de carro. Resultado, **precisa sim ir de carro** e adicionamos uns 2 a 3km a mais na nossa caminhada de **besteira**.
+Para chegar até lá você vai na direção do Parque Nacional e fica de olho nas placas. Quando avistar uma placa apontando para a Cachoeira do Abismo, você segue para lá. Eu não sei bem o motivo, mas achei que era super pertinho de São Jorge e que não havia necessidade de ir de carro. Resultado: caminhamos muito mais do que o necessário (pelo menos queimamos umas calorias). Então, fica a dica! Vá até de carro no estacionamento e só depois comece a trilha.
 
 ## A casa do cara que guarda a trilha
 
-Chegando no **estacionamento** você vai encontrar uma **escada descendo** para uma trilhazinha, siga esse caminho que você vai chegar na casa do **seu Graciliano** que cuida da trilha. Ele é super simpático, adora conversar e contar os casos de lá.
-Ele mostrou para gente um **mapa da Trilha da Janela** e nos deu as instruções básicas pra gente não se perder.
+Ao chegar no estacionamento, você encontra uma escada descendo para uma trilhazinha. Siga esse caminho até chegar na casa do cara que cuida da trilha. Esquecemos o nome dele, mas é um senhor super simpático que adora conversar e contar os casos de lá.
+Ele mostrou para a gente um mapa da Trilha da Janela e nos deu as instruções básicas. Também foi super gentil e nos oferece um cafezinho e um pedaço de melancia na volta.
 {{<img-full src="/img/2018/01/trilha-da-janela-mapa.jpg" alt="Casal De Bacon Tudo - Mirante da Janela"  height="800" width="1280" title="">}}
 
 ## Linha reta até o abismo
 
 {{<img-full src="/img/2018/01/trilha-da-janela-vista-1.jpg" alt="Casal De Bacon Tudo - Mirante da Janela"  height="800" width="1280" title="">}}
 
-Dali você segue um bom tempo em **terreno plano**, por um caminho **bem visível**, até chegar numa parte mais pedregosa, onde você vai começar a descer até a **cachoeira do abismo**.
-Você vai passar por uma parte que você precisa se segurar em um **corrimão**. Que já te dá uma **sessão de aventura**. Passado isso, a vista já mostra ao que veio.
-Depois de tirar algumas fotos, você **continua descendo** e vai chegar na cachoeira do abismo. É um bom **momento de respirar** e se **preparar** para o que vem.
+O começo da trilha é bem fácil. Você caminha um bom tempo em terreno plano, por uma trilha bem visível, até chegar numa parte mais pedregosa, onde você vai começar a descer até a cachoeira do abismo. Você vai passar por uma parte que você precisa se segurar em um xxxx. Que já te dá uma sessão de aventura. Passado isso a vista já mostra ao que veio.Depois de tirar algumas fotos, você continua descendo e vai chegar na cachoeira do abismo. É um bom momento de respirar e se preparar para o que vem.
 
 {{<img-full src="/img/2018/01/trilha-da-janela-vista-3.jpg" alt="Casal De Bacon Tudo - Mirante da Janela"  height="800" width="1280" title="">}}
 
