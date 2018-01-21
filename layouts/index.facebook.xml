@@ -1,8 +1,6 @@
-<rss version="2.0" 
-  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     {{ $Site := .Site}}
-    
     <title>
       {{ with .Title }}{{.}}
         on
@@ -14,38 +12,50 @@
       {{ end }}on
       {{ .Site.Title }}</description>
     {{ with .Site.LanguageCode }}
-      
-    <language>{{.}}</language>
+      <language>{{.}}</language>
     {{end}}
     {{ with .Site.Author.email }}
-      
-    <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
+      <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
     {{ end }}
-    {{ range first 100 .Data.Pages }}
-      
-    <item>
-      <title>{{ .Title }}</title>
-      <link>{{ .Permalink }}</link>
-      <guid>{{ .Permalink }}</guid>
-      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+    {{ range first 60 .Data.Pages }}
+      <item>
+        <title>{{ .Title }}</title>
+        <link>{{ .Permalink }}</link>
+        <guid>{{ .Permalink }}</guid>
+        <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
         {{ with .Site.Author.email }}
-          
-      <author>{{.}}
+          <author>{{.}}
             {{ with $.Site.Author.name }}
               ({{.}}){{end}}
           </author>
         {{ end }}
-        
-      <description>{{ .Description | html }}</description>
-      <content:encoded>
+        <description>{{ .Description | html }}</description>
+        <content:encoded>
 
-          {{chomp "
-        <![CDATA[\n"}}
-          <html lang="pt-br" prefix="op: http://media.facebook.com/op#"><head><meta charset="utf-8"><link rel="canonical" href="{{ .Permalink }}"><meta property="op:markup_version" content="v1.0"></head><body><article><header><figure><img src="http://debacontudo.com.br/{{ .Params.banner }}"/></figure><h1 class="entry-title">{{ .Params.title }}</h1><time class="op-published" datetime="2017-5-05T19:00">{{ .Date.Format "2" }}
+          {{chomp "<![CDATA[\n"}}
+          <html lang="pt-br" prefix="op: http://media.facebook.com/op#">
+            <head>
+              <meta charset="utf-8">
+                <link rel="canonical" href="{{ .Permalink }}">
+                  <meta property="op:markup_version" content="v1.0"></head>
+                  <body>
+                    <article>
+                      <header>
+                        <figure>
+                          <img src="http://debacontudo.com.br/{{ .Params.banner }}"/>
+                        </figure>
+                        <h1 class="entry-title">{{ .Params.title }}</h1>
+
+                        <time class="op-published" datetime="2017-5-05T19:00">{{ .Date.Format "2" }}
                           {{ .Date.Format "Jan" }},
-                          {{ .Date.Format "2006" }}</time><time class="op-modified" datetime="2017-5-05T19:00">{{ .Date.Format "2" }}
+                          {{ .Date.Format "2006" }}</time>
+                        <time class="op-modified" datetime="2017-5-05T19:00">{{ .Date.Format "2" }}
                           {{ .Date.Format "Jan" }},
-                          {{ .Date.Format "2006" }}</time></header><figure class="op-tracker"><iframe><script>
+                          {{ .Date.Format "2006" }}</time>
+                      </header>
+                      <figure class="op-tracker">
+                        <iframe>
+                          <script>
                             (function (i, s, o, g, r, a, m) {
                               i['GoogleAnalyticsObject'] = r;
                               i[r] = i[r] || function () {
@@ -64,17 +74,21 @@
                             ga('set', 'campaignSource', 'Facebook');
                             ga('set', 'campaignMedium', 'Social Instant Article');
                             ga('send', 'pageview');
-                          </script></iframe></figure>
+                          </script>
+                        </iframe>
+                      </figure>
                       {{ .Content | safeHTML }}
                       <p>
                         Gostou??? Curta, compartilhe e confira mais no
-                        <a href="http://debacontudo.com.br" target="_blank">debacontudo.com.br</a></p></article></body></html>
+                        <a href="http://debacontudo.com.br" target="_blank">debacontudo.com.br</a>
+                      </p>
+                    </article>
+                  </body>
+                </html>
                 {{chomp "]]>\n"}}
 
-              
-      </content:encoded>
-    </item>
+              </content:encoded>
+            </item>
           {{ end }}
-        
-  </channel>
-</rss>
+        </channel>
+      </rss>
