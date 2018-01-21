@@ -1,6 +1,6 @@
 ---
 author:
-  - larissa
+  - felipe
 banner: /img/2018/01/trilha-da-janela-casal-debacontudo.jpg
 categories:
   - viagem
