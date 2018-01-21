@@ -30,6 +30,8 @@ Mas, como tudo que é bom na vida não vem fácil, chegar até lá dá um trabal
 
 ## Onde fica o Mirante da Janela?
 
+{{<img-full src="/img/2018/01/trilha-da-janela-vista-3.jpg" alt="Casal De Bacon Tudo - Mirante da Janela"  height="800" width="1280" title="">}}
+
 O Mirante da Janela fica dentro do **Parque Nacional da Chapada dos Veadeiros**. A entrada fica em São Jorge, a 30km de **Alto Paraíso do Goiás**.
 
 ## É difícil fazer a trilha do Mirante da Janela?
@@ -39,6 +41,7 @@ A trilha possui **nível médio de dificuldade**, com algumas partes bem fáceis
 ## Preciso de guia para a ir até o Mirante da Janela?
 
 Vai depender muito do quão **aventureiro** você é. Nós até pensamos em **contratar um guia**, mas conhecemos um casal assim que chegamos por lá e optamos por ir juntos sem guia. Durante a maior parte do trajeto existem **setas laranjas que guiam o caminho**. Você vai vai ver uma a cada **100 metros** mais ou menos. Somente duas partes não tem setas: o início (mas aí tem uma trilha sem mistério) e mais perto do fim, quando você já está bem próximo do Mirante da Janela. Ele é meio escondido e corre o risco de você não achá-lo. Nós tivemos que procurar bem até chegar nele. Por isso, a nossa resposta é: não, você não precisa de guia. Mas não é uma má ideia contratar um.
+
 {{<img-full src="/img/2018/01/trilha-da-janela-seta.jpg" alt="Casal De Bacon Tudo - Mirante da Janela"  height="800" width="1280" title="">}}
 
 # A trilha
@@ -53,6 +56,7 @@ Para chegar até lá você vai na direção do Parque Nacional e **fica de olho 
 
 Ao chegar no estacionamento, você encontra uma **escada descendo** para uma trilhazinha. Siga esse caminho até chegar na casa do cara que cuida da trilha: **o seu Graciliano**. Ele é um senhor super simpático que **adora conversar** e contar os casos de lá.
 Ele nos mostrou um **mapa** da Trilha da Janela e nos deu as instruções básicas para a gente não se perder.
+
 {{<img-full src="/img/2018/01/trilha-da-janela-mapa.jpg" alt="Casal De Bacon Tudo - Mirante da Janela"  height="800" width="1280" title="">}}
 
 ## Linha reta até o abismo
@@ -61,14 +65,14 @@ Ele nos mostrou um **mapa** da Trilha da Janela e nos deu as instruções básic
 
 O começo da trilha é **bem fácil**. Você caminha um bom tempo em terreno plano, por uma trilha bem visível, até chegar numa parte mais pedregosa, onde você vai começar a descer até a **cachoeira do abismo**. Você passa por uma parte onde é necessário se segurar em um corrimão, que já te dá uma **sensação de aventura**. Após disso, a primeira vista já surpreende. Depois de tirar algumas fotos, você continua descendo até chegar na cachoeira do abismo. É um bom **momento para respirar** e se preparar para o que vem.
 
-{{<img-full src="/img/2018/01/trilha-da-janela-vista-3.jpg" alt="Casal De Bacon Tudo - Mirante da Janela"  height="800" width="1280" title="">}}
-
 ## Desce, desce, sobe, sobe
 
 Na trilha da janela você meio que tem um **desfiladeiro**, onde **você está de um lado** dele e tem que **ir para o outro lado**. Ou seja, você vai descer até a parte mais baixa e depois subir novamente até a parte mais alta do outro lado. Deu para entender? :P
+
 {{<img-full src="/img/2018/01/trilha-da-janela-descendo.jpg" alt="Casal De Bacon Tudo - Mirante da Janela"  height="800" width="1280" title="Descendo, bem de boa">}}
 
 Nesse trecho é importante seguir as setas laranjas, que ajudam muito. Essa é a **parte mais cansativa** da trilha. Durante a parte da subida você vai encontrar **três escadas** (no mapa do seu Graciliano dá para vê-las também). Quando **chegar na terceira** escada, saiba que a parte mais pesada já ficou para trás.
+
 {{<img-full src="/img/2018/01/trilha-da-janela-subindo.jpg" alt="Casal De Bacon Tudo - Mirante da Janela"  height="800" width="1280" title="Subindo, nem tão de boa">}}
 
 ## Janela, janelinha, janelão
@@ -80,10 +84,12 @@ Quando você estiver próximo da janela, você vai saber. Você encontrará essa
 ### Cadê o Mirante da Janela?
 
 {{<img-full src="/img/2018/01/trilha-da-janela-felipe.jpg" alt="Casal De Bacon Tudo - Mirante da Janela"  height="800" width="1280" title="">}}
-Você vai saber quanso estiver próximo ao **Mirante da Janela**, mas provavelmente ficará um pouco perdido, sem saber o local exato. É meio díficil de achar mesmo. Nós só conseguimos encontrá-lo pois vimos alguém saindo de lá. Mas vou tentar explicar o melhor que posso.
+
+Você vai saber quando estiver próximo ao **Mirante da Janela**, mas provavelmente ficará um pouco perdido, sem saber o local exato. É meio díficil de achar mesmo. Nós só conseguimos encontrá-lo pois vimos alguém saindo de lá. Mas vou tentar explicar o melhor que posso.
 
 Quando você você estiver na Janelinha olhando para as cachoeiras, fique atento ao seu lado direito, que provavelmente terá uma **pedra bem grande**, inclusive muita gente sobe nela tentando achar o Mirante da Janela.
 Então, saiba que o Mirante da Janela fica **escondido** na frente dessa pedra gigante. Você precisa achar um caminho para dar a volta na pedra gigante (nessa parte não tem seta laranja) e, pronto, você vai acabar encontrandp um dos ponstos mais visitados da Chapada dos Veadeiros, o **Mirante da Janela**.
+
 {{<img-full src="/img/2018/01/trilha-da-janela-mirante.jpg" alt="Casal De Bacon Tudo - Mirante da Janela"  width="1024" height="1280" title="">}}
 
 ## Hora de voltar
