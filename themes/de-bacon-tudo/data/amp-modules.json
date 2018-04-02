@@ -17,6 +17,7 @@
   "amp-dynamic-css-classes" : "https://cdn.ampproject.org/v0/amp-dynamic-css-classes-0.1.js",
   "amp-experiment" : "https://cdn.ampproject.org/v0/amp-experiment-0.1.js",
   "amp-facebook" : "https://cdn.ampproject.org/v0/amp-facebook-0.1.js",
+  "amp-facebook-comments" : "https://cdn.ampproject.org/v0/amp-facebook-comments-0.1.js",
   "amp-fit-text" : "https://cdn.ampproject.org/v0/amp-fit-text-0.1.js",
   "amp-font" : "https://cdn.ampproject.org/v0/amp-font-0.1.js",
   "amp-form" : "https://cdn.ampproject.org/v0/amp-form-0.1.js",

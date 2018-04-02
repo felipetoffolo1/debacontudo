@@ -1,0 +1,79 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\felipe.toffolo\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js install node-sass
+
+PATH: 
+  C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\WINDOWS\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\PuTTY\;C:\Users\felipe.toffolo\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Microsoft VS Code\bin;C:\Users\felipe.toffolo\AppData\Roaming\npm;C:\Program Files\SQL Operations Studio\bin
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  8.9.4
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  {
+    "name": "your-project",
+    "version": "1.0.0",
+    "description": "describe your project",
+    "main": "index.js",
+    "scripts": {
+      "go": "npm run hugo:server",
+      "hugo:server": "hugo server --buildDrafts --buildFuture",
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "build:prod": "npm run theme:build && hugo && npm run optimize:html",
+      "optimize:html": "./node_modules/.bin/html-minifier --input-dir ./public/ --output-dir ./public/ --file-ext html -c ./.html-minifier-config.json",
+      "theme:build": "node ./.bin/styling",
+      "theme:watch": "./node_modules/.bin/nodemon -e scss -w ./ -x npm run theme:build",
+      "png": "ngquant --force --ext .png",
+      "jpg": "jpegoptim -f -o"
+    },
+    "author": "Your Name",
+    "license": "UNLICENSED",
+    "dependencies": {
+      "bootstrap-sass": "^3.3.7",
+      "purecss": "^0.6.2"
+    },
+    "devDependencies": {
+      "autoprefixer": "^6.7.6",
+      "cssnano": "^3.10.0",
+      "grunt": "^1.0.1",
+      "html-minifier": "^3.4.0",
+      "node-sass": "^3.13.1",
+      "nodemon": "^1.11.0",
+      "postcss": "^5.2.15",
+      "string": "^3.3.3",
+      "toml": "^2.3.3",
+      "yamljs": "^0.3.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://LINK-TO-YOUR-REPOSITORY"
+    },
+    "keywords": [
+      "kw1",
+      "kw2",
+      "kw3"
+    ],
+    "bugs": {
+      "url": "https://LINK-TO-YOUR-BUG-TRACKER"
+    },
+    "homepage": "https://YOUR-HOMEPAGE.TLD"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: `install` has been replaced with `add` to add new dependencies. Run "yarn add node-sass" instead.
+      at new MessageError (C:\Users\felipe.toffolo\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:186:110)
+      at Object.<anonymous> (C:\Users\felipe.toffolo\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:21987:13)
+      at Generator.next (<anonymous>)
+      at step (C:\Users\felipe.toffolo\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:98:30)
+      at C:\Users\felipe.toffolo\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:109:13
+      at <anonymous>

@@ -1,0 +1,31 @@
+.site-header {
+     @extend %flexbasic;
+     .top-bar{
+         flex-basis: 100%;
+         @extend %flexbasic;
+         .search, .social {
+             flex-basis: 50%;
+            }
+            .social {   
+            @extend %flexend;
+            
+        }
+    }
+    
+    .logo {
+        @extend %flexcenter;
+        flex-basis: 100%;
+        
+    }
+    .main-navigation {
+        @extend %flexcenter;
+        flex-basis: 100%;
+        .menu {
+            display: flex;
+            justify-content: space-between
+            flex-basis: 100%;
+
+        }
+
+    }
+}

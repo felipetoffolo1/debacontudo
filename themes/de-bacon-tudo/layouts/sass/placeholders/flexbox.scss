@@ -1,0 +1,23 @@
+%flexbasic {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+
+%flexend {
+    @extend %flexbasic;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+%flexstart {
+    @extend %flexbasic;
+    align-items: flex-start;
+}
+
+%flexcenter {
+    @extend %flexbasic;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
