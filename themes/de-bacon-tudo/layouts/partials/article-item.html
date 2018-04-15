@@ -1,62 +1,39 @@
-{{ $Site := .Site }}
-{{if .Prev}}
+{{ $Site := .Site }} {{if .Prev}}
 <article class="post">
-    <div class="entry-featured-image">
-        {{if not .Prev}}
-        <amp-img src="{{ .Params.banner }}" layout="responsive" width="1920" height="1080" alt="{{ .Title }}"></amp-img>
+    <div class="margin">
 
-        {{else}} {{ if .Params.thumbnail }}
-        <amp-img src="{{ .Params.thumbnail }}" layout="responsive" width="337.5" height="337.5" alt="{{ .Title }}"></amp-img>
-        {{else}}
-        <img src="/img/astrif-post-entry-02.jpg" alt="Healthy Breakfast For Cute Girl"> {{ end }} {{end}}
-    </div>
-
-    <div class="entry-area">
-        <div class="entry-header">
-            <h2 class="entry-title">
-                <a href="{{ .RelPermalink }}" rel="bookmark">{{ .Title }}</a>
-            </h2>
-            <div class="entry-meta">
-                {{ if not .Params.nodate }}
-                <span class="posted-on">
-                    <a href="{{ .RelPermalink }}" rel="bookmark">
-                        <time class="entry-date" datetime="2016-10-26">{{ .Date.Format "2" }} {{ .Date.Format "Jan" }}, {{ .Date.Format "2006" }}</time>
-                    </a>
-                </span>
-                <!-- .posted-on -->
-                {{ end }} {{ if .Params.categories }} {{ range .Params.categories }}
-                <span class="entry-cat">
-                    <span class="cat-link">
-                        <a class="post-category post-category-{{ . | urlize }}" href="{{ $Site.BaseURL }}/categories/{{ . | urlize }}">{{ . }}</a>
-                    </span>
-                </span>
-                <!-- .entry-cat -->
-                {{ end }} {{ end }} {{ if not .Params.noread }}
-                <span class="entry-like ">
-                    <a href="">
-                        <i class="fa fa-clock-o"></i>
-                        <em>{{.ReadingTime}}
-                            <span class="reading-time">min</span>
-                        </em>
-                    </a>
-                </span> {{ end }}
+        <a class="entry-featured-image" href="{{ .RelPermalink }}">
+            <amp-img src="{{ .Params.banner }}" layout="responsive" width="1920" height="1080" alt="{{ .Title }}"></amp-img>
+            <!-- <amp-img media="(max-width: 800px)" src="{{ .Params.thumbnail }}" layout="responsive" width="800" height="800" alt="{{ .Title }}"></amp-img> -->
+        </a>
+        
+        <div class="entry-cat">
+            {{ if .Params.categories }} {{ range .Params.categories }}
+            <span class="cat-link">
+                <a class="post-category post-category-{{ . | urlize }}" href="{{ $Site.BaseURL }}/categories/{{ . | urlize }}">{{ . }}</a>/
+            </span>
+            {{ end }} {{ end }}
+        </div>
+        <div class="entry-area">
+            <div class="entry-header">
+                <h2 class="entry-title">
+                    <a href="{{ .RelPermalink }}" rel="bookmark">{{ .Title }}</a>
+                </h2>
+                <!-- .entry-meta -->
             </div>
-            <!-- .entry-meta -->
+            <!-- .entry-cat -->
+            <!-- .entry-header -->
+            <a class="entry-content" href="{{ .RelPermalink }}">
+                <p class="">
+                    {{if .Params.summary}} {{ .Params.summary | truncate 200 }} {{else}} {{ .Summary | truncate 200 }} {{end}}
+                    <!-- .more-link -->
+                </p>
+            </a>
+             {{ partial "socialsharing-list.html" . }}
+            <!-- .entry-content -->
         </div>
-        <!-- .entry-header -->
-        <div class="entry-content">
-            <p class="text-center">
-                {{if .Params.summary}} {{ .Params.summary | truncate 200 }} {{else}} {{ .Summary | truncate 200 }} {{end}}
-                <a href="{{ .RelPermalink }}" class="more-link">
-                    <span class="moretext">Leia Mais</span>
-                    <span class="screen-reader-text">{{ .Title }}</span>
-                </a>
-                <!-- .more-link -->
-            </p>
-        </div>
-        <!-- .entry-content -->
+        <!-- .entry-area -->
+        <!-- {{ .Content }} -->
     </div>
-    <!-- .entry-area -->
-    <!-- {{ .Content }} -->
 </article>
 {{end}}

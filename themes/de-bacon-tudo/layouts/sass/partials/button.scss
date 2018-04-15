@@ -1,0 +1,39 @@
+%button {
+    font-size: 11px;
+    color: #ffffff;
+    line-height: 16px;
+    text-transform: uppercase;
+    display: inline-block;
+    border: 1px solid #111111;
+    padding: 7px 25px;
+    background-color: #111111;
+    letter-spacing: 1px;
+    text-decoration: none;
+    cursor: pointer;
+    -webkit-transition: border-color, 0.25s, ease-in-out;
+    transition: border-color, 0.25s, ease-in-out;
+    &:hover {
+        background-color: #c7c7c7;
+        color: #111111;
+    }
+}
+
+.button-primary{
+    @extend %button;
+}
+
+.button-inverse {
+    @extend %button;
+    color: #111111;
+    border: 1px solid #ffffff;
+    background-color: #ffffff;
+        &:hover {
+            background-color: #111111;
+            color: #c7c7c7;
+        }
+}
+
+.button-tag{
+    @extend .button-inverse;
+    padding: 10px;
+}

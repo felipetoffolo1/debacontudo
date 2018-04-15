@@ -1,55 +1,18 @@
-  <section class="widget astrif_widget_about">
-    <h2 class="widget-title"><span>Sobre</span></h2>
-    <div class="about-author-container">
-      <div class="author-avatar">
-        <amp-img src="/img/quem-somos/larissa-alberti.png" width="120" height="120" layout="fixed" alt="an image"></amp-img>
-      </div>
-      <div class="author-info">
-        <p>
-          Ela é candanga, de pai gaúcho e mãe mineira. Ela é uma mulher moderna e sabe que lugar de mulher é onde ela bem quiser. Ela é ansiosa. Ela tem paciência com ele. Ela quando bebe vira a Lucinha. Ela só quer saber de viajar, séries e redes sociais. Ela ama Ele.
-        </p>
-      </div>
-      <div class="author-signature">
-        <amp-img src="/img/quem-somos/larissa-signature.png" width="180" height="24" layout="responsive" alt="an image"></amp-img>
-      </div>
-    </div><!-- .about-author-container -->
-  </section><!-- .astrif_widget_about -->
-  <section class="widget astrif_widget_follow_me">
-    <!-- <h2 class="widget-title"><span>Follow me</span></h2> -->
-    <div class="follow-me">
-      <ul class="social-icon social-icon-color">
-        <!-- <li><a target="_blank" href="" class="icon-twitter"><i class="fa fa-twitter"></i></a></li> -->
-        <li><a target="_blank" href="https://www.facebook.com/larissa.alberti" class="icon-facebook"><i class="fa fa-facebook"></i></a></li>
-        <li><a target="_blank" href="https://www.instagram.com/albertilarissa/" class="icon-instagram"><i class="fa fa-instagram"></i></a></li>
-        <li><a target="_blank" href="https://br.pinterest.com/albertilarissa/" class="icon-pinterest"><i class="fa fa-pinterest"></i></a></li>
-      </ul>
-    </div><!-- .follow-me -->
-  </section><!-- .astrif_widget_follow_me -->
-  <hr class="hr-dark">
-  <section class="widget astrif_widget_about">
-    <div class="about-author-container">
-      <div class="author-avatar">
-        <amp-img src="/img/quem-somos/felipe-toffolo.png" width="120" height="120" layout="fixed" alt="an image"></amp-img>
-      </div>
-      <div class="author-info">
-        <p>
-          Ele é mineiro, nascido em Ouro Preto, criado em Pará de Minas e adotado por Brasília. Ele é Nerd e tem orgulho disso. Ele acha que sabe de tudo. Ele é fã do Chico. Ele faz tudo por ela. Ele odeia perder nos jogos. Ele é apaixonado pelo trabalho, séries, cozinhar e lutar. Ele ama Ela.
-        </p>
-      </div>
-      <div class="author-signature">
-        <amp-img src="/img/quem-somos/felipe-signature.png" width="180" height="24" layout="responsive" alt="an image"></amp-img>
-      </div>
-    </div><!-- .about-author-container -->
-  </section><!-- .astrif_widget_about -->
-
-  <section class="widget astrif_widget_follow_me">
-    <!-- <h2 class="widget-title"><span>Follow me</span></h2> -->
-    <div class="follow-me">
-      <ul class="social-icon social-icon-color">
-        <li><a target="_blank" href="https://twitter.com/ftoffolo" class="icon-twitter"><i class="fa fa-twitter"></i></a></li>
-        <li><a target="_blank" href="https://www.facebook.com/felipe.toffolo" class="icon-facebook"><i class="fa fa-facebook"></i></a></li>
-        <li><a target="_blank" href="https://www.instagram.com/ftoffolo/" class="icon-instagram"><i class="fa fa-instagram"></i></a></li>
-        <li><a target="_blank" href="https://br.pinterest.com/felipetoffolo/" class="icon-pinterest"><i class="fa fa-pinterest"></i></a></li>
-      </ul>
-    </div><!-- .follow-me -->
-  </section><!-- .astrif_widget_follow_me -->
+<section class="about">
+  <h2 class="widget-title">Sobre Nós</h2>
+  <p>
+    Ela é candanga, de pai gaúcho e mãe mineira. Ela é uma mulher moderna e sabe que lugar de mulher é onde ela bem quiser. Ela
+    é ansiosa. Ela tem paciência com ele. Ela quando bebe vira a Lucinha. Ela só quer saber de viajar, séries e redes sociais.
+    Ela ama Ele.
+  </p>
+  <ul class="social">
+    {{ if .Site.Menus.social }} {{ range .Site.Menus.social }} {{ if .URL }}
+    <li class="social-icon">
+      <a href="{{ .URL }}" target="_blank" class="icon">{{ .Pre }}</i>
+      </a>
+    </li>
+    {{ end }} {{ end }} {{ end }}
+  </ul>
+  <!-- .follow-me -->
+</section>
+<!-- .astrif_widget_follow_me -->

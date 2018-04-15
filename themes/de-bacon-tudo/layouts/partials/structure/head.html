@@ -47,21 +47,12 @@
 
 
     {{ partial "seo/main" . }}
-
-</head>
-
+    
+  </head>
+  
 <body>
-  <amp-sidebar id="sidebar" layout="nodisplay">
-    <div class="pure-menu">
-      <span class="pure-menu-heading">De Bacon Tudo</span>
-
-      <ul class="pure-menu-list">
-        <li class="pure-menu-item"><a class="pure-menu-link" href="{{ .Site.BaseURL }}">Home</a></li>
-        {{ range .Site.Menus.main }}
-        <li class="pure-menu-item"><a class="pure-menu-link" href="{{ .URL }}">{{ .Name }}</a></li>
-        {{ end }}
-      </ul>
-    </div>
+  <amp-sidebar id="sidebar" layout="nodisplay" side="right">
+    {{ partial "menu-mob" . }}  
   </amp-sidebar>
 {{ if isset $.Site.Params "ampmanifest" }}
 {{ with $.Site.Data.app.banner }}{{ partial "amp/app-banner" . }}{{ end }}

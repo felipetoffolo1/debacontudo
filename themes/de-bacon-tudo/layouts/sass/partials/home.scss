@@ -1,0 +1,17 @@
+.home-container {
+    @extend %flexbasic;
+    margin-top: 30px;
+    .post-list {
+        flex-grow: 1;
+        flex-basis: 100%;
+        @media (min-width: 990px) {
+            flex-basis: 70%;
+        }
+    }
+    .sidebar-container {
+        flex-basis: 100%;
+        @media (min-width: 990px) {
+            flex-basis: 350px;
+        }
+    }
+}

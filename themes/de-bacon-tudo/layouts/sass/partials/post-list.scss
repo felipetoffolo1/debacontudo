@@ -1,0 +1,156 @@
+.post {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(3, auto);
+    .entry-featured-image {
+        grid-column: 1;
+        grid-row: 1 / span 3;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+    }
+    .entry-area {
+        @extend %flexcenter;
+        grid-column: 1;
+        grid-row: 2;
+        align-self: center;
+        justify-self: center;
+        z-index: 1;
+        color: #e6e6e6;
+        background-color: rgba(17, 17, 17, 0.7);
+        max-width: 80%;
+        padding: 25px;
+        max-width: 560px;
+        .entry-content {
+            @extend %flexcenter;
+        }
+        h2 {
+            @extend %basicTitle;
+            margin: 0 0 10px 0;
+            a {
+                @extend %basicTitle;
+                color: #e6e6e6;
+                font-size: 27px;
+                font-weight: 400;
+            }
+        }
+        .button-primary {
+            margin-top: 20px;
+            text-align: center;
+            width: 80px;
+        }
+    }
+}
+
+.post-list {
+    .container {
+        @extend %flexstart;
+        align-content: flex-start;
+        padding: 0 15px;
+        .post {
+            @extend %flexstart;
+            * {
+                text-align: left;
+            }
+            text-align: left;
+            flex-basis: 100%;
+            @media (min-width: 990px) {
+                flex-basis: 50%;
+            }
+            .margin {
+                border-bottom: 1px solid #e6e6e6;
+                padding-bottom: 40px;
+                margin: 0 15px 40px 15px;
+            }
+            .entry-cat {
+                margin-top: 20px;
+            }
+            .entry-area {
+                @extend %flexstart;
+                background-color: transparent;
+                padding: 0;
+                .entry-title {
+                    @extend %flexstart;
+                    a {
+                        text-align: left;
+                        font-size: 18px;
+                        color: #111111;
+                        line-height: 22px;
+                        letter-spacing: 1px;
+                        text-decoration: none;
+                        display: block;
+                        text-transform: uppercase;
+                        min-height: 68px;
+                        height: 68px;
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                    }
+                }
+            }
+            .entry-cat {
+                @extend %flexstart;
+                flex-direction: row;
+                .cat-link {
+                    &:first-child {
+                        a {
+                            margin-left: 0px;
+                        }
+                    }
+                    a {
+                        font-size: 13px;
+                        color: #111111;
+                        line-height: 18px;
+                        letter-spacing: 0.5px;
+                        display: inline-block;
+                        margin: 0 3px 10px 8px;
+                        text-decoration: none;
+                        text-transform: capitalize
+                    }
+                }
+            }
+            .entry-content {
+                text-decoration: none;
+                p {
+                    font-size: 13px;
+                    color: #111111;
+                    line-height: 22px;
+                    margin-bottom: 20px;
+                    font-family: 'Open Sans', sans-serif;
+                    font-weight: 400;
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                    height: 88px;
+                }
+            }
+        }
+    }
+}
+
+.post-sidebar {
+    @extend %flexstart;
+    margin-top: 10px;
+    @extend %lineborder;
+    padding-bottom: 10px;
+    .image {
+        flex-basis: 40%;
+    }
+    .title {
+        flex-basis: 60%;
+        h4,
+        small,div {
+            margin: 0 0 0 10px;
+        }
+        h4,div {
+            margin-bottom: 10px;
+            max-height: 60px;
+            font-weight: 400;
+            text-align: left;
+        }
+        a {
+            @extend %overflow-text;
+            @extend %basicTitle;
+            text-transform: capitalize;
+            font-size: 15px;
+        }
+    }
+}

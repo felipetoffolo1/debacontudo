@@ -5,13 +5,13 @@
 
   <body class="home blog">
     <div id="page" class="site">
-      <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+        {{ partial "menu.html" . }}
+      <!-- <a class="skip-link screen-reader-text" href="#content">Skip to content</a> -->
       
       <!-- <div class="text-center">
         {{ partial "slider.html" . }}
         
       </div> -->
-      {{ partial "menu.html" . }}
       
       <!-- content -->
       <div id="content" class="site-content">
@@ -21,23 +21,22 @@
             {{ range first 1 .Data.Pages}}
               {{ partial "article-full.html" . }}
             {{ end }}
-            <div class="container">
+            <div class="home-container">
               <!-- article -->
-              <div class="pure-u-md-16-24 pure-u-1">
-                <div class="site-entry">
+              <div class="post-list">
                   <!-- all posts -->
-                  {{ range (.Paginate ( .Data.Pages)).Pages }}
+                  <div class="container">
+                    {{ range (.Paginate ( where .Data.Pages ".Prev" "!=" nil)).Pages }}
                     {{ partial "article-item.html" . }}
-                  {{ end }}
-                  
-
-                    {{ partial "navigation/pagination" . }}
+                    {{ end }}
                   </div>
+                  
+                    {{ partial "navigation/pagination" . }}
                 </div>
                 <!-- .col-md-8 -->
 
                 <!-- sidebar -->
-                <div class="pure-u-md-8-24 pure-u-1">
+                <div class="sidebar-container">
                   {{ partial "sidebar.html" . }}
                 </div>
                 <!-- .col-md-4 -->
