@@ -1,0 +1,28 @@
+<div class="related-posts-wrapper">
+
+    <h3>Você também vai curtir</h3>
+    <div class="related-posts">
+        {{ range . }}
+        <div class="post-container">
+            <div class="related-post">
+
+                <div class="post-thumbnail">
+                    <a href="{{ .RelPermalink}}">
+                        <amp-img src="{{ .Params.thumbnail }}" layout="responsive" width="800" height="800"></amp-img>
+                    </a>
+                </div>
+                <!-- .post-thumbnail -->
+                <h4 class="post-title">
+                    <a href="{{ .RelPermalink}}">{{ .Title | truncate 50}}</a>
+                </h4>
+                <span class="post-meta">
+                    <a href="{{ .RelPermalink}}">
+                        <time class="entry-date" datetime="2016-09-07">{{ .Date.Format "2" }} {{ .Date.Format "Jan" }}, {{ .Date.Format "2006" }}</time>
+                    </a>
+                </span>
+            </div>
+        </div>
+        <!-- .post-container -->
+        {{end}}
+    </div>
+</div>

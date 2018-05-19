@@ -17,7 +17,7 @@
   {{ $sep := "," }}
   {{ $Pages := .Data.Pages  }}
   {{ $r := getCSV $sep $url}}
-  {{ range first 3 $r }}
+  {{ range first 5 $r }}
   {{ $link := index . 0 }}
   {{ range where $Pages "RelPermalink" $link  }}
   <div class="item">

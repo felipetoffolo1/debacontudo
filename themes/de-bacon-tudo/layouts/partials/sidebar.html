@@ -17,7 +17,7 @@
   {{ $sep := "," }}
   {{ $Pages := .Data.Pages  }}
   {{ $r := getCSV $sep $url}}
-  {{ range first 3 $r }}
+  {{ range first 5 $r }}
   {{ $link := index . 0 }}
   {{ range where $Pages "RelPermalink" $link  }}
   <div class="post-sidebar">
@@ -27,7 +27,7 @@
       <div class="title">
           <a href="{{ .Permalink }}" rel="bookmark" class="popular-entry-title-link">
             <h4>
-            {{ .Title | truncate 50 }}
+            {{ .Title | truncate 45 }}
           </h4> 
         </a>
         <!-- <small class="popular-entry-date"><time class="entry-date" datetime="2016-09-07">{{ .Date.Format "2" }} {{ .Date.Format "Jan" }}, {{ .Date.Format "2006" }}</time></small> -->
