@@ -1,9 +1,8 @@
 <div class="search-form">
     <!-- <div class="pure-form"> -->
-        <button [href]="'/search?query=' + query" class="btn btn-default search-submit">
+        <a [href]="'/search?query=' + query" class="btn btn-default search-submit">
             <i class="fa fa-search"></i>
-        </button>
-        <label for="search" class="sr-only">Digite para Pesquisar....</label>
+        </a>
         <input type="text" id="searchinput"  name="searchinput" class=" pure-input-rounded search-field"  on="change:AMP.setState({query: event.value })" placeholder="Digite para Pesquisar....">
         <!-- .form-group -->
     <!-- </div> -->

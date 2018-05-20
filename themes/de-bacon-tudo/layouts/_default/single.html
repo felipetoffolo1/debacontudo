@@ -36,99 +36,42 @@
                   </a>
                   
                 </div> -->
-        <!-- .entry-meta -->
-        <!-- .entry-header -->
-
-        <!-- .entry-header -->
-        <div class="entry-content">
-          {{ .Content }}
-
-        </div>
-      </div>
-
-      <!-- .entry-content -->
-      <footer class="entry-footer">
-        {{ if .Params.tags }}
-        <div class="tags-links text-center">
-          {{ range .Params.tags }}
-          <a class="button-inverse post-tag-{{ . | urlize }}" href="{{ $Site.BaseURL}}/tags/{{ . | urlize }}">#{{ . }}</a> {{ end }}
-        </div>
-        <!-- .tags-links -->
-        {{ end }} 
-        {{ partial "socialsharing.html" . }} 
-        {{ $related := .Site.RegularPages.Related . | first 3 }} 
-        {{ with $related }} 
-         {{ partial "related-posts.html" . }} 
-        {{ end }} 
-        
-        {{ if not .Params.nocomment }}
-        <amp-facebook-comments width=486 height=657 layout="responsive" data-numposts="5" data-href="{{ .Permalink}}">
-        </amp-facebook-comments>
-        {{ end }}
-      </footer>
-    </article>
+                <!-- .entry-meta -->
+                <!-- .entry-header -->
+                
+                <!-- .entry-header -->
+                <div class="entry-content">
+                  {{ .Content }}
+                  
+                </div>
+              </div>
+              
+              <!-- .entry-content -->
+              <footer class="entry-footer">
+                {{ if .Params.tags }}
+                <div class="tags-links text-center">
+                  {{ range .Params.tags }}
+                  <a class="button-inverse post-tag-{{ . | urlize }}" href="{{ $Site.BaseURL}}/tags/{{ . | urlize }}">#{{ . }}</a> {{ end }}
+                </div>
+                <!-- .tags-links -->
+                {{ end }} 
+                {{ partial "socialsharing.html" . }} 
+                {{ $related := .Site.RegularPages.Related . | first 3 }} 
+                {{ with $related }} 
+                {{ partial "related-posts.html" . }} 
+                {{ end }} 
+                
+                {{ if not .Params.nocomment }}
+                <amp-facebook-comments width=486 height=657 layout="responsive" data-numposts="5" data-href="{{ .Permalink}}">
+                </amp-facebook-comments>
+                {{ end }}
+              </footer>
+            </article>
   </div>
   <!-- #main -->
   <footer class="site-footer">
     {{ partial "subscribe.html" . }}
-
-    <div class="pure-g">
-      <div class="pure-u-xl-4-24 pure-u-md-2-24">
-        <!-- <a href="#top" id="nav-to-top" class="btn btn-link  sticky-button">Voltar ao Topo</a> -->
-      </div>
-      <div class="pure-u-xl-16-24  pure-u-md-20-24 pure-u-1  site-entry">
-        <!-- author bio -->
-        <div class="section-title">
-          {{ if .Params.author }}
-          <h3>Escrito por</h3>
-        </div>
-        {{ range .Params.author}}
-        <div class="entry-author-bio">
-          <div class="author-bio-avatar">
-            <div class="avatar">
-              <amp-img alt="author bio" src="{{ index (index $.Site.Data.authors  . ) " thumbnail " }}" height="200" width="200" layout="responsive">
-              </amp-img>
-            </div>
-          </div>
-          <!-- .author-bio-avatar -->
-          <div class="author-bio-description">
-            <h4>{{ index (index $.Site.Data.authors . ) "display_name" }}</h4>
-            <p>{{ index (index $.Site.Data.authors . ) "short_bio" }}</p>
-
-            <ul class="social-icon">
-              <li>
-                <a href="#" class="icon-facebook" target="_blank">
-                  <i class="fa fa-facebook"></i>
-                </a>
-              </li>
-              <li>
-                <a href="#" class="icon-twitter" target="_blank">
-                  <i class="fa fa-twitter"></i>
-                </a>
-              </li>
-              <li>
-                <a href="#" class="icon-instagram" target="_blank">
-                  <i class="fa fa-instagram"></i>
-                </a>
-              </li>
-              <li>
-                <a href="#" class="icon-youtube" target="_blank">
-                  <i class="fa fa-youtube-play"></i>
-                </a>
-              </li>
-              <li>
-                <a href="#" class="icon-pinterest" target="_blank">
-                  <i class="fa fa-pinterest"></i>
-                </a>
-              </li>
-            </ul>
-          </div>
-          <!-- .author-bio-description -->
-        </div>
-        <!-- entry-author-bio -->
-        {{ end }} {{ end }}
-      </div>
-  </footer>
+    </footer>
   </div>
   <!-- #primary -->
   <!-- #content -->

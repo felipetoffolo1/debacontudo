@@ -1,107 +1,102 @@
-{{ partial "structure/head" . }} {{ partial "menu.html" . }}
+{{ $Site := .Site }} {{ partial "structure/head" . }}
+
 <main>
 
-    <div id="content" class="site-content">
-        <div id="primary" class="content-area">
-            <main id="main" class="site-main" role="main">
+    <body class="home blog">
+        <div id="page" class="site">
+            {{ partial "menu.html" . }}
+            <!-- <a class="skip-link screen-reader-text" href="#content">Skip to content</a> -->
 
+            <!-- <div class="text-center">
+        {{ partial "slider.html" . }}
+        
+      </div> -->
+
+            <!-- content -->
+            <div id="content" class="site-content">
+                <div id="primary" class="content-area">
+                    <main id="main" class="site-main" role="main">
+                        <div class="page-title">
+                            <h1>
+                                {{ .Title }}
+                            </h1>
+                        </div>
+                        <div class="home-container">
+                            <div class="post-list">
+                                <!-- all posts -->
+                                <div class="container">
+                                    {{ range (.Paginate .Data.Pages).Pages }} {{ partial "article-item.html" . }} {{ end }}
+                                </div>
+
+                                {{ partial "navigation/pagination" . }}
+                            </div>
+                            <!-- .col-md-8 -->
+
+                            <!-- sidebar -->
+                            <div class="sidebar-container">
+                                {{ partial "sidebar.html" . }}
+                            </div>
+                            <!-- .col-md-4 -->
+                        </div>
+                        <!-- .row -->
+                        <!-- .container -->
+
+                    </main>
+                    <!-- #main -->
+                </div>
+                <!-- #primary -->
+            </div>
+            <!-- #content -->
+
+            <!-- site-footer -->
+            <footer id="colophon" class="site-footer" role="contentinfo">
+                <!-- .footer-subscribe -->
+                {{ partial "subscribe.html" . }}
+
+                <!-- footer instagram -->
+                <div class="footer-instagram">
+                    <div class="instagram-widget hide-mobile">
+                        <amp-iframe width="auto" height="158px" sandbox="allow-scripts allow-same-origin" layout="fixed-height" frameborder="0" src="https://snapwidget.com/embed/357325">
+                        </amp-iframe>
+                    </div>
+                    <div class="instagram-widget hide-no-mobile">
+                        <amp-iframe width="350" height="1400" sandbox="allow-scripts allow-same-origin" resizable layout="responsive" frameborder="0"
+                            src="https://snapwidget.com/embed/357534">
+                            <div overflow tabindex="0" role="button" aria-label="Read more">Leia Mais</div>
+                        </amp-iframe>
+                    </div>
+                    <ul class="social">
+                        {{ if .Site.Menus.social }} {{ range .Site.Menus.social }} {{ if .URL }}
+                        <li class="social-icon">
+                            <a href="{{ .URL }}" target="_blank" class="icon">{{ .Pre }}</i>
+                                {{.Identifier}}
+                            </a>
+                        </li>
+                        {{ end }} {{ end }} {{ end }}
+                    </ul>
+                </div>
+                <!-- .footer-instagram -->
+            </footer>
+            <!-- #site-footer -->
+
+            <!-- copyright -->
+            <section id="copyright" class="copyright">
                 <div class="container">
                     <div class="pure-g">
-                        <!-- article -->
-                        <div class="pure-u-md-16-24 pure-u-1">
-                            <div class="site-entry">
-                                <header class="page-header">
-                                    <h1 class="page-title"><span>Navegando em</span> {{ .Title }}</h1>
-                                    <!-- <div class="taxonomy-description">
-                          <p>Just eat healthy food from now</p>
-                        </div> -->
-                                </header>
-                                <div class="pure-g container-masonry category">
-                                    {{ $Site := .Site }} {{ range .Data.Pages }}
-                                    <div class="pure-u-md-12-24 pure-u-1">
-                                        <article class="post post-grid format-standard hentry">
-                                            <div class="entry-featured-image">
-                                                <amp-img src="{{ .Params.thumbnail }}" layout="responsive" width="337.5" height="337.5" alt="{{ .Title }}"></amp-img>
-                                            </div>
-
-                                            <div class="entry-area">
-                                                <div class="entry-header">
-                                                    <h2 class="entry-title"><a href="{{ .RelPermalink }}" rel="bookmark">{{ .Title }}</a></h2>
-                                                    <div class="entry-meta">
-                                                        {{ if not .Params.nodate }}
-                                                        <span class="posted-on">
-                  <a href="{{ .RelPermalink }}" rel="bookmark"> <time class="entry-date" datetime="2016-10-26">{{ .Date.Format "2" }} {{ .Date.Format "Jan" }}, {{ .Date.Format "2006" }}</time> </a>
-                </span>
-                                                        <!-- .posted-on -->
-                                                        {{ end }} {{ if .Params.categories }} {{ range .Params.categories }}
-                                                        <span class="entry-cat">
-                      <span class="cat-link"><a class="post-category post-category-{{ . | urlize }}" href="{{ $Site.BaseURL }}/categories/{{ . | urlize }}">{{ . }}</a></span>
-                                                        </span>
-                                                        <!-- .entry-cat -->
-                                                        {{ end }} {{ end }} {{ if not .Params.noread }}
-                                                        <!-- <span class="entry-like"><a href=""><i class="fa fa-clock-o"></i> <em>{{.ReadingTime}} min. read</em></a></span> -->
-                                                        {{ end }}
-                                                    </div>
-                                                    <!-- .entry-meta -->
-                                                </div>
-                                                <!-- .entry-header -->
-                                                <div class="entry-content">
-                                                    <p class="text-center">
-                                                        {{ if .Params.summary }}
-                                                         {{ .Params.summary | truncate 180 }}
-                                                        {{ else }}
-                                                          {{ .Summary | truncate 180 }}
-                                                        {{ end }}
-                                                        <a href="{{ .RelPermalink }}" class="more-link">
-                                                            <span class="moretext">Leia Mais</span> <span class="screen-reader-text">{{ .Title }}</span>
-                                                        </a>
-                                                        <!-- .more-link -->
-                                                    </p>
-                                                </div>
-                                                <!-- .entry-content -->
-                                            </div>
-                                            <!-- .entry-area -->
-                                            <!-- {{ .Content }} -->
-                                        </article>
-                                        <!-- .post -->
-                                    </div>
-                                    <!-- .col-sm-6 -->
-                                    {{ end }}
-                                </div>
-                                <!-- .row -->
-
-                                <nav class="navigation pagination" role="navigation">
-                                    <h2 class="screen-reader-text">Posts navigation</h2>
-                                    <div class="nav-links">
-                                        <a class="prev page-numbers" href="#">Prev</a>
-                                        <a class="page-numbers" href="#">1</a>
-                                        <span class="page-numbers current">2</span>
-                                        <span class="page-numbers dots">…</span>
-                                        <a class="page-numbers" href="#">4</a>
-                                        <a class="next page-numbers" href="#">Next</a>
-                                    </div>
-                                    <!-- .nav-links -->
-                                </nav>
-                                <!-- .navigation -->
-                            </div>
+                        <div class="pure-u-1">
+                            Copyright &copy; 2016
+                            <strong>De Bacon Tudo</strong>. All Right Reserved.
                         </div>
-                        <!-- .col-md-9 -->
-
-                        <!-- sidebar -->
-                        <div class="pure-u-md-8-24 pure-u-1">
-                            {{ partial "sidebar.html" . }}
-                        </div>
+                        <!-- .col-sm-6 -->
                     </div>
                     <!-- .row -->
                 </div>
                 <!-- .container -->
+            </section>
+            <!-- #copyright -->
 
-            </main>
-            <!-- #main -->
         </div>
-        <!-- #primary -->
-    </div>
-    <!-- #content -->
+        <!-- #page -->
 </main>
 
 {{ partial "structure/foot" . }}

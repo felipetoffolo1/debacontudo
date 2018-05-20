@@ -1,6 +1,9 @@
 .single {
     flex-basis: 100%;
     width: 100%;
+    #content {
+        width: 100%;
+    }
     @extend %flexcenter;
     main,
     footer,
@@ -66,6 +69,7 @@
 .related-posts-wrapper {
     @extend %flexstart;
     @extend %lineborder;
+    margin: 0 auto;
     padding-bottom: 1rem;
     @media (min-width: $breakpointDefault) {
         max-width: 60rem; // padding: 0 10%;

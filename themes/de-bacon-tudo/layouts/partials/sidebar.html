@@ -37,20 +37,6 @@
   {{ end }}
                       </div>
                     </section>
-    {{ if not .IsHome }}
-    <section class="widget widget_recent_entries">
-        <h2 class="widget-title"><span>Posts Recentes</span></h2>
-        <ul>
-            {{ range first 5 .Data.Pages }}
-            <li>
-                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                <span class="post-date">{{ .Date.Format "2" }} {{ .Date.Format "Jan" }}, {{ .Date.Format "2006" }}</span>
-            </li>
-            {{ end }}
-        </ul>
-    </section>
-    <!-- .widget_recent_entries -->
-    {{ end }}
     <section class="widget widget_tag_cloud">
         <h2 class="widget-title"><span>Tags</span></h2>
 

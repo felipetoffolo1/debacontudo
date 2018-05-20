@@ -41,3 +41,14 @@ input[type=submit] {
                 display: none;
             }
 }
+
+.page-title{
+    @extend %flexcenter;
+    h1{
+        font-size: 28px;
+        line-height: 32px;
+        letter-spacing: 1px;
+        font-weight: 400;
+    }
+        text-transform: uppercase;
+}
