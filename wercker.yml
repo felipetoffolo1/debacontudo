@@ -3,7 +3,7 @@ build:
   steps:
   - arjen/hugo-build@1.23.3:
         version: "0.30.2"
-        theme: gohugo-amp
+        theme: de-bacon-tudo
 deploy:
   steps:
     - install-packages:
