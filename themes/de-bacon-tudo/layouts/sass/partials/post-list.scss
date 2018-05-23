@@ -13,15 +13,19 @@
             }
             text-align: left;
             flex-basis: 100%;
-            @media (min-width: 990px) {
+            @media (min-width: $breakpointDefault) {
                 flex-basis: 50%;
             }
             .margin {
                 border-bottom: 1px solid #e6e6e6;
-                padding-bottom: 40px;
+                padding-bottom: 15px;
                 margin: 0 15px 40px 15px;
+                @media (min-width: $breakpointDefault) {
+                    padding-bottom: 40px;
+                }
             }
             .entry-cat {
+                padding-left: 1rem; 
                 margin-top: 20px;
             }
             .entry-area {

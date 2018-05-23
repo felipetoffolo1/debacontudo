@@ -16,8 +16,8 @@
         </div>
         <!-- .entry-header -->
         <div class="entry-content">
-            <p class="text-center">
-                {{if .Params.summary}} {{ .Params.summary | truncate 200 }} {{else}} {{ .Summary | truncate 200 }} {{end}}
+            <p >
+                {{if .Params.summary}} {{ .Params.summary | truncate 150 }} {{else}} {{ .Summary | truncate 150 }} {{end}}
                 <!-- .more-link -->
             </p>
             <a href="{{ .RelPermalink }}" class="button-primary">

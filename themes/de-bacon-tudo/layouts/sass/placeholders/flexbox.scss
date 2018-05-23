@@ -56,15 +56,22 @@
             color: #e6e6e6;
             font-size: 20px;
             font-weight: 400;
-            @media (min-width: 990px) {
+            text-align: left;
+            @media (min-width: $breakpointDefault) {
                 font-size: 27px;
             }
             a {
                 @extend %basicTitle;
                 color: #e6e6e6;
-                font-size: 27px;
+                font-size: 20px;
                 font-weight: 400;
+                @media (min-width: $breakpointDefault) {
+                    font-size: 27px;
+                }
             }
+        }
+        p {
+            font-size: 16px;
         }
         .button-primary {
             margin-top: 20px;
