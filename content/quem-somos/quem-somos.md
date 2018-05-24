@@ -18,5 +18,7 @@ title: Quem Somos
 ## Larissa Alberti (Toffolo)
 {{% figure src="/img/quem-somos/larissa-alberti.png" alt="Larissa Alberti" class="pure-img-around-left" %}}
 <div style="margin-top:70px;">
-{{% quote-her "Ela é candanga, de pai gaúcho e mãe mineira. Ela é uma mulher moderna e sabe que lugar de mulher é onde ela bem quiser. Ela é ansiosa. Ela tem paciência com ele. Ela quando bebe vira a Lucinha. Ela só quer saber de viajar, séries e redes sociais. Ela ama Ele." %}}
+{{% quote-her "Somos a Larissa e o Felipe. Em 2018, deixamos Brasília para viver na Irlanda em busca de novas experiências profissionais e pessoais. Acreditamos que não há nada mais enriquecedor do que viajar e conhecer novos lugares. Amamos fotografia, internet e mídias sociais. Decidimos criar esse blog para compartilhar tudo sobre Dublin, além de dar dicas sobre outros destinos, restaurantes e muito mais! 
+
+" %}}
 </div>

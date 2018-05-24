@@ -2,8 +2,8 @@ var sass = require('node-sass');
 var postcss = require('postcss');
 var fs = require('fs');
 
-const inputFile = './layouts/src/styles.scss';
-const outputFile = './layouts/partials/stylesheet.html';
+const inputFile = './themes/de-bacon-tudo/layouts/sass/styles.scss';
+const outputFile = './themes/de-bacon-tudo/layouts/partials/stylesheet.html';
 
 sass.render({
     file: inputFile,

@@ -1,0 +1,140 @@
+.single {
+    flex-basis: 100%;
+    width: 100%;
+    #content {
+        width: 100%;
+    }
+    @extend %flexcenter;
+    main,
+    footer,
+    article {
+        flex-basis: 100%;
+    }
+    .entry-title {
+        margin-top: 0;
+        font-size: 22px;
+        @media (min-width: $breakpointDefault) {
+            font-size: 28px;
+        }
+
+    }
+    p,
+    ul,
+    li {
+        font-size: 1rem;
+        @media (min-width: $breakpointDefault) {
+            font-size: 18px;
+        }
+    }
+    p {
+        margin: 1rem 0;
+    }
+    div[class^="img-"] {
+        margin-top: 1rem;
+    }
+    .entry-cat {
+        width: 100%;
+        .cat-link {
+            margin-top: 1rem;
+            a {
+                font-size: 18px;
+            }
+        }
+    }
+    .site-content {
+        .post-content {
+            h2 {
+                font-size: 24px;
+            } // padding: 0 1rem;
+        }
+        .tag-links,
+        .post-content,
+        .navigation,
+        .site-footer,
+        .share-links {
+            @extend %flexcenter;
+            margin: 2rem;
+            @media (min-width: $breakpointDefault) {
+                margin: 2rem auto;
+                max-width: 42rem; // padding: 0 10%;
+            }
+        }
+        .tag-links {
+            align-content: flex-start;
+        }
+        .entry-header {
+            @extend %fullwidth-feature;
+        }
+        .share-links {
+            justify-content: center;
+            margin: 1rem auto;
+            padding-bottom: 1rem;
+            text-align: center;
+            @media (min-width: $breakpointDefault) {
+                justify-content: space-between;
+                    }
+            @extend %lineborder;
+            *{
+                flex-basis: 100%;
+                margin-top: 10px;
+                @media (min-width: $breakpointDefault) {
+                    margin-top: 0px;
+                    flex-basis:auto;
+                }
+            }
+        }
+    }
+}
+
+.related-posts-wrapper {
+    @extend %flexstart;
+    @extend %lineborder;
+    margin: 0 auto;
+    padding-bottom: 1rem;
+    @media (min-width: $breakpointDefault) {
+        max-width: 60rem; // padding: 0 10%;
+    }
+    h3 {
+        @extend %basicTitle;
+        margin-left: 1rem;
+    }
+    .related-posts {
+        @extend %flexcenter;
+        .post-container {
+            flex-basis: 100%;
+            @media (min-width: $breakpointDefault) {
+                max-width: 60rem; // padding: 0 10%;
+                flex-basis: 33%;
+            }
+            .related-post {
+                padding: 1rem 1rem;
+                @media (min-width: $breakpointDefault) {
+                    padding: 0 1rem;
+                    }
+                .post-title {
+                    font-size: 15px;
+                    color: #111111;
+                    line-height: 20px;
+                    margin-bottom: 5px;
+                    letter-spacing: 0;
+                    text-decoration: none;
+                    text-transform: initial;
+                }
+                a {
+                    @extend %basicTitle;
+                }
+            }
+        }
+    }
+    .post-meta {
+        font-size: 12px;
+        color: $colorGrayDark;
+        line-height: 18px;
+        letter-spacing: 0.5px;
+    }
+}
+
+amp-social-share.custom-style {
+    background-color: $colorDark;
+    margin-left: 0.5rem;
+}

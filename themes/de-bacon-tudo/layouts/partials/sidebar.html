@@ -1,0 +1,52 @@
+<div class="site-sidebar">
+<div class="widget-area">
+  {{ partial "subscribe-small.html" . }}
+
+    {{ partial "about.html" . }}
+    <section class="widget widget_facebook">
+      <amp-iframe width="279" height="214" sandbox="allow-scripts allow-same-origin" resizable layout="responsive" frameborder="0" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fdebacontudo%2F&tabs&width=279&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=991562090894608">
+        <div overflow tabindex="0" role="button" aria-label="Read more">Leia Mais</div>
+      </amp-iframe>
+    </section>
+
+    <section class="widget astrif_widget_popular_entries">
+      <h2 class="widget-title"><span>Postagens Populares</span></h2>
+      <div class="pure-g list">
+
+  {{ $url := "/csv/most-visited.csv" }}
+  {{ $sep := "," }}
+  {{ $Pages := .Data.Pages  }}
+  {{ $r := getCSV $sep $url}}
+  {{ range first 5 $r }}
+  {{ $link := index . 0 }}
+  {{ range where $Pages "RelPermalink" $link  }}
+  <div class="post-sidebar">
+    <div class="image">
+      <amp-img src="{{ .Params.banner}}" alt="{{ .Title }}" layout="responsive" width="1920" height="1080"></amp-img>
+    </div>
+      <div class="title">
+          <a href="{{ .Permalink }}" rel="bookmark" class="popular-entry-title-link">
+            <h4>
+            {{ .Title | truncate 45 }}
+          </h4> 
+        </a>
+        <!-- <small class="popular-entry-date"><time class="entry-date" datetime="2016-09-07">{{ .Date.Format "2" }} {{ .Date.Format "Jan" }}, {{ .Date.Format "2006" }}</time></small> -->
+      </div>
+  </div>
+    {{ end }}
+  {{ end }}
+                      </div>
+                    </section>
+    <section class="widget widget_tag_cloud">
+        <h2 class="widget-title"><span>Tags</span></h2>
+
+        <div class="tagcloud">
+                {{ range first 10 .Site.Taxonomies.tags.ByCount }}
+                <a class="button-tag" href="{{ "/tags/" | relLangURL }}{{ .Name | urlize }}">{{ .Name }} <small>({{ .Count }})</small></a> {{ end }}
+
+        </div>
+    </section>
+    <!-- .widget_tag_cloud -->
+  </div>
+</div>
+<!-- .site-sidebar -->

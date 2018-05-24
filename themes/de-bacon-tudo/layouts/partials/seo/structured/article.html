@@ -2,23 +2,21 @@
 {
   "@context": "http://schema.org",
   "@type": "Article",
-  "author": {
-    "name" : "{{ .Params.author.name }}"
-  },
+  "author": "Felipe Toffolo",
   "headline": "{{ .Title }}",
   "description": "{{ .Params.description }}",
   "wordCount": {{ .WordCount }},
-  "datePublished" : "{{ .PublishDate.Format "2006-01-02T15:04:05" }}",
+  "datePublished" : "{{ .Params.date }}",
   "dateModified" : "{{ .Date.Format "2006-01-02T15:04:05"  }}",
   "image" : {
       "@context": "http://schema.org",
       "@type": "ImageObject",
       "author": "{{ .Params.image.author }}",
-      "url": "{{ .Params.image.src }}",
-      "datePublished": "{{ .PublishDate.Format "2006-01-02T15:04:05" }}",
-      "name": "{{ .Params.image.title }}",
-      "height" : {{ .Params.image.height }},
-      "width" : {{ .Params.image.width }},
+      "url": "http://debacontudo.com.br/{{ .Params.thumbnail }}",
+      "datePublished": "{{ .Params.date }}",
+      "name": "{{ .Params.title }}",
+      "height" : 800,
+      "width" : 800,
       "license" : "{{ .Params.image.license_link }}",
       "isBasedOn" : "{{ .Params.image.link }}"
     },
@@ -29,8 +27,8 @@
     "logo" : {
         "@type" : "ImageObject",
         "url" : "{{ $.Site.Params.publisherLogo }}",
-        "height" : {{ $.Site.Params.publisherLogoHeight }},
-        "width" : {{ $.Site.Params.publisherLogoWidth }}
+        "height" : "{{ $.Site.Params.publisherLogoHeight }}",
+        "width" : "{{ $.Site.Params.publisherLogoWidth }}"
     }
   }
 }

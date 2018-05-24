@@ -1,0 +1,23 @@
+table
+{
+    margin: auto;
+	width: 80%;
+	border-collapse: collapse;
+	text-align: left;
+    th
+    {
+        @extend %basicTitle;
+        text-align: left;
+        font-weight: normal;
+        padding: 10px 8px;
+        border-bottom: 2px solid $colorDark;
+}
+ td
+{
+    border-bottom: 1px solid $colorGray;
+}
+tbody tr:hover td
+{
+	color: $colorGrayDark;
+}
+}

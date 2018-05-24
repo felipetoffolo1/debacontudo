@@ -11,5 +11,4 @@ features = ["structured data","shortcodes","partials","amp","seo","schema"]
 min_version = 0.17
 
 [author]
-    name = "Raphael Wildhaber"
-    homepage = "https://github.com/wildhaber"
+    name = "Felipe Toffolo"

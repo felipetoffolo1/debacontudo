@@ -1,0 +1,39 @@
+{{ $Site := .Site }} {{if .Prev}}
+<article class="post">
+    <div class="margin">
+
+        <a class="entry-featured-image" href="{{ .RelPermalink }}">
+            <amp-img src="{{ .Params.banner }}" layout="responsive" width="1920" height="1080" alt="{{ .Title }}"></amp-img>
+            <!-- <amp-img media="(max-width: 800px)" src="{{ .Params.thumbnail }}" layout="responsive" width="800" height="800" alt="{{ .Title }}"></amp-img> -->
+        </a>
+        
+        <div class="entry-cat">
+            {{ if .Params.categories }} {{ range .Params.categories }}
+            <span class="cat-link">
+                <a class="post-category post-category-{{ . | urlize }}" href="{{ $Site.BaseURL }}/categories/{{ . | urlize }}">{{ . }}</a>/
+            </span>
+            {{ end }} {{ end }}
+        </div>
+        <div class="entry-area">
+            <div class="entry-header">
+                <h2 class="entry-title">
+                    <a href="{{ .RelPermalink }}" rel="bookmark">{{ .Title }}</a>
+                </h2>
+                <!-- .entry-meta -->
+            </div>
+            <!-- .entry-cat -->
+            <!-- .entry-header -->
+            <a class="entry-content" href="{{ .RelPermalink }}">
+                <p class="">
+                    {{if .Params.summary}} {{ .Params.summary | truncate 200 }} {{else}} {{ .Summary | truncate 200 }} {{end}}
+                    <!-- .more-link -->
+                </p>
+            </a>
+             {{ partial "socialsharing-list.html" . }}
+            <!-- .entry-content -->
+        </div>
+        <!-- .entry-area -->
+        <!-- {{ .Content }} -->
+    </div>
+</article>
+{{end}}

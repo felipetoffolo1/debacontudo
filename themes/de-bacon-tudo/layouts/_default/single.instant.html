@@ -1,0 +1,37 @@
+{{ partial "structure/head" . }}
+{{ $Site := .Site }}
+<main class="single">
+                <article class="post format-standard hentry">
+                  <header class="entry-header hide">
+                    <figure>
+                      <img src="{{ .Params.banner }}" />
+                    </figure>
+                    <h1 class="entry-title">{{ .Params.title }}</h1>
+
+                      <time class="op-published" datetime="2017-5-05T19:00">{{ .Date.Format "2" }} {{ .Date.Format "Jan" }}, {{ .Date.Format "2006" }}</time>
+                      <time class="op-modified" datetime="2017-5-05T19:00">{{ .Date.Format "2" }} {{ .Date.Format "Jan" }}, {{ .Date.Format "2006" }}</time>
+                    <!-- .entry-meta -->
+                  </header>
+                  <!-- .entry-header -->
+                  <div class="entry-content">
+                    <h1>instant t</h1>
+                    {{ .Content }}
+
+                  </div>
+                  <!-- .entry-content -->
+                  <footer class="entry-footer">
+                    {{ if .Params.tags }}
+                    <span class="tags-links">
+                          {{ range .Params.tags }}
+                          <a class="post-tag post-tag-{{ . | urlize }}" href="{{ $Site.BaseURL}}/tags/{{ . | urlize }}">{{ . }}</a>,
+                          {{ end }}
+                      </span>
+                    <!-- .tags-links -->
+                    {{ end }} {{ partial "socialsharing.html" . }}
+
+                  </footer>
+                  <!-- .entry-footer -->
+                </article>
+</main>
+
+{{ partial "structure/foot" . }}

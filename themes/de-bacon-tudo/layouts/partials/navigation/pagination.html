@@ -1,20 +1,28 @@
-{{ $pag := $.Paginator }}
-{{ if gt $pag.TotalPages 1 }}
-<nav class="pagination">
+{{ $pag := $.Paginator }} {{ if gt $pag.TotalPages 1 }}
+<!-- .navigation -->
 
-    <ul>
-        {{ if $pag.HasPrev }}
-        <li><a href="{{ if $pag.HasPrev }}{{ $pag.Prev.URL }}{{ end }}" aria-label="Previous">prev</a></li>
-        {{ end }}
+<nav class="navigation posts-navigation" role="navigation">
+  <h2 class="screen-reader-text">Navegação</h2>
 
-        {{ range $pag.Pagers }}
+  <div class="nav-links">
+    <div class="nav-previous">
+      {{ if $pag.HasPrev }}
+      <i class="fa fa-long-arrow-left"></i>
+      <a href="{{ if $pag.HasPrev }}{{ $pag.Prev.URL }}{{ end }}" aria-label="Previous">Anteriores</a>
+      {{ end }}
+    </div>
+
+    <!-- {{ range $pag.Pagers }}
         <li {{ if eq . $pag }}class="active"{{ end }}><a href="{{ .URL }}">{{ .PageNumber }}</a></li>
-        {{ end }}
+        {{ end }} -->
 
-        {{ if $pag.HasNext }}
-        <li><a href="{{ if $pag.HasNext }}{{ $pag.Next.URL }}{{ end }}" aria-label="Next">next</a></li>
-        {{ end }}
-    </ul>
+    {{ if $pag.HasNext }}
+    <div class="nav-next">
+      <a href="{{ if $pag.HasNext }}{{ $pag.Next.URL }}{{ end }}" aria-label="Next">Próximos</a>
+      <i class="fa fa-long-arrow-right"></i>
+      {{ end }}
+    </div>
+  </div>
 
 </nav>
 {{ end }}

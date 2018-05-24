@@ -47,7 +47,7 @@ Ao chegarmos no aeroporto, tivemos nossas primeiras tarefas:
 
 O Felipe esqueceu a **CNH** no Brasil e tentamos alugar apenas com a **PID** (Permissão Internacional para Dirigir), mas o atendente disse que eles mais levam em consideração a CNH do país de origem do que a PID. 
 
-{{%quoute-him "20 dias de viagem pela frente precisando do carro, imagina meu desespero - Felipe"%}}
+{{%quote-him "20 dias de viagem pela frente precisando do carro, imagina meu desespero - Felipe"%}}
 
 Então, fica a dica aí. Mas não deixe de **levar as duas**, pois podem cobrar a PID a qualquer momento. Tivemos que alugar o carro no meu nome (eu estava com a minha CNH). Depois disso, mais emoção: dirigir na **mão inglesa**. Foi a primeira vez que o Felipe dirigiu esse tipo de carro e foi uma aventura só.
 

@@ -1,0 +1,63 @@
+<header id="masthead" class="site-header" role="banner">
+  <div class="top-bar" id="top">
+    <div class="search">
+      {{ partial "search.html" . }}
+    </div>
+    <!-- .col-md-3 -->
+    <ul class="social">
+      {{ if .Site.Menus.social }} {{ range .Site.Menus.social }} {{ if .URL }}
+      <li class="social-icon">
+        <a href="{{ .URL }}" target="_blank" class="icon">{{ .Pre }}</i>
+        </a>
+      </li>
+      {{ end }} {{ end }} {{ end }}
+    </ul>
+  </div>
+
+  <!-- .col-md-3 -->
+  <div class="logo">
+    <a href="/" rel="home">
+      <!-- <amp-img src="/img/logo-menu-2.jpg" width="775" height="87" layout="responsive" alt="{{ .Site.Params.sidebartitle }}"></amp-img> -->
+      <amp-img src="/img/logo-menu.jpg" width="724" height="106" layout="responsive" alt="{{ .Site.Params.sidebartitle }}"></amp-img>
+
+      {{ if .Site.Params.sidebartagline }}
+      <!-- <p class="site-description">- {{ .Site.Params.sidebartagline }} -</p> -->
+      {{ end }}
+    </a>
+    <button on="tap:sidebar.open" class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+      <div class="mobile-nav-icon">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </button>
+  </div>
+
+  <!-- .col-md-6 -->
+
+  <!-- #site-navigation -->
+</header>
+<!-- main navigation -->
+<nav id="site-navigation" class="main-navigation" role="navigation">
+
+  <ul id="primary-menu" class="menu nav-menu pure-menu-list" aria-expanded="false">
+    <li class="menu-item">
+      <a href="{{ .Site.BaseURL }}">Home
+        <!-- <span class="sub-drop-icon fa fa-angle-down"></span> -->
+      </a>
+
+    </li>
+    {{ range .Site.Menus.main }}
+    <li class="menu-item">
+      <a href="{{ .URL }}">{{ .Name }}
+        <!-- <span class="sub-drop-icon fa fa-angle-down"></span> -->
+      </a>
+
+    </li>
+    {{ end }}
+  </ul>
+  <!-- .menu-container -->
+  <!-- .col-md-12 -->
+  <!-- .container -->
+</nav>
+<!-- #masthead -->

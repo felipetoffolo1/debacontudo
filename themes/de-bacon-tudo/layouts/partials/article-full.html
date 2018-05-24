@@ -1,0 +1,31 @@
+{{ $Site := .Site }}
+<article class="post">
+    <div class="entry-featured-image">
+<amp-img media="(min-width: 801px)" src="{{ .Params.banner }}" layout="responsive" width="1920" height="1080" alt="{{ .Title }}"></amp-img>
+
+<amp-img media="(max-width: 800px)" src="{{ .Params.thumbnail }}" layout="responsive" width="800" height="800" alt="{{ .Title }}"></amp-img>
+
+    </div>
+
+    <div class="entry-area">
+        <div class="entry-header">
+            <h2 class="entry-title">
+                <a href="{{ .RelPermalink }}" rel="bookmark">{{ .Title }}</a>
+            </h2>
+            <!-- .entry-meta -->
+        </div>
+        <!-- .entry-header -->
+        <div class="entry-content">
+            <p >
+                {{if .Params.summary}} {{ .Params.summary | truncate 150 }} {{else}} {{ .Summary | truncate 150 }} {{end}}
+                <!-- .more-link -->
+            </p>
+            <a href="{{ .RelPermalink }}" class="button-primary">
+                Leia Mais
+            </a>
+        </div>
+        <!-- .entry-content -->
+    </div>
+    <!-- .entry-area -->
+    <!-- {{ .Content }} -->
+</article>

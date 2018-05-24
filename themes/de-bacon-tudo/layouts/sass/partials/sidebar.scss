@@ -1,0 +1,26 @@
+.sidebar-container{
+    h2{
+        font-weight: 400;
+    }
+    .site-sidebar{
+        margin: 0 30px;
+        @media (min-width: $breakpointDefault) {
+            margin: 0 30px 0 0;
+        }
+    }
+    .about{
+            @extend %lineborder;
+            padding-bottom: 20px;
+            .social{
+                justify-content: left;
+                align-content: left;
+                align-items: left;
+                margin: 20px  0 0 0;
+            }
+        }
+        .widget{
+            margin-top: 20px; 
+            @extend %lineborder;
+            padding-bottom: 20px;
+    }
+}

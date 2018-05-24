@@ -1,7 +1,80 @@
 {{ partial "structure/head" . }}
 
-<main>
-    {{ .Content }}
+<main class="single">
+  {{ partial "menu.html" . }} {{ $Site := .Site }}
+  <div id="content" class="site-content">
+
+    <article class="hentry">
+      <div class="entry-header">
+        {{ if .Params.banner }}
+        <div class="entry-featured-image">
+          <amp-img media="(min-width: 801px)" src="{{ .Params.banner }}" layout="responsive" width="1920" height="1080" alt="{{ .Title }}"></amp-img>
+
+          <amp-img media="(max-width: 800px)" src="{{ .Params.thumbnail }}" layout="responsive" width="800" height="800" alt="{{ .Title }}"></amp-img>
+        </div>
+        <!-- .entry-featured-image -->
+        {{ end }}
+        <!-- <div class="entry-area">
+            <h2 class="entry-title">{{ .Params.title }}</h2>
+            </div> -->
+      </div>
+      <div class="post-content">
+
+        <div class="entry-cat">
+          {{ if .Params.categories }} {{ range .Params.categories }}
+          <span class="cat-link">
+            <a href="">
+              {{.}}
+            </a>
+          </span>
+          {{ end }} {{ end }}
+        </div>
+        <h1 class="entry-title">{{ .Params.title }}</h1>
+        <!-- <div class="posted-on">
+                  <a rel="bookmark">
+                    <time class="entry-date" datetime="2016-09-07">{{ .Date.Format "2" }} {{ .Date.Format "Jan" }}, {{ .Date.Format "2006" }}</time>
+                  </a>
+                  
+                </div> -->
+                <!-- .entry-meta -->
+                <!-- .entry-header -->
+                
+                <!-- .entry-header -->
+                <div class="entry-content">
+                  {{ .Content }}
+                  
+                </div>
+              </div>
+              
+              <!-- .entry-content -->
+              <footer class="entry-footer">
+                {{ if .Params.tags }}
+                <div class="tags-links text-center">
+                  {{ range .Params.tags }}
+                  <a class="button-inverse post-tag-{{ . | urlize }}" href="{{ $Site.BaseURL}}/tags/{{ . | urlize }}">#{{ . }}</a> {{ end }}
+                </div>
+                <!-- .tags-links -->
+                {{ end }} 
+                {{ partial "socialsharing.html" . }} 
+                {{ $related := .Site.RegularPages.Related . | first 3 }} 
+                {{ with $related }} 
+                {{ partial "related-posts.html" . }} 
+                {{ end }} 
+                
+                {{ if not .Params.nocomment }}
+                <amp-facebook-comments width=486 height=657 layout="responsive" data-numposts="5" data-href="{{ .Permalink}}">
+                </amp-facebook-comments>
+                {{ end }}
+              </footer>
+            </article>
+  </div>
+  <!-- #main -->
+  <footer class="site-footer">
+    {{ partial "subscribe.html" . }}
+    </footer>
+  </div>
+  <!-- #primary -->
+  <!-- #content -->
 </main>
 
 {{ partial "structure/foot" . }}

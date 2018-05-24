@@ -17,7 +17,7 @@
     {{ with .Site.Author.email }}
       <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
     {{ end }}
-    {{ range first 15 .Data.Pages }}
+    {{ range first 60 .Data.Pages }}
       <item>
         <title>{{ .Title }}</title>
         <link>{{ .Permalink }}</link>

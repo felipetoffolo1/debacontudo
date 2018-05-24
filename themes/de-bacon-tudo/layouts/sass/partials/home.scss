@@ -1,0 +1,46 @@
+$sidebar-width: 320px;
+.home-container {
+    @extend %flexbasic;
+    margin-top: 30px;
+    .post-list {
+        flex-grow: 1;
+        flex-shrink: 2;
+        flex-basis: 100%;
+        @media (min-width: 990px) {
+            flex-basis: calc(100% - 320px);
+        }
+    }
+    .sidebar-container {
+        flex-basis: 100%;
+        @media (min-width: 990px) {
+            flex-basis: $sidebar-width;
+        }
+    }
+}
+.footer-instagram{
+    background-color: #e6e6e6;
+    .social {
+        padding: 25px 0;
+        align-items: center;
+        justify-content: center;
+        background-color: #e6e6e6;
+        li{
+            margin-right: 30px;
+            i{
+                margin-right: 5px;
+            }    
+            a{
+                font-size: 11px;
+                color: $colorDark;
+                text-decoration: none;
+                text-transform: uppercase;
+            }
+        }
+    }
+}
+
+.copyright{
+    margin: 0.5rem;
+    @extend %flexcenter;
+    
+}

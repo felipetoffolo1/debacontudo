@@ -1,0 +1,29 @@
+<!-- topbar featured slider -->
+<div class="topbar-slider">
+  {{ $Site := .Site }}
+    <amp-carousel id="slider-thumbnail" class="owl-carousel owl-theme slider-thumbnail " height="400" layout="fixed-height" controls type="carousel">
+      {{ range where (.Data.Pages.ByParam "featuredorder") "Params.featured" "==" true  }}
+      <div class="item">
+        <amp-img src="{{ .Params.thumbnail }}" layout="fixed" width="400" height="400"></amp-img>
+        <div class="item-caption">
+          <div class="caption-description">
+            {{ if .Params.categories }} {{ range first 1 .Params.categories }}
+                    <a href="{{ $Site.BaseURL }}/categories/{{ . | urlize }}" class="caption-cat-links">{{ . }}</a>
+            <!-- .entry-cat -->
+            {{ end }}{{ end }}
+            <span class="caption-title">
+                  <a href="{{ .RelPermalink}}" class="caption-title-link">{{ .Title }}</a>
+                  <a href="{{ .RelPermalink}}" class="button caption-more-link">Leia Mais</a>
+                </span>
+            <!-- .caption-title -->
+          </div>
+          <!-- .caption-description -->
+        </div>
+        <!-- .item-caption -->
+      </div>
+      {{ end }}
+
+    </amp-carousel>
+    <!-- #slider-thumbnail -->
+</div>
+<!-- .topbar-slider -->

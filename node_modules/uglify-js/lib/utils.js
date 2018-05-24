@@ -43,17 +43,6 @@
 
 "use strict";
 
-function array_to_hash(a) {
-    var ret = Object.create(null);
-    for (var i = 0; i < a.length; ++i)
-        ret[a[i]] = true;
-    return ret;
-};
-
-function slice(a, start) {
-    return Array.prototype.slice.call(a, start || 0);
-};
-
 function characters(str) {
     return str.split("");
 };
@@ -126,9 +115,11 @@ function merge(obj, ext) {
     return count;
 };
 
-function noop() {};
+function noop() {}
 function return_false() { return false; }
 function return_true() { return true; }
+function return_this() { return this; }
+function return_null() { return null; }
 
 var MAP = (function(){
     function MAP(a, f, backwards) {
@@ -217,18 +208,6 @@ function mergeSort(array, cmp) {
         return merge(left, right);
     };
     return _ms(array);
-};
-
-function set_difference(a, b) {
-    return a.filter(function(el){
-        return b.indexOf(el) < 0;
-    });
-};
-
-function set_intersection(a, b) {
-    return a.filter(function(el){
-        return b.indexOf(el) >= 0;
-    });
 };
 
 // this function is taken from Acorn [1], written by Marijn Haverbeke
@@ -324,6 +303,13 @@ Dictionary.prototype = {
             ret.push(f(this._values[i], i.substr(1)));
         return ret;
     },
+    clone: function() {
+        var ret = new Dictionary();
+        for (var i in this._values)
+            ret._values[i] = this._values[i];
+        ret._size = this._size;
+        return ret;
+    },
     toObject: function() { return this._values }
 };
 Dictionary.fromObject = function(obj) {
@@ -344,8 +330,8 @@ function first_in_statement(stack) {
     for (var i = 0, p; p = stack.parent(i); i++) {
         if (p instanceof AST_Statement && p.body === node)
             return true;
-        if ((p instanceof AST_Seq           && p.car === node        ) ||
-            (p instanceof AST_Call          && p.expression === node && !(p instanceof AST_New) ) ||
+        if ((p instanceof AST_Sequence      && p.expressions[0] === node) ||
+            (p.TYPE == "Call"               && p.expression === node ) ||
             (p instanceof AST_Dot           && p.expression === node ) ||
             (p instanceof AST_Sub           && p.expression === node ) ||
             (p instanceof AST_Conditional   && p.condition === node  ) ||

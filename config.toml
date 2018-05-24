@@ -5,7 +5,7 @@ local = "pt_BR"
 DefaultContentLanguage = "pt"
 disqusShortname = "debacontudo-com-br"
 enableRobotsTXT = true
-theme = "gohugo-amp"
+theme = "de-bacon-tudo"
 enableEmoji = true 
 Paginate = 6
 MetaDataFormat = "yaml"
@@ -69,6 +69,7 @@ sidebartagline = "Porque tudo é bom, especialmente com Bacon"
 description = "Porque tudo é bom, especialmente com Bacon - Viagens, comida, estilo de vida e muito mais"
 sidebarphoto = "/img/De Bacon Tudo - Logo Dark.png"
 gaid = "UA-91331327-1"
+aboutUs = "Somos a Larissa e o Felipe. Em 2018, deixamos Brasília para viver na Irlanda em busca de novas experiências profissionais e pessoais. Acreditamos que não há nada mais enriquecedor do que viajar e conhecer novos lugares. Amamos fotografia, internet e mídias sociais. Decidimos criar esse blog para compartilhar tudo sobre Dublin, além de dar dicas sobre outros destinos, restaurantes e muito mais!"
 # [params]
 # amp
 amp = true
