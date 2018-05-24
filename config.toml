@@ -111,10 +111,6 @@ weight = 4
 name = "Brasilia"
 url = "/categories/brasilia"
 weight = 5
-[[menu.main]]
-name = "Sobre"
-url = "/categories/sobre"
-weight = 6
 [[menu.social]]
 pre = "<i class='fa fa-instagram'></i>"
 url = "http://www.instagram.com/casaldebacontudo"
