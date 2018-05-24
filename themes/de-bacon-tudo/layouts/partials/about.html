@@ -1,9 +1,7 @@
 <section class="about">
   <h2 class="widget-title">Sobre Nós</h2>
   <p>
-    Ela é candanga, de pai gaúcho e mãe mineira. Ela é uma mulher moderna e sabe que lugar de mulher é onde ela bem quiser. Ela
-    é ansiosa. Ela tem paciência com ele. Ela quando bebe vira a Lucinha. Ela só quer saber de viajar, séries e redes sociais.
-    Ela ama Ele.
+    {{ .Site.aboutUs }}
   </p>
   <ul class="social">
     {{ if .Site.Menus.social }} {{ range .Site.Menus.social }} {{ if .URL }}

@@ -9,6 +9,7 @@ theme = "de-bacon-tudo"
 enableEmoji = true 
 Paginate = 6
 MetaDataFormat = "yaml"
+aboutUs = "Somos a Larissa e o Felipe. Em 2018, deixamos Brasília para viver na Irlanda em busca de novas experiências profissionais e pessoais. Acreditamos que não há nada mais enriquecedor do que viajar e conhecer novos lugares. Amamos fotografia, internet e mídias sociais. Decidimos criar esse blog para compartilhar tudo sobre Dublin, além de dar dicas sobre outros destinos, restaurantes e muito mais!"
 
 [related]
 
