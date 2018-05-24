@@ -91,14 +91,14 @@ publisherLogoHeight = 107
 stylesheetRegular = ["/base-styling.css"] # these styles are used when amp is disabled for a specific page
 javascriptRegular = ["/script.js"] # these scripts are used when amp is disabled for a specific page
 
-[[menu.main]]
-name = "Dublin"
-url = "/categories/dublin"
-weight = 1
-[[menu.main]]
-name = "Irlanda"
-url = "/categories/irlanda"
-weight = 2
+#[[menu.main]]
+#name = "Dublin"
+#url = "/categories/dublin"
+#weight = 1
+#[[menu.main]]
+#name = "Irlanda"
+#url = "/categories/irlanda"
+#weight = 2
 [[menu.main]]
 name = "Viagens pelo mundo"
 url = "/categories/viagem"
