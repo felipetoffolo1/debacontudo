@@ -4,6 +4,7 @@ author:
 banner: "/img/2017/10/fotos-cape-town-banner.jpg"
 categories:
 - viagem
+- africa do sul
 date: 2017-10-06 11:30:16 +0000
 description: A Cidade do Cabo é uma daquelas cidades que ficam gravadas no seu coração.
   Linda, viva e cheia de alegria, a cidade de Cape Town tem muito o que ver e fotografar.

@@ -3,7 +3,7 @@ author:
 - felipe
 banner: /img/2017/03/ombro-de-porco-banner.jpg
 categories:
-- comida
+- estilo-de-vida
 date: 2017-03-22T12:34:26-03:00
 description: Essa receita de Ombro de Porco Assado Lentamente vai impressionar. A
   carne fica desfiando no garfo e repleta de sabor que é absorvido durante o cozimento.

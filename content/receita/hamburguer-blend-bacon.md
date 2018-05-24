@@ -5,7 +5,7 @@ banner: "/img/2017/11/receita-hamburguer-bacon-banner.jpg"
 featured: false
 featuredorder: 6
 categories:
-- comida
+- estilo-de-vida
 date: 2017-12-19
 description: Fazer hamburguer é algo sempre divertido. Acho que lembra a gente um pouco da nossa infância tentando fazer um sanduíche colocando um pouco de tudo que a nossa imaginação (e mãe) permitir. A gente já falou sobre como o hamburguer leva uma fama ruim de "junkiee food" desnecessáriamente. O que é uma besteira, se feito com bons ingredientes e receitas sem muito exagero, o hamburguer pode ser um ótimo alimento. Não que eu saiba não exagerar... mas se você não exagerar tá tudo bem.
 images:

@@ -4,8 +4,7 @@ author:
 - felipe
 banner: "/img/2017/08/melhor-croissant-brasilia-banner.jpg"
 categories:
-- comida
-- estilo-de-vida
+- brasilia
 date: 2017-08-12T08:30:44-03:00
 lastmod: 2017-11-21
 description: "Gente, quem não gosta de croissant? Pois é, ninguém. Nós amamos. Amamos tanto que resolvemos sair comendo todos que encontramos por aqui tentando achar o melhor croissant de Brasília."

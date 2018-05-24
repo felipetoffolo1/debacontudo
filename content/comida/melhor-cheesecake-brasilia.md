@@ -4,8 +4,7 @@ author:
 - felipe
 banner: "/img/2017/11/cheesecake-banner.jpg"
 categories:
-- comida
-- estilo-de-vida
+- brasilia
 date: 2017-11-10 11:00:44 +0000
 description: "Cheesecake é algo adorado por todos nós. Aquele pecado que adoramos. E se é para fugir da dieta é melhor ser com algo delicioso. Então a gente ta ajuda a encontrar a melhor chessecake de Brasília"
 draft: false

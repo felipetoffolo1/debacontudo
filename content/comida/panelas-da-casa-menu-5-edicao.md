@@ -3,8 +3,7 @@ author:
 - larissa
 banner: "/img/2017/07/panelas-da-casa-menu-banner.jpg"
 categories:
-- comida
-- estilo-de-vida
+- brasilia
 date: 2017-07-21T12:30:44-03:00
 description: "O evento Panelas da Casa está iniciando a sua 5ª edição. E a gente já está muito animado! Conheça os menus deliciosos que te aguardam."
 draft: false

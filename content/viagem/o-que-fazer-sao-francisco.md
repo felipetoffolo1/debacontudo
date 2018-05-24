@@ -4,6 +4,7 @@ author:
 banner: /img/2017/05/pontos-interesse-sao-francisco-banner.jpg
 categories:
 - viagem
+- california
 date: 2017-05-31T00:54:47-02:00
 description: Conheça 11 experiências incríveis da cidade de São Francisco que vão te fazer querer arrumar as malas e viajar hoje mesmo. Os principais pontos de interesse e atrações.
 draft: false

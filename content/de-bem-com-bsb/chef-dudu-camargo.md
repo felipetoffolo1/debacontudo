@@ -4,9 +4,7 @@ author:
 - felipe
 banner: "/img/2017/09/dudu-camargo-banner.jpg"
 categories:
-- comida
-- estilo-de-vida
-- De-Bem-Com-Bsb
+- brasilia
 date: 2017-09-05T12:30:44-03:00
 description: "No De Bem Com Bsb você descobre as coisas mais legais para comer e fazer em Brasília, indicado por quem saca tudo da capital. Na primeira edição Chef Dudu Camargo"
 draft: false

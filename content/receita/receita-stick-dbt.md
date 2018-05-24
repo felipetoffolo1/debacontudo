@@ -3,7 +3,7 @@ author:
 - felipe
 banner: "/img/2017/10/stick-dbt-banner.jpg"
 categories:
-- comida
+- estilo-de-vida
 date: 2017-10-26 11:00:26 -0300
 description: Receber amigos em casa é ótimo. Fazer comida para eles também, ainda mais se for algo delicioso, que nem dá tanto trabalho assim. Essa receita proporciona isso em um prato surpreendente.
 images:

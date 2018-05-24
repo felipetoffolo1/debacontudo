@@ -3,7 +3,7 @@ author:
 - felipe
 banner: /img/2017/02/fritada-de-batata-doce-banner.png
 categories:
-- comida
+- estilo-de-vida
 date: 2017-02-25T13:25:19-03:00
 description: Aprenda a fazer uma receita prática, saudável, versátil além de deliciosa
   de fritada de batata-doce

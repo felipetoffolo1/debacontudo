@@ -5,6 +5,7 @@ author:
 banner: /img/2017/02/los-angeles-banner.png
 categories:
 - viagem
+- california
 date: 2017-02-20T21:00:47-02:00
 description: O guia definitivo para Los Angeles - Califórnia. Conheça o nosso roteiro
   para Los Angeles. Veja dicas, passeios, praias, lugares para se divertir e aproveite

@@ -4,6 +4,7 @@ author:
 banner: /img/2017/07/x.jpg
 categories:
   - viagem
+  - brasil
 date: 2018-01-07
 description: Saiba mais sobre o que fizemos na Chapada dos Veadeiros
 draft: true

@@ -3,7 +3,7 @@ author:
 - felipe
 banner: /img/2017/04/wasabi-potato-salad-banner.jpg
 categories:
-- comida
+- estilo-de-vida
 date: 2017-04-12T17:28:26-03:00
 description: Juntando o oriental com o ocidental, o bom com o agradável e a fome com
   a vontade de comer. Essa receita de salada de batata com wasabi vai ser um sucesso

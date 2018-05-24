@@ -91,26 +91,29 @@ stylesheetRegular = ["/base-styling.css"] # these styles are used when amp is di
 javascriptRegular = ["/script.js"] # these scripts are used when amp is disabled for a specific page
 
 [[menu.main]]
-name = "Viagens"
+name = "Dublin"
 url = "/categories/viagem"
 weight = 1
 [[menu.main]]
-name = "Comidas"
+name = "Irlanda"
 url = "/categories/comida"
 weight = 2
 [[menu.main]]
-name = "Estilo de Vida"
+name = "Viagens pelo mundo"
 url = "/categories/estilo-de-vida"
 weight = 3
 [[menu.main]]
-name = "De Bem Com Bsb"
+name = "Planeje sua viagem"
 url = "/categories/de-bem-com-bsb"
 weight = 4
-[[menu.social]]
-pre = "<i class='fa fa-twitter'></i>"
-url = "http://www.twitter.com/debacontudo"
-identifier = "twitter"
-weight = 3
+[[menu.main]]
+name = "Brasilia"
+url = "/categories/de-bem-com-bsb"
+weight = 5
+[[menu.main]]
+name = "Sobre"
+url = "/categories/de-bem-com-bsb"
+weight = 6
 [[menu.social]]
 pre = "<i class='fa fa-instagram'></i>"
 url = "http://www.instagram.com/casaldebacontudo"

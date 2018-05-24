@@ -4,6 +4,7 @@ author:
 banner: "/img/2017/08/mergulho-tubarao-branco-banner.jpg"
 categories:
 - viagem
+- áfrica do sul
 date: 2017-08-25 12:30:24 +0000
 description: 'As praias da África do Sul são famosas por suas ondas e pelos tubarões! Essas criaturinhas tão meigas estão espalhadas por lá em vários tamanhos e humores.
 Bem, como não sabemos surfar, resolvemos encarar os tubarões.'
