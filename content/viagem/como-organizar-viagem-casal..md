@@ -3,7 +3,7 @@ author:
 - felipe
 banner: /img/2017/06/dicas-viagem-casal-banner.jpg
 categories:
-- planeje-sua-viagem
+- dicas-de-viagem
 date: 2017-06-10T11:05:47-02:00
 description: Viajar é maravilhoso, fazer uma viagem de casal é melhor ainda. Mas para que sua viagem de casal seja inesquecível existem alguns pontos em que você precisa ficar atento. Descubra com a gente 10 dicas imperdíveis que vão fazer sua viagem de casal ainda melhor.
 draft: false

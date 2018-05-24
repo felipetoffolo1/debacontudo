@@ -4,7 +4,7 @@ author:
 banner: /img/2017/05/qual-o-melhor-site-de-hoteis-banner.jpg
 pinterest: /img/2017/05/qual-o-melhor-site-de-hoteis-pinterest.jpg
 categories:
-  - planeje-sua-viagem
+- dicas-de-viagem
 date: 2017-05-05T19:29:16
 description: Descubra qual o melhor site de pesquisa de hotéis. Como usar cada um deles e conseguir um hotel barato e bom. O site com os melhores preços...
 draft: false
