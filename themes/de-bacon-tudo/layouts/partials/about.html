@@ -1,7 +1,7 @@
 <section class="about">
   <h2 class="widget-title">Sobre Nós</h2>
   <p>
-    {{ .Site.aboutUs }}
+    {{ .Site.Params.aboutUs }}
   </p>
   <ul class="social">
     {{ if .Site.Menus.social }} {{ range .Site.Menus.social }} {{ if .URL }}
