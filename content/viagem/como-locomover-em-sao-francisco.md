@@ -4,7 +4,7 @@ author:
 banner: /img/2017/05/como-se-locomover-em-sao-francisco-banner.jpg
 pinterest: /img/2017/05/como-se-locomover-em-sao-francisco-pinterest.jpg
 categories:
-  - viagem
+  - viagens-pelo-mundo
   - california
 date: 2017-05-16T12:29:16
 description: São Francisco é uma cidade com vários meios de locomoção. As opções são muitas, então decidi traçar um mapa do transporte público em São Francisco, mostrando suas opções e quando usar cada uma delas para andar em São Francisco.

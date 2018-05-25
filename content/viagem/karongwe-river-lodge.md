@@ -3,7 +3,7 @@ author:
 - larissa
 banner: "/img/2017/11/karongwe-river-lodge-banner.jpg"
 categories:
-- viagem
+- viagens-pelo-mundo
 - africa do sul
 date: 2017-11-07 11:30:16 +0000
 description:  "Hotel review: saiba como é ficar hospedado no Karongwe River Lodge, na África do Sul"

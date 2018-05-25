@@ -4,7 +4,7 @@ author:
 - larissa
 banner: /img/2017/04/highway-1-1-banner.jpg
 categories:
-- viagem
+- viagens-pelo-mundo
 - california
 date: 2017-04-05T17:57:47-02:00
 description: Acompanhe o nosso roteiro de road trip pela Highway 1. Uma estrada costeira

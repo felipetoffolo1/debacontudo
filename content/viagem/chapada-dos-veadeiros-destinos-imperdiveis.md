@@ -3,7 +3,7 @@ author:
   - larissa
 banner: /img/2018/01/chapada-mirante-janela-banner.jpg
 categories:
-  - viagem
+  - viagens-pelo-mundo
   - brasil
 date: 2018-01-07
 description: Saiba mais sobre o que fizemos na Chapada dos Veadeiros

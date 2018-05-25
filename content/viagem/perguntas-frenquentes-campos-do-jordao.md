@@ -3,7 +3,7 @@ author:
   - larissa
 banner: /img/2017/12/faq-campos-banner.jpg
 categories:
-  - viagem
+  - viagens-pelo-mundo
   - brasil
 date: 2017-12-05
 description : 'Campos do Jordão é uma linda cidade e ótima para se conhecer. Mas turista bom é turista planejado, não é mesmo?! Então conheça as principais dúvidas de quem vai para Campos do Jordão e confira nossas dicas.'

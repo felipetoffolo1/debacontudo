@@ -3,7 +3,7 @@ author:
   - felipe
 banner: /img/2017/07/joanesburgo-banner.jpg
 categories:
-  - viagem
+  - viagens-pelo-mundo
   - africa do sul
 date: 2017-07-30T22:30:16
 description : 'Joanesburgo é uma metropole com a cara da África do Sul. Aqui vocÊ vai encontrar historia, diversão e muita comida boa. E aqui a gente te conta como encontra tudo isso.'
