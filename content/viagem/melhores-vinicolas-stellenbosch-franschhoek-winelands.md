@@ -5,6 +5,7 @@ author:
 banner: "/img/2017/10/delaire-graff-banner.jpg"
 categories:
 - viagem
+- africa do sul
 date: 2017-10-21 11:30:16 +0000
 description:  "A África do Sul reúne centenas de vinícolas maravilhosas nas regiões de Stellenbosch e Franshhoek. 
 Conheça 7 delas que possuem paisagens incríveis e vinhos deliciosos."

@@ -2,6 +2,7 @@
 banner: "/img/2017/09/roteiro-campos-do-jordao-banner.jpg"
 categories: 
 - viagem
+- brasil
 date: 2017-09-21T18:30:44-03:00 
 description: 'Campos do Jordão é um cantinho europeu em São Paulo. Saiba tudo que tem de legal para fazer lá nesse nosso roteiro de 3 dias'
 featured: true

@@ -4,6 +4,7 @@ author:
 banner: /img/2017/03/ouropreto-banner.png
 categories:
 - viagem
+- brasil
 date: 2017-03-18T14:18:59-03:00
 description: Um guia para você conhecer Ouro Preto, uma cidade mágica. Descubra o
   que fazer em Ouro Preto. A cidade é Patrimônio cultural da humanidade, berço da

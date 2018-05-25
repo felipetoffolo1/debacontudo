@@ -3,7 +3,7 @@ author:
 - felipe
 banner: /img/2017/02/salada-proteica-banner.png
 categories:
-- comida
+- estilo-de-vida
 date: 2017-02-28T22:05:16-03:00
 description: Aprenda a fazer a salada proteica. Uma receita prática e saudável que
   vai te salvar no dia a dia.

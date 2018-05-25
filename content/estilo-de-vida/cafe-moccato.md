@@ -4,7 +4,6 @@ author:
 banner: /img/2017/02/cafe-moccato-banner.png
 categories:
 - estilo-de-vida
-- comida
 date: 2017-03-04T17:25:19-03:00
 description: 'Vale a pena comprar o café Moccato um capsula alternativa para a Nespresso? Aqui a gente responde essa pergunta.'
 draft: false

@@ -91,27 +91,26 @@ publisherLogoHeight = 107
 stylesheetRegular = ["/base-styling.css"] # these styles are used when amp is disabled for a specific page
 javascriptRegular = ["/script.js"] # these scripts are used when amp is disabled for a specific page
 
+#[[menu.main]]
+#name = "Dublin"
+#url = "/categories/dublin"
+#weight = 1
+#[[menu.main]]
+#name = "Irlanda"
+#url = "/categories/irlanda"
+#weight = 2
 [[menu.main]]
-name = "Viagens"
+name = "Viagens pelo mundo"
 url = "/categories/viagem"
-weight = 1
-[[menu.main]]
-name = "Comidas"
-url = "/categories/comida"
-weight = 2
-[[menu.main]]
-name = "Estilo de Vida"
-url = "/categories/estilo-de-vida"
 weight = 3
 [[menu.main]]
-name = "De Bem Com Bsb"
-url = "/categories/de-bem-com-bsb"
+name = "Dicas de Viagem"
+url = "/categories/dicas-de-viagem"
 weight = 4
-[[menu.social]]
-pre = "<i class='fa fa-twitter'></i>"
-url = "http://www.twitter.com/debacontudo"
-identifier = "twitter"
-weight = 3
+[[menu.main]]
+name = "Brasilia"
+url = "/categories/brasilia"
+weight = 5
 [[menu.social]]
 pre = "<i class='fa fa-instagram'></i>"
 url = "http://www.instagram.com/casaldebacontudo"

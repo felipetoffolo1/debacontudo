@@ -4,7 +4,7 @@ author:
 banner: /img/2017/04/aplicativos-para-viagem-banner.jpg
 pinterest: /img/2017/04/aplicativos-para-viagem-pinterest.jpg
 categories:
-  - viagem
+  - dicas-de-viagem
 date: 2017-04-26T12:35:16
 description: Existe uma série de aplicativos para viagem que podem te ajudar a economizar, organizar seus roteiros, descobrir atrações, se locomover, se comunicar e
 draft: false

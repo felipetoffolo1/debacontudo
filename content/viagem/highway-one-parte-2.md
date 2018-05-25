@@ -4,6 +4,7 @@ author:
 banner: /img/2017/04/highway-1-banner.jpg
 categories:
 - viagem
+- california
 date: 2017-04-17T18:00:47-02:00
 description: Acompanhe o nosso roteiro de road trip pela Highway 1. Vamos falar do Big Sur, o aquário de Monterey, Google, Facebook e muito mais.
 draft: false

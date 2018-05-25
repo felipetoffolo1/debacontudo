@@ -5,7 +5,7 @@ banner: "/img/2017/09/receita-bobotie-banner.jpg"
 featured: true
 featuredorder: 6
 categories:
-- comida
+- estilo-de-vida
 date: 2017-09-27 11:00:26 -0300
 description: O Bobotie é uma torta de carne da Africa do Sul. Esse prato típico tem
   um tempero a base de especiarias e um sabor agridoce de frutas. Muito encontrado

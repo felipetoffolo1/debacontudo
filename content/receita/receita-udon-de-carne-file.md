@@ -3,7 +3,7 @@ author:
   - felipe
 banner: /img/2017/06/udon-file-shitake-banner.jpg
 categories:
-  - comida
+- estilo-de-vida
 date: 2017-06-06T19:00:26-03:00
 description: Você conhece o Udon? Esse prato delicioso da cozinha oriental parece ser complicado de fazer. Mas na verdade nem é. Aprenda com a gente como dominar essa receita.
 draft: false

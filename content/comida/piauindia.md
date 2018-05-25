@@ -3,8 +3,7 @@ author:
 - larissa
 banner: /img/2017/03/piauindia-banner.png
 categories:
-- estilo-de-vida
-- comida
+- brasilia
 date: 2017-03-15T20:53:44-03:00
 description: 'Veja alguns motivos para você conhecer o Piauíndia, um charmoso e aconchegante
   restaurante em Brasília '
