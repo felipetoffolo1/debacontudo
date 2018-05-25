@@ -101,7 +101,7 @@ javascriptRegular = ["/script.js"] # these scripts are used when amp is disabled
 #weight = 2
 [[menu.main]]
 name = "Viagens pelo mundo"
-url = "/categories/viagem"
+url = "/categories/viagens-pelo-mundo"
 weight = 3
 [[menu.main]]
 name = "Dicas de Viagem"
