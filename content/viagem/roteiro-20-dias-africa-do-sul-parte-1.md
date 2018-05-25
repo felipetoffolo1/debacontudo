@@ -44,7 +44,7 @@ Fomos de [**South African Airlines**](https://www.flysaa.com/) e achamos a compa
 Ao chegarmos no aeroporto, tivemos nossas primeiras tarefas:
 
 - **Trocar Dolár por Rands**: Façam isso depois de sair da área de desembarque. Bem na saída têm as casas de câmbio com preço melhor que do lado de dentro.
-- **Comprar chip de internet:** Dentro do aeroporto compramos os chips na loja xxxx. O pacote durou praticamente a viagem inteira.
+- **Comprar chip de internet:** Compramos os chips dentro de uma loja do aeroporto. O pacote durou praticamente a viagem inteira.
 - **Buscar o carro que reservamos:** A locadora fica logo na saída do aeroporto.
 
 O Felipe esqueceu a **CNH** no Brasil e tentamos alugar apenas com a **PID** (Permissão Internacional para Dirigir), mas o atendente disse que eles mais levam em consideração a CNH do país de origem do que a PID. 
