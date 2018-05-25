@@ -4,6 +4,7 @@ author:
 banner: /img/2018/01/trilha-da-janela-casal-debacontudo.jpg
 categories:
   - viagem
+  - brasil
 date: 2018-01-20
 description: Descubra tudo o que você precisa antes de fazer a trilha do Mirante da Janela
 draft: false
