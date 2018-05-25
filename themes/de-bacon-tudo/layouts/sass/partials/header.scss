@@ -134,7 +134,7 @@
                 @extend %basicTitle;
                 display: inline-block;
                 &:hover {
-                    color: $colorGrey !important;
+                    color: $colorGrey;
                     -moz-transition: color, 0.5s, ease-in-out;
                     -webkit-transition: color, 0.5s, ease-in-out;
                     transition: color, 0.5s, ease-in-out;
