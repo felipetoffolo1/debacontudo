@@ -108,9 +108,13 @@ name = "Dicas de Viagem"
 url = "/categories/dicas-de-viagem"
 weight = 4
 [[menu.main]]
+name = "Estilo de vida"
+url = "/categories/estilo-de-vida"
+weight = 5
+[[menu.main]]
 name = "Brasilia"
 url = "/categories/brasilia"
-weight = 5
+weight = 6
 [[menu.social]]
 pre = "<i class='fa fa-instagram'></i>"
 url = "http://www.instagram.com/casaldebacontudo"
