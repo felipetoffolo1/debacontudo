@@ -3,7 +3,7 @@ author:
 - larissa
 banner: "/img/2017/11/karongwe-river-lodge-banner.jpg"
 categories:
-- viagem
+- viagens-pelo-mundo
 - africa do sul
 date: 2017-12-12
 description: "Descubra o que fizemos durante os 20 dias que ficamos na África do Sul e confira o nosso roteiro dos sonhos."
