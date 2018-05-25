@@ -21,7 +21,7 @@ tags:
 thumbnail: "/img/2017/11/karongwe-river-lodge-thumb.jpg"
 title:  "20 dias na África do Sul: confira nosso roteiro completo"
 totop: true
-draft: false
+draft: true
 
 ---
 
