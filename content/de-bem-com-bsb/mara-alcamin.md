@@ -3,7 +3,7 @@ author:
 - larissa
 banner: "/img/2017/11/varanda-paes-banner.jpg"
 categories:
-- brasilia
+- Brasília
 date: 2017-11-23
 description: "E para dar dicas de lugares e restaurantes legais em Brasília, convidamos Mara Alcamim, chefe-executiva do Universal Dinner. Se você ainda não conhece o restaurante, que completa 20 anos em 2017, você precisa conhecer!"
 draft: false

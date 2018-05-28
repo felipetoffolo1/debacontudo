@@ -3,7 +3,7 @@ author:
 - larissa
 banner: /img/2017/04/jardim-bom-demais-banner.jpg
 categories:
-- brasilia
+- Brasília
 date: 2017-04-03T14:53:44-03:00
 description: Entenda porque você não deve escolher o bistrô Jardim Bom Demais para
   tomar café da manhã. A não ser que queira se irritar

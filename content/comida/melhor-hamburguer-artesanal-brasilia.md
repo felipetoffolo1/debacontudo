@@ -4,7 +4,7 @@ author:
 - felipe
 banner: "/img/2017/05/melhor-hamburguer-de-brasilia-banner.jpg"
 categories:
-- brasilia
+- Brasília
 date: 2017-05-25
 lastmod: 2018-01-06
 description: "Existem várias opções legais para apreciar um bom hambúrguer artesanal em Brasília. Decidimos experimentar alguns dos melhores hambúrgueres artesanais de Brasília e fazer uma lista para você."

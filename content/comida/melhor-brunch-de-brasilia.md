@@ -3,7 +3,7 @@ author:
 - larissa
 banner: "/img/2017/05/melhores-brunches-de-brasilia-banner.jpg"
 categories:
-- brasilia
+- Brasília
 date: 2017-05-11T18:30:44-03:00
 description: "Descubra o resultado da nossa busca pelo melhor brunch de Brasília. Vários lugares em Brasília servem brunches deliciosos que você não pode perder."
 draft: false

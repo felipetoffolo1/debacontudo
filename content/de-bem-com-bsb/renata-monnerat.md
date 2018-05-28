@@ -3,7 +3,7 @@ author:
 - larissa
 banner: "/img/2017/10/universal-dinner-banner.jpg"
 categories:
-- brasilia
+- Brasília
 date: 2017-10-29 11:00:26 -0300
 description: "No De Bem Com Bsb você descobre as coisas mais legais para comer e fazer em Brasília, indicado por quem conhece bem a capital"
 draft: false

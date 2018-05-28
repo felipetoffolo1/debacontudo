@@ -3,7 +3,7 @@ author:
 - felipe
 banner: /img/2017/12/santo-ze-banner.jpg
 categories:
-- brasilia
+- Brasília
 date: 2017-12-10
 description: 'Conheça o Santo Zé Bistrô, um restaurante com uma pegada brasileira, pratos deliciosos e bons drinks. '
 draft: false
