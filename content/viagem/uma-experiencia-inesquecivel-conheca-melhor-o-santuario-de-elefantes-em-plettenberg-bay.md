@@ -4,7 +4,7 @@ author:
 banner: /img/2017/08/santuario-elefante-plettenberg-bay-banner.jpg
 categories:
   - viagens-pelo-mundo
-  - africa do sul
+  - África do Sul
 date: 2017-08-09T14:30:16
 description: Descubra como é passear de mãos dadas com a tromba do elefante no Santuário de Plettenberg Bay, na África do Sul. E as nossas dicas para aproveitar o passeio.
 draft: false
@@ -20,7 +20,7 @@ tags:
   - viagens
   - dicas
   - listas
-  - africa do Sul
+  - África do Sul
 
 thumbnail: /img/2017/08/santuario-elefante-plettenberg-bay-thumb.jpg
 title: 'Descubra por que é inesquecível caminhar com elefantes na África do Sul'

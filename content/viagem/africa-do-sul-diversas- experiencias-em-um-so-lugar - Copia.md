@@ -4,7 +4,7 @@ author:
 banner: /img/2017/07/africa-do-sul-diversas-experiencias-em-um-so-lugar-banner.jpg
 categories:
   - viagens-pelo-mundo
-  - africa do sul
+  - África do Sul
 date: 2017-07-16T16:30:16
 description: Saiba mais sobre o que fizemos na África do Sul durante os 20 dias que ficamos no país curtindo a nossa lua de mel
 draft: false
@@ -20,7 +20,7 @@ tags:
   - viagens
   - dicas
   - listas
-  - Africa do Sul
+  - África do Sul
 
 thumbnail: /img/2017/07/africa-do-sul-diversas-experiencias-em-um-so-lugar-thumb.jpg
 title: 'África do sul: diversas experiências em um só lugar'

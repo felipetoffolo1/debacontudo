@@ -4,7 +4,7 @@ author:
 banner: /img/2017/07/rota-panoramica-banner.jpg
 categories:
   - viagens-pelo-mundo
-  - africa do sul
+  - África do Sul
 date: 2017-07-24T22:30:16
 description : 'A Rota Panorâmica (panorama route) é um percurso onde encontram-se algumas das mais belas vistas da África do Sul. Aqui vamos mostrar as princípais vistas e dicas de como passear por lá.'
 draft: false
@@ -17,7 +17,7 @@ tags:
   - viagens
   - dicas
   - listas
-  - Africa do Sul
+  - África do Sul
 thumbnail: /img/2017/07/rota-panoramica-thumb.jpg
 title: 'As 5 melhores vistas da Rota Panorâmica na África do Sul e como aproveitá-las'
 totop: true

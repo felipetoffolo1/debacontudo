@@ -4,7 +4,7 @@ author:
 banner: "/img/2017/11/karongwe-river-lodge-banner.jpg"
 categories:
 - viagens-pelo-mundo
-- africa do sul
+- África do Sul
 date: 2018-05-25
 description: "Confira a segunda parte do nosso roteiro de 20 dias pela África do Sul."
 images:
@@ -17,7 +17,7 @@ tags:
 - safari
 - dicas
 - review
-- Africa do Sul
+- África do Sul
 thumbnail: "/img/2017/11/karongwe-river-lodge-thumb.jpg"
 title:  "Conheça o melhor roteiro de viagem da África do Sul: parte 2"
 totop: true

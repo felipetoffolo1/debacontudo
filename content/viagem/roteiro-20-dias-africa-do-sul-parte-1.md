@@ -4,7 +4,7 @@ author:
 banner: "/img/2017/12/melhor-roteiro-20-dias-africa-do-sul-parte-1-banner.jpg"
 categories:
 - viagens-pelo-mundo
-- africa do sul
+- África do Sul
 date: 2017-12-12
 description: "xxxx"
 images:
@@ -17,7 +17,7 @@ tags:
 - safari
 - dicas
 - review
-- Africa do Sul
+- África do Sul
 thumbnail: "/img/2017/12/melhor-roteiro-20-dias-africa-do-sul-parte-1-thumb.jpg"
 title:  "Conheça o melhor roteiro de viagem da África do Sul - Parte 1"
 totop: true

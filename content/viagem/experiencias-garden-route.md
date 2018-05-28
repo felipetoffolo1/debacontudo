@@ -4,7 +4,7 @@ author:
 banner: /img/2017/08/melhores-garden-route-banner.jpg
 categories:
   - viagens-pelo-mundo
-  - africa do sul
+  - África do Sul
 date: 2017-08-30T22:30:16
 description : 'Mergulho com tubarões brancos, pulo do maior bungee jump de ponte do mundo, visita à fazenda de avestruzes e caminhar de mãos dadas com elefantes são algumas das aventuras que a Garden Route oferece.'
 draft: false
@@ -19,7 +19,7 @@ tags:
   - viagens
   - dicas
   - listas
-  - Africa do Sul
+  - África do Sul
 thumbnail: /img/2017/08/melhores-garden-route-thumb.jpg
 title: '8 experiências incríveis para vivenciar na Garden Route'
 totop: true

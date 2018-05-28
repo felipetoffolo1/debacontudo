@@ -4,7 +4,7 @@ author:
 banner: /img/2017/07/como-e-fazer-safari-africa-do-sul-banner.jpg
 categories:
   - viagens-pelo-mundo
-  - africa do sul
+  - África do Sul
 date: 2017-07-19T12:30:16
 description: Muita gente tem curiosidade sobre como é fazer um safari na África do Sul e ficar cara a cara com animais selvagens. A gente também tinha e agora contamos como é.
 draft: false
@@ -17,7 +17,7 @@ structured:
   type: Article
 tags:
   - viagens
-  - africa do sul
+  - África do Sul
   - aventura
 
 thumbnail: /img/2017/07/como-e-fazer-safari-africa-do-sul-thumb.jpg

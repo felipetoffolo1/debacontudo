@@ -4,7 +4,7 @@ author:
 banner: /img/2017/08/bungee-jump-face-adrenalin-africa-dos-sul-banner.jpg
 categories:
   - viagens-pelo-mundo
-  - africa do sul
+  - África do Sul
 date: 2017-08-03T13:30:16
 description : 'Já pensou em pular de bungee jump?? E do maior bungee jump de ponte do mundo?? O Face Adrenalin fica na África do Sul na ponte Bloukrans. Lá você... '
 draft: false
@@ -17,7 +17,7 @@ tags:
   - viagens
   - dicas
   - aventura
-  - Africa do Sul
+  - África do Sul
 thumbnail: /img/2017/08/bungee-jump-face-adrenalin-africa-dos-sul-thumb.jpg
 title: 'Sinta a adrenalina de pular do maior Bungee Jump de ponte do mundo!'
 totop: true
