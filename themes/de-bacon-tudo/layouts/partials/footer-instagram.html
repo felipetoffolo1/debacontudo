@@ -1,0 +1,25 @@
+<div class="footer-instagram">
+    <div class="instagram-widget hide-mobile">
+        <amp-iframe width="auto" height="158px" sandbox="allow-scripts allow-same-origin" layout="fixed-height" frameborder="0" src="https://snapwidget.com/embed/357325">
+        </amp-iframe>
+    </div>
+    <div class="instagram-widget hide-no-mobile">
+        <amp-iframe width="350" height="1400" sandbox="allow-scripts allow-same-origin" resizable layout="responsive" frameborder="0"
+            src="https://snapwidget.com/embed/357534">
+            <div overflow tabindex="0" role="button" aria-label="Read more">Leia Mais</div>
+        </amp-iframe>
+    </div>
+    <ul class="social">
+        {{ if .Site.Menus.social }} 
+        {{ range .Site.Menus.social }} 
+        {{ if .URL }}
+        <li class="social-icon">
+            <a href="{{ .URL }}" target="_blank" class="icon">{{ .Pre }}</i>
+                {{.Identifier}}
+            </a>
+        </li>
+        {{ end }}
+        {{ end }} 
+        {{ end }}
+    </ul>
+</div>

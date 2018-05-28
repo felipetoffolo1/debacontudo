@@ -11,6 +11,9 @@
     .about{
             @extend %lineborder;
             padding-bottom: 20px;
+            p{
+                margin-top: 1rem;
+            }
             .social{
                 justify-content: left;
                 align-content: left;

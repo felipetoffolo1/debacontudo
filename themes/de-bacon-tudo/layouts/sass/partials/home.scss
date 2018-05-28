@@ -1,7 +1,11 @@
 $sidebar-width: 320px;
-.home-container {
+.home.blog{
     @extend %flexbasic;
-    margin-top: 30px;
+    flex-wrap: wrap;
+    flex-direction: column;
+    .home-container {
+        @extend %flexbasic;
+        margin-top: 30px;
     .post-list {
         flex-grow: 1;
         flex-shrink: 2;
@@ -15,6 +19,9 @@ $sidebar-width: 320px;
         @media (min-width: 990px) {
             flex-basis: $sidebar-width;
         }
+    }
+    footer {
+        flex-basis: 100%
     }
 }
 .footer-instagram{
@@ -43,4 +50,5 @@ $sidebar-width: 320px;
     margin: 0.5rem;
     @extend %flexcenter;
     
+}
 }
