@@ -113,7 +113,7 @@ url = "/categories/estilo-de-vida"
 weight = 5
 [[menu.main]]
 name = "Brasilia"
-url = "/categories/brasilia"
+url = "/categories/brasília"
 weight = 6
 [[menu.social]]
 pre = "<i class='fa fa-instagram'></i>"
