@@ -64,6 +64,7 @@ module.exports = function(grunt) {
             pageIndex = {
                 title: frontMatter.title,
                 tags: frontMatter.tags,
+                banner: frontMatter.banner,
                 href: href,
                 thumb: frontMatter.thumbnail,
                 description: frontMatter.description,
