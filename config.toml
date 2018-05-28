@@ -9,7 +9,7 @@ theme = "de-bacon-tudo"
 enableEmoji = true 
 Paginate = 6
 MetaDataFormat = "yaml"
-PreserveTaxonomyNames = true 
+preserveTaxonomyNames = true 
 
 [related]
 
