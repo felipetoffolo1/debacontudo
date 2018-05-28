@@ -44,7 +44,7 @@ Para café da manhã, Mara indica o próprio **Universal Dinner**, que oferece b
 
 Mara conta que gosta muito de lugares ao redor de Brasília. Ela destaca o **Restaurante do Campos,** que fica no Mercado do Núcleo Bandeirante, como o melhor arroz com feijão da cidade. Já na Asa Norte, a dica é o restaurante **Silvio’s**, que ela considera o melhor PF de Brasília. 
 
-{{quote-him "O bife à cavalo de lá é MARAVILHOSO - Felipe"}}
+{{<quote-him "O bife à cavalo de lá é MARAVILHOSO - Felipe">}}
 
 #####  Cafeteria
 
