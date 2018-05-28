@@ -6,7 +6,7 @@ categories:
 - viagens-pelo-mundo
 - África do Sul
 date: 2017-12-12
-description: "xxxx"
+description: "Conheça o melhor roteiro de 20 dias pela África do Sul"
 images:
 - "/img/2017/12/melhor-roteiro-20-dias-africa-do-sul-parte-1-banner.jpg"
 structured:
